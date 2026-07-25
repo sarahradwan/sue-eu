@@ -12,6 +12,7 @@ See `eligibility-filter.md` for what qualifies.
 | `pipeline-jobs.md` | Route A tracker — owned by the jobs session |
 | `pipeline-scholarships.md` | Route B tracker — owned by the scholarships session |
 | `country-notes.md` | Per-country immigration routes, industry, language, costs. **Shared** — pull before editing. |
+| `weekly-homework-scholarships.md` | Route B week-by-week plan to the Jan–Feb 2027 deadlines — owned by the scholarships session |
 
 Pipelines are split by route so parallel sessions never edit the same file. See
 `../SESSION-PROMPTS.md`.

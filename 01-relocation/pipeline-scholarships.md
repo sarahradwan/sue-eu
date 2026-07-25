@@ -341,11 +341,94 @@ the threshold for one region before writing it off entirely.**
 
 ---
 
+## ⛔ RE-RANKED 25 July 2026 — the money constraint
+
+**Confirmed by Sara, and the detail matters more than the number:**
+
+> She does **not** have €6,000 now. It is a **projection** — end-of-service gratuity plus
+> selling possessions — realisable **only just before travelling**.
+
+Three consequences, and the third is the one that bites.
+
+**1. It is not bankable for proof of funds.** Permit applications are assessed in **spring
+2027**, and a bank balance has to exist *then*. Gratuity pays on termination, and she should
+not resign until something is signed — so the money arrives **after** the moment it would
+need to be shown. **Treat €6,000 as arrival money, not permit money.**
+
+**2. It cannot fund preparation either.** The legalisation chain, translations and any
+English re-sit all fall **Aug–Dec 2026**, when neither the gratuity nor the sale proceeds
+exist. **That ~€1,200–2,400 has to come out of current salary, spread across five months.**
+Budgeted early it is very manageable; left to December it collides with everything else.
+
+**3. ⚠️ The gratuity may be smaller than she expects — worth calculating, not assuming.**
+UAE end-of-service is service-linked, and her WeDo tenure began **Feb 2025**. By a mid-2027
+departure that is roughly **2.5 years**, which at the standard 21-days-per-year rate for the
+first five years is on the order of **7–8 weeks of basic pay** — not a large cushion, and
+based on *basic* salary rather than total package. **Run the actual number before relying
+on it.**
+
+**None of this changes the conclusion — it hardens it.** Low tuition is not a route on its
+own; every student residence permit demands **proof of funds separate from tuition**, for
+twelve months in advance:
+
+| Country | Tuition | **Proof of funds required** | Available at application | Shortfall |
+|---|---|---|---|---|
+| Austria | €1,453/yr ✅ | **€1,308.39/mo × 12 = €15,701** | ~€0 | ⛔ **−€15,701** |
+| Germany | ~€0 ✅ | Blocked account ~€13,100 | ~€0 | ⛔ **−€13,100** |
+
+The eligibility filter's fourth clause reads *"tuition under €2,000/year **with a viable
+living-cost plan**"*. **There is no viable living-cost plan here.** Austria and Germany
+**fail as standalone routes**, however cheap the tuition.
+
+### The preparation budget — fund this from salary, Aug–Dec 2026
+
+| Item | Rough cost | When |
+|---|---|---|
+| Egyptian legalisation via agency (3 authorities) | €200–600 | Aug–Oct 2026 |
+| Certified translations, if documents are in Arabic | €100–300 | Sept–Oct 2026 |
+| English test re-sit, if needed | €250–300 | Aug–Sept 2026 |
+| Residence permit fee (Austria ~€160) | €100–200 | spring 2027 |
+| Flights and initial setup | €500–1,000 | Aug 2027 |
+| **Total** | **~€1,200–2,400** | **spread over a year** |
+
+Roughly **€100–200 a month from salary** covers the whole chain. That is the realistic
+funding model, and it is achievable — but only if it starts in August rather than being
+discovered in December.
+
+**She can fund getting ready. She cannot fund being there.** That is the entire shape of the
+problem, and it points at exactly two schemes.
+
+**But the money can come from the scholarship.** Austrian permits explicitly accept a
+**scholarship confirmation** in place of savings or a blocked account — alongside bank
+deposits and a Haftungserklärung from an EU resident.
+*Search-sourced 25 Jul 2026.* https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
+
+**So the correct reading of Austria's €726.72/semester is not "a cheap way in". It is a
+multiplier on a scholarship** — a stipend that would be swallowed by Dutch or Irish tuition
+goes much further in Vienna. Austria is a strong *destination*, not a strong *route*.
+
+### What this does to the ranking
+
+| Scheme | Covers tuition | Pays a stipend | Clears proof of funds | Verdict |
+|---|---|---|---|---|
+| **SI Global Professionals** (SE) | ✅ | ✅ SEK 12,000/mo | ✅ | 🥇 **Only fully self-sufficient route found** |
+| **Erasmus Mundus** (EU-wide) | ✅ | ✅ ~€1,400/mo — exceeds Austria's €1,308.39 threshold | ✅ | 🥈 **Works anywhere, including Austria** |
+| **Ireland GOI-IES** | ✅ yr 1 | €10,000, yr 1 only | ⚠️ Ireland requires ~€10,000/yr proven; the stipend roughly matches it with **no margin**, Dublin rents exceed it, and **year 2 is unfunded** | 🥉 **Viable only for a 1-year master's** — check programme length before investing |
+| Master Mind (BE) | ✅ | €10,225/yr | would have ✅ | ⛔ dead on GPA anyway |
+| Austria / Germany low tuition | n/a | ❌ none | ⛔ **fails** | **Not a standalone route** |
+
+**The two schemes that pay a monthly stipend are now the entire realistic Route B.**
+Everything else needs money she does not have.
+
+---
+
 ## PRIORITY 2 — non-EU tuition at or under €2,000/year
 
-The filter's fourth clause. Where this holds, Route B works **without** a scholarship.
+**Read the re-ranking above first.** This section stands as researched, but its conclusion
+has changed: low tuition no longer delivers a route by itself. It determines **where a
+scholarship stretches furthest**, which is a different and lesser thing.
 
-### 🟢 AUSTRIA — clears the ceiling. Preferred country. Best Priority-2 finding.
+### 🟡 AUSTRIA — clears the tuition ceiling, fails the proof-of-funds test without a scholarship
 
 **€726.72 per semester for non-EU/EEA citizens = €1,453.44/year**, plus ÖH student union
 dues of roughly €25/semester. Comfortably under €2,000. This rate is **statutory and
@@ -361,8 +444,10 @@ higher for non-EU students. **Check the institution type before anything else.**
 Immigration picture (search-sourced, needs primary verification):
 - **Aufenthaltsbewilligung Studierende** — student residence permit, available for full
   degrees over 6 months. ✅ Route B leads to a residence permit.
-- **Proof of funds, age 24+: €1,308.39/month × 12 ≈ €15,700/year**, plus €386.43/month if
-  rent exceeds that. This — not tuition — is the real financial hurdle in Austria.
+- ⛔ **Proof of funds, age 24+: €1,308.39/month × 12 = €15,701/year**, plus €386.43/month if
+  rent exceeds that. **This is the binding constraint, not tuition** — and with no capital
+  she cannot meet it from savings. **A scholarship confirmation is accepted in its place**,
+  which is the only way Austria opens for her.
 - **Post-study:** 12-month extension of the student permit to seek work, or the
   **Red-White-Red Card for Graduates** directly if a job is in hand. ✅ Post-study work rights.
 
@@ -495,5 +580,7 @@ same trap is public *Universität* vs *Fachhochschule* — only the former has t
   editions; some intakes are self-funded only.
 - Is it English-taught? German A1 and French A2 are below instruction level.
 - Does it accept a 2003 bachelor's plus professional experience, or require recent study?
-- **Proof of funds.** Tuition under €2,000 does not mean affordable — Austria wants ~€15,700
+- **Proof of funds — the test this file now applies to everything.** She has **~€6,000
+  mobile**. Any route requiring more than that in provable funds needs a stipend to close
+  the gap, or it is not a route. Tuition under €2,000 does not mean affordable — Austria wants ~€15,700
   proven for 12 months, Germany wants a blocked account. Budget the permit, not just the fee.
