@@ -10,6 +10,37 @@ Immigration rules change; an unsourced claim is worthless and a stale one is dan
 write here. **Pull before editing.** Route A leads live in `pipeline-jobs.md`, Route B leads
 in `pipeline-scholarships.md`; this file holds the country picture for both.
 
+## Confirmed personal facts — supplied 25 July 2026
+
+Both sessions should work from these rather than re-deriving them.
+
+- **Nationality: Egyptian.** Not UAE. This opens Sweden's SI scheme and it is the reason
+  document legalisation is heavy — see the box below.
+- **Date of birth: 11 August 1980.** Age **46** across the whole application window, **47**
+  at a September 2027 intake. Germany's Opportunity Card age points = **0** (the assumption
+  already used, so the 8-point total stands). Austria's RWR age points = **0 of 20**.
+- **Transcript and English certificate: held, but NOT attested.**
+
+> ### ⛔ Egypt is not an Apostille country — this is the critical path for both routes
+>
+> There is no apostille shortcut for Egyptian documents. Every EU destination needs the
+> **full consular legalisation chain**: Egyptian Ministry of Education / Supreme Council of
+> Universities → Egyptian MoFA → the destination country's embassy in Cairo.
+>
+> The comparable Egypt→UAE chain runs **3–5 weeks**. Add an embassy step and remote
+> execution from Abu Dhabi and **6–10 weeks is the realistic budget.**
+>
+> This affects Route A as much as Route B: the Netherlands' **Nuffic credential
+> evaluation** and Germany's **ZAB Statement of Comparability** both need legalised source
+> documents before they can even start, and ZAB itself then runs ~3 months. **Sequence:
+> legalise first, evaluate second.** Starting the evaluation without legalised inputs
+> wastes the longest lead time in the plan.
+>
+> ⚠️ **Separately: check the English certificate's expiry.** Most tests lapse after two
+> years, and Flanders' Master Mind requires proof no older than three. A re-sit needs
+> booking now if so. *Search-sourced 25 Jul 2026 — verify at hcch.net and with each
+> destination's embassy.*
+
 ## Verification caveat — read this before trusting a figure below
 
 Both research passes of **25 July 2026** ran from an environment whose egress policy blocks
@@ -282,10 +313,21 @@ Graduates — which is a far lower bar than the 70-point job seeker visa.
 - **Scholarship bodies:** OeAD is the national agency. **Its Ernst Mach Grant is dead for
   her** — age cap 35, and it does not fund full degrees. Austria's value is the low fee,
   not its scholarships.
+- **⛔ Document legalisation — the heaviest of any country here, and it gates admission.**
+  Austrian universities require **full diplomatic legalisation** for Egyptian documents; no
+  bilateral agreement is in place. Chain: Egyptian Ministry of Education / Supreme Council
+  of Universities → Egyptian MoFA → **over-legalisation by the Austrian Embassy in Cairo**,
+  which inspects for factual accuracy. **"The required legalization must be on the documents
+  at the time of application"** — it cannot be supplied late. Translations, if needed, must
+  be done by a **court-certified interpreter in Austria**; translations done elsewhere are
+  rejected. WU publishes an Egypt-specific page:
+  https://www.wu.ac.at/en/programs/application-and-admission/legalize/et ·
+  https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/
 - **Live lead:** **WU Vienna MSc Marketing**, English-taught, €1,453/year.
   Portal opens **1 Sept 2026**; rounds close **8 Oct 2026** / 8 Jan / 8 Mar 2027.
-  Open risk: WU requires prior business/economics ECTS, which a 2003 Advertising & Graphic
-  Design degree may not carry.
+  **Target round 2 (8 Jan 2027), not round 1** — legalisation will not realistically be
+  complete by October. Open risk: WU requires prior business/economics ECTS, which a 2003
+  Advertising & Graphic Design degree may not carry.
 - **Next:** enumerate English-taught master's at Die Angewandte, Kunstuni Linz and the
   Academy of Fine Arts — all public, all on the same fee.
 
@@ -434,8 +476,19 @@ so far** for a mid-career applicant.
 - **Why it fits where others do not:** eligibility **requires ≥3,000 hours** of documented
   work experience plus demonstrated leadership. **No age limit found.** Every other scheme
   on this list treats 22 years as disqualifying; this one treats it as the qualification.
-- **⚠️ Nationality gate:** **Egypt is on the eligible-country list. The UAE is not.** The
-  whole Swedish route turns on which passport she holds. Unconfirmed — resolve first.
+- ✅ **Nationality gate CLEARED (25 Jul 2026): she holds an Egyptian passport, and Egypt is
+  on the eligible-country list.** This was the blocker on the strongest Route B lead.
+- ✅ **Lightest document burden of any country in this file — and it is not close.** Swedish
+  central admissions wants **scans of the originals uploaded** (certified copies are *not*
+  accepted for upload; the postal route wants copies certified by the issuing university or
+  a notary). **No consular legalisation.** Arabic documents need an official English or
+  Swedish translation alongside the original; documents already in English need none. Name
+  and date of birth must match exactly across passport, transcript and certificate.
+  https://www.universityadmissions.se/en/apply-to-masters/provide-application-documents-masters/country-instructions/egypt/
+
+  **The strategic point:** the strongest scheme also has the lightest paperwork. Sweden
+  needs a scanner; Austria needs three ministries and an embassy. That should decide the
+  order the work gets done in.
 - **Calendar, and it is unforgiving:**
   - Eligible-programme list published **mid-November**
   - Admission via universityadmissions.se closes **mid-January** — must already be admitted
