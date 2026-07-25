@@ -1,30 +1,36 @@
 # Country notes
 
 One section per country: immigration routes, creative-industry landscape, language
-reality, cost of living, scholarship bodies.
+reality, cost of living, scholarship bodies. Filled in as research runs.
 
 Rule: record the source URL and the date checked for anything about visas or funding.
 Immigration rules change; an unsourced claim is worthless and a stale one is dangerous.
 
+**Shared file.** The jobs session (Route A) and the scholarships session (Route B) both
+write here. **Pull before editing.** Route A leads live in `pipeline-jobs.md`, Route B leads
+in `pipeline-scholarships.md`; this file holds the country picture for both.
+
 ## Verification caveat — read this before trusting a figure below
 
-Research pass of **25 July 2026** was run from an environment whose egress policy blocks
-the official immigration domains (`ind.nl`, `migration.gv.at`, `business.gov.nl`,
-`make-it-in-germany.com` all refused at the proxy). Findings below were gathered from
+Both research passes of **25 July 2026** ran from an environment whose egress policy blocks
+the official domains. Route A: `ind.nl`, `migration.gv.at`, `business.gov.nl`,
+`make-it-in-germany.com`. Route B: `si.se`, `wu.ac.at`, `tuwien.at`, `bmfwf.gv.at`,
+`erasmus-plus.ec.europa.eu`. All refused at the proxy. Findings below were gathered from
 **search-engine extracts of those official pages**, not from opening the pages directly.
 
 That is good enough to decide *where to aim*. It is **not** good enough to rely on a
-specific euro figure or points value in an application. Every number tagged
+specific euro figure, points value or deadline in an application. Every number tagged
 `[verify on source]` must be re-read on the official page before it is used.
 
-The **rules** (who is eligible, whether a sponsor is needed) are consistent across
-multiple official-page extracts and are treated as solid. The **numbers** are not.
+The **rules** (who is eligible, whether a sponsor is needed, whether an age cap exists) are
+consistent across multiple official-page extracts and are treated as solid. The **numbers**
+are not.
 
 ---
 
-## Netherlands — *preferred*
+## Netherlands — *preferred* · strong Route A, weak Route B
 
-### Immigration routes — researched 25 Jul 2026
+### Route A — immigration routes, researched 25 Jul 2026
 
 **1. Orientation year / zoekjaar — ❌ FAILS. Closed to her.**
 
@@ -78,13 +84,34 @@ Conditions:
 runs on **two parallel channels** — the sponsor register (HSM) and any willing employer
 (Blue Card). Search both. Do not let the register become the whole search.
 
+### Route B — funded study, researched 25 Jul 2026
+
+- **Non-EU tuition:** well above the €2,000 ceiling for master's programmes. Route B only
+  works via a **full** scholarship or Erasmus Mundus.
+- **Scholarship bodies — what is actually available:**
+  - **Orange Knowledge Programme** (ex-Netherlands Fellowship Programme) — **ENDED
+    31 Dec 2024.** Aggregator sites still advertise it with 2026/2027 dates. They are stale.
+    Do not waste a cycle on it. https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme
+  - **Holland Scholarship** — **€5,000, one-off, first year only.** Does not close the gap
+    against non-EU tuition. Not sufficient on its own.
+  - **Maastricht University NL-High Potential** — €36,000, full tuition + stipend, and
+    otherwise an excellent fit. **Age cap: not over 35 on 1 Sept of the intake year. She is
+    outside it.** Dead.
+    https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high
+  - Institution-specific full scholarships (Amsterdam, Radboud, Twente, Groningen) — **not
+    yet checked.** Next pass. This is where any remaining Dutch Route B lives.
+
 - **Creative industry:** Amsterdam / Rotterdam / Eindhoven — branding, digital, experience design
 - **Language:** English very widely used professionally — verify per employer
-- **Status:** permit routes researched · employer research outstanding
+- **Status:** Route A permit routes researched, employer research outstanding · Route B
+  researched. **The honest read: the Netherlands is a Route A country for her, not a
+  Route B one** — unless an institutional full scholarship turns up next pass.
 
-## Germany — **strongest non-sponsor route found. Not previously a priority; it is now.**
+## Germany — **strongest non-sponsor route found, and it clears the tuition ceiling too**
 
-### Opportunity Card (Chancenkarte) — ✅ she appears to qualify
+Not previously a priority. It is now, on both routes.
+
+### Route A — Opportunity Card (Chancenkarte) — ✅ she appears to qualify
 
 A **one-year residence permit to look for work, with no employer and no job offer**.
 Part-time work up to 20 hrs/week and two-week trial employment are permitted during the
@@ -127,12 +154,38 @@ Two things to nail down:
 German-language roles — so the job search inside that year has to target
 English-operating employers, which Berlin and Hamburg have in volume.
 
+### Route B — funded study, researched 25 Jul 2026
+
+- **Non-EU tuition: none at public universities.** Only a semester contribution of roughly
+  **€150–400**. Well under the €2,000 ceiling.
+- **⚠️ The exception that matters: Baden-Württemberg** charges non-EU students **€1,500 per
+  semester = €3,000/year** — the only state with a mandatory state-wide non-EU fee.
+  **Above the ceiling.** Excludes Stuttgart, Karlsruhe, Freiburg, Heidelberg, Konstanz.
+- **⚠️ Public ≠ private.** Searches for English-taught design and brand master's in Germany
+  surface private institutions relentlessly — SRH / Berlin School of Design and
+  Communication, BSBI, Media University of Applied Sciences. **They charge full fees.**
+  Filter to public universities before reading a fee.
+- **Offsetting cost:** the student visa also requires a **blocked account** — note this is
+  the same instrument as the Opportunity Card's financial proof above, so the two routes
+  share a cost, not stack one. **Exact 2027 student figure not yet checked.**
+- **Scholarship bodies:** ❌ **DAAD EPOS** — the obvious mid-career scheme, and **dead**:
+  academic degrees "should normally not be more than **six years old**". Hers is 2003.
+  Requires 2+ years professional experience, which she has in abundance — but the recency
+  rule is absolute. https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777
+  Other DAAD lines not yet checked.
+- Public-university English-taught master's in brand/communication design **not yet
+  identified** — the DAAD programme database is the tool for pass 2.
+
 - **Creative industry:** Berlin, Hamburg, Munich
-- **Status:** permit route researched · employer research outstanding
+- **Language:** German A1 — she is actively studying, so this improves over time. For now,
+  **only English-taught programmes count**, and only English-operating employers.
+- **Status:** **Germany is the only country that currently scores well on both routes.**
+  Permit route researched, tuition researched. Employer research and programme search
+  both outstanding.
 
 ## Portugal — **✅ second confirmed non-sponsor route, and the cheapest**
 
-### Job Seeker Visa — she appears to qualify
+### Route A — Job Seeker Visa — she appears to qualify
 
 Enter Portugal and look for work with **no job offer and no employer**.
 *Sources: [Jobbatical](https://www.jobbatical.com/blog/skilled-work-seeking-visa-portugal-job-seeker) ·
@@ -155,14 +208,22 @@ secondary sources; the official AIMA/consular page was not reachable this pass a
 salaries are the lowest of any country in this file. Best read as a fast, cheap way to be
 *inside* the EU and interviewing in person — not as a comfortable runway.
 
+### Route B — funded study
+
+- **Non-EU tuition: still unchecked after Route B pass 1** — one of two open ceiling
+  questions, with France. Public tuition may sit near the €2,000 ceiling. **Queued for
+  pass 2**, and worth doing early given how well Portugal already scores on Route A.
+- **Scholarship bodies:** to research.
+
 - **Creative industry:** Lisbon, Porto
-- **Language:** Portuguese none; check English-operating employers
-- **Cost of living:** lower — also favourable for the Route B budget
-- **Status:** permit route researched (secondary sources) · needs official-source check
+- **Language:** Portuguese none; check English-operating employers and English-taught programmes
+- **Cost of living:** lower — favourable for the Route B budget as well as the Route A one
+- **Status:** Route A permit route researched (secondary sources), needs official-source
+  check · Route B unchecked
 
-## Austria — *preferred, but the non-sponsor route probably fails*
+## Austria — *preferred* · **Route A probably fails, Route B is the best on the list**
 
-### Red-White-Red Card, Very Highly Qualified Workers + 6-month job seeker visa
+### Route A — Red-White-Red Card, Very Highly Qualified Workers + 6-month job seeker visa
 
 A **six-month job seeker visa with no job offer** exists, and it is the right shape. The
 bar is **70 of 100 points**, and the scoring is built for a different candidate.
@@ -195,13 +256,50 @@ scoring separately.
 
 Minimum gross salary for RWR employment: approx. **€3,465/month** (2026) `[verify on source]`.
 
+**Note the asymmetry:** *"studies completed in Austria"* is worth 10 points on this table,
+and the Route B section below puts an Austrian degree within financial reach. **Route B
+feeds Route A here.** A master's at a Vienna public university would add those 10 points,
+convert the age problem into a graduate route, and open the Red-White-Red Card for
+Graduates — which is a far lower bar than the 70-point job seeker visa.
+
+### Route B — funded study — **strongest Route B country found so far**
+
+- **Non-EU tuition (public universities): €726.72 per semester = €1,453.44/year**, plus ÖH
+  student union dues ~€25/semester. **Under the €2,000 ceiling.** Statutory and uniform
+  across public universities — WU, TU Wien, Uni Wien, Die Angewandte, TU Graz, BOKU all
+  quote it. https://www.bmfwf.gv.at/en/science/studying/tuition-fees.html
+- **⚠️ Public university ≠ Fachhochschule.** The €726.72 rate is for *Universitäten*.
+  Austrian universities of applied sciences set their own fees and are frequently far
+  higher for non-EU students. Check institution type first, every time.
+- **Student residence permit:** *Aufenthaltsbewilligung Studierende*, available for full
+  degrees over 6 months. ✅ **Route B leads to a residence permit.** Post-study: the student
+  permit can be extended **12 months to seek work**, or convert straight to the
+  **Red–White–Red Card for Graduates** with a job in hand. ✅ **Post-study work rights.**
+  https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
+- **Proof of funds (the real hurdle, not tuition):** age 24+ → **€1,308.39/month for 12
+  months ≈ €15,700**, plus €386.43/month if rent exceeds that. Tuition is cheap; the permit
+  is not. Budget both.
+- **Scholarship bodies:** OeAD is the national agency. **Its Ernst Mach Grant is dead for
+  her** — age cap 35, and it does not fund full degrees. Austria's value is the low fee,
+  not its scholarships.
+- **Live lead:** **WU Vienna MSc Marketing**, English-taught, €1,453/year.
+  Portal opens **1 Sept 2026**; rounds close **8 Oct 2026** / 8 Jan / 8 Mar 2027.
+  Open risk: WU requires prior business/economics ECTS, which a 2003 Advertising & Graphic
+  Design degree may not carry.
+- **Next:** enumerate English-taught master's at Die Angewandte, Kunstuni Linz and the
+  Academy of Fine Arts — all public, all on the same fee.
+
 - **Creative industry:** Vienna
-- **Language:** German-dominant — a real constraint at A1
-- **Status:** non-sponsor route researched — likely closed · employer route outstanding
+- **Language:** German-dominant — a real constraint at A1 for Route A. But **English-taught
+  master's at public universities exist and carry the same low fee**, which is what makes
+  Route B work. Her German study compounds usefully here in a way it does nowhere else.
+- **Cost of living:** Vienna — to research. Consistently rated cheaper than Amsterdam or Dublin.
+- **Status:** Route A non-sponsor route likely closed · **Route B researched and strong.**
+  Programme-level search outstanding.
 
 ## France
 
-### Passeport Talent — no realistic non-sponsor category
+### Route A — Passeport Talent — no realistic non-sponsor category
 
 Reviewed all ten categories. The ones that do not need an employer do not fit her:
 - *Recherche d'emploi / création d'entreprise* — for **graduates of French institutions**. Not her.
@@ -217,47 +315,187 @@ Passeport Talent salary cited around **€39,582/year** `[verify on source]`.
 **France is an employer-sponsored search only.** French A2 is also below working level for
 Paris agency work, though closer than German.
 
-- **Status:** non-sponsor routes researched — none open · employer route outstanding
+*(Note the same asymmetry as Austria: the "graduates of French institutions" job-search
+card is closed to her now, but a French master's would open it. Only worth pursuing if the
+tuition question below resolves favourably.)*
+
+### Route B — funded study
+
+- **Scholarship bodies:** ❌ **France Excellence Eiffel** — the flagship scheme, and **dead
+  on age**: master's applicants must be **29 or under** (2026-27 round required birth after
+  31 Mar 1996). The 2027 call opens Oct 2026 and the age rule carries over.
+  https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program
+- **Non-EU tuition: unchecked — next pass.** France applies a differentiated non-EU master's
+  fee, but a large share of public universities exempt or reduce it. Unreliable without
+  per-university confirmation, and that variability is exactly why it needs checking rather
+  than assuming.
+
+- **Creative industry:** Paris
+- **Language:** French A2 — below working level, but improvable and closer than German
+- **Status:** Route A non-sponsor routes researched, none open · Route B: Eiffel eliminated,
+  tuition question open
 
 ## Belgium — *preferred*
+
+### Route A
 
 - **Immigration routes:** not yet researched. Single Permit is regional (Flanders /
   Wallonia / Brussels) with **different salary thresholds and shortage lists per region** —
   research region by region, not nationally. **Next pass.**
+
+### Route B — funded study, researched 25 Jul 2026
+
+- **Non-EU tuition:** above the €2,000 ceiling. Route B needs a scholarship here.
+- **Scholarship bodies:**
+  - ✅ **Master Mind Scholarship (Government of Flanders)** — **€10,225/year + tuition fee
+    waiver** per 60 ECTS. **No age limit found**, which is what keeps it alive where
+    VLIR-UOS dies. Deadline set by the host Flemish institution, roughly **1 Feb – 1 Apr**;
+    the 2027/28 call is not yet published. Requires GPA equivalent to **3.5/4.0** — the open
+    risk against a 2003 Helwan transcript.
+    https://www.studyinflanders.be/scholarships/master-mind-scholarships
+  - ❌ **VLIR-UOS ICP Connect** — dead twice over: age cap **35** (initial master) / **45**
+    (advanced master) measured on 1 Jan of the intake year, **and** Egypt is not among the
+    31 eligible countries.
+- **Student residence permit and post-study rights: not yet verified.**
+
 - **Creative industry:** Brussels (EU institutions, international comms — Arabic and
   multilingual institutional work is a genuine edge here), Antwerp (design, fashion)
-- **Language:** Dutch / French / English mix — Brussels institutional sector runs in English
-- **Status:** not yet researched — **highest-value gap after this pass**
+- **Language:** Dutch / French / English mix — Brussels institutional sector runs in
+  English, and Master Mind programmes are English-taught
+- **Status:** Route A **not yet researched — highest-value Route A gap** · Route B researched,
+  **Master Mind is the one viable Belgian study route.** Get the Helwan transcript moving
+  early; it gates that application.
 
 ## Ireland
+
+### Route A
 
 - **Immigration routes:** not yet researched. Critical Skills Employment Permit and
   General Employment Permit; both employer-led — Ireland has **no job-seeker visa**.
   Check whether any design / marketing / creative-direction occupation appears on the
   Critical Skills list, since that determines which of the two applies. **Next pass.**
+
+### Route B — funded study, researched 25 Jul 2026
+
+- **Scholarship bodies:** ✅ **Government of Ireland International Education Scholarship
+  (GOI-IES)** — **€10,000 stipend + full fee waiver, one year only.** **No age limit.**
+  Qualifies under the filter's "first year covered" clause, but a two-year master's leaves
+  year two unfunded — check programme length before applying. **2027/28 call not yet
+  published**; 2026/27 is closed. https://hea.ie/policy/internationalisation/goi-ies/
+- **Non-EU tuition:** above the €2,000 ceiling — Route B needs the scholarship.
+- **Student permission:** Stamp 2, with the Third Level Graduate Programme for post-study
+  stay. **Not yet verified.**
+
 - **Creative industry:** Dublin — strong international agency and tech-brand presence
 - **Language:** English — **no language barrier**, still one of the strongest fits
-- **Cost of living:** high, Dublin housing especially
-- **Status:** not yet researched
+- **Cost of living:** high, Dublin housing especially — and it erodes a €10,000 stipend
+  faster than anywhere else on this list
+- **Status:** Route A not yet researched · Route B researched at scheme level. No age
+  barrier, but the weakest funding of the four surviving schemes.
 
 ## Spain
+
+### Route A
 
 - **Immigration routes:** not yet researched. Check the **Highly Qualified Professional**
   permit under the Startups Law, which is employer-led but fast. No general job-seeker
   visa. **Next pass.**
+
+### Route B — funded study, researched 25 Jul 2026
+
+- **Non-EU tuition: above the ceiling in the two main regions.** Public master's fees are
+  set by each of the 17 autonomous communities, so there is no national number:
+  - **Madrid ≈ €45.02/ECTS → ~€2,701** for a 60-ECTS master
+  - **Catalonia ≈ €110/ECTS → ~€6,600**
+
+  Both exceed €2,000.
+  https://www.mastersportal.com/articles/357/study-in-spain-fees-and-living-costs.html
+- **Worth one more look:** the cheaper autonomous communities — Andalusia, Valencia,
+  Galicia. The regional spread is wide enough that somewhere may sit under the ceiling.
+- **Scholarship bodies:** to research.
+
 - **Creative industry:** Madrid, Barcelona
-- **Language:** Spanish — none currently
-- **Cost of living:** lower than northern EU
-- **Status:** not yet researched
+- **Language:** Spanish — none currently; check English-taught programmes
+- **Cost of living:** lower than northern EU — favourable for the Route B budget
+- **Status:** Route A not yet researched · Route B headline tuition checked and fails,
+  cheaper regions unchecked
+
+## Sweden — **new section, added Route B pass 1**
+
+Not previously on the list. Added because it holds the **single best structural fit found
+so far** for a mid-career applicant.
+
+### Route B — funded study
+
+- **Scholarship body:** ✅ **Swedish Institute Scholarships for Global Professionals
+  (SISGP)** — full tuition + **SEK 12,000/month** + insurance + **SEK 10,000–15,000**
+  travel grant.
+  https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/
+- **Why it fits where others do not:** eligibility **requires ≥3,000 hours** of documented
+  work experience plus demonstrated leadership. **No age limit found.** Every other scheme
+  on this list treats 22 years as disqualifying; this one treats it as the qualification.
+- **⚠️ Nationality gate:** **Egypt is on the eligible-country list. The UAE is not.** The
+  whole Swedish route turns on which passport she holds. Unconfirmed — resolve first.
+- **Calendar, and it is unforgiving:**
+  - Eligible-programme list published **mid-November**
+  - Admission via universityadmissions.se closes **mid-January** — must already be admitted
+  - SI scholarship portal opens for **~2 weeks in February** (2026/27 round: 9–25 Feb 2026)
+  - **2027/28 dates not yet published.** Missing January makes February irrelevant.
+- **Language:** ~700 **English-taught** master's are eligible. No Swedish needed.
+- **Immigration:** Swedish student residence permit for full-degree study — **not verified
+  this pass.** Post-study work rights unverified.
+
+### Route A
+
+- The Swedish work permit is employer-led but has **no sponsor register and no salary
+  threshold beyond collective-agreement level**, which historically makes it one of the
+  easier EU permits for an ordinary employer to run. **Worth an early look** — flagged by
+  the jobs session, not yet researched.
+
+- **Creative industry:** Stockholm, Malmö, Gothenburg — Umeå Institute of Design and
+  Konstfack are the design names. Whether either sits on the SI eligible list is unchecked.
+- **Cost of living:** to research
+- **Status:** Route B scheme researched, nationality gate open, programme list awaits
+  mid-November · Route A flagged, not researched
+
+## Italy
+
+### Route B — funded study
+
+- **Non-EU tuition: above the ceiling.** Politecnico di Milano runs roughly **€3,900–4,000
+  a year** for non-EU students, and — the trap — **non-EU students admitted with a foreign
+  first degree pay the maximum band even if they submit an ISEE**. The income-based
+  reduction that makes Italy cheap for others does not reach her.
+  https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/tuition-fees/students-with-income-and-property-abroad
+- **Scholarship bodies:** **regional DSU grants** (DSU Toscana, DiSCo Lazio, EDISU Piemonte,
+  ER.GO) — full tuition waiver + **~€6,500–7,200/year** + subsidised housing and canteen,
+  and **no age limit**. But **income-tested at roughly €25,000 ISEE**. On a senior creative
+  director's salary this almost certainly fails. **Likely dead — confirm one region's
+  threshold before discarding entirely.** *Bando* opens in July; document-gathering starts
+  April–May.
+
+- **Creative industry:** Milan is a genuine global design centre — the strongest
+  field-relevant city on the whole list.
+- **Language:** Italian — none currently; Politecnico runs English-taught design master's.
+- **Status:** Route B fails on tuition and probably on income. Revisit only if the income
+  test is looser than it reads. Route A not researched.
 
 ## Others — open
 
-Italy, Denmark, Sweden, Finland, Poland, Czechia, Estonia and the rest are all acceptable
-under the filter. Add sections as leads appear.
+Denmark, Finland, Poland, Czechia, Estonia and the rest are all acceptable under the
+filter. Add sections as leads appear.
 
-**Sweden** is worth an early look: the work permit is employer-led but has no sponsor
-register and no salary threshold beyond collective-agreement level, which historically
-makes it one of the easier EU permits for an ordinary employer to run.
+## EU-wide — not a country, but the widest door
+
+**Erasmus Mundus Joint Masters.** ~**€1,400/month** plus tuition and travel, across a
+consortium of two or more EU institutions. **No age limit and no degree-recency rule** —
+which is precisely why it survives where the national development schemes do not.
+Deadlines are **per-consortium**, generally **Oct 2026 – Jan 2027** for a Sept 2027 start.
+https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters
+
+Open question that decides its value: **is there a programme in her field?** The catalogue
+skews STEM, policy and sustainability. Finding brand / design / communication / creative
+management programmes is the top job of Route B pass 2.
 
 ## Not EU — flag, do not file as qualifying
 
