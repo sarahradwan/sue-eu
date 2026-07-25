@@ -43,6 +43,55 @@ them.
 | **Degree transcript** | **Held** | The classic late blocker in `timeline-to-2027.md` is *not* the blocker. Attestation is. |
 | **English certificate** | **Held** | ⚠️ Validity window unchecked — see below. |
 | **Attestation of both** | **NOT DONE** | ⛔ **This is now the critical path.** See the section below. |
+| **Degree grade (Helwan, 2003)** | **5776 / 8000 = 72.19%** | Egyptian band **"Good" (Jayyid)**. **Kills Master Mind.** Harmless everywhere else. See below. |
+
+### The 2003 grade — what it does and does not close
+
+**5776/8000 = 72.19%.** On the standard Egyptian scale that is **"Good" (Jayyid)**:
+
+| Egyptian band | Range | Hers |
+|---|---|---|
+| Excellent (Momtaz) | 85–100% | |
+| Very Good (Jayyid Jiddan) | 75–84.99% | *(2.8 points short)* |
+| **Good (Jayyid)** | **65–74.99%** | ✅ **72.19%** |
+| Pass (Maqbul) | 50–64.99% | |
+
+**Conversion to a 4.0 GPA is genuinely contested between sources**, and I am not going to
+pretend otherwise:
+
+- Generic conversion calculators put Excellent ≈ 4.0 and Very Good ≈ 3.7–4.0, which would
+  place "Good" around **3.0–3.3**.
+- **WES**, the credential evaluator that actually matters, is far more conservative —
+  reported as mapping Egyptian **85% to 3.0 (B)**, which would put "Good" nearer **2.0–2.5**.
+
+*Sources disagree; both are secondary. Only an official evaluation settles it.*
+https://gpacalculator.net/grade-conversion/egypt/ · https://www.wes.org/
+
+**But the disagreement does not matter for the decision.** Under *every* reading found,
+"Good" lands well below **3.5**. The gap is not a rounding question.
+
+**This is a harsh conversion, and it is not a reflection of her.** Egyptian grading is
+severe by international standards — 85% for "Excellent" is a demanding bar that most
+European systems do not impose. A 72% from Helwan's Faculty of Applied Art is a respectable
+degree that converts badly. That is a known artefact of the scale, not a weak record.
+
+**What it actually changes: one scheme, and only one.**
+
+| Scheme | Has a hard GPA floor? | Effect |
+|---|---|---|
+| **Master Mind (Flanders)** | ✅ **Yes — 3.5/4.0, on the last obtained bachelor's or master's** | ⛔ **Very likely fails.** See below. |
+| **SI Global Professionals** | ❌ No GPA threshold published — selection is on work experience, leadership and motivation | ✅ Unaffected |
+| **Erasmus Mundus** | ❌ Per-consortium; many weigh professional experience heavily | ✅ Not blocked at scheme level |
+| **Ireland GOI-IES** | ❌ No published GPA floor found | ✅ Unaffected |
+| **WU Vienna** | ❌ Gate is prerequisite **ECTS in business/economics**, not grade | ✅ Unaffected — the WU risk is unchanged and unrelated |
+
+**The three strongest routes have no mechanical GPA gate. The one that does is the one that
+dies.** That is a better outcome than it first looks.
+
+One nuance worth knowing: Master Mind measures **"the last obtained bachelor's or master's
+degree."** A completed master's with strong marks would displace the 2003 result — but
+**CIM Level 7 is a Postgraduate Diploma, not a master's**, so it almost certainly will not
+serve. Do not build a plan on it doing so without written confirmation.
 
 ### Age against every scheme checked — settled, not estimated
 
@@ -141,6 +190,8 @@ slots book out.** That is a second, independent thing that can quietly break the
 
 1. **Find the English certificate's test type and date.** Five minutes. Decides whether a
    re-sit needs booking now.
+1b. **Email one Flemish international office** about the 72.19% against Master Mind's 3.5
+   floor. One email; it either keeps Belgium alive or closes it cleanly.
 2. **Start the Egyptian legalisation chain for Austria.** Longest lead time of anything in
    the plan. Needs a representative in Cairo.
 3. **Check whether transcript and certificate are issued in English or Arabic.** Decides
@@ -230,7 +281,24 @@ eligibility is built *around* work experience rather than in spite of it.
 | Fit | The no-age-limit rule makes this the widest door open to her. Weakness: no brand/design/creative-leadership programme identified yet — the catalogue skews STEM, policy and sustainability. **That search is the top job for pass 2.** |
 | **Status** | **LEAD — highest priority.** Blocked on one thing: finding programmes in her field. |
 
-#### 3. Master Mind Scholarship — Flanders, Belgium *(preferred country)*
+#### 3. ⛔ Master Mind Scholarship — Flanders, Belgium — **LIKELY FAILS on the GPA floor**
+
+**Status changed 25 July 2026** once the Helwan grade was known. Her 72.19% is Egyptian
+"Good"; the scheme requires **3.5/4.0**, measured on the last obtained bachelor's or
+master's. No reading of the conversion gets there.
+
+**Not hard-closing it yet, for one reason only:** the published criterion reads *"high
+standard of academic performance **and/or potential**"*, and the scholarship is awarded
+through the host Flemish institution, which does the assessing. There is a sliver of
+institutional discretion, and testing it costs one email.
+
+**Action: email one Flemish international office** — Ghent, Antwerp or KU Leuven — stating
+the raw figure (5776/8000, 72.19%, Egyptian "Good", 2003) plus 22 years of senior practice,
+and ask whether it can clear the Master Mind academic bar. **Do this before investing in
+transcript conversion or any Flemish application.** If the answer is no, Belgium's only
+viable study route closes and the country reverts to a Route A target.
+
+Details retained below for that conversation.
 
 | Field | Detail |
 |---|---|
@@ -240,7 +308,8 @@ eligibility is built *around* work experience rather than in spite of it.
 | Funding | **€10,225/year grant + tuition fee waiver** per 60 ECTS |
 | Deadline | Set by the **host institution**, roughly **1 Feb – 1 Apr**. 2026/27 call closed. **2027/28 not yet published.** |
 | Language | English |
-| **Risks — two, both live** | **(a)** Requires GPA equivalent to **3.5/4.0**. She *has* the 2003 Helwan transcript, so the blocker is not obtaining it — it is whether the grades convert to that scale. Unknowable until someone reads it. **(b)** Requires English proof **no older than 3 years at the time of application.** If her certificate predates roughly early 2024, this scheme is closed until she re-sits. **Check the certificate date first — it is cheaper than checking the GPA.** |
+| **Risk (a) — GPA. Now answered, and badly.** | Requires **3.5/4.0** on the last obtained bachelor's or master's. Hers is **72.19%, Egyptian "Good"**, which converts to roughly 2.0–3.3 depending on which source you believe — **none of them 3.5**. This is the reason the scheme is marked LIKELY FAILS. |
+| **Risk (b) — English certificate** | Requires English proof **no older than 3 years at the time of application.** If her certificate predates roughly early 2024, this scheme is closed on a second, independent ground. Still worth checking, because the same expiry question affects Sweden and Austria. |
 | Funding status | **Scheme and amount confirmed at secondary sources; 2027 dates not published.** |
 | Residence permit | Belgian student residence permit — **not verified this pass.** |
 | Source | https://www.studyinflanders.be/scholarships/master-mind-scholarships |
@@ -378,7 +447,7 @@ is the main body of pass 2.
 |---|---|---|---|---|---|---|---|
 | SI Scholarships for Global Professionals | via Swedish universities | Sweden | Full tuition + SEK 12,000/mo + travel | Covered | English | 2027 round **not published**; expect Feb 2027. Admission via universityadmissions.se closes **mid-Jan 2027** | **QUALIFIED** |
 | Erasmus Mundus Joint Masters | Consortia | EU-wide | ~€1,400/mo + tuition + travel | Covered | English | Per consortium, **Oct 2026 – Jan 2027** | LEAD |
-| Master Mind Scholarship | Flemish institutions | Belgium | €10,225/yr + fee waiver | Covered | English | Institution-set, ~**Feb–Apr 2027**, not published | LEAD |
+| Master Mind Scholarship | Flemish institutions | Belgium | €10,225/yr + fee waiver | Covered | English | Institution-set, ~**Feb–Apr 2027**, not published | ⛔ **LIKELY FAILS** — GPA 3.5 vs her 72.19% "Good". One email to confirm before closing. |
 | GOI-IES | Approved Irish HEIs | Ireland | €10,000 + fee waiver, **year 1 only** | Covered yr 1 | English | 2027/28 **not published** | LEAD |
 | **MSc Marketing** | **WU Vienna** (public) | **Austria** | None — low tuition route | **€1,453/yr** | English | **Opens 1 Sept 2026**; rounds **8 Oct 2026** / 8 Jan / 8 Mar 2027 | **LEAD — live** |
 

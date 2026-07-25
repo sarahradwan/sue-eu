@@ -20,6 +20,13 @@ Both sessions should work from these rather than re-deriving them.
   at a September 2027 intake. Germany's Opportunity Card age points = **0** (the assumption
   already used, so the 8-point total stands). Austria's RWR age points = **0 of 20**.
 - **Transcript and English certificate: held, but NOT attested.**
+- **Degree result: Helwan 2003, 5776/8000 = 72.19%** — the Egyptian **"Good" (Jayyid)** band
+  (65–74.99%), 2.8 points below "Very Good". Converts to roughly **2.0–3.3 on a 4.0 scale**
+  depending on the source; sources genuinely disagree and only an official evaluation
+  settles it. Egyptian grading is severe by international standards, so this converts worse
+  than it reads. **Relevant wherever a mechanical GPA floor exists — it kills Flanders'
+  Master Mind — and largely irrelevant to schemes that assess mature applicants
+  holistically.** Route A note: this figure feeds the Nuffic and ZAB evaluations too.
 
 > ### ⛔ Egypt is not an Apostille country — this is the critical path for both routes
 >
@@ -389,11 +396,16 @@ tuition question below resolves favourably.)*
 
 - **Non-EU tuition:** above the €2,000 ceiling. Route B needs a scholarship here.
 - **Scholarship bodies:**
-  - ✅ **Master Mind Scholarship (Government of Flanders)** — **€10,225/year + tuition fee
-    waiver** per 60 ECTS. **No age limit found**, which is what keeps it alive where
-    VLIR-UOS dies. Deadline set by the host Flemish institution, roughly **1 Feb – 1 Apr**;
-    the 2027/28 call is not yet published. Requires GPA equivalent to **3.5/4.0** — the open
-    risk against a 2003 Helwan transcript.
+  - ⛔ **Master Mind Scholarship (Government of Flanders)** — **LIKELY FAILS as of 25 Jul
+    2026.** €10,225/year + tuition fee waiver per 60 ECTS, no age limit — but it requires
+    **GPA 3.5/4.0 on the last obtained bachelor's or master's**, and her Helwan 2003 result
+    is **5776/8000 = 72.19%**, the Egyptian **"Good"** band. Conversion sources disagree
+    (roughly 2.0–3.3), but **none of them reach 3.5**. CIM Level 7 is a Postgraduate Diploma,
+    not a master's, so it almost certainly cannot displace the 2003 grade.
+    **One email to a Flemish international office settles it** — the criterion reads
+    "academic performance and/or potential" and the host institution assesses, so there is a
+    sliver of discretion worth testing before closing Belgium's only study route.
+    Deadline institution-set, roughly **1 Feb – 1 Apr**; 2027/28 call not yet published.
     https://www.studyinflanders.be/scholarships/master-mind-scholarships
   - ❌ **VLIR-UOS ICP Connect** — dead twice over: age cap **35** (initial master) / **45**
     (advanced master) measured on 1 Jan of the intake year, **and** Egypt is not among the
