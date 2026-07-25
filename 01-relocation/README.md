@@ -8,8 +8,13 @@ See `eligibility-filter.md` for what qualifies.
 | File | Purpose |
 |---|---|
 | `eligibility-filter.md` | The definition of "qualifies". Changes go here first. |
-| `opportunity-pipeline.md` | Live tracker of every lead and its stage |
-| `country-notes.md` | Per-country immigration routes, industry, language, costs |
+| `timeline-to-2027.md` | Backwards plan from the mid-2027 target, and the window that matters |
+| `pipeline-jobs.md` | Route A tracker — owned by the jobs session |
+| `pipeline-scholarships.md` | Route B tracker — owned by the scholarships session |
+| `country-notes.md` | Per-country immigration routes, industry, language, costs. **Shared** — pull before editing. |
+
+Pipelines are split by route so parallel sessions never edit the same file. See
+`../SESSION-PROMPTS.md`.
 
 ## The weekly rhythm
 

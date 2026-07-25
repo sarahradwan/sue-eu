@@ -96,8 +96,12 @@ Be honest about what does not:
 
 ## Recording a lead
 
-Into `01-relocation/opportunity-pipeline.md` with all eight fields from the filter.
-Deadline inside 60 days → top section, and flag it at the check-in.
+Route A leads → `01-relocation/pipeline-jobs.md`.
+Route B leads → `01-relocation/pipeline-scholarships.md`.
+
+Split by route so parallel sessions never edit the same file. `country-notes.md` is shared
+by both — pull before editing it. Record all eight fields from the filter. Deadline inside
+60 days → top section, and flag it at the check-in.
 
 Capture the **deadline** above all. Scholarship rounds routinely close six to nine months
 before intake. A perfect opportunity found a week late is worth nothing.
