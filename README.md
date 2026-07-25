@@ -28,10 +28,16 @@ through Claude. Both read and write the same files.
 | Skill | Does |
 |---|---|
 | `eu-opportunity-scout` | Finds and **verifies** jobs with sponsorship and funded scholarships |
+| `application-tailor` | Tailors CV and letters per application, incl. ATS-safe formatting |
+| `interview-prep` | STAR stories, portfolio presentation, the hard visa questions |
+| `case-study-translator` | Makes MENA work legible to EU readers without inflating it |
 | `stealth-positioning` | Public content that attracts EU recruiters without tipping off her employer |
 | `cim-study-partner` | CIM Level 7 assignments, theory, planning |
 | `german-practice` | German from A1, spaced repetition |
 | `skill-retro` | Audits and improves the skills above — git-based, reviewable |
+
+External skills considered and why they were adopted or rejected:
+`.claude/skills/skill-retro/audit-log.md`.
 
 ## One rule above all
 
