@@ -16,6 +16,24 @@ in her current role. Both, or it has failed.
 | `#OpenToWork` | **Off** | Visible or not, never worth the risk |
 | "Open to opportunities" | **Never** | Including in the About section |
 | Recruiter-only "open to work" | **Off** | Leaks more often than people expect |
+| Phone number | **UAE number only** | See below — a Dutch number here is a direct tell |
+
+## The Dutch number
+
+A Netherlands mobile number is genuinely useful for applications — EU recruiters call, and
+a local number removes friction and reads as commitment. But it is **contact detail, not
+public profile**.
+
+- **Never** on LinkedIn. A `+31` number on a monitored profile is arguably a louder signal
+  than changing the location field, because it is specific and has only one explanation.
+- **Never** on the public portfolio site for the same reason.
+- **Yes** on direct applications, CVs sent to named employers, and scholarship forms.
+- Keep the UAE number as the public one throughout.
+
+**One caution:** a Dutch number makes her reachable, it does not make her resident. Never
+let it imply she already has Dutch residency or the right to work — that unravels at offer
+stage and damages trust exactly when it matters most. Reachability is the goal;
+`application-tailor` covers stating her actual status straightforwardly.
 
 ## What to lead with
 
