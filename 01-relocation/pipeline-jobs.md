@@ -10,63 +10,171 @@ Tested against `eligibility-filter.md`. Newest first within each stage.
 
 ---
 
-## Permit routes — ranked. This is the layer that matters.
+## Her constraints — the filter every route below is tested against
 
-Full working and sources in `country-notes.md`. Researched 25 Jul 2026.
+Set by Sara, 25 Jul 2026. These are hard.
 
-Route A splits in two, and the split changes what she can even apply to:
+1. **Egyptian passport.** She needs a visa for everything. No visa-free entry to Schengen.
+2. **No capital to self-fund.** Any route requiring a blocked account, a savings deposit
+   or months of living costs with no income is **out**. This removes every
+   "come and look for work" permit in the EU.
+3. **Someone else must pay for the permit** — an employer sponsoring her, or a salary that
+   funds a residence permit she can hold in her own name.
 
-- **Self-directed routes** — she applies, alone, with no employer involved, and arrives
-  in the EU legally with the right to look for work.
-- **Employer-led routes** — an employer must exist first.
+**What this leaves is two channels, and only two.**
 
-Self-directed routes are worth more than any single job posting, because they convert the
-search from *"find the rare employer who will sponsor a non-EU creative"* to *"be in the
-country, interviewing in person, like a local candidate."*
-
-| # | Route | Country | Employer needed? | Duration | Verdict |
-|---|---|---|---|---|---|
-| 1 | **Opportunity Card** (Chancenkarte) | 🇩🇪 Germany | **No** | 12 months | ✅ **Appears to qualify — 8 pts vs a threshold of 6** |
-| 2 | **Job Seeker Visa** | 🇵🇹 Portugal | **No** | 120 + 60 days | ✅ **Appears to qualify** — bachelor's *or* equivalent professional experience |
-| 3 | **EU Blue Card** | 🇳🇱 Netherlands | Yes — but **no recognised-sponsor status required** | — | ✅ Route open; needs a Nuffic credential evaluation |
-| 4 | **Highly skilled migrant** | 🇳🇱 Netherlands | Yes — **must be an IND recognised sponsor** | — | ✅ Route open; employer set restricted to the register |
-| 5 | **RWR job seeker visa** | 🇦🇹 Austria | No | 6 months | ❌ **Likely fails** — est. 30–50 pts vs 70. Age and MINT weighting |
-| 6 | **Orientation year** (zoekjaar) | 🇳🇱 Netherlands | No | 12 months | ❌ **Fails** — must apply within 3 yrs of graduating; hers is 2003 |
-| 7 | **Passeport Talent** | 🇫🇷 France | Yes, all viable categories | — | ❌ No self-directed category fits — see notes |
-
-### The three findings that change the plan
-
-**1. Germany moves to the front.** It was not a preferred country and it is now the
-strongest Route A option she has, because the Opportunity Card is a **one-year residence
-permit to job-hunt with no employer at all**. On the published points table she scores 8
-against a threshold of 6 — at A1 German, and assuming zero age points. German A2 adds a
-third point of margin, so her existing study path directly buys insurance here.
-
-**2. The Netherlands is more open than the sponsor register suggests.** The IND states the
-employer **does not** need recognised-sponsor status for an EU Blue Card. Most advice
-online treats the ~10,000-name register as the boundary of the Dutch job market. It is
-not. Search the register *and* every other Dutch employer.
-
-**3. Two "obvious" routes are closed, and knowing that saves months.** The zoekjaar —
-recommended in every expat guide — has a hard three-year-post-graduation limit she misses
-by twenty-three years. Austria's job-seeker visa scores age out of range and loads 40 of
-its 100 points onto MINT degrees, PhDs and patents.
-
-### Preparation tasks these routes create — start now, they are the critical path
-
-| Task | For | Lead time | Why it blocks |
+| | Channel | Who pays | Who does the paperwork |
 |---|---|---|---|
-| **ZAB Statement of Comparability** for the Helwan degree | Germany | **~3 months** | The 4 points hinge on a recognition finding. Ordered late, everything downstream stalls |
-| **Nuffic credential evaluation** | Netherlands (Blue Card) | weeks | Blue Card requires proof of a 3+ year higher-education programme |
-| **Confirm her age** | Germany, Austria | — | Sets the age points in both systems. Assumed 40+ throughout; unconfirmed |
-| **Run Austria's official points calculator** with real data | Austria | — | My 30–50 estimate is an estimate. Confirm before writing off a preferred country |
-| **Budget the blocked account** — approx. €13,100 | Germany | — | 12 × ~€1,091. The real cost of the Opportunity Card |
-| **Savings proof** — approx. €3,280 | Portugal | — | Roughly a quarter of the German figure |
-| **Criminal record certificate** (must be <90 days old at application) | Portugal | — | Expires — order *late*, not early. Timing trap in the opposite direction |
+| **A1** | **Employer sponsors the work permit** | Employer | Employer |
+| **A2** | **Remote job for a non-EU employer + digital nomad visa** | Her salary | Her |
 
-This lands squarely on the `timeline-to-2027.md` finding: the pressure is on
-**preparation**, not searching. The ZAB assessment is the same class of problem as the
-Helwan transcripts already flagged there — slow, external, and invisible until it is late.
+A1 is the real goal. A2 is the fallback, and it is genuinely open to her — but be clear
+about what it is: **a digital nomad visa is not sponsorship.** She would still be doing
+the immigration paperwork herself. What makes it viable under her constraints is that it
+is funded from **monthly salary, not savings** — she needs an income, not a lump sum.
+
+---
+
+## A1 — Employer-sponsored routes, ranked
+
+Full working and sources in `country-notes.md`.
+
+| # | Route | Country | Sponsor register? | Notes |
+|---|---|---|---|---|
+| 1 | **EU Blue Card** | 🇳🇱 Netherlands | **No — any willing employer** | IND states recognised-sponsor status is *not* required. Widest employer set in a preferred country |
+| 2 | **Highly skilled migrant** | 🇳🇱 Netherlands | **Yes — IND register** | 2–4 week processing. ~€5,942/mo threshold at age 30+ `[verify]` — she is 46, so the higher band applies |
+| 3 | **Employment permits** | 🇮🇪 Ireland | No register | English-language; no language barrier at all. Employer applies. Critical Skills vs General Employment Permit — check which covers creative roles |
+| 4 | **Single Permit** | 🇧🇪 Belgium | No register | Regional — Flanders / Wallonia / Brussels each set their own thresholds. Brussels institutional sector is the one EU market where **native Arabic is a scarce asset** |
+| 5 | **EU Blue Card** | Most EU states | No | The same instrument exists across nearly all member states. Her 2003 bachelor's + 22 years satisfies the qualification limb |
+
+### The point that reframes the Dutch search
+
+Nearly every guide treats the **IND recognised-sponsor register (~10,000 names)** as the
+boundary of the Dutch job market for a non-EU candidate. It is not. The **EU Blue Card
+does not require the employer to hold recognised-sponsor status** — so a Dutch employer
+who has never hired a migrant before can still hire her.
+
+Practical consequence: **do not filter the Dutch search down to the register.** Search the
+whole market, and treat register membership as a signal that the employer will find the
+process easy — not as a precondition.
+
+### The one asset she needs before any of this converts — and it has a hidden step
+
+**Nuffic credential evaluation** of the Helwan degree — proof of a higher-education
+programme of 3+ years. The Blue Card cannot be applied for without it.
+
+**⛔ And Nuffic cannot start until the Egyptian documents are legalised.** Egypt is not an
+Apostille country, so there is no shortcut: Egyptian Ministry of Education / Supreme Council
+of Universities → Egyptian MoFA → destination embassy. **Budget 6–10 weeks**, then Nuffic on
+top of that.
+
+**Sequence: legalise first, evaluate second.** Starting the evaluation without legalised
+inputs wastes the longest lead time in the plan. This is the same chain the scholarships
+session found gating Austrian admission — one legalisation effort serves both routes, so it
+is the highest-value thing she can start this month.
+
+*(Full detail in the Apostille box in `country-notes.md`.)*
+
+---
+
+## A2 — Remote job + digital nomad visa
+
+The mechanism: land a remote role with an employer **outside** the destination country
+(Gulf, UK, US — anywhere but there), hold it for the qualifying period, then apply for a
+nomad residence permit on the strength of that salary.
+
+**Spain is the pick.** Lowest realistic income bar of any EU nomad visa that also leads to
+permanent residence, and there is a working consular route from the UAE.
+
+| Country | Income needed | Path to permanent residence |
+|---|---|---|
+| 🇭🇷 Croatia | ~€2,540/mo | ❌ Time generally does **not** count toward residency |
+| **🇪🇸 Spain** | **€2,849/mo** (200% of SMI, 2026) | ✅ **PR after 5 years, citizenship after 10** |
+| 🇮🇹 Italy | ~€2,700/mo | ✅ |
+| 🇬🇷 Greece | €3,500/mo | ✅ |
+| 🇵🇹 Portugal (D8) | €3,680/mo | ✅ PR after 5 years |
+| 🇪🇪 Estonia | €4,500/mo gross | ❌ Does not count |
+| 🇲🇹 Malta | €42,000/yr | Limited |
+
+*All figures `[verify on source]` — see the verification caveat in `country-notes.md`.*
+
+### Spain — what she actually has to satisfy
+
+- **Income: €2,849/month ≈ €34,188/year** `[verify]`. For a Creative Director with 22
+  years this is a **low** bar. The income is not the hard part.
+- **Employer based outside Spain.** No more than 20% of income from Spanish companies.
+  A Gulf, UK or US employer is fine.
+- **At least 3 months with that employer** before applying, and the **employer must have
+  been trading for at least a year**.
+- **A bachelor's degree *or* 3+ years of professional experience** — she clears this twice
+  over. **The "or" matters:** the experience limb means the Egyptian legalisation chain need
+  not gate this route the way it gates Nuffic and ZAB. **A2 is the one channel that can move
+  while the documents are in transit.**
+- Private health insurance, criminal record certificate, social security coverage.
+- **Beckham Law**: flat 24% income tax up to €600,000 — materially better than the
+  standard rate up to 47%.
+
+### The passport determines which application route she gets
+
+There are two ways in, and hers is the slower one:
+
+- **From inside Spain as a tourist** → a **3-year** residence permit directly, with
+  automatic approval if the authorities miss a 20-working-day deadline. **Requires
+  visa-free entry. Not available on an Egyptian passport.**
+- **From the Spanish consulate in the UAE** → a **1-year** visa, renewed inside Spain
+  afterwards. **This is her route.**
+
+She is a UAE resident, so she applies at the Spanish mission in Abu Dhabi, which publishes
+a dedicated digital nomad visa page:
+[exteriores.gob.es — Abu Dhabi, Digital Nomad Visa](https://www.exteriores.gob.es/Embajadas/abudhabi/en/ServiciosConsulares/Paginas/Consular/Digital-Nomada-Visa.aspx).
+UAE residents are explicitly eligible.
+
+### The real difficulty, stated plainly
+
+**The visa is the easy half. The remote job is the hard half.**
+
+Creative Director roles are overwhelmingly on-site — studio presence, shoot direction,
+client meetings. Remote CD roles exist but are a much thinner market than remote
+engineering or marketing. This channel needs its own search, targeting:
+
+- Gulf and MENA agencies hiring remote senior creative leadership
+- UK and US agencies and brand consultancies with distributed teams
+- Freelance and fractional creative direction, consolidated into provable recurring income
+  — the visa accepts freelancers and self-employed, not only salaried employees
+
+### ⚠️ The three-month rule, and the awkward shortcut
+
+The 3-month clock starts when the **remote job** starts, not when she applies. So this
+channel is minimum ~4–5 months from signing a remote contract to holding a visa.
+
+There is a faster version, and she should decide about it rather than have me decide for
+her: **her existing WeDo employment already satisfies the 3-month rule** — it is 17 months
+old and WeDo has traded for years. If WeDo agreed to a remote arrangement, she could apply
+almost immediately.
+
+**But that path forces disclosure.** The application requires employer letters expressly
+confirming remote work from Spain is permitted. There is no version of this where WeDo
+does not know she is leaving the UAE. Given her boss monitors her LinkedIn, this is a
+significant call and it is hers alone — I am flagging it, not recommending it.
+
+---
+
+## Ruled out — do not re-research these
+
+Recorded so a future session does not spend another pass rediscovering them.
+
+| Route | Country | Why it is out |
+|---|---|---|
+| **Opportunity Card** (Chancenkarte) | 🇩🇪 Germany | Requires ~**€13,100** in a blocked account for the job-search year. **No capital — out**, despite her scoring 8 points against a threshold of 6 |
+| **Job Seeker Visa** | 🇵🇹 Portugal | Requires ~**€3,280** savings and 180 days of living costs with no income. **Out** |
+| **RWR job seeker visa** | 🇦🇹 Austria | Self-funded, *and* fails on points — est. 30–50 vs a threshold of 70. Age and MINT weighting are structural |
+| **Orientation year** (zoekjaar) | 🇳🇱 Netherlands | Hard 3-year post-graduation limit. Her degree is 2003. Also self-funded |
+| **Passeport Talent** self-directed categories | 🇫🇷 France | Business creation needs €30,000; investor route €300,000; job-search card is for graduates of French institutions |
+
+The pattern: **every EU "come and look for work" permit is self-funded by design.** The
+state's condition for letting someone in without a job is that they can support themselves
+without one. That entire category is closed to her, and it is closed for a structural
+reason that will not change. France remains open as an employer-sponsored market.
 
 ---
 
@@ -74,7 +182,7 @@ Helwan transcripts already flagged there — slow, external, and invisible until
 
 | Item | Date pressure | Action |
 |---|---|---|
-| Creative Director, Tommy Hilfiger — Amsterdam | No stated deadline, but **reposted 2 weeks ago with 353 applicants** and responses managed off LinkedIn. Live postings at this volume close without notice | Decide this week — see assessment below |
+| Creative Director, Tommy Hilfiger — Amsterdam | No stated deadline, but **reposted 2 weeks ago with 353 applicants** and responses managed off LinkedIn. Live postings at this volume close without notice | Decide this week — see below |
 
 ---
 
@@ -90,68 +198,58 @@ Sent by Sara, 25 Jul 2026 ·
 [Posting](https://www.linkedin.com/jobs/view/4426818579/) · On-site, full-time ·
 Applications handled off LinkedIn, via [careers.pvh.com](https://careers.pvh.com/emea)
 
-**1. Route** — A
-**2. Country / city** — Netherlands, Amsterdam. Preferred country.
-**3. Deadline** — none stated. Reposted two weeks ago; 353 applicants, 5 in the past day.
-**4. Sponsorship — UNVERIFIED.** The posting contains **no sponsorship language of any
-kind**. Per the rule below, this cannot be recorded as sponsored. Two things soften it:
-PVH Europe runs its global Tommy Hilfiger HQ in Amsterdam with a large international
-workforce, so recognised-sponsor status is *likely* — **but I could not confirm it**, the
-IND register was unreachable from this environment. And it may not matter: a Creative
-Director salary at PVH would clear the Blue Card threshold, and **the Blue Card does not
-require recognised-sponsor status at all**. So the visa is probably not the blocker here.
-**5. Language** — English.
-**6. Source** — LinkedIn posting, as supplied.
+**Channel** — A1, employer-sponsored. Correct shape for her constraints.
+**Route** — A · **Country** — Netherlands, Amsterdam (preferred)
+**Deadline** — none stated. Reposted two weeks ago; 353 applicants, 5 in the past day.
+**Language** — English
 
-**7. Fit against her CV**
+**Sponsorship — UNVERIFIED.** The posting contains **no sponsorship language of any kind**,
+so it cannot be recorded as sponsored. Two things soften that: PVH runs its global Tommy
+Hilfiger HQ in Amsterdam with a large international workforce, so recognised-sponsor status
+is *likely* — though **I could not confirm it**, the IND register is unreachable from this
+environment. And it may not matter: a Creative Director salary at PVH would clear the Blue
+Card threshold, and **the Blue Card needs no recognised-sponsor status**. The visa is
+probably not the blocker.
 
-Genuinely strong:
-- *"Foster the use of AI tools to best express creative ideas"* and *"remain curious about
-  the evolving use of AI within creative processes"* — this is a **direct hit on her AI
-  Ways of Working pillar**, and it is rare to see it written explicitly into a fashion CD
-  spec. AI image and video generation in live production, and AI usage codified into
-  client brand documentation, is a materially stronger answer than most applicants will
-  have. **This is her differentiator in this application.**
-- Leading a team of Art Directors — she has led multidisciplinary teams of designers,
-  illustrators and layout specialists at national-programme scale.
+**Fit — genuinely strong:**
+- *"Foster the use of AI tools to best express creative ideas"* and *"the evolving use of
+  AI within creative processes"* — a **direct hit on her AI Ways of Working pillar**, and
+  rare to see written explicitly into a fashion CD spec. AI image and video generation in
+  live production, plus AI usage codified into client brand documentation, beats what most
+  applicants can claim. **This is her differentiator here.**
+- Leading a team of Art Directors — she has led multidisciplinary teams at national scale.
 - Presenting to senior management — she presents and defends direction to ministers.
-- Photo shoot direction, campaign and editorial development — CPI Media Group, and the
-  MBC rebrand with its +38% subscriber growth.
+- Photo shoot direction, campaign and editorial development — CPI Media Group, and the MBC
+  rebrand with +38% subscriber growth.
 - Adobe Creative Suite; bachelor's in Graphic Design. Both stated requirements, both met.
 
-The gap, stated plainly:
-- **"Minimum of 15 years of experience in fashion art direction."** She has 22 years of
-  art direction, of which roughly **five** are fashion and beauty — CPI Media Group,
-  2015–2020. On a literal reading she does not meet this bar, and it is the first line a
-  screener checks.
+**The gap:**
+- **"Minimum of 15 years of experience in fashion art direction."** She has 22 years of art
+  direction, of which roughly **five** are fashion and beauty — CPI Media Group, 2015–2020.
+  On a literal reading she misses this, and it is the first line a screener checks.
 - *"Strong network within the fashion industry"* — hers is MENA, not European fashion.
-- Her recent and most senior work is government and institutional. The trajectory reads
-  as moving *away* from consumer fashion, not toward it.
-- The field is 353 applicants, 46% already director-level.
+- Recent senior work is government and institutional; the trajectory reads as moving *away*
+  from consumer fashion.
+- 353 applicants, 46% already director-level.
 
-**8. Verdict — `LEAD`, stretch. Worth an application; not worth displacing the permit work.**
+**Verdict — `LEAD`, stretch. Worth a timeboxed application.**
 
-Apply if the tailored CV can carry two things: the CPI fashion and beauty years pulled
-forward and made to look like the spine of her career rather than a chapter of it, and
-the AI leadership led with hard, not buried. Without both, the 15-years-in-fashion line
-screens her out inside thirty seconds.
+It only works if the tailored CV does two things: pulls the CPI fashion and beauty years
+forward so they read as the spine of her career rather than a chapter, and leads with the
+AI leadership rather than burying it. Without both, the 15-years-in-fashion line screens
+her out in thirty seconds.
 
-Keep it in proportion. This is one posting with a low hit rate, and hours spent on it are
-hours not spent on the ZAB assessment — which is the thing that unlocks a **year** of
-job-hunting inside the EU. Recommended split: apply, timeboxed, and do not let it slip
-the preparation tasks.
+Use `application-tailor` for the CV and letter, `case-study-translator` for the CPI and RTA
+work so the scale reads to a European fashion audience.
 
-Use `application-tailor` for the CV and letter, and `case-study-translator` for the CPI
-and RTA work so the scale reads to a European fashion audience.
-
-⚠️ **Confidentiality — before touching that LinkedIn page.** The posting carries an
+⚠️ **Confidentiality — before opening that page again.** The posting carries an
 *"I'm interested"* button and a Follow button. **Companies she follows are visible on her
 profile**, and expressing interest in a company is exactly the tell her boss watches for.
 A Creative Director role at a fashion house in Amsterdam is not an ambiguous signal.
-LinkedIn does shield shared career interests from recruiters *at her own employer*, but
-that protection does not extend to a manager simply reading her profile.
-**Apply directly at careers.pvh.com. Do not click Follow, do not click "I'm interested",
-do not save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
+LinkedIn shields shared career interests from recruiters *at her own employer*, but that
+does nothing against a manager simply reading her profile.
+**Apply directly at careers.pvh.com. Do not Follow, do not click "I'm interested", do not
+save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
 
 ## Applied
 
@@ -165,19 +263,17 @@ do not save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
 
 ## Where the next search pass goes
 
-1. **Belgium** — the largest unresearched gap and a preferred country. Single Permit is
-   regional with different thresholds and shortage lists per region. Brussels institutional
-   and EU-adjacent communications is the one EU market where **native Arabic plus
-   multilingual institutional experience is a scarce asset rather than a curiosity**.
+1. **Named sponsoring employers** — the IND recognised-sponsor register filtered to brand,
+   design, advertising and in-house creative, plus the Dutch market beyond it via the Blue
+   Card. Blocked this pass: `ind.nl` is refused by this environment's egress policy. Needs
+   a session that can reach it, or Sara pulling the monthly file herself.
 2. **Ireland** — English-language, no language barrier, strong agency and tech-brand
-   presence. Employer-led only; check whether any creative or marketing occupation reaches
-   the Critical Skills list.
-3. **Named employers** — the IND recognised sponsor register filtered to brand, design,
-   advertising and in-house creative. Blocked this pass: `ind.nl` is refused by this
-   environment's egress policy. Needs a session that can reach it, or Sara pulling the
-   monthly file herself.
-4. **German employers operating in English** — Berlin and Hamburg agencies and in-house
-   brand teams, to give the Opportunity Card year a real target list rather than a blank map.
+   presence. Confirm whether any creative or marketing occupation reaches the Critical
+   Skills list, since that decides which permit applies and how fast it moves.
+3. **Belgium** — Brussels institutional and EU-adjacent communications, region by region.
+4. **Remote senior creative roles** — a standing search for the A2 channel. Gulf, UK and US
+   employers with distributed teams; fractional and freelance creative direction that can
+   be evidenced as recurring income.
 
 ---
 

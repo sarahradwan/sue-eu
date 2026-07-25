@@ -10,13 +10,28 @@ A lead qualifies if it satisfies **Route A** or **Route B**. Nothing else counts
 
 ### Route A — Employment
 
-- Role in an EU country, and
-- Employer **sponsors the visa / work permit**, or the route is one Sara can access
-  without an employer sponsor (see permit notes below).
+Two channels, and only two. Updated 25 Jul 2026 after Sara confirmed she has **no capital
+to self-fund** and holds an **Egyptian passport** (visa required for everything).
+
+**A1 — Employer-sponsored.** Role in an EU country, employer **sponsors the visa / work
+permit**.
 
 Explicit sponsorship language is required. "International team", "we welcome applicants
 worldwide" and similar are *not* sponsorship. If sponsorship is unstated, the lead is
 **unverified** — record it as such, never present it as qualifying.
+
+**A2 — Remote job + digital nomad visa.** A remote role for an employer based **outside**
+the destination country, paying above that country's nomad-visa income threshold.
+
+Not sponsorship — she does the immigration paperwork herself. It qualifies under her
+constraints because it is funded from **monthly salary, not savings**. A lead in this
+channel must record the income threshold it has to clear, and the visa must lead to
+**permanent residence** — nomad visas whose time does not count toward residency
+(Croatia, Estonia) are dead ends for a permanent move.
+
+**Automatically out:** any route requiring her to fund herself — blocked accounts, savings
+deposits, or months of living costs with no income. This closes every EU "come and look for
+work" permit. See the **Ruled out** table in `country-notes.md`; do not re-research them.
 
 ### Route B — Funded study
 
@@ -43,6 +58,8 @@ strength of route first, country preference second.
 | Constraint | Status |
 |---|---|
 | Current location | Abu Dhabi, UAE — applying from outside the EU |
+| Passport | **Egyptian** — visa required for everything; no visa-free Schengen entry |
+| Capital to self-fund | **None.** Cannot fund a job-search permit, blocked account or savings deposit |
 | Right to work in EU | None currently |
 | German | A1 — cannot carry a German-language role or degree |
 | English | C2 — English-taught roles and programmes are the realistic field |
@@ -52,7 +69,10 @@ strength of route first, country preference second.
 
 ## Automatic disqualifiers
 
-- No visa sponsorship **and** not a funded-study route.
+- No visa sponsorship **and** not a funded-study route **and** not a remote role clearing a
+  nomad-visa income threshold.
+- **Requires her to self-fund** — blocked account, savings deposit, or a job-search period
+  with no income.
 - Requires German (or another language) above her current level.
 - Tuition above €2,000/year with no scholarship covering it.
 - Non-EU country. (Note: UK and Switzerland are **not** EU — flag separately, do not
@@ -71,9 +91,13 @@ strength of route first, country preference second.
 7. Fit against her profile — what in the CV maps to it
 8. Verdict: qualifies / fails / needs checking
 
-## Notes on permits worth researching
+## Notes on permits — researched 25 Jul 2026
 
-Tracked in `country-notes.md` as research completes — several EU countries have routes
-that do not depend on an employer sponsor (job-seeker visas, orientation-year permits
-for recent graduates, self-employment and talent routes). These widen Route A
-considerably and should be researched properly rather than assumed.
+Findings in `country-notes.md`. Two results worth carrying forward:
+
+- **Non-sponsor job-search permits are closed to her.** Every EU "come and look for work"
+  permit is self-funded by design — the state's condition for admitting someone without a
+  job is that they can support themselves without one. Structural, and it will not change.
+- **The Netherlands is wider than it looks.** The EU Blue Card does **not** require the
+  employer to hold IND recognised-sponsor status, so the ~10,000-name register is not the
+  boundary of the Dutch market. Search beyond it.
