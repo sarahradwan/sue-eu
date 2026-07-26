@@ -339,7 +339,7 @@ her employer can observe. This channel is confidentiality-safe in a way job boar
 | **[SPARK](https://www.thespark-company.com/)** | Amsterdam creative agencies and brands, and states it sources **talent from anywhere in the world** — the most sponsorship-friendly signal of the five |
 | **[Blue Lynx](https://bluelynx.com/jobs/creative-jobs-netherlands/)** | Expat-focused Dutch recruiter, names **creative directors** explicitly in its specialisms |
 | **[Salt](https://welovesalt.com/nl/)** | Covers **Netherlands, Germany, Belgium and the UK** — widens geography in one registration, and Belgium is a preferred country |
-| **[Aquent](https://aquent.nl/)** | Global marketing, creative and design staffing |
+| ~~**[Aquent](https://aquent.nl/)**~~ | ⚠️ **Downgraded 25 Jul 2026.** Global creative staffing, but much of its inventory is **freelance and temporary** — structurally unable to carry her permit. Worth one conversation, not a watchlist |
 
 **Also currently hiring Creative Directors in Amsterdam** (from search extracts, unverified):
 Clearly · The Sting · Amsterdam University of Applied Sciences · WPP Media.
@@ -424,7 +424,47 @@ save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
 
 ---
 
-## ⛔ The permit floor is a title floor — filter every lead through this first
+## ⛔ Filter 2 — contract type and duration. Kills leads the title filter lets through.
+
+Found 25 Jul 2026 from an Aquent posting (**Brand Designer**, ref 211204, Amsterdam,
+onsite, client is Ring/Amazon). It fails three ways, and the contract failure is the one
+that generalises.
+
+> **The Netherlands EU Blue Card requires an employment contract of at least 12 months.**
+> **Freelance / ZZP status cannot be the primary basis for the permit** — self-employment
+> is a separate residence route, and alongside a Blue Card it needs IND review.
+> *[IND](https://ind.nl/en/residence-permits/work/european-blue-card-residence-permit) ·
+> [Grant Thornton](https://www.grantthornton.nl/en/insights-en/human-capital-services/highly-skilled-migrant-permits-eu-blue-cards/) —
+> via search extracts, checked 25 Jul 2026*
+
+So, regardless of fit or money:
+
+| Contract shape | Can it carry her permit? |
+|---|---|
+| Permanent employment | ✅ Yes |
+| Fixed-term employment, **12 months or more** | ✅ Yes |
+| Fixed-term employment **under 12 months** | ❌ No — Blue Card fails |
+| **Freelance / ZZP / interim / temp via agency** | ❌ **No — wrong permit category entirely** |
+
+**She cannot take freelance or temporary work in the EU as a route in.** The rate can be
+excellent and it changes nothing — a 3-month freelance engagement at €50–60/hour annualises
+to roughly €114k, which comfortably clears every salary threshold, and it *still* cannot
+produce a residence permit. **Money is not the binding constraint; contract shape is.**
+
+⚠️ **This also downgrades Aquent as a channel.** Much of its inventory is freelance and
+temporary placement, which is structurally useless to her. **Prioritise AMACOM and SPARK**,
+which place permanent creative leadership. Aquent is worth a conversation but not a
+watchlist.
+
+*(The named Aquent recruiter, Sofia Smina, is still a live human contact in Amsterdam —
+worth messaging about **permanent, senior** roles rather than this posting.)*
+
+**Note for the A2 channel:** freelance work is *not* useless in general — Spain's digital
+nomad visa explicitly accepts freelancers. But it must be for clients **outside** the
+destination country and worked **remotely**. An onsite Amsterdam gig for an EU client is
+the exact opposite shape.
+
+## ⛔ Filter 1 — the permit floor is a title floor
 
 Learned from the AKQA **Senior Designer** rejection, 25 Jul 2026. That role could never
 have sponsored her: the Amsterdam band is **€44k–€68k**, entirely below the **~€71,300**
