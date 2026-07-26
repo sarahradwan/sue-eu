@@ -331,6 +331,27 @@ save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
 
 ---
 
+## ⛔ The permit floor is a title floor — filter every lead through this first
+
+Learned from the AKQA **Senior Designer** rejection, 25 Jul 2026. That role could never
+have sponsored her: the Amsterdam band is **€44k–€68k**, entirely below the **~€71,300**
+highly-skilled-migrant threshold. The application was structurally un-winnable before it
+was ever read.
+
+| Level | Reported Amsterdam band | Clears ~€71,300? |
+|---|---|---|
+| Senior Designer | €44k–€68k | ❌ **Never** |
+| Art Director | €50k–€79k | ⚠️ **Top of band only** — verify per posting |
+| Senior Art Director | higher, varies | ✅ Usually |
+| Associate Creative Director / Creative Director | €80k–€122k, avg €98.5k | ✅ **Comfortably** |
+
+**Rule: nothing below Senior Art Director / Associate Creative Director.** Applying "down"
+to improve the odds of getting in is the single most tempting mistake in her position, and
+it inverts — a lower role cannot carry the permit no matter how much they like her.
+
+**This retires the Foot Locker Art Director lead** unless its band is confirmed at the top
+end. Check the salary before spending an application on any role titled Art Director.
+
 ## Salary — what to put in the box
 
 Asked by PVH, 25 Jul 2026. Applies to every Dutch application.
