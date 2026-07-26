@@ -190,7 +190,77 @@ reason that will not change. France remains open as an employer-sponsored market
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
+| Associate Creative Director (Art/Design), Virtual Creative Production | AKQA (WPP) | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — **best title + skill match** |
+| Creative / brand roles, in-house Creative Agency | Rituals | 🇳🇱 Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **best category match** |
+| Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **most differentiated advantage** |
+| Senior Art Director | AKQA (WPP) | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — lateral, low friction |
+| Art Director | Foot Locker Europe | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — weaker fit |
 | Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — stretch |
+
+### ⚠️ Read before applying to any of the above
+
+**None of these has verified sponsorship, and I could not open a single posting.** This
+environment's egress policy blocks everything except GitHub, so all six were surfaced
+through search extracts. That means: **live status unconfirmed, sponsorship language
+unconfirmed, salary unconfirmed.**
+
+Two checks before each application, in this order:
+
+1. **Is the posting still live?** Search result dates ranged March–July 2026. Some will be gone.
+2. **Is the employer on the IND recognised-sponsor register?**
+   [visalist.nl](https://www.visalist.nl/) · [indsponsors.nl](https://indsponsors.nl/) —
+   both mirror the IND register and are searchable, which the IND site itself is not, from here.
+   **Remember the register is not the boundary** — an employer absent from it can still hire
+   her on an **EU Blue Card**. Absence is a friction signal, not a rejection.
+
+### The four worth her time, ranked
+
+**1. AKQA — Associate Creative Director (Art/Design), Virtual Creative Production**
+[akqa.com/careers/associate-creative-director-artdesign-virtual-creative-production-7884980](https://www.akqa.com/careers/associate-creative-director-artdesign-virtual-creative-production-7884980/)
+
+The strongest match on the board. *Virtual Creative Production* means CGI, virtual
+production and generative tooling — which is **exactly where her AI image and video
+generation work lives**, and it is the rare posting where that experience is the core of
+the role rather than a bonus line. AKQA is WPP-owned, global, and a near-certain sponsor.
+Title is a genuine step up from Senior Art Director.
+
+**2. Rituals — in-house Creative Agency**
+[careers.rituals.com/en-NL/offices/department/creative-agency](https://careers.rituals.com/en-NL/offices/department/creative-agency/)
+
+Best **category** match. Amsterdam HQ, beauty and lifestyle, with an in-house creative
+department owning brand identity across platforms — which is her CPI beauty editorial
+background plus her brand systems work, in one place. Large employer, ~120 open roles,
+so vacancies turn over. **Set up an alert rather than applying once.**
+
+**3. Vlisco — the one nobody else can compete for**
+
+Dutch heritage textile house designing for **West and Central African markets**. Pattern,
+textile, colour, and designing authentically for a non-Western audience. Almost no Dutch
+applicant brings genuine non-Western market fluency; she brings 22 years of it, plus
+multi-script design systems across three scripts. **This is the only lead on the list where
+her background is a competitive advantage rather than something to explain away.**
+Smaller employer, so verify sponsor status carefully.
+
+**4. AKQA — Senior Art Director**
+[akqa.com/careers/senior-art-director-2430466](https://www.akqa.com/careers/senior-art-director-2430466/)
+
+**Lateral, not a demotion** — it is her current title at WeDo. Lowest-friction application
+of the six, and a legitimate way into a global network that can sponsor. Worth sending even
+while aiming higher elsewhere.
+
+*Foot Locker's Art Director role skews youth-culture and streetwear; real, but the weakest
+fit of the six. Send only if the others are exhausted.*
+
+### Search infrastructure — set up once, then it runs itself
+
+- **[jobinamsterdam.com](https://jobinamsterdam.com/)** — English-language vacancies only,
+  filtered for internationals from the start. The single most efficient board for her.
+- **[visalist.nl](https://www.visalist.nl/)** and **[indsponsors.nl](https://indsponsors.nl/)**
+  — searchable mirrors of the IND register. Use to verify employers *and* to generate a
+  target list: filter the register to advertising, design and retail, then approach directly.
+- LinkedIn saved searches for Amsterdam / Dublin / Brussels + Creative Director, Art
+  Director, Design Director, Brand Lead. ⚠️ **Saved searches and alerts are private; Follows
+  and "I'm interested" are not.** See the confidentiality note below.
 
 ### Creative Director, Tommy Hilfiger — PVH Corp., Amsterdam
 
@@ -261,12 +331,35 @@ save the job.** See `.claude/skills/stealth-positioning/SKILL.md`.
 
 ---
 
+## Salary — what to put in the box
+
+Asked by PVH, 25 Jul 2026. Applies to every Dutch application.
+
+**Answer: €95,000 base.** Range form: €90,000 – €105,000.
+
+- **Hard floor ~€71,300/year** (€5,942/month gross excl. holiday allowance, age 30+, 2026
+  `[verify on source]`). Below it, no employer can carry her on the highly-skilled-migrant
+  route. **She is not "cheaper" under the floor; she is un-hireable.** The usual instinct to
+  anchor low because she needs a visa actively backfires here.
+- **Market:** Amsterdam Creative Director averages **€98,500**, with €79,750–€122,000 as the
+  25th–75th percentile band. €95k sits just under average — defensible at 22 years, and not
+  the number that screens her out as expensive while she is already a stretch on fashion years.
+- **Quote base, not package.** Dutch employers add **8% holiday allowance** on top, so
+  €95,000 base ≈ **€102,600** cash. Check which one an offer is quoting before reacting.
+- **30% ruling:** the 2026 salary norm is **€48,013** taxable, which the permit floor clears
+  automatically — so if she gets the permit she gets the ruling. It **drops to 27% from
+  1 Jan 2027** for anyone starting on or after 1 Jan 2024, so assume 27%. Net effect: €95k
+  with the ruling behaves closer to €110k+.
+- **Negotiating floor: €90,000.** Below that the headroom over the permit threshold gets
+  thin, and a 1 January uprating could push a marginal offer under the line.
+
 ## Where the next search pass goes
 
 1. **Named sponsoring employers** — the IND recognised-sponsor register filtered to brand,
    design, advertising and in-house creative, plus the Dutch market beyond it via the Blue
-   Card. Blocked this pass: `ind.nl` is refused by this environment's egress policy. Needs
-   a session that can reach it, or Sara pulling the monthly file herself.
+   Card. `ind.nl` is refused by this environment's egress policy, but
+   [visalist.nl](https://www.visalist.nl/) and [indsponsors.nl](https://indsponsors.nl/)
+   mirror the register and are reachable — use those to build the target list.
 2. **Ireland** — English-language, no language barrier, strong agency and tech-brand
    presence. Confirm whether any creative or marketing occupation reaches the Critical
    Skills list, since that decides which permit applies and how fast it moves.
