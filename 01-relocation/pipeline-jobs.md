@@ -190,12 +190,51 @@ reason that will not change. France remains open as an employer-sponsored market
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
-| Associate Creative Director (Art/Design), Virtual Creative Production | AKQA (WPP) | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — **best title + skill match** |
-| Creative / brand roles, in-house Creative Agency | Rituals | 🇳🇱 Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **best category match** |
-| Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **most differentiated advantage** |
-| Senior Art Director | AKQA (WPP) | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — lateral, low friction |
-| Art Director | Foot Locker Europe | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — weaker fit |
-| Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | `LEAD` — stretch |
+| Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | ✅ **`APPLIED`** — sent 25 Jul 2026 |
+| Creative / brand roles, in-house Creative Agency | Rituals | 🇳🇱 Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **now the strongest open lead** |
+| Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — most differentiated advantage |
+| ~~ACD (Art/Design), Virtual Creative Production~~ | ~~AKQA~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED` — do not apply.** CGI pipeline role. See below |
+| ~~Senior Art Director~~ | ~~AKQA~~ | 🇳🇱 Amsterdam | — | — | — | ⏸️ **Hold** — fourth application to one agency; see the concentration pattern |
+| ~~Art Director~~ | ~~Foot Locker Europe~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **Retired** — Art Director band is marginal against the permit floor |
+
+### ❌ Why the AKQA ACD role is closed — and what I got wrong
+
+I ranked this first from a search snippet. **The full posting makes it a clear no, and Sara
+spotted it before I did.** Recording the reasoning because the mistake is instructive.
+
+It is a **CGI and VFX production leadership role wearing a creative director title.** The
+CGI content is structural, not incidental — roughly half the spec:
+
+- Direct specialised CGI artists across *animation, modelling, rigging, lighting, compositing*
+- Craft knowledge across CGI workflows: *modelling, lighting, animatics, grading, retouching*
+- **Hands-on** compositing, grading, retouching and finishing on large-scale projects
+- **EXR and ACES** colour-management workflows
+- Proficiency in **Premiere, After Effects, DaVinci**
+
+She has none of that pipeline, and it is hands-on and testable at interview. Add "award-
+winning work across **European** and global markets" — her recognition is MENA — and there
+are too many structural gaps to argue past. **Applying would also have been a fourth
+application to one agency, which is exactly the pattern already diagnosed.**
+
+### ⚠️ The lesson that generalises: two different "AI in creative" markets
+
+This is the sharpest positioning finding so far, and it should filter every future lead.
+
+| | **Technical / production AI** | **Applied / governance AI** |
+|---|---|---|
+| Looks like | ComfyUI node graphs, LoRA training, JSON-based prompting, model selection, pipeline integration | Generation inside live client production, AI usage standards, AI written into brand documentation, getting clients and stakeholders comfortable |
+| Sits in | VFX and production agencies, virtual production studios | In-house brand teams, consultancies, institutional clients |
+| **Sara** | ❌ **Not hers.** Engineering-adjacent | ✅ **Squarely hers**, and scarcer at senior level |
+
+The AKQA role wanted the left-hand column and named the tools explicitly. **"AI" in a
+posting is not a match signal on its own — read which column it means.** Her advantage is
+real but specific: she is one of few senior creatives who has made AI *legible and governable
+for institutional clients*. That is a brand-side and consultancy asset, not an agency
+production one.
+
+**Targeting consequence: prioritise in-house brand teams and consultancies over production
+agencies.** It also explains the AKQA pattern from the other direction — agencies were
+never the right shape for her AI story.
 
 ### ⚠️ Read before applying to any of the above
 

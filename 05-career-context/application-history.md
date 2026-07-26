@@ -7,7 +7,7 @@ rejections become visible.
 
 | Date | Organisation | Role / Programme | Country | Route | CV variant | Status | Follow-up |
 |---|---|---|---|---|---|---|---|
-| 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | **Prepared, not yet sent** | Apply at careers.pvh.com — **not** via LinkedIn |
+| 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | ✅ **SENT** | **First application at her actual level.** Salary answer given: €95,000. No deadline stated — chase if nothing by ~mid-Aug |
 | 14 Apr 2026 | AKQA (WPP) | **Senior Designer** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ❌ **Rejected** — form letter, no role-specific feedback | Below the permit floor. Should not have been applied for |
 | 30 Mar 2026 | AKQA (WPP) | **Art Director** | 🇩🇰 Copenhagen | A1 | *(applied independently)* | ❌ **Rejected** — form letter | Denmark route unresearched — see `country-notes.md` |
 | 21 Mar 2026 | AKQA (WPP) | **Art Director** | Location unstated | A1 | *(applied independently)* | ⚪ **Auto-acknowledgement only** — not a rejection | "If your application meets the requirements… we will reach out." No decision was ever communicated |
