@@ -278,7 +278,34 @@ eligibility is built *around* work experience rather than in spite of it.
 | Funding status | **Scheme confirmed and amount confirmed at scheme level; per-programme deadlines unverified.** Primary source unread — blocked. |
 | Residence permit | Student residence permit in each host country. Consortium handles the mobility. **Verify per programme.** |
 | Source | https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters |
-| Fit | The no-age-limit rule makes this the widest door open to her. Weakness: no brand/design/creative-leadership programme identified yet — the catalogue skews STEM, policy and sustainability. **That search is the top job for pass 2.** |
+| Fit | The no-age-limit rule makes this the widest door open to her. **But see the field problem below — it is real.** |
+
+**⚠️ Field search, first sweep — 25 July 2026. Preliminary and not encouraging.**
+
+Searched the catalogue for design, brand, communication and creative management. The
+closest four found:
+
+| Programme | Consortium | Fit for a brand/experience creative director |
+|---|---|---|
+| **MAGMa** — Managing Art and Cultural Heritage in Global Markets | multi | **Closest match.** Arts/cultural *management*, global markets. Adjacent to brand strategy, not on it. |
+| **Media Arts Cultures** | Danube Krems (AT) · Aalborg (DK) · Łódź (PL) · City U Hong Kong | Media arts theory, curation and heritage. Academic rather than practice. **Note the Austrian partner** — pairs with Austria's low fees. |
+| **EUCULTURE** — European Cultural Governance | CIFE · Luiss | Policy and governance. Weak fit. |
+| **ReSound** — European Sound Masters | IADT (IE) · Lusófona (PT) · LMTA (LT) | Sound. **Not her field.** |
+
+**Honest read: the catalogue skews to media-arts theory, cultural heritage and policy —
+not brand, design leadership or creative direction.** Nothing found is a clean match.
+MAGMa and Media Arts Cultures are adjacent and worth a proper look; the rest are noise.
+
+**This is a first sweep, not an exhaustive one** — the official catalogue lists 100+
+programmes (Mastersportal indexes 231) and it is **blocked at this session's proxy**, so
+this was assembled from search snippets. **Do not conclude Erasmus Mundus is closed.**
+Conclude that it is not the easy win it looked like, and that the full catalogue needs
+reading directly.
+
+**Strategic consequence:** this **raises SISGP further**. Sweden's scheme spans ~700
+English-taught master's across all fields, so it is far likelier to contain a genuine
+design or brand programme than a consortium catalogue weighted to heritage and policy.
+**Sweden is the primary route; Erasmus Mundus is the hedge, not the co-favourite.**
 | **Status** | **LEAD — highest priority.** Blocked on one thing: finding programmes in her field. |
 
 #### 3. ⛔ Master Mind Scholarship — Flanders, Belgium — **LIKELY FAILS on the GPA floor**
