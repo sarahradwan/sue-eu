@@ -417,6 +417,35 @@ Details retained below for that conversation.
 | Fit | English-native environment, strong international agency and tech-brand presence in Dublin. Weakest funding of the four, and Dublin housing costs erode it. |
 | **Status** | **LEAD.** Watch for the 2027/28 call. |
 
+### SBW Berlin Scholarship — checked 26 July 2026 on Sara's suggestion. **Fails four ways.**
+
+Fully funded and genuinely generous — 100% tuition, furnished accommodation in SBW's shared
+student flats in Berlin, ~**€480/month** stipend, travel allowance both ways. Worth checking.
+It does not survive the filter.
+
+| Criterion | Requirement | Sara | |
+|---|---|---|---|
+| **Age** | **18–30** | **46** | ⛔ fails by 16 years |
+| **Grade** | German equivalent **2.0** or better | 72.19% Egyptian "Good" ≈ German 2.5–3.0 | ⛔ fails |
+| **Income** | Must **prove low household income** | Senior creative director | ⛔ almost certainly fails |
+| **Post-study** | **Must intend to work ≥18 months in the home country after graduating** | Goal is to *stay* in the EU | ⛔ **fails by design** |
+
+*Search-sourced 26 Jul 2026 from scholarship aggregators; sbw-berlin.de not read directly —
+proxy-blocked. The age band and the return clause are consistent across every source found.*
+
+**The fourth row is the one that generalises**, so it has been added to
+`eligibility-filter.md` as a new disqualifier class:
+
+> **A scheme requiring return to the home country after graduation cannot satisfy Route B,
+> however well funded it is.** Route B exists to produce an EU residence permit that leads
+> somewhere. A scholarship that funds the degree and then requires her to leave has funded a
+> qualification, not a relocation.
+
+This is the same family as DAAD EPOS and VLIR-UOS: **development scholarships built to grow
+capacity in the sending country.** They are generous precisely because they expect you to go
+home. That expectation is the opposite of the goal, and it is worth screening for *before*
+checking age or funding — it is faster to check and it disqualifies just as absolutely.
+
 ### Checked and probably dead — one more look before discarding
 
 **Italy — regional DSU scholarships.** No age limit, and the package is excellent (full
@@ -637,6 +666,7 @@ is the main body of pass 2.
 | Maastricht NL-High Potential | Netherlands | Age ≤35 |
 | Orange Knowledge Programme | Netherlands | Programme ended 31 Dec 2024 |
 | Italy regional DSU | Italy | Income-tested (~€25,000 ISEE) — almost certainly fails |
+| **SBW Berlin Scholarship** | Germany | **Fails four ways — see below.** Age 18–30 · grade 2.0 German equivalent · low-income household test · **and an 18-month return-home clause that contradicts the entire goal** |
 
 ---
 

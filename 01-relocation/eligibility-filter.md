@@ -69,6 +69,13 @@ strength of route first, country preference second.
 
 ## Automatic disqualifiers
 
+- **A return-to-home-country obligation.** *(Added 26 Jul 2026 after checking SBW Berlin.)*
+  Any scheme requiring her to work in Egypt or the UAE for a period after graduating
+  **cannot satisfy Route B, however well funded it is** — it funds a qualification, not a
+  relocation. This is standard in development scholarships (SBW Berlin: 18 months; DAAD EPOS
+  and VLIR-UOS carry the same expectation), which exist to build capacity in the sending
+  country. **Screen for this first** — it is quick to check and disqualifies as absolutely
+  as an age cap.
 - No visa sponsorship **and** not a funded-study route **and** not a remote role clearing a
   nomad-visa income threshold.
 - **Requires her to self-fund** — blocked account, savings deposit, or a job-search period
