@@ -8,7 +8,9 @@ rejections become visible.
 | Date | Organisation | Role / Programme | Country | Route | CV variant | Status | Follow-up |
 |---|---|---|---|---|---|---|---|
 | 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | **Prepared, not yet sent** | Apply at careers.pvh.com — **not** via LinkedIn |
-| ~Jul 2026 | AKQA (WPP) | **Senior Designer** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ❌ **Rejected** — form letter, no role-specific feedback | Data held 24 months. **Re-apply to ACD / Senior AD — a rejection for one role does not bar others, and they explicitly invite it** |
+| 14 Apr 2026 | AKQA (WPP) | **Senior Designer** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ❌ **Rejected** — form letter, no role-specific feedback | Below the permit floor. Should not have been applied for |
+| 30 Mar 2026 | AKQA (WPP) | **Art Director** | 🇩🇰 Copenhagen | A1 | *(applied independently)* | ❌ **Rejected** — form letter | Denmark route unresearched — see `country-notes.md` |
+| 21 Mar 2026 | AKQA (WPP) | **Art Director** | Location unstated | A1 | *(applied independently)* | ⚪ **Auto-acknowledgement only** — not a rejection | "If your application meets the requirements… we will reach out." No decision was ever communicated |
 
 ## CV variants
 
@@ -28,7 +30,29 @@ Deliverables live outside the repo.
 Reviewed at each `skill-retro`. Rejections carry information — which routes stall, which
 framings land, whether the sponsorship question kills applications early or late.
 
-- **⛔ The permit floor is a *title* floor. First real pattern, found 25 Jul 2026 from the
+- **⛔ Pattern 2 — three applications to one agency, all below her level, across four months
+  (21 Mar, 30 Mar, 14 Apr 2026). None reached a human.** Art Director, Art Director, Senior
+  Designer. This is the diagnosis, and it is not bad luck:
+
+  **She is applying into the one band where she cannot win.** At Art Director and Senior
+  Designer level she is competing against people with 5–10 years, so a 22-year CD-level CV
+  reads as overqualified — screeners reject that on flight-risk and salary-mismatch grounds.
+  And simultaneously those levels sit at or below the permit floor, so the visa could not
+  have followed even on a yes. **Too senior to be hired, too junior to be sponsored.**
+
+  Three consequences:
+  1. **No further AKQA applications below Associate Creative Director.** Three are already
+     on file for 24 months and a recruiter can see all of them. A fourth at the same level
+     compounds the pattern rather than resetting it.
+  2. **If she does return to AKQA, it should be ACD or above, and via a referral or a named
+     contact — not the portal.** The portal route has now been tested three times.
+  3. **Concentration is itself the problem.** Three attempts at one agency over four months
+     is not a search. Breadth across employers matters more than persistence at one.
+
+  Note the 21 March reply was an **auto-acknowledgement, not a rejection** — no decision was
+  ever communicated. Only two are true rejections.
+
+- **⛔ Pattern 1 — the permit floor is a *title* floor. Found 25 Jul 2026 from the
   AKQA Senior Designer rejection.** That application was structurally un-winnable and the
   rejection says nothing about her. Senior Designer in Amsterdam pays roughly **€54,000
   average, €44,251–€67,500** — **the entire band sits below the ~€71,300 highly-skilled-migrant

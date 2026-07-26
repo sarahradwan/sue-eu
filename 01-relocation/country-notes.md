@@ -558,6 +558,14 @@ consulate. **Backup to Spain, not a replacement.**
 Denmark, Finland, Poland, Czechia, Estonia and the rest are all acceptable under the
 filter. Add sections as leads appear.
 
+**🇩🇰 Denmark — promote to a proper section next pass.** Sara has already applied to a
+Copenhagen role (AKQA, 30 Mar 2026), so this is a live market for her, not a hypothetical.
+Route A is employer-led via the **Pay Limit Scheme** (a salary threshold, no sponsor
+register) or the **Positive List** for shortage occupations. **The threshold figure is
+unresearched and matters** — it sets the same title floor the Netherlands does, and it is
+the first thing to check before another Danish application. Copenhagen creative sector runs
+substantially in English.
+
 ## EU-wide — not a country, but the widest door
 
 **Erasmus Mundus Joint Masters.** ~**€1,400/month** plus tuition and travel, across a
