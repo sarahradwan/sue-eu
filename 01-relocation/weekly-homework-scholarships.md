@@ -52,8 +52,11 @@ Neither is a deadline anyone set, which is exactly why they slip.
 1. **Egyptian document legalisation — 6–10 weeks, three authorities, run remotely from Abu
    Dhabi.** Austria requires it complete *at the moment of application*. Nothing else in
    this file can be submitted to Austria until it is done.
-2. **English certificate validity.** Most tests lapse after two years. If hers has expired,
-   a re-sit must be booked now — test slots fill weeks ahead, and every scheme here needs it.
+2. ⛔ **No English language test exists.** *(Corrected 25 Jul — earlier passes wrongly
+   recorded one as held. She has never sat IELTS or TOEFL; what she holds is her degree
+   certificate.)* Sweden requires **English 6** — IELTS Academic 6.5, no band below 5.5.
+   **Book now:** slots fill weeks ahead, and the mid-January admission deadline is fixed.
+   The IELTS fee (~€310–350) is the largest single line in the preparation budget.
 
 Both are addressed in weeks 1–3 because everything downstream depends on them.
 
@@ -82,15 +85,18 @@ not preparation.
 ## Weekly — now to early October
 
 ### Week 1 · Mon 27 July
-**[SARA] Find the English certificate and read the date off it.** 15 minutes.
+**[SARA] Book computer-delivered IELTS Academic.** *(Revised 25 Jul — she has no language
+test at all. This was a conditional check; it is now the hardest task in the plan.)*
 
-That single date decides whether the next eight weeks include a re-sit. Note the test type
-(IELTS Academic? TOEFL iBT? something institutional?) and the sitting date.
+Must be **Academic**, not General Training. Sweden needs **6.5 overall, no band below 5.5** —
+a low bar at C2. **The risk is the booking calendar, not the English.** Sit by
+Sept–Oct 2026 so there is room for one re-sit before the mid-January deadline.
 
-- [SARA] While the folder is open: are the transcript and certificate in **English or
-  Arabic**? Decides whether certified translation is needed.
-- [CLAUDE] Erasmus Mundus catalogue sweep for design / brand / communication / creative
-  management programmes. **The largest remaining unknown in Route B.**
+- [SARA] Are the degree certificate and transcript in **English or Arabic**? Decides whether
+  certified translation is needed.
+- [CLAUDE] ✅ **Done 25 Jul — Erasmus Mundus catalogue sweep.** No clean match in her field;
+  closest are MAGMa and Media Arts Cultures. Preliminary, catalogue was proxy-blocked.
+  **Raises Sweden to primary route.**
 
 ### Week 2 · Mon 3 August
 **[SARA] Start the Egyptian legalisation chain.** The longest lead time in the plan.
@@ -110,12 +116,17 @@ Austrian Embassy Cairo.
   Vienna legalisation page once egress allows.
 
 ### Week 3 · Mon 10 August
-**[SARA] Book the English re-sit — if week 1 said it is needed.** Slots book out.
+**[SARA] Ask Helwan for a Medium of Instruction letter** — while you already have them on
+the line about legalisation.
 
-If the certificate is valid, this week instead: **confirm name and date of birth are
-identical** across passport, transcript and certificate. Sweden checks this explicitly and
-mismatches cause rejection, not correction.
+A letter confirming the degree was taught in English would **remove the IELTS requirement
+entirely**. Applied Art at Helwan in 2003 was most likely Arabic-medium, so treat it as a
+long shot — but the ask is free and you are contacting them anyway. **Do not cancel the
+IELTS booking on the strength of it.**
 
+- [SARA] Confirm name and date of birth are **identical** across passport, degree
+  certificate and transcript. Sweden checks this explicitly; mismatches cause rejection,
+  not correction.
 - [CLAUDE] Draft the Flemish enquiry email for week 4.
 
 ### Week 4 · Mon 17 August

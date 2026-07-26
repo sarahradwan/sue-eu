@@ -41,7 +41,7 @@ them.
 | **Nationality** | **Egyptian** | ✅ **Sweden (SI) is OPEN.** Egypt is on the eligible-country list. The gate that blocked the strongest lead is cleared. |
 | **Date of birth** | **11 August 1980** | Age **46** through the entire application window; **47** at a Sept 2027 intake. |
 | **Degree transcript** | **Held** | The classic late blocker in `timeline-to-2027.md` is *not* the blocker. Attestation is. |
-| **English certificate** | **Held** | ⚠️ Validity window unchecked — see below. |
+| **English language test** | ⛔ **DOES NOT EXIST** | Corrected 25 Jul 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
 | **Attestation of both** | **NOT DONE** | ⛔ **This is now the critical path.** See the section below. |
 | **Degree grade (Helwan, 2003)** | **5776 / 8000 = 72.19%** | Egyptian band **"Good" (Jayyid)**. **Kills Master Mind.** Harmless everywhere else. See below. |
 
@@ -173,24 +173,58 @@ Sweden's central admissions service does **not** require consular legalisation:
 scanner and a translator; Austria needs three ministries and an embassy. That asymmetry
 should shape the order she does the work in.
 
-### ⚠️ The English certificate — check the expiry this week
+### ⛔ No English language test — corrected 25 July 2026
 
-She has one, but most English tests **expire two years after the sitting**. Two specific
-problems:
+**My error in earlier passes.** I wrote "English certificate" loosely; she reasonably read
+that as her degree certificate. **Clarified: she has never sat IELTS, TOEFL or any
+equivalent.** The vault was tracking a validity question for a document that does not exist.
 
-- **Master Mind (Flanders)** requires English proof **no older than 3 years at the time of
-  application**. A certificate sat before roughly early 2024 is dead for that scheme.
-- Swedish and Austrian admissions apply their own validity windows.
+`timeline-to-2027.md` anticipated exactly this — *"English test (her C2 may still need
+proof)"*. It was right, and it is now confirmed as a real gap rather than a risk.
 
-**If it is an IELTS or TOEFL older than about two years, she needs to re-sit — and test
-slots book out.** That is a second, independent thing that can quietly break the January
-2027 window. Establish the test type and sitting date before anything else on this list.
+**This is no longer conditional. It is a hard task with an external dependency.**
+
+**What Sweden requires — the binding standard, since Sweden is the primary route.**
+Swedish master's admission requires **English 6**, proven by an internationally recognised
+test: https://www.universityadmissions.se/en/entry-requirements/english-language-requirements/
+
+| Test | Requirement for English 6 |
+|---|---|
+| **IELTS Academic** | **6.5 overall, no section below 5.5** |
+| **TOEFL iBT** | **90 total, writing 20** |
+
+**The bar is low relative to her.** She works at C2 and has operated in English
+professionally for 22 years. **The risk here is logistical, not linguistic** — booking,
+turnaround and the January deadline, not whether she can score.
+
+**Recommendation: computer-delivered IELTS Academic.** Results in ~3–5 days rather than
+~13 for paper. Must be **Academic**, not General Training — General Training is not
+accepted for university admission and this is a common, expensive mistake. Cost in the UAE
+is roughly **AED 1,250–1,400 (~€310–350)**, which fits the preparation budget but is its
+single largest line.
+
+**⚠️ Possible exemption worth pursuing in parallel — do not wait on it.**
+Sweden may waive the test where **prior university study was taught in English**, evidenced
+by a **Medium of Instruction (MOI) letter** from the awarding university.
+
+- Helwan's Faculty of Applied Art, 2003, was **most likely Arabic-medium**, so this is a
+  long shot.
+- But she must contact Helwan anyway for the legalisation chain. **Requesting an MOI letter
+  in the same approach costs nothing extra.**
+- **Book the test regardless.** Slots fill, and gambling the January deadline on a long
+  shot is not a trade worth making. If the MOI letter lands and is accepted, the test
+  becomes a wasted fee — an acceptable loss against missing the intake by a year.
+
+**Timing:** book now, sit by **September–October 2026**. That leaves margin to re-sit once
+before the mid-January admission deadline if the first attempt somehow disappoints.
 
 ### Actions, in order
 
-1. **Find the English certificate's test type and date.** Five minutes. Decides whether a
-   re-sit needs booking now.
-1b. **Email one Flemish international office** about the 72.19% against Master Mind's 3.5
+1. ⛔ **Book computer-delivered IELTS Academic.** No test exists; Sweden's January deadline
+   needs one. External booking dependency — this is the task with the least slack.
+2. **Ask Helwan for a Medium of Instruction letter** while arranging legalisation. Long
+   shot, costs nothing, and would remove the test requirement if it lands.
+3. **Email one Flemish international office** about the 72.19% against Master Mind's 3.5
    floor. One email; it either keeps Belgium alive or closes it cleanly.
 2. **Start the Egyptian legalisation chain for Austria.** Longest lead time of anything in
    the plan. Needs a representative in Cairo.
