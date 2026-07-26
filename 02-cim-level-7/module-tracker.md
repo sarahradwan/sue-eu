@@ -64,6 +64,32 @@ Level 7 assessments apply frameworks to a real organisation.
 Choosing one and staying with it usually pays — the organisational analysis compounds
 instead of restarting each module.
 
+## ⚠️ Autumn 2026 is oversubscribed — read before scheduling
+
+As of 25 July 2026 the parallel sessions established three things that compete with CIM for
+the *same* Aug–Oct 2026 weeks:
+
+| Task | Window | Slippage cost |
+|---|---|---|
+| **IELTS Academic** — never sat | Book Sept 2026, sit Sept–Oct 2026 | Sweden closes mid-Jan 2027. A resit needs weeks. |
+| **Document attestation** — not started | Start now; Egypt has no apostille route, so it is the full consular chain | Austria requires legalisation **on the documents at time of application** |
+| **CIM module** — exam or assignment | Unknown until Sara confirms | A failed exam can mean a months-away resit |
+
+**Priority order, stated plainly: IELTS and attestation outrank CIM.**
+
+Not because CIM matters less, but because of what failure costs. Missing an English test or
+an attestation deadline **removes entire scholarship routes for a full year**. A CIM module
+sat one cohort later delays the diploma and nothing else — every surviving scheme accepts
+"in progress with expected completion date."
+
+So if the dates collide, **CIM is the thing that moves.** Decide that now, calmly, rather
+than in December under pressure.
+
+**The specific thing to check** once Sara confirms her dates: whether a Global Marketing
+Decisions **exam sitting** falls in Sept–Oct 2026. That is the one genuine conflict — a
+fixed, unmovable exam date landing in the same weeks as the IELTS sitting and the
+attestation chase. Assignment deadlines are more absorbable; an exam is not.
+
 ## Interaction with the EU timeline
 
 Scholarship applications for September 2027 intake open **Oct–Nov 2026**, deadlines
@@ -72,15 +98,21 @@ Scholarship applications for September 2027 intake open **Oct–Nov 2026**, dead
 Whether the diploma completes before or after that window changes how it is presented:
 
 - **Completes before** — a finished Level 7 postgraduate qualification on the application.
-  Materially stronger, and directly relevant for a candidate whose degree is from 2003;
-  it demonstrates recent postgraduate-level study, which some schemes require.
+  Useful for a candidate whose degree is from 2003; it demonstrates recent
+  postgraduate-level study, which some schemes look for.
 - **Completes after** — state it as in progress with the expected completion date. Normal
   and accepted; institutions handle this routinely.
 
-Either way it strengthens the application. **The one thing to avoid is a clash** — an exam
-sitting or assignment deadline landing in the same weeks as scholarship deadlines. That is
-the specific thing to check once dates are known, and the reason the dates matter now
-rather than later.
+**One thing it will not fix.** Her 2003 Helwan result (72.19%, Egyptian "Good") falls below
+Master Mind's 3.5/4.0 floor. Master Mind measures the *last obtained bachelor's or
+master's* — and **CIM Level 7 is a Postgraduate Diploma, not a master's**, so it almost
+certainly does not displace the 2003 grade. Do not plan around it doing so without written
+confirmation from the scheme. Detail in `../01-relocation/pipeline-scholarships.md`.
+
+The good news is that the three strongest surviving routes — SI Global Professionals,
+Erasmus Mundus and Ireland GOI-IES — have **no mechanical GPA gate**, so the grade does not
+follow her around. CIM strengthens those applications on merit rather than by repairing
+anything.
 
 ## Notes
 
