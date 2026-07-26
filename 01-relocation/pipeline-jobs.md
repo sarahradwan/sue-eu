@@ -191,7 +191,7 @@ reason that will not change. France remains open as an employer-sponsored market
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
 | Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | ✅ **`APPLIED`** — sent 25 Jul 2026 |
-| Creative / brand roles, in-house Creative Agency | Rituals | 🇳🇱 Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — **now the strongest open lead** |
+| ~~Creative / brand roles~~ | ~~Rituals~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED`** — Sara checked; no suitable roles. Lead was weak, see below |
 | Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — most differentiated advantage |
 | ~~ACD (Art/Design), Virtual Creative Production~~ | ~~AKQA~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED` — do not apply.** CGI pipeline role. See below |
 | ~~Senior Art Director~~ | ~~AKQA~~ | 🇳🇱 Amsterdam | — | — | — | ⏸️ **Hold** — fourth application to one agency; see the concentration pattern |
@@ -289,6 +289,60 @@ while aiming higher elsewhere.
 
 *Foot Locker's Art Director role skews youth-culture and streetwear; real, but the weakest
 fit of the six. Send only if the others are exhausted.*
+
+### ⛔ Why the board looks empty — diagnosed 25 Jul 2026
+
+Sara checked Rituals and found nothing suitable. She was right, and the Rituals lead was
+weak on my part: I inferred it from a "122 open positions" count without seeing the creative
+roles, and most of those will be retail and supply chain.
+
+But the deeper problem is not Rituals. **The search has been one title, in one city, through
+one channel** — and that combination yields almost nothing.
+
+**Finding: "Creative Director" is the narrowest possible search term in Amsterdam.**
+
+| Title searched in Amsterdam | Listings `[counts from search extracts]` |
+|---|---|
+| Creative Director | **21** |
+| Brand Director | 23 |
+| Brand Strategist | 57 |
+| **Design Director** | **154–214** |
+
+Roughly a **tenfold difference in surface area** between the title she has been searching and
+an adjacent one she has equal claim to. She has been fishing the smallest pool available.
+
+⚠️ **Honest caveat, having overclaimed twice this session:** a large share of those Design
+Director listings will be **product and UX** design director roles, not brand. Those are a
+partial fit at best — her Figma is still "in active development" and product design is a
+different discipline. **The number is not 214 real leads.** But it is certainly more than 21,
+and the brand-side ones are in there.
+
+**Titles to search from now on** — all at or above the permit floor, none below:
+
+`Creative Director` · `Design Director` · `Brand Director` · `Head of Brand` ·
+`Head of Creative` · `Creative Lead` · `Brand Strategy Director` · `Executive Creative Director`
+
+*Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
+and almost nothing else in her CV is being used to open that door.*
+
+### 🎯 Change the channel — recruiters, not job boards
+
+Job boards are the most competitive channel and the worst for sponsorship. Specialist
+creative recruiters are better on three counts: they know which clients actually sponsor,
+they pre-screen rather than filtering on keywords, and — **critically for her —
+a recruiter conversation is completely private.** No LinkedIn activity, no Follows, nothing
+her employer can observe. This channel is confidentiality-safe in a way job boards are not.
+
+| Recruiter | Why |
+|---|---|
+| **[AMACOM](https://www.amacom.nl/international.html)** | Described as *the* leading recruitment and executive search firm for the Dutch creative and agency industry. Explicitly advises **creative, fashion and lifestyle brands on building creative departments** — the closest match to her target of anything found. **Start here.** |
+| **[SPARK](https://www.thespark-company.com/)** | Amsterdam creative agencies and brands, and states it sources **talent from anywhere in the world** — the most sponsorship-friendly signal of the five |
+| **[Blue Lynx](https://bluelynx.com/jobs/creative-jobs-netherlands/)** | Expat-focused Dutch recruiter, names **creative directors** explicitly in its specialisms |
+| **[Salt](https://welovesalt.com/nl/)** | Covers **Netherlands, Germany, Belgium and the UK** — widens geography in one registration, and Belgium is a preferred country |
+| **[Aquent](https://aquent.nl/)** | Global marketing, creative and design staffing |
+
+**Also currently hiring Creative Directors in Amsterdam** (from search extracts, unverified):
+Clearly · The Sting · Amsterdam University of Applied Sciences · WPP Media.
 
 ### Search infrastructure — set up once, then it runs itself
 
