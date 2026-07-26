@@ -63,9 +63,14 @@ band score. Her employer watches that feed. This folder and the study itself are
 
 Created by the IELTS session as it goes. Suggested:
 
+**Status — 26 Jul 2026:** diagnostic D1 (Writing Task 1) issued, awaiting Sara's script.
+Nothing marked yet. No study plan until there is a baseline to build it on.
+
 | File | Holds |
 |---|---|
 | `diagnostic.md` | First full timed paper — the baseline everything else is measured against |
+| `band-descriptors.md` | The marking reference. Every band in this folder is scored against it |
+| `timeline-and-booking.md` | Backwards plan from the Swedish deadline; booking specifics |
 | `study-plan.md` | Week-by-week to the sitting |
 | `writing-task-1.md` | The convention, model answers, her drafts with band feedback |
 | `writing-task-2.md` | Essay structures, her drafts with band feedback |
