@@ -227,7 +227,8 @@ it breaks the Swedish application.
 
 | Milestone | Target date | Status |
 |---|---|---|
-| IELTS session opened, diagnostic taken | early Aug 2026 | ⬜ not started |
+| IELTS session opened | 26 Jul 2026 | ✅ **done — ahead of schedule** |
+| Diagnostic D1 (Writing Task 1) taken | early Aug 2026 | 🟡 **issued 26 Jul, blocked on Sara's script** |
 | Writing Task 1 at band 7 in practice | Aug–Sept 2026 | ⬜ |
 | Two full timed papers at 7.0+ | Sept 2026 | ⬜ |
 | **Test booked** | **September 2026** | ⬜ |
