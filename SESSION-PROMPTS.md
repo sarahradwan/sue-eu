@@ -92,6 +92,65 @@ Start with priority 1 and report back short.
 
 ---
 
+## Session 3 — IELTS Academic
+
+Opened July 2026. **This is a scholarship dependency, not a side project** — Swedish
+master's admission closes mid-January 2027 and there is currently no English test.
+
+```
+Working on IELTS Academic. This is a requirement for my Route B
+scholarship applications, not general English study.
+
+Read CLAUDE.md and 06-ielts/README.md first. The README has the
+target scores, the deadline and my profile — do not re-derive them.
+
+This session owns 06-ielts/ ONLY. Do not edit anything in
+01-relocation/ — two other sessions write there.
+
+The situation:
+- IELTS Academic, computer-delivered. Booking September 2026,
+  sitting September-October 2026.
+- Sweden needs 6.5 overall, no band below 5.5. I am aiming at 7.0+
+  for headroom — some Erasmus Mundus consortia want 7.0.
+- Hard downstream deadline: Swedish admission closes mid-January 2027.
+- I have never sat IELTS.
+
+About me, so you calibrate correctly: I am C2, native Arabic, and
+have worked in English professionally for 22 years at creative
+director level, presenting to ministers. My English is not the
+problem. The exam format is. Do not waste my time on general
+language study.
+
+Start with a DIAGNOSTIC, not a study plan: give me one full timed
+section under real exam conditions — start with Writing Task 1,
+since Academic Task 1 is the format I have never written and the
+most likely place I lose marks. Mark it against the official band
+descriptors and tell me the band honestly, not encouragingly.
+
+Then build the study plan around what the diagnostic actually shows,
+not around what a generic IELTS course assumes.
+
+Rules:
+- Score me against the real band descriptors. An inflated practice
+  band is worse than useless — it loses me a year.
+- Time everything. Untimed practice does not measure anything.
+- Write to 06-ielts/, not just to chat.
+- CONFIDENTIALITY: nothing about this test goes anywhere public.
+  An IELTS booking signals relocation and my employer watches my
+  LinkedIn.
+- git pull --rebase before committing, then push to
+  claude/proactive-agent-setup-7f6r2m.
+
+Report back: my current band, the single weakest thing, and what to
+do this week.
+```
+
+**Follow-up lives in the scholarships session.** IELTS is tracked in
+`01-relocation/pipeline-scholarships.md` as a hard dependency of the Swedish route. Report
+band scores back to that session; the IELTS session does not touch relocation files.
+
+---
+
 ## Why the split
 
 Both sessions push to the same branch. Two things prevent collisions:

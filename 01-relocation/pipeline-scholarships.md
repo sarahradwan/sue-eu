@@ -215,8 +215,33 @@ by a **Medium of Instruction (MOI) letter** from the awarding university.
   shot is not a trade worth making. If the MOI letter lands and is accepted, the test
   becomes a wasted fee — an acceptable loss against missing the intake by a year.
 
-**Timing:** book now, sit by **September–October 2026**. That leaves margin to re-sit once
-before the mid-January admission deadline if the first attempt somehow disappoints.
+**Timing:** book **September 2026**, sit **September–October 2026**. That leaves margin to
+re-sit once before the mid-January admission deadline if the first attempt disappoints.
+
+### IELTS tracker — this session follows up, a separate session does the studying
+
+Study runs in a **dedicated IELTS session** (`06-ielts/`, prompt in `SESSION-PROMPTS.md`).
+That session owns `06-ielts/` and touches nothing in `01-relocation/`. **This file is where
+the dependency is tracked**, because a missing band score does not break an English course —
+it breaks the Swedish application.
+
+| Milestone | Target date | Status |
+|---|---|---|
+| IELTS session opened, diagnostic taken | early Aug 2026 | ⬜ not started |
+| Writing Task 1 at band 7 in practice | Aug–Sept 2026 | ⬜ |
+| Two full timed papers at 7.0+ | Sept 2026 | ⬜ |
+| **Test booked** | **September 2026** | ⬜ |
+| **Test sat** | **Sept–Oct 2026** | ⬜ |
+| **Band score received** | **Oct 2026** | ⬜ |
+| Re-sit window, if needed | Nov–Dec 2026 | contingency |
+| **Score attached to Swedish application** | **by mid-Jan 2027** | ⬜ **hard deadline** |
+
+**Escalate if:** no test is booked by **30 September 2026**, or the received band is below
+**6.5 overall / 5.5 in any section**. Either means the Swedish route — the primary route —
+is at risk, and the contingency is a December re-sit with no further margin.
+
+**Ask at every Monday check-in:** what band, and is the test booked? Those two questions
+cover the whole dependency.
 
 ### Actions, in order
 

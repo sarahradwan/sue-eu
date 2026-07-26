@@ -251,6 +251,10 @@ Converts to weekly detail as each block comes into range.
 
 ## Every Monday, regardless
 
+0. **Two IELTS questions: what band, and is the test booked?** Studying happens in a separate
+   session (`06-ielts/`); the *dependency* is tracked here, because a missing band score does
+   not break an English course — it breaks the Swedish application. **Escalate if no test is
+   booked by 30 Sept 2026.**
 1. **Scan** — new leads, tested against `eligibility-filter.md`.
 2. **Flag** — anything inside 60 days to the top of `pipeline-scholarships.md`.
 3. **Progress** — what moved, what stalled. A stalled legalisation chain is the one to catch
