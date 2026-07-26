@@ -19,7 +19,12 @@ Both sessions should work from these rather than re-deriving them.
 - **Date of birth: 11 August 1980.** Age **46** across the whole application window, **47**
   at a September 2027 intake. Germany's Opportunity Card age points = **0** (the assumption
   already used, so the 8-point total stands). Austria's RWR age points = **0 of 20**.
-- **Transcript and English certificate: held, but NOT attested.**
+- **Degree certificate and transcript: held, but NOT attested.**
+- ⛔ **No English language test — corrected 25 Jul 2026.** An earlier line here read
+  "English certificate: held". That was a terminology error on my side: what she holds is
+  her **degree certificate**. **She has never sat IELTS, TOEFL or any equivalent.** Her C2
+  is real but self-assessed, and universities require a test number. **Now a hard task with
+  an external booking dependency** — see `pipeline-scholarships.md` and `06-ielts/`.
 - **Degree result: Helwan 2003, 5776/8000 = 72.19%** — the Egyptian **"Good" (Jayyid)** band
   (65–74.99%), 2.8 points below "Very Good". Converts to roughly **2.0–3.3 on a 4.0 scale**
   depending on the source; sources genuinely disagree and only an official evaluation
@@ -43,15 +48,27 @@ Both sessions should work from these rather than re-deriving them.
 > legalise first, evaluate second.** Starting the evaluation without legalised inputs
 > wastes the longest lead time in the plan.
 >
-> ⚠️ **Separately: check the English certificate's expiry.** Most tests lapse after two
-> years, and Flanders' Master Mind requires proof no older than three. A re-sit needs
-> booking now if so. *Search-sourced 25 Jul 2026 — verify at hcch.net and with each
-> destination's embassy.*
+> ⚠️ **Separately: there is no English language test to attest.** She has never sat one.
+> Booking IELTS Academic (Sept 2026) is tracked as its own dependency, not part of this
+> chain. *Search-sourced 25 Jul 2026 — verify at hcch.net and with each destination's
+> embassy.*
 
 ## No capital to self-fund — added 25 Jul 2026, and it cuts across both routes
 
 Also confirmed by Sara: **she has no capital to self-fund.** She needs someone else to pay
 for the permit — an employer, or a salary that funds a residence permit she holds herself.
+
+**Refined by the scholarships session, 25 Jul 2026 — the detail matters:** roughly **€6,000**
+is *projected* from end-of-service gratuity plus selling possessions, but it **does not exist
+now** and is realisable **only just before travelling** — i.e. *after* the spring 2027 permit
+application that would need to show it. So it is **arrival money, not permit money, and not
+preparation money.** Two consequences for both routes:
+
+- **Preparation costs (~€1,200–2,400: legalisation, translations, IELTS, permit fees) must
+  come from salary**, roughly €100–200/month from August 2026.
+- ⚠️ **The gratuity may be smaller than expected.** Her WeDo tenure began **Feb 2025** — about
+  2.5 years by a mid-2027 departure, which at the standard 21-days-per-year rate is on the
+  order of 7–8 weeks of *basic* pay. **Worth calculating, not assuming.**
 
 **Route A** therefore records only two kinds of route:
 
