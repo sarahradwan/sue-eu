@@ -580,33 +580,76 @@ was ever read.
 | Senior Art Director | higher, varies | ✅ Usually |
 | Associate Creative Director / Creative Director | €80k–€122k, avg €98.5k | ✅ **Comfortably** |
 
-### ⚠️ Correction, 26 Jul 2026 — the floor is **country-specific**, not universal
+### ✅ REVISED 26 Jul 2026 — Sara pushed back, and she was right
 
-The bands above are Dutch. **Germany's floor is roughly €20,000/year lower**, which changes
-which titles are viable there.
+She said she is willing to take a less senior role because she is new to the market, and
+that the "nothing below ACD" rule was unhelpful. **Correct.** That rule was built entirely
+from Dutch salary data and I generalised it across the EU without checking. The real
+thresholds vary enormously, and **the Netherlands is an extreme outlier — nearly double
+Ireland's.**
 
-| Country | Threshold (2026) | Monthly |
-|---|---|---|
-| 🇳🇱 Netherlands — HSM, age 30+ | **~€71,300** excl. holiday allowance | ~€5,942 `[verify]` |
-| 🇩🇪 Germany — EU Blue Card, standard | **€50,700** | €4,225 |
-| 🇩🇪 Germany — Blue Card, shortage occupation | **€45,934** | €3,827 |
+| Country / route | Threshold 2026 | Monthly | Lowest title that clears |
+|---|---|---|---|
+| 🇮🇪 **Ireland — General Employment Permit** | **€36,605** | €3,050 | **Mid-level designer** |
+| 🇮🇪 Ireland — Critical Skills, on the list | €40,904 | €3,409 | Senior Designer |
+| 🇮🇪 Ireland — Critical Skills, *not* on the list | €68,911 | €5,743 | Creative Director |
+| 🇪🇸 Spain — reduced case | €31,416 | €2,618 | Mid-level designer |
+| 🇪🇸 **Spain — EU Blue Card** | **€41,356** | €3,446 | **Senior Designer** |
+| 🇧🇪 **Brussels — highly skilled** | **€44,441** | €3,703 | **Senior Designer** |
+| 🇩🇪 Germany — Blue Card, shortage occupation | €45,934 | €3,827 | Senior Designer |
+| 🇧🇪 Flanders — highly skilled | €48,912 | €4,076 | Senior Designer / AD |
+| 🇩🇪 Germany — Blue Card, standard | €50,700 | €4,225 | Senior AD |
+| 🇧🇪 Wallonia — highly skilled | €53,220 | €4,435 | Senior AD |
+| 🇳🇱 **Netherlands — HSM, age 30+** | **~€71,300** | €5,942 | **Creative Director. Nothing below.** |
 
-*German figures: [Section 18g AufenthG](https://www.rtpartner.de/en/immigration/blaue-karte-eu-mindestgehalt-2026/), effective 1 Jan 2026, half the annual pension contribution ceiling.*
+*Sources: [Ireland DETE, from 1 Mar 2026](https://www.mrci.ie/2026/03/06/new-employment-permit-salary-thresholds-from-1-march-2026/) ·
+[Spain, revised June 2026](https://www.arc-legal.es/en/eu-blue-card-salary-thresholds-updated-for-2026-in-spain/) ·
+[Belgium, by region](https://www.visahq.com/news/2026-01-16/be/belgium-raises-2026-salary-thresholds-for-work-permits-and-eu-blue-card/) ·
+[Germany §18g AufenthG](https://www.rtpartner.de/en/immigration/blaue-karte-eu-mindestgehalt-2026/) — search-sourced, verify before relying*
 
-**Consequence:** roles that fail the Dutch floor can clear the German one comfortably.
-Senior Art Director and Design Lead titles are viable in Germany and are not in Amsterdam.
+### 🔄 This reverses the country ranking
 
-**But the counterweight is language.** Germany's lower floor mostly does not help her, because
-most German roles are German-working and she is A1. It only helps for **English-operating
-employers**, which Berlin and Hamburg do have in volume. **Check Belgium, Ireland and Spain
-thresholds before applying the Dutch number anywhere else** — it does not travel.
+**Ireland moves to #1 and the Netherlands drops.** I had the Netherlands first because of the
+Blue Card no-sponsor-register finding. That finding still holds — but the salary floor makes
+it **the most restrictive market on this list**, not the easiest.
 
-**Rule: nothing below Senior Art Director / Associate Creative Director.** Applying "down"
-to improve the odds of getting in is the single most tempting mistake in her position, and
-it inverts — a lower role cannot carry the permit no matter how much they like her.
+**Ireland is the best market for her, on every axis at once:**
+- **Lowest floor in the EU at €36,605** — half the Dutch requirement
+- **English-native.** No language filter at all, the thing that kills most of her leads
+- **128 creative director listings nationally** against Amsterdam's 21
+- Among the highest-volume EU destinations for non-EU skilled hiring
+- One live named lead already: PepsiCo Dublin
 
-**This retires the Foot Locker Art Director lead** unless its band is confirmed at the top
-end. Check the salary before spending an application on any role titled Art Director.
+⚠️ **The Irish trade-off, stated honestly:** the **General Employment Permit** at €36,605
+does not require the occupation to be on the Critical Skills list, but it does require a
+**Labour Market Needs Test** — the employer must advertise locally first. That is real
+friction for the employer, though far less than finding €71,300. The **Critical Skills**
+permit skips the test but needs the occupation listed. **Whether any creative or design
+occupation is on the Critical Skills list is still the open question for Ireland** and is
+worth answering before anything else.
+
+### The revised rule
+
+**Not** "nothing below Senior Art Director." Instead:
+
+> **A role qualifies if its salary clears the threshold of the country it is in.**
+
+In Ireland, Spain and Brussels that means **Senior Designer and Art Director roles are
+genuinely viable.** In the Netherlands it still means Creative Director and nothing less —
+the arithmetic there has not changed, and no amount of willingness alters it. **Willingness
+is not the binding constraint; the country's floor is.**
+
+### One real caveat about applying down — craft, not permission
+
+Going a level down is a legitimate strategy and plenty of people relocate that way. But
+**a Creative Director CV sent to a Senior Designer posting gets rejected as overqualified**,
+which is likely part of what happened at AKQA. If she targets a level down, the CV must be
+**repositioned for that level** — leading with hands-on craft rather than team leadership and
+ministerial stakeholder management. That is a tailoring job, not a blocker. Use
+`application-tailor` and build a second variant.
+
+**Foot Locker's Art Director role is un-retired if it is not in the Netherlands** — worth
+rechecking the location and band.
 
 ## Salary — what to put in the box
 
