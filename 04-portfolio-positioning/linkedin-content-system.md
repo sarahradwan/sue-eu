@@ -101,6 +101,27 @@ with this file, this file wins.
   Monday and Thursday posting windows in UTC+4
 - `dual-audience-content-engine.md`: the post template extracted from "Arabic first" and
   "Tour & Taxis", the verification pass on the Aug 10 post, and seven more in that shape
+- `.claude/skills/linkedin-writer/SKILL.md`: how to actually draft posts and articles in her
+  voice, derived from her own corpus, with the verification procedure and the pre-publish
+  checklist
+
+## One addition on articles
+
+The finding above stands: article reach is low, so keep pairing each with a teaser post.
+Worth adding *why* that practice is right, because it changes what articles are for.
+
+**LinkedIn articles are indexed by Google, usually within a day or two. Feed posts largely
+are not**, because they sit behind the login wall. So an article is a permanent, searchable
+page attached to her name, and a post is a few days of attention that then disappears.
+
+For someone whose goal is to be found by recruiters who search, that makes articles the
+highest-value low-reach format available. An article titled around design systems,
+multilingual identity or brand governance puts her name against those terms in Google
+permanently, with no geographic signal and nothing her employer could object to. The title
+does most of the work, so it should carry the searchable vocabulary.
+
+Reach comparisons between the two formats are third-party rather than confirmed. The
+indexing difference is structural and is the part that matters.
 
 ## Confidentiality
 
