@@ -10,7 +10,122 @@ quietly edited to be.
 
 ---
 
-## Aug 3: the technical proposal
+## ⚠️ Aug 3 was rewritten. Read this first.
+
+**The original draft conflicted with a post she published in early July.** That post is
+listed in `linkedin-content-system.md` only as "proposal (six years ago)", which is a label
+rather than a summary, so the collision was not visible from the vault. It should have been
+caught by asking her what the published post actually said. See the process fix in
+`.claude/skills/linkedin-writer/SKILL.md`.
+
+**What the published post already covers**, and is therefore closed ground:
+
+- The premise that she once put everything on the table, front-loaded with her own offer
+- The turn: a colleague stopping her mid-review, saying the client will browse rather than
+  read, and that if the first slides are about us they stop there
+- The lesson: lead with the client's world, their challenge, what is at stake if nothing
+  changes, and let the offer come later and only in response
+- Better questions before touching the deck, the team argument, cutting what is impressive
+  but serves nothing
+
+**Two consequences.**
+
+1. The original Aug 3 draft repeated all of that, three weeks later, with a different
+   origin story. Same premise, same arc, same lesson.
+2. **The origin stories did not match.** In the interview she said the turn was losing many,
+   feedback from experts, and seeing good examples. The published post says it was one
+   colleague, one moment, six years ago. Both can be true, memory layers. But publishing a
+   second and different account of the same change is the kind of inconsistency an attentive
+   reader notices, and her profile is read attentively.
+
+**The fix:** the replacement below tells no origin story at all, so the inconsistency
+disappears rather than being papered over. It takes the one substantial thing the published
+post never mentions.
+
+---
+
+## Aug 3: where the number goes
+
+The published post is about structure and order. That ground is taken. **Money is the thing
+it never mentions**, and it is a cleanly separate idea, commercially sharper, and it carries
+the public sector vocabulary the original draft was valued for.
+
+It also **builds on** the published post rather than repeating it. Continuity reads as
+someone thinking. Repetition reads as a content calendar.
+
+**Hook,** 98 characters, one paragraph then a break, so the whole line shows on mobile.
+
+> I used to put the number where the client asked for it. Near the front, where it was easy
+> to find.
+>
+> It seemed like a courtesy. They asked, so I answered.
+>
+> A number read before the problem is a cost. The same number read after it is a comparison.
+> That is the whole of it, and it took me a long time to see, because putting the price up
+> front felt like confidence and holding it back felt like a trick.
+>
+> It is neither. It is about what the reader is carrying in their head when they arrive at
+> the figure.
+>
+> If they reach it before they have agreed what is at stake, there is nothing to weigh it
+> against, so they weigh it against the other numbers in the other proposals. That is the
+> only comparison available to them. And in that comparison the cheapest one wins, whatever
+> any of us can actually do.
+>
+> If they reach it after, the figure is sitting next to a problem they have just spent four
+> pages agreeing they have. Now it gets weighed against the cost of that problem continuing.
+> A different question entirely.
+>
+> Government work makes this sharper, because it is not one person skimming on a Thursday.
+> It is a committee, scoring against criteria, often people who did not write the brief and
+> will never meet you. Nobody is going to call and ask what the number covers. Wherever you
+> put it is where it gets judged.
+>
+> To anyone earlier on than me: the pricing page is the one everybody writes last and nobody
+> designs.
+
+**Optional first line, if she wants the continuity visible.** Placed before the hook it
+costs her the clean opening, so better as a reply in her own comments once the post is up:
+*"This follows on from the proposal post a few weeks ago. Same argument, later page."*
+
+**Image brief.** Nothing exists yet. Shoot the subject literally: **a printed proposal open
+near the back, at the commercial page, with the figures out of frame or obscured.** It is
+about where the number sits, so show where the number sits. A stack of proposals is the
+fallback.
+
+**Tag:** WeDo, per her note.
+
+### Checklist
+
+**Voice.** No em dashes. No bullets, no numbered list. One idea, and only one. Fragments as
+rhythm. The admission opening she confirmed works for her. Mentoring register confined to
+the final line, per her answer that the reader is younger creatives.
+
+**Substance.** No external factual claims, nothing to verify. All her own experience. **No
+origin story**, which is deliberate: it removes the contradiction with the published version
+rather than choosing between two accounts of the same memory.
+
+**Not a repeat.** Checked line by line against the published post. Shared: the general
+subject of proposals, and the underlying principle that the client's problem comes before
+the offer. Not shared: pricing, placement of the figure, the comparison mechanism, committee
+scoring, and the entire argument. This is a sequel, not a rerun.
+
+**Still hers to supply.** The pricing line is still the writer's formulation and remains the
+sharpest sentence in the draft. If she has her own way of saying it, use hers. And the post
+still has no mundane detail, which is the thing that made Tour & Taxis belong to a person.
+
+**Format.** Hook 98 characters, inside the 140 mobile cutoff. No links in the body.
+
+**Two-reader test.** *As her boss:* a senior creative explaining commercial craft on the
+agency's tenders and mentoring juniors. Employer-positive, and it names no client or figure.
+Passes. *As an EU recruiter:* commercial judgement at director level, public sector
+tendering, committee evaluation, and the pricing conversation, which is a thing agencies
+rarely see a creative lead handle well. Passes, and it is stronger on this axis than the
+version it replaces.
+
+---
+
+## Superseded: the original Aug 3 draft
 
 **Her notes:** professional, tag WeDo. Understand the client's mindset, put them first, sell
 the why before the what, create urgency, then pricing. Personal, from her own experience,
