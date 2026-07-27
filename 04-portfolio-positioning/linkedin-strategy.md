@@ -63,8 +63,15 @@ AI in Creative Production · Editorial Design · Campaign Development
 
 ## Posting
 
-Roughly monthly. Enough to stay visible in feeds, not so much that a change in pattern
-becomes conspicuous — a sudden burst of activity is itself a tell.
+**Cadence is set by `linkedin-content-system.md`: twice weekly, Mondays and Thursdays.**
+That file holds measured data from her own account and supersedes the "roughly monthly"
+figure previously carried here, which predated it.
+
+The caution behind that old figure still stands, and applies to *change* rather than volume:
+a sudden burst of activity, or a sudden pivot in subject matter, is itself a tell. A steady
+twice-weekly rhythm is not.
+
+Posting windows for reaching both audiences: `linkedin-distribution-mechanics.md`.
 
 **Safe subjects:** AI usage guidelines in brand work · design systems craft ·
 multi-script typography · CIM study reflections · industry commentary · team and

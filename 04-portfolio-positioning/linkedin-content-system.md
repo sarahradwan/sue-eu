@@ -88,6 +88,20 @@ posts in the schedule for the EU goal**, and neither reads as a relocation signa
 - **Tour & Taxis** is European subject matter framed as creative interest, with a European
   agency tagged. Exactly the shape the strategy needs.
 
+## Built on top of this file
+
+These were written from the data above and are subordinate to it. If any of them conflicts
+with this file, this file wins.
+
+- `linkedin-profile-optimisation.md`: headline, About, Skills and Experience copy for EU
+  recruiter search, sequenced by how visible each edit is to her employer
+- `eu-engagement-list.md`: the named commenting targets that close the European audience
+  gap, with verification status, comment drafts and cadence
+- `linkedin-distribution-mechanics.md`: what drives reach and what is folklore, plus the
+  Monday and Thursday posting windows in UTC+4
+- `dual-audience-content-engine.md`: the post template extracted from "Arabic first" and
+  "Tour & Taxis", the verification pass on the Aug 10 post, and seven more in that shape
+
 ## Confidentiality
 
 Everything here is public content, so `stealth-positioning` governs all of it. Nothing may
