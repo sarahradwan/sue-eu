@@ -152,6 +152,55 @@ adds an embassy step and she is executing it from Abu Dhabi, not Cairo — so it
 representative in Egypt or a power of attorney. **Budget 6–10 weeks and treat that as
 optimistic.**
 
+#### ⚠️ There is no EU-wide recognition. Every country is separate.
+
+**Asked 26 July 2026, and the answer changes how the chain should be run.**
+
+Two different things get conflated, and both are **national, not EU-level**:
+
+| | What it proves | Who decides |
+|---|---|---|
+| **Legalisation** | The document is **genuine** | The destination country's embassy |
+| **Recognition / credential evaluation** | What the degree is **worth** in that system | A national body — Nuffic (NL), ZAB (DE), ENIC-NARIC centres |
+
+**Neither is portable.** An Austrian legalisation does not work in Germany. A Nuffic
+evaluation does not work in Sweden. There is no single EU recognition.
+
+**What we have already found proves the point — four countries, four regimes:**
+
+| Country | What it demands | Burden |
+|---|---|---|
+| **Sweden** | **Nothing.** Scan the originals and upload | 🟢 lightest on the list |
+| **Austria** | Full consular chain, **complete at the moment of application** | 🔴 heaviest |
+| **Netherlands** | **Nuffic** credential evaluation, which itself needs legalised inputs | 🟠 |
+| **Germany** | **ZAB** Statement of Comparability, ~3 months, also needs legalised inputs | 🟠 |
+
+**Why this is Egypt-specific and worse than average:** if Egypt were a Hague Apostille
+country, **one apostille would serve every Hague destination** — genuinely one-fits-all.
+Egypt is not a member, so the shortcut does not exist and each destination needs its own
+embassy stamp.
+
+#### The one efficiency that does exist — and the question to ask VFS
+
+The chain is: **Supreme Council of Universities → Egyptian MoFA → [destination embassy]**.
+
+**The first two steps are shared.** Only the final embassy step is country-specific. So the
+MoFA-attested documents can, in principle, then go to several embassies.
+
+**But:** embassies generally attest **each document individually**, stamp **originals**, and
+some will not accept documents already bearing another embassy's stamp. Which raises the
+question that actually matters:
+
+> **Ask VFS and the agency: how many original sets should I prepare, and can one
+> MoFA-attested set be presented to more than one embassy?**
+
+**Get extra originals from Helwan while the request is already open.** Going back for more
+later — from Abu Dhabi, through an agent — is another multi-week loop, and it would be
+discovered at exactly the wrong moment.
+
+*Search-sourced 26 Jul 2026. The per-embassy handling rules vary and are the single most
+useful thing to confirm on the VFS call.*
+
 #### Who to actually contact — researched 26 July 2026
 
 **The Austrian Embassy Cairo does not receive legalisation requests directly. VFS Global
