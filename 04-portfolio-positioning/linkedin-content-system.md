@@ -77,6 +77,10 @@ AI tools · trendjacking (Huggies + KFC)
 Two finalised posts — Cairo/Doha/Dubai and Tour & Taxis — live in the original LinkedIn
 chat, not in this repo.
 
+**The schedule above now runs through to end of September in
+`content-calendar-aug-sep-2026.md`**, which keeps every post above and adds the eleven that
+fill the rest of the window. Finished drafts live in `post-drafts.md`.
+
 ## Notes on the pipeline above
 
 **"Arabic first" (Aug 6) and "Tour & Taxis Brussels" (Aug 10) are the two most valuable
