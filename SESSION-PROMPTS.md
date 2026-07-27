@@ -304,6 +304,130 @@ professional interest, a sudden pivot to majority-European activity is a pattern
 
 ---
 
+## Session 5 — Afrilink venture evaluation
+
+A community/empowerment venture Sara is planning with a co-founder. The brief is in
+`07-afrilink/README.md`. This session **tests** it — it does not help build it yet.
+
+```
+I want a hard-nosed evaluation of a venture I am planning with a
+co-founder. Effectiveness, feasibility, and profit potential. Not
+encouragement.
+
+Read CLAUDE.md and 07-afrilink/README.md first. The README has the
+full brief and the questions I already know it does not answer.
+
+This session owns 07-afrilink/ ONLY. Do not edit 01-relocation/,
+04-portfolio-positioning/ or 06-ielts/ — other sessions write there.
+
+I need your honest assessment, not validation. If this is a bad idea,
+or a good idea at the wrong time, say so plainly and tell me why. I
+would rather hear it now than after I have announced it publicly and
+brought my co-founder, three collaborators and a community along.
+
+ANSWER IN THIS ORDER. Do not skip ahead to market sizing.
+
+1. IS IT LEGAL FOR ME, RIGHT NOW? This can kill the venture, so it
+   goes first.
+   - I am on a UAE employment visa sponsored by my current employer.
+     What do UAE law and a standard UAE employment contract allow
+     regarding outside commercial activity? What are the actual
+     consequences of breaching that, given my visa is tied to my job?
+   - Charging for workshops, training or consultations is commercial
+     activity and needs a licence. Which licence, what does it cost,
+     and can it be held by someone on another employer's visa?
+   - What is genuinely involved for expatriates registering a
+     community organisation or association in the UAE?
+   - Does cost-covering ticketing already count as commercial
+     activity, or is there a threshold?
+   - If the answer is "not as currently structured", tell me what
+     structure WOULD be legal. My co-founder's visa status may differ
+     from mine and that may matter.
+
+2. DOES IT SURVIVE CONTACT WITH MY CALENDAR?
+   Between now and the EU scholarship window I already have: a
+   full-time job, CIM Level 7, an IELTS exam I have never sat
+   (Sept-Oct 2026), and a document legalisation chain of 6-10 weeks
+   that gates BOTH my relocation routes. Plus LinkedIn twice weekly.
+   A monthly event is a monthly deadline. Tell me honestly whether
+   that fits, or what it displaces. "It fits if you drop X" is a
+   useful answer. "It fits" with no analysis is not.
+
+3. THE RELOCATION QUESTION, BOTH WAYS.
+   I plan to leave the UAE by mid-2027. Year 1 of this plan is "UAE
+   only".
+   - Against: what does it mean to found a UAE community and leave
+     12-18 months in? What happens to the members and my co-founder?
+     What is the responsible handover, and when must it start?
+   - For: founding and running an organisation is exactly what my
+     strongest scholarship route selects on. Sweden's SI Global
+     Professionals weighs leadership and professional experience and
+     has no GPA threshold. My Year 3 plan already names the
+     Netherlands, France, Germany and Belgium — my target countries.
+     Could this venture be the thing that makes my scholarship
+     application compelling rather than a distraction from it? Be
+     rigorous, not optimistic: does the timing actually work, and
+     would a panel find it credible or contrived?
+
+4. THE MONEY, WITH REAL NUMBERS.
+   No vibes. Model it:
+   - Realistic attendance for a first event and a sixth event
+   - Actual Abu Dhabi and Dubai venue costs, or the real terms cafés
+     and coworking spaces offer for this kind of partnership
+   - What corporate training, workshops and branding consultations
+     genuinely command in this market
+   - Where the revenue actually comes from in year 1, and whether it
+     breaks even
+   - Which of the later streams (memberships, marketplace
+     commissions, digital products) need scale we will not have, and
+     when they realistically start
+   Then tell me: is this a profit business, a credibility and network
+   asset, or a non-profit that needs sponsorship? All three are valid.
+   Pretending it is the first when it is the second is not.
+
+5. THE CONCEPT ITSELF.
+   - Is the five-pillar model focused or overextended? We already
+     flagged "trying to be everything" as a risk. Are we doing it?
+   - Who else serves African professional women in the UAE? Name
+     them. If nobody does, ask why not — an empty market is sometimes
+     empty for a reason.
+   - Is there real demand, or is this a good idea nobody pays for?
+   - The youth programme (girls 14-22) involves minors. What does
+     that add in terms of safeguarding, consent and regulation?
+
+6. THE NAME.
+   "Afrilink" or "She Afrika". Note that we already decided NOT to
+   limit the brand to women so we could add mixed programmes later
+   without rebranding — so tell me straight whether "She Afrika"
+   contradicts our own decision. Also check trademark conflicts,
+   domain and social handle availability, and how each name reads in
+   Arabic.
+
+RULES:
+- Verify claims. Do not tell me UAE licensing rules from memory —
+  find the source and cite it. If you cannot verify something, say
+  so and mark it unverified.
+- Real numbers with sources, or explicitly labelled estimates. Never
+  invented precision.
+- Write findings to 07-afrilink/, not just to chat.
+- CONFIDENTIALITY: my employer monitors my LinkedIn. Anything public
+  about this venture follows the stealth-positioning skill, and note
+  that a public launch is visible to my employer even though it says
+  nothing about relocation. Flag that trade-off.
+- git pull --rebase before committing, then push to
+  claude/proactive-agent-setup-7f6r2m.
+
+START WITH QUESTION 1. If the legal answer changes the shape of the
+venture, everything after it needs rethinking anyway, so do not spend
+effort on market analysis until that is settled.
+```
+
+**Why the legal question comes first.** Everything downstream — pricing, licensing, whether
+Sara can be a named founder at all — depends on it, and it is the one question where the
+answer could be "not in this form". Market sizing done before that is wasted work.
+
+---
+
 ## Why the split
 
 Both sessions push to the same branch. Two things prevent collisions:
