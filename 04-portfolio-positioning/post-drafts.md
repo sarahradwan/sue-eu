@@ -16,69 +16,108 @@ quietly edited to be.
 the why before the what, create urgency, then pricing. Personal, from her own experience,
 not a tips list.
 
-**The craft problem:** her note is a five-step recipe, and her voice rules ban tip lists. So
-the sequence has to arrive as recalled thinking rather than as a numbered method.
+**Answers from the interview, 27 July.** Four things she confirmed, and two of them changed
+the draft:
+
+- **The opening premise is true.** She did lead with deliverables and changed. The admission
+  opening stands.
+- **The turn was accumulation, not a scene.** In her words: losing many, getting feedback
+  from experts, and seeing good examples. So there is no single dramatic tender to build on
+  and inventing one would be fabricated experience. The post is now honest about being a
+  slow correction, which is a harder shape and a truer one.
+- **The reader is younger creatives learning to pitch.** Mentoring register, not peer-level
+  thinking out loud. Very safe at home and it feeds the team leadership side of her profile.
+- **No image exists yet.** She will shoot one. Brief below.
+
+**The craft problem:** two of them now. Her note is a five-step recipe and her voice rules
+ban tip lists, so the sequence has to arrive as recalled thinking. And a mentoring register
+pulls hard toward advice-giving, which is the same trap by another route. The solution is to
+address the younger reader once, near the end, and let the rest stay first person.
 
 > I used to open proposals with what we would deliver. In detail, on page one, because I was
 > proud of it.
 >
-> Then I understood who actually reads them. A government tender is not a pitch in a room.
-> It is scored by a committee, against criteria, often by people who did not write the brief
-> and will never meet me. Nobody there is waiting to be impressed, and I am not present to
-> rescue a slow start.
+> It took me a long time, and a lot of losing, to understand why that does not work.
 >
-> So the why goes before the what now. Not as a technique. Because the committee has to
-> agree they have the problem before a single line about the solution means anything to
-> them. A service can be excellent and still lose to a cheaper one that explained the stakes
-> first.
+> Nobody sat me down. It came from losing more tenders than I want to count, from a few
+> people who evaluate these things for a living being generous enough to tell me afterwards
+> where we actually scored, and from reading the proposals that beat us and being able to
+> see, plainly, what they had done that we had not.
 >
-> The order I have ended up with starts nowhere near the work. What does this client already
-> believe about their situation. Where that belief is costing them. Why this year rather
-> than next. Then what we do. Then, last, the number.
+> They had explained the problem before they explained themselves.
 >
-> Pricing sits at the end for a reason it took me a long time to accept. A number read
-> before the problem is a cost. The same number read after it is a comparison.
+> A government tender is not a pitch in a room. It is read and scored by a committee,
+> against criteria, often by people who did not write the brief and will never meet you.
+> Nobody there is waiting to be impressed, and you are not in the room to rescue a slow
+> start. If page one is your capability, the reader has no reason yet to care about your
+> capability.
 >
-> I still lose them. I just lose them on the work now, and not on page one.
+> So the order I have ended up with starts nowhere near the work. What does this client
+> already believe about their own situation. Where that belief is costing them. Why this
+> year rather than next. Then what we would do. Then, last, the number.
+>
+> The number goes last for a reason that took me longest to accept. A number read before the
+> problem is a cost. The same number read after it is a comparison.
+>
+> To anyone earlier on than me: you will lose a lot of these, and losing is how you learn to
+> read them. That part does not shorten. What shortens is the gap between the loss and
+> understanding what the loss was about.
+>
+> I still do not win them all. I just lose them further in now, and not on page one.
 
-**Image:** a printed proposal with the first page marked up, or her desk mid-review. Real
-document, client detail out of frame.
+**Image brief.** Nothing exists yet, so shoot the accumulation rather than a single
+document: **a stack of printed proposals on a desk**, thick, slightly uneven, the top one
+open or closed. It says "a lot of losing" without the post having to. Client detail out of
+frame. A single marked-up first page is the fallback if the stack is not available.
 
-**Tag:** WeDo, per her note.
+**Tag:** WeDo, per her note. See the caution below.
 
 ### Checklist
 
-**Voice.** No em dashes. No bullets or numbered list, the sequence is carried in prose.
-One idea. The line nobody else could write is "a number read before the problem is a cost,
-the same number read after it is a comparison." Fragments and self-correction present, per
-her corpus.
+**Voice.** No em dashes. No bullets and no numbered list, the sequence runs as prose
+fragments. One idea. Fragments used as rhythm, per her corpus, including the standalone
+line "They had explained the problem before they explained themselves." The turn is
+signalled out loud at "To anyone earlier on than me", which is how she writes.
 
-**Substance.** No external factual claims anywhere in this draft, so nothing to verify. All
-of it is her own professional experience. This is the lowest-risk post in the schedule on
-accuracy grounds.
+**Substance.** No external factual claims, so nothing to verify. All of it is her own
+professional experience, now confirmed directly rather than inferred. The lowest accuracy
+risk in the schedule.
 
-**One thing she must check.** The opening premise, that she used to lead with deliverables
-and changed, is inferred from her own note rather than something she told us directly. If
-she never worked that way, the first line is fabricated experience and must be replaced.
-Everything after it survives the swap.
+**Three things only she can supply.** Flagged rather than invented:
 
-**One line to consider.** "I still lose them" is honest and reads as maturity, and it is
-paired with a statement of improvement. It is almost certainly fine on a profile her
-employer reads. If she would rather not have losses in writing at all, "I still do not win
-them all" carries the same weight with less exposure.
+1. **The pricing line is mine, not hers.** "A number read before the problem is a cost, the
+   same number read after it is a comparison" is the sharpest sentence in the draft and it
+   should be her formulation, not a writer's. If she has her own way of saying it, use that.
+2. **There is no mundane detail.** Tour & Taxis had lunch at La Fabrica, which advanced
+   nothing and made the piece belong to a person. This draft has no equivalent, because
+   inventing her habits would be fabrication. One real detail about how she reads a losing
+   proposal would lift the whole post.
+3. **A safe number.** Anything specific and non-confidential: how many pages a typical
+   tender runs to, how many people sit on an evaluation committee, how long the turnaround
+   is. One real figure would do more than another paragraph of reasoning.
 
-**Format.** Image named. Hook is the first two lines and survives the "see more" cutoff. No
-links in the body.
+**One line to decide.** "I still do not win them all" is the softer option. "I still lose
+them" is blunter, more credible to a junior reader, and almost certainly still fine on a
+profile her employer reads, since losing most government tenders is simply the norm. Her
+call.
 
-**Two-reader test.** *As her boss:* a senior creative explaining how she has got better at
-winning the agency's tenders, with the agency tagged. This is the most employer-positive
-post in the schedule. Passes. *As an EU recruiter:* new business and pitching at director
-level, public-sector procurement, committee stakeholders, commercial judgement. All of it in
-vocabulary EU agencies hire on. Passes.
+**One caution on the tag.** Tagging WeDo attaches a post about losing tenders to the
+agency's name. It reads as a senior person being self-aware and generous, and the improvement
+narrative is explicit, so the risk is low. But if she wants the reflection without the
+attachment, dropping the tag costs the post nothing.
 
-**EU vocabulary surfaced:** government tender, scored by committee against criteria,
-public-sector procurement, stakeholder reading. Named because it is simply what the job is,
-which is why it costs nothing at home.
+**Format.** Hook is 103 characters, one paragraph, then a break. Comfortably inside the 140
+mobile cutoff, so the whole opening shows. No links in the body.
+
+**Two-reader test.** *As her boss:* a senior creative explaining how she got better at
+winning the agency's tenders, and mentoring juniors while she does it. The most
+employer-positive post in the schedule. Passes. *As an EU recruiter:* new business and
+pitching at director level, public sector tendering, committee evaluation, commercial
+judgement, plus visible mentoring. Vocabulary EU agencies hire on. Passes.
+
+**EU vocabulary surfaced:** government tender, read and scored by a committee against
+criteria, capability, evaluation. Named because it is simply what the job is, which is why
+it costs nothing at home.
 
 ---
 
