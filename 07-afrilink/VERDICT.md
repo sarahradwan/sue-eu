@@ -2,6 +2,30 @@
 
 **Evaluated 27 July 2026.** Full working in `01-legal-uae.md` … `06-naming.md`.
 
+> ## 🔄 SUPERSEDED IN PART — read [`07-restructure-eu-entity.md`](07-restructure-eu-entity.md)
+>
+> Later on 27 July, Sara revised the model: **an EU non-profit (Belgium or Netherlands, `.org`),
+> online-first, targeting women founders in the EU, services delivered by freelancers, no UAE
+> trading.**
+>
+> **That restructure fixes most of what is flagged below.** Four of the six objections were
+> artefacts of the UAE structure and disappear with it: the 70%-Emirati-founders rule, the DCT
+> ticketing levy, the UAE trade licence, and the 30–40 hour monthly event load. The revised
+> verdict is **do it, start this year — but register the entity later.**
+>
+> **Three things survive, and one is new and serious:**
+> 1. 🔴 **Confidentiality is now worse.** The Belgian Moniteur Belge publishes founders' names,
+>    **professions and home addresses**; the Dutch KVK register is public. An EU non-profit
+>    registered in her name while she lives in Abu Dhabi is a stronger relocation tell than
+>    anything `stealth-positioning` bans. **Fix: build now, register after relocation.**
+> 2. 🆕 **GDPR applies** to the member database. No non-profit exemption. Design it in from the
+>    first signup form.
+> 3. ⚠️ **Her WeDo contract still applies**, and founding an EU non-profit gives **no residence
+>    rights** — it is not an immigration route.
+>
+> Sections 1, 4, 5 and 6 below describe the **original UAE model**. Read them for the reasoning;
+> read `07-` for what currently applies.
+
 ---
 
 ## The verdict in one paragraph
