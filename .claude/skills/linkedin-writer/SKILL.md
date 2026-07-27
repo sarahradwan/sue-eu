@@ -190,6 +190,32 @@ architecture across markets.
 
 ---
 
+## Check it has not already been written
+
+**Learned the hard way, July 2026.** A full draft was written for the Aug 3 slot that
+repeated a post she had published three weeks earlier: same premise, same arc, same lesson,
+and a *different* origin story for the same change. It reached her before anyone noticed.
+
+The published list in `linkedin-content-system.md` records posts as short labels, not
+summaries. "proposal (six years ago)" does not reveal what the post argued, so reading the
+list is not enough to catch a collision.
+
+**So, before drafting anything on a subject she may have touched:**
+
+1. **Read the published list** in `linkedin-content-system.md` and look for anything
+   adjacent, not just identical.
+2. **If a label looks adjacent, ask her what that post actually said** before writing a
+   word. One question costs a minute. A repeat costs her credibility with an audience that
+   sees both.
+3. **Watch for contradicted origin stories in particular.** She has twenty-two years of
+   material and the same change can honestly be remembered several ways. Publishing two
+   different accounts of one turning point is the version of the accuracy problem that comes
+   from inside rather than outside.
+4. **When the ground is taken, find the adjacent idea rather than a new angle on the same
+   one.** A sequel reads as someone thinking. A rerun reads as a content calendar. The test
+   is whether the new post could sit directly under the old one as a reply and still say
+   something.
+
 ## Verification, before anything is handed over
 
 She was publicly corrected on a LEGO claim once. The rule that follows is not "be careful",
@@ -233,6 +259,8 @@ Run all of it before a draft reaches her. State that it was run.
 - [ ] Reads like her corpus, including the fragments and the mundane detail
 
 **Substance**
+- [ ] Checked against the published list, and she was asked about any adjacent post
+- [ ] No origin story that contradicts one she has already published
 - [ ] Every factual claim labelled verified, unverified, or her own experience
 - [ ] Superlatives carry their qualifier
 - [ ] Nothing asserted about a tagged account beyond what is verified
