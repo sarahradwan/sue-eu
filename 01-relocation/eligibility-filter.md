@@ -61,7 +61,7 @@ strength of route first, country preference second.
 | Passport | **Egyptian** — visa required for everything; no visa-free Schengen entry |
 | Capital to self-fund | **None.** Cannot fund a job-search permit, blocked account or savings deposit |
 | Right to work in EU | None currently |
-| German | A1 — cannot carry a German-language role or degree |
+| German | **A2, actively improving.** Cannot carry a German-language *degree* or a role requiring her to author German copy. **Can carry German-language layout and typography work** — she has done exactly that in French at A2, across Arabic, English and French publications. Screen the two cases separately |
 | English | C2 — English-taught roles and programmes are the realistic field |
 | Arabic | Native — an asset, not a limit |
 | Tuition ceiling (Route B) | €2,000/year unless scholarship covers it |
@@ -80,7 +80,10 @@ strength of route first, country preference second.
   nomad-visa income threshold.
 - **Requires her to self-fund** — blocked account, savings deposit, or a job-search period
   with no income.
-- Requires German (or another language) above her current level.
+- Requires a language above her current level **for the actual work** — not merely a job ad
+  written in that language. *(Refined 26 Jul 2026.)* Ask: does the role need her to **author**
+  copy and run relationships in it, or to **set and lead layout** of copy supplied by others?
+  The first disqualifies; the second does not. Getting this wrong nearly cost a good lead.
 - Tuition above €2,000/year with no scholarship covering it.
 - Non-EU country. (Note: UK and Switzerland are **not** EU — flag separately, do not
   file as qualifying without asking.)

@@ -516,6 +516,56 @@ Postings expire; employers do not. Watch these career pages directly.
 | Puig · Mango · Desigual | Barcelona | ⚠️ Unverified. Spanish-language risk — check per role |
 | **DOUGLAS Group** (incl. NICHE-BEAUTY.COM) | Düsseldorf / Hamburg 🇩🇪 | ✅ Real employer, **right category** — Europe's leading premium beauty omnichannel group. Surfaced 26 Jul via a role that failed on language and level. **Worth watching for English-working senior brand roles**; beauty and luxury maps directly onto her CPI years |
 
+### ✅ REVERSED 26 Jul 2026 — Douglas / NICHE-BEAUTY.COM is a **YES**
+
+I rejected this twice: first on level and language, then on language alone. **Both were
+wrong, and the second was wrong on its own terms.**
+
+My claim was that she cannot set type in a language she does not read. **Her own career
+disproves it.** She has art directed publications in **Arabic, English and French** — three
+scripts — and her French is A2, the same level as her German. She has already done this
+exact thing. She is also **A2 in German, not A1**, and improving. The vault was out of date;
+now corrected.
+
+A layout and typography lead works from **supplied, proofed copy**. The craft is word
+boundaries, hyphenation, rag, copy fit, widows and orphans, house style. That is mechanical
+and transferable. **Authoring German copy and running German client relationships is the
+thing she cannot do — and this role does not ask for it.**
+
+**The rest of the posting is a strong match, and I under-read it:**
+
+| Requirement | Her |
+|---|---|
+| *"Grafik-, Brand- oder **Editorial Design**"*, 6+ years | 22 years, incl. newspapers, magazines, a publishing house |
+| *"Fachliche Führung"* of a 4-person team, **"erste Erfahrung"** | Led far larger teams — the leadership bar here is deliberately low |
+| *"Weiterentwicklung von Designsystemen, Templates, Standards"* | National curriculum design system, 100+ books, 3 scripts |
+| *"Integration moderner **AI-Tools** und Workflows"* | **Her exact column** — applied AI in production, not CGI |
+| *"Affinität für **Beauty**, Lifestyle, Fashion, Luxury"* | 5 years Fashion & Beauty Editor, CPI |
+| Permit: Germany €50,700 / €45,934 shortage | Posting asks her to **state a salary expectation** — name €52,000+ |
+
+**Verdict: apply.** Address the German directly rather than hiding it — A2 and climbing,
+with a multi-script publishing record across Arabic, English and French. That framing turns
+the weakness into the reason to hire her: **Douglas produces across European markets, and
+someone who has run three-script publishing is unusually equipped for that.**
+
+Honest odds: still a stretch on language, perhaps one in four that they consider a
+non-fluent speaker. But the cost is one application and everything else lines up.
+**Cheaper first move: email the recruiter and ask whether the team works in English.**
+
+### 🔑 The repositioning this unlocks — applies well beyond this role
+
+**Stop treating her languages as a deficit list.** The framing has been "German A1, so German
+roles are out." The accurate framing is:
+
+> **A multi-script, multi-language publishing lead — Arabic, English, French, adding German —
+> who has built typographic systems across three scripts simultaneously.**
+
+European publishers, retail groups and institutions produce across many languages every day.
+Very few senior creatives can evidence multi-script typographic control. **This is one of her
+genuinely scarce assets and it has been sitting unused in the CV.** Apply it to German,
+Belgian, and Brussels institutional roles — and note it pairs with the Arabic advantage
+already flagged for Brussels.
+
 ### ⚠️ Do not trust LinkedIn's "Job match is high"
 
 LinkedIn told her this role was a high match. **It was not** — it failed on language and on

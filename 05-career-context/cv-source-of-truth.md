@@ -125,7 +125,14 @@ PowerPoint · AI generation and research platforms · Figma (in active developme
 
 ## Languages
 
-Arabic native · English C2 fluent · French A2 · German A1
+Arabic native · English C2 fluent · French A2 · German **A2 and actively improving**
+
+**Multi-language publishing is a credential, not a footnote.** She has art directed and set
+publications in **Arabic, English and French** — across three scripts, including French at
+A2. A layout and typography lead works from supplied, proofed copy: the craft is word
+boundaries, hyphenation, rag, copy fit, widows and orphans, and house style. **She has
+demonstrably done that in a language she does not speak fluently.** For European employers
+producing across multiple markets, this is a differentiator, not a gap.
 
 ## Hard numbers (for applications)
 
@@ -144,8 +151,11 @@ Arabic native · English C2 fluent · French A2 · German A1
 
 - No EU work experience or EU right to work — the sponsorship/scholarship question is
   the central hurdle, not the portfolio.
-- German A1 — too low for German-language roles. Netherlands, Ireland and international
-  agencies elsewhere run in English; that widens the field considerably.
+- German **A2 and climbing** — too low to *author* German copy or to run a German-language
+  client relationship. **But not too low for layout and typography work**, which she has
+  already done in French at the same level. Distinguish the two: a German-language *creative
+  director* role is out; a German-language *editorial and layout* role is arguable, and the
+  argument is her Arabic/English/French publishing record.
 - Figma still "in active development" while much of EU digital/product design assumes
   fluency. Worth closing.
 - Portfolio is MENA-institutional heavy; EU recruiters may not recognise the client names.
