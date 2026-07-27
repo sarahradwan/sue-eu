@@ -94,23 +94,24 @@ numerals, printouts.
 
 ## Posts
 
-### The hook, and the only hard constraint
+### The hook
 
-LinkedIn hides everything after roughly the first three lines behind "see more". That
-cutoff is the entire decision point. Everything before it has to be worth the click and
-everything after it is only read by people who already clicked.
+**Full reference: `hooks.md`, in this directory. Read it before writing any opening line.**
 
-**Her hook shape, from her own work:** a first-person physical sentence containing one
-concrete image and one implied scale.
+The short version. LinkedIn truncates at roughly **140 characters on mobile**, 210 on
+desktop, and **a paragraph break ends the snippet early whatever the count**. So the visible
+hook is either the first sentence or the first paragraph, and which one it is should be a
+decision rather than an accident.
 
-Working hooks for her:
-- "I stood inside a building in Brussels that used to move the mail of an entire continent."
-- "Most bilingual work in this region is made in English and then moved into Arabic."
-- "The thing that broke our three-script system was never the letterforms."
+Her six shapes, all drawn from her own writing: the standing-somewhere hook, the flat
+contradiction, the admission, the small object, the number that is hers, and the wrong thing
+broke. Examples and worked drafts in `hooks.md`.
 
-Hooks to refuse, whatever the reach data says: anything beginning with a question to the
-reader, anything that hides the subject to force the click, anything opening with a
-statistic she has not verified, and any variant of "Unpopular opinion:".
+Refuse, whatever the reach data says: questions to the reader, withheld subjects, unverified
+statistics, manufactured vulnerability, tip-list promises, and any variant of "Unpopular
+opinion:". Note that the curiosity-gap hook is no longer even a trade-off for her. An
+overpromising opening produces short dwell time, and dwell time is an established ranking
+input, so her voice rules and her reach now point the same way.
 
 ### Structure: the constraint post
 
