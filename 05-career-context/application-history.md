@@ -7,6 +7,7 @@ rejections become visible.
 
 | Date | Organisation | Role / Programme | Country | Route | CV variant | Status | Follow-up |
 |---|---|---|---|---|---|---|---|
+| 26 Jul 2026 | DOUGLAS Group / NICHE-BEAUTY.COM | Senior Graphic Designer & Team Lead Layout | 🇩🇪 Hamburg | A1 | `editorial-publishing-multiscript` | **Prepared, not yet sent** | Salary stated **€58,000** (Germany's floor is €50,700). Start date flagged as **Dec 26 / Jan 27** — the ad says 1 Oct 26. **Email the recruiter first** and ask whether the team works in English |
 | 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | ✅ **SENT** | **First application at her actual level.** Salary answer given: €95,000. No deadline stated — chase if nothing by ~mid-Aug |
 | 14 Apr 2026 | AKQA (WPP) | **Senior Designer** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ❌ **Rejected** — form letter, no role-specific feedback | Below the permit floor. Should not have been applied for |
 | 30 Mar 2026 | AKQA (WPP) | **Art Director** | 🇩🇰 Copenhagen | A1 | *(applied independently)* | ❌ **Rejected** — form letter | Denmark route unresearched — see `country-notes.md` |
@@ -20,6 +21,7 @@ gets overwritten by a variant.
 | Variant | Aimed at | Emphasis |
 |---|---|---|
 | `fashion-consumer-editorial` | Fashion houses and consumer brands — built for the Tommy Hilfiger CD role | Leads with the five years as Art Director and Fashion and Beauty Editor at CPI. Expands the CPI entry from two bullets to five (shoot direction, styling, seasonal cycles, the *Mother, Baby and Child* rebrand). Skills reordered to the posting's own vocabulary — visual storytelling, photo shoot direction, seasonal campaigns. German dropped at A1; the role is English and Dutch-market |
+| **`editorial-publishing-multiscript`** | **Roles a level below Creative Director** — editorial, layout and design-system work. Built for Douglas/NICHE-BEAUTY, and **reusable across Ireland, Spain and Belgium**, where the permit floor allows Senior Designer and Art Director titles | **Deliberately repositioned downward.** Retitles her as *Editorial and Brand Design Lead*, and the Ministry role as *Design Lead* rather than Creative Director, so she does not read as overqualified — the likely cause of the AKQA rejection. Leads with hands-on craft (typography, layout, templates, print production), not ministerial stakeholder management. **Multi-script typography is the spine**: Arabic, English and French across three scripts, with the 100+ book curriculum system as proof. Languages promoted from a footnote to a credential. German shown at A2, improving |
 
 **Contact details are not stored here.** Both documents ship with `[EMAIL]` and
 `[+971 — INSERT YOUR UAE NUMBER]` placeholders in the body, filled in at send time.
