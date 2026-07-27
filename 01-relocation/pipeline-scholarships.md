@@ -152,6 +152,44 @@ adds an embassy step and she is executing it from Abu Dhabi, not Cairo — so it
 representative in Egypt or a power of attorney. **Budget 6–10 weeks and treat that as
 optimistic.**
 
+#### Who to actually contact — researched 26 July 2026
+
+**The Austrian Embassy Cairo does not receive legalisation requests directly. VFS Global
+does.** That is the official channel and the authoritative starting point — going to a paid
+agency first risks buying what VFS will tell her for free.
+
+| | Detail |
+|---|---|
+| **VFS Global — email** | **info.ateg@vfsglobal.com** |
+| **VFS Global — phone** | **+2 0221600051** |
+| **Call centre hours** | **Sunday–Thursday, 08:30–16:30 Cairo** *(= 09:30–17:30 Abu Dhabi)* |
+| **Cairo legalisation office** | 44, Office No. G, 1st Floor, Giza Street, Giza — **Tuesday & Wednesday only**, 09:00–15:00 |
+| **Austrian Embassy Cairo** | 3 Abou Elfeda St., Abou Elfeda Tower, Zamalek · Mon–Fri 08:00–12:00 |
+| **Official VFS instruction sheet** | https://www.vfsglobal.com/austria/egypt/pdf/legalization-new.pdf |
+| **BMEIA Cairo info sheet** (DE/EN/AR) | https://www.bmeia.gv.at/fileadmin/user_upload/Vertretungen/Kairo/Dokumente/Merkblatt_Beglaubigung_DE_-_EN_-_AR.pdf |
+| **University-side rules** | https://www.wu.ac.at/en/programs/application-and-admission/legalize/et |
+
+**⚠️ Note the two-day submission window.** The Cairo legalisation office accepts documents
+**Tuesdays and Wednesdays only**. A single missed step costs a full week, and that is exactly
+how a 6-week estimate becomes 10.
+
+**Cairo law firms — the "someone acts for me" option.** She cannot travel, so a
+representative under power of attorney is likely needed. Surfaced by search, **not vetted**:
+
+- **Alzayat Law Firm** — alzayatfirm.com · publishes a detailed Egypt legalisation guide and
+  claims experience with non-Hague consular chains
+- **ASAS & Partners** — asas.partners · advertises expedited legalisation from foreign
+  embassies in Cairo
+- **BYLAW Firm** — bylawme.com · attestation and authentication, publishes a process guide
+
+**Starting points, not recommendations — credentials, pricing and reliability unverified.**
+Judge replies on three things: do they name the **Austrian** chain specifically rather than
+the UAE one, can they act on power of attorney for a UAE-resident client, and do they quote a
+**total** covering all three stages rather than a per-stage teaser.
+
+*Search-sourced 26 Jul 2026; the VFS and BMEIA PDFs were not read directly — proxy-blocked.
+**Open the VFS sheet before paying anyone.***
+
 **Consequence for the live lead:** WU Vienna's **round 1 closes 8 Oct 2026, 75 days out**.
 Starting legalisation today, that is achievable only if nothing goes wrong. **Target the
 8 January 2027 round instead**, and treat round 1 as a bonus if the papers land early.
