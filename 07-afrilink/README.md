@@ -1,7 +1,23 @@
 # Afrilink / She Afrika — venture brief
 
-Captured 25 July 2026 from Sara's separate planning conversation. **Not yet evaluated.**
-Nothing here is verified or costed. The evaluation session's job is to test it.
+Captured 25 July 2026 from Sara's separate planning conversation.
+
+> **✅ Evaluated 27 July 2026 — read [`VERDICT.md`](VERDICT.md) first.**
+>
+> The brief below is the *original, unevaluated* proposal. Several of its core assumptions did
+> not survive testing — cost-covering ticketing is still regulated commercial activity,
+> registering an association is effectively closed to expatriate founders, and the monthly
+> cadence collides with the 2027 relocation window. Treat this page as the input, not the plan.
+>
+> | File | Question |
+> |---|---|
+> | [`VERDICT.md`](VERDICT.md) | **Start here** — summary and recommended actions |
+> | [`01-legal-uae.md`](01-legal-uae.md) | Is it legal for Sara right now? *(kill-switch)* |
+> | [`02-calendar-collision.md`](02-calendar-collision.md) | Does it survive the calendar? |
+> | [`03-relocation-interaction.md`](03-relocation-interaction.md) | Helps or hurts the EU plan? |
+> | [`04-financial-model.md`](04-financial-model.md) | The money, with real numbers |
+> | [`05-concept-and-market.md`](05-concept-and-market.md) | Concept, competitors, demand, safeguarding |
+> | [`06-naming.md`](06-naming.md) | Afrilink vs She Afrika |
 
 Working names under consideration: **Afrilink** or **She Afrika**. Not decided; to be
 agreed with Hadeer.
