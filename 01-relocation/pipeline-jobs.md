@@ -514,6 +514,17 @@ Postings expire; employers do not. Watch these career pages directly.
 | Diageo | Dublin | ⚠️ Unverified; Dublin is a genuine hub for it |
 | AB InBev | Leuven, 🇧🇪 | ⚠️ Unverified. Global HQ, large brand organisation |
 | Puig · Mango · Desigual | Barcelona | ⚠️ Unverified. Spanish-language risk — check per role |
+| **DOUGLAS Group** (incl. NICHE-BEAUTY.COM) | Düsseldorf / Hamburg 🇩🇪 | ✅ Real employer, **right category** — Europe's leading premium beauty omnichannel group. Surfaced 26 Jul via a role that failed on language and level. **Worth watching for English-working senior brand roles**; beauty and luxury maps directly onto her CPI years |
+
+### ⚠️ Do not trust LinkedIn's "Job match is high"
+
+LinkedIn told her this role was a high match. **It was not** — it failed on language and on
+level. The algorithm matches keywords (*beauty, brand, Adobe, AI, design systems*) and is
+blind to the three things that actually decide her leads: **working language, seniority
+band, and whether the role can carry a permit.**
+
+Treat the match score as evidence of *category* relevance only. It was right that beauty and
+brand is her territory. It was wrong about the job.
 
 ## ⛔ Filter 2 — contract type and duration. Kills leads the title filter lets through.
 
@@ -568,6 +579,27 @@ was ever read.
 | Art Director | €50k–€79k | ⚠️ **Top of band only** — verify per posting |
 | Senior Art Director | higher, varies | ✅ Usually |
 | Associate Creative Director / Creative Director | €80k–€122k, avg €98.5k | ✅ **Comfortably** |
+
+### ⚠️ Correction, 26 Jul 2026 — the floor is **country-specific**, not universal
+
+The bands above are Dutch. **Germany's floor is roughly €20,000/year lower**, which changes
+which titles are viable there.
+
+| Country | Threshold (2026) | Monthly |
+|---|---|---|
+| 🇳🇱 Netherlands — HSM, age 30+ | **~€71,300** excl. holiday allowance | ~€5,942 `[verify]` |
+| 🇩🇪 Germany — EU Blue Card, standard | **€50,700** | €4,225 |
+| 🇩🇪 Germany — Blue Card, shortage occupation | **€45,934** | €3,827 |
+
+*German figures: [Section 18g AufenthG](https://www.rtpartner.de/en/immigration/blaue-karte-eu-mindestgehalt-2026/), effective 1 Jan 2026, half the annual pension contribution ceiling.*
+
+**Consequence:** roles that fail the Dutch floor can clear the German one comfortably.
+Senior Art Director and Design Lead titles are viable in Germany and are not in Amsterdam.
+
+**But the counterweight is language.** Germany's lower floor mostly does not help her, because
+most German roles are German-working and she is A1. It only helps for **English-operating
+employers**, which Berlin and Hamburg do have in volume. **Check Belgium, Ireland and Spain
+thresholds before applying the Dutch number anywhere else** — it does not travel.
 
 **Rule: nothing below Senior Art Director / Associate Creative Director.** Applying "down"
 to improve the odds of getting in is the single most tempting mistake in her position, and
