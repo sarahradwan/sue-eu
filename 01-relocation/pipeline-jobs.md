@@ -670,10 +670,30 @@ Free *English* courses alongside them means the reverse is also true. Combined w
 **LA office** and *"internationale Markenagentur"* framing, this is an employer that
 demonstrably hires across languages and supports people learning on the job.
 
-**Verdict: worth one email before writing it off.** Ask whether the role can work for a
-strong candidate at A2 German who is actively studying. Their own benefits page suggests the
-answer may be yes. **But fix Figma first** — going in missing both stated requirements is a
-materially weaker position than missing one.
+**Verdict: APPLY. Do not ask first.** *(Corrected 26 Jul 2026 — Sara pushed back on my
+email-first advice and she was right.)*
+
+### 🔑 The principle, because it generalises
+
+**Do not ask permission when applying is cheap. Asking gives them a free way to filter you
+out.** A recruiter can dismiss a hypothetical *"would you consider A2 German?"* in ten
+seconds. Dismissing a portfolio carrying a national curriculum design system, brand
+architecture across four countries and government identity systems is a much harder call.
+**Make them evaluate the candidate, not the checkbox.**
+
+The email-first advice was right for **Douglas**, where German copy *was* the material of the
+job and a no would have saved real work. It was wrong here, where the language is a
+requirement listed alongside others and the portfolio is the strongest argument she has.
+**Distinguish the two cases: ask when the answer changes whether the work is possible; apply
+when it only changes whether they are willing.**
+
+Honest odds, neither hedged nor inflated: the free courses prove they employ people who need
+language support, but they run English classes too, so some of that is German staff
+upskilling. *"Sehr gute Deutschkenntnisse"* means roughly C1, and most international hires at
+German agencies arrive at B2+. **Worth applying, do not count on it.**
+
+Figma remains worth fixing regardless — it is on their list too, and it is not a language
+problem.
 
 ### 🔑 Market signal, 26 Jul 2026 — German-speaking agencies are hiring for *her* AI, explicitly
 
