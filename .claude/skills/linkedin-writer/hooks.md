@@ -136,6 +136,28 @@ ones, so the rule is defensible rather than arbitrary.
 
 ---
 
+## The failure that actually happened
+
+**August 2026.** A birthday post opened: *"Heba counted what she spent on learning. I cannot
+do that. I can only count mine in hours."* Sara rejected it outright, and she was right.
+
+Four faults, all worth recognising by sight:
+
+1. **It opened on another person's name.** A reader who did not see that person's post has
+   no reason to care, and her own subject is buried behind a reference.
+2. **Two of three sentences said what she cannot do.** Opening on limitation.
+3. **No claim in it.** "I count in hours" is a framing device. Every working hook of hers
+   asserts something.
+4. **Not physical.** Her strongest openings put her somewhere. That one was bookkeeping.
+
+**The root cause is the transferable lesson.** The reference to a friend's post had been put
+in the hook to stop the piece reading as a subtweet. That is a real structural problem, and
+it was solved in the wrong place. **A credit, a caveat, a piece of context or a disclaimer
+almost never belongs in the hook.** Paragraph two does the same job at no cost.
+
+Before accepting any hook, check what it is doing there. If its job is to manage a risk
+rather than to make a claim, move it down.
+
 ## Craft technique: write the hook last
 
 The strongest hook is usually already in the draft, sitting in paragraph three, because it is
