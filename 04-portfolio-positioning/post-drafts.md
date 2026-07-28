@@ -236,6 +236,133 @@ it costs nothing at home.
 
 ---
 
+## Aug 8: the birthday post
+
+**Her brief:** take the shape of a post by her friend Heba, which counts what Heba spent on
+self-development in money, but count in **hours, or a percentage of hours per week**, with
+the thesis that she **never stopped at a certain age**.
+
+### First: Heba's post is built from things Sara's voice rules ban
+
+Worth naming plainly, because writing "something similar" literally would breach four
+non-negotiables at once. Heba's post uses emoji bullets, a tip list, an advice-promise hook
+("If you are 26, do this… your future self will thank you"), and a closing question to the
+reader ("What's the best piece of advice you've ever received for $0?").
+
+All four are banned in `linkedin-content-system.md`. So this draft takes Heba's **idea**,
+which is a life-accounting of what learning cost, and none of her **format**.
+
+That turns out to be an advantage. The listicle version of this post exists a hundred times
+on LinkedIn this week. The version where a senior person counts in hours and says the total
+never reached zero does not.
+
+### The move that makes it warm rather than competitive
+
+**Reference Heba generously and tag her.** Without that, a post about a different currency
+of self-investment, published days after hers, reads as a quiet correction of a friend. With
+it, it reads as two people thinking about the same thing from different sides.
+
+It is also a reach lever her own data supports: the Busuu reply pushed a post to 2,475
+impressions, and a tagged friend replies far more reliably than a tagged brand.
+
+### Draft
+
+Hook is option B at 90 characters, comfortably inside the mobile cutoff.
+
+> Heba counted what she spent on learning. I cannot do that. I can only count mine in hours.
+>
+> Roughly [X] a week, most weeks, for as long as I have been working. Never evenly. Some
+> years that was reading on a Friday and nothing else. Some years a full course with
+> deadlines attached. Right now it is a postgraduate diploma I am partway through, which is
+> not the age most people choose to start one.
+>
+> That is the part I keep turning over on a birthday. Not the total. The fact that it never
+> reached zero.
+>
+> There was a version of this career available to me where I stopped at some point and lived
+> off what I already knew. It is genuinely available. It is comfortable, and you can get
+> surprisingly far on it, because work you did ten years ago still looks like work.
+>
+> I am learning a tool right now that I should have picked up years ago, and I am slow at
+> it. There is something clarifying about being visibly bad at something in a room where
+> people report to you.
+>
+> Most of the hours cost nothing, which is the thing I would say to anyone doing this
+> arithmetic. The expensive ones were rarely the useful ones.
+>
+> [birthday close, see below]
+
+### ⚠️ The Hijri line is backwards
+
+Her original note for this post said she counts her age in Hijri **because she is a year
+younger there**. That is the wrong way round.
+
+A lunar year is about 10.9 days shorter than a solar year, so more Hijri years fit into the
+same lifetime. At a Gregorian age of 45 the Hijri age is about 46.4. **She is older in
+Hijri, by roughly a year and a third, not younger.**
+
+This matters more than a normal factual slip. Her audience is Gulf and Egyptian, where
+everyone knows the Hijri calendar, so this would be corrected in the comments of a personal
+post by people being friendly about it. Same shape as the LEGO correction, on home ground.
+
+**Two possible explanations, and she knows which:**
+
+1. **It is arithmetic, and it is simply inverted.** Then the correct version is a better
+   line anyway, because the surprise runs the right way:
+   > In the Hijri calendar I am already more than a year further along than the paperwork
+   > says. That feels about right.
+2. **Her documents record a different birth year.** Common with older Egyptian paperwork,
+   and a real personal reason that has nothing to do with lunar months. If so it is
+   completely safe to use, but it needs saying as a paperwork story rather than a calendar
+   one, or the calendar-literate reader still corrects her.
+
+**Neutral close if she would rather not open the subject at all:**
+> Another year. Still counting in hours.
+
+### Still needed from her
+
+1. **The number.** "[X] a week" has to be hers and nothing else will do. The best version is
+   unimpressive and specific: four hours reads as true, twenty reads as a flex, and a flex
+   is the thing this post is quietly declining to do.
+2. **Which Hijri explanation is the real one.**
+3. **The photo.** Personal posts with a genuine photo of her are her measured strongest
+   format, so this needs an actual photograph, not a graphic and not a stock image. It is
+   the one post in the schedule where the picture carries as much as the words.
+
+### One deliberate omission
+
+**German stays out**, even though she has posted about it once before. It is one of the very
+few genuine relocation tells available to a watcher, and this post works without it. If she
+wants a language in there, the postgraduate diploma already does the same job with none of
+the exposure.
+
+Also deliberate: the tool she is learning is **not named**. Naming Figma and saying "I am
+slow at it" hands an EU recruiter a stated weakness in the exact skill that acts as a hard
+filter in their searches. Unnamed, the honesty lands and the filter is not triggered.
+
+### Checklist
+
+**Voice.** No em dashes. No bullets, no tip list, no CTA, no question to the reader. One
+idea. Fragments as rhythm. Self-correction present. Nothing from Heba's format survived.
+
+**Substance.** No external claims except the Hijri one, which is flagged above and must be
+resolved before posting. Everything else is her own experience. **The bracketed hours figure
+is the only invented-looking element and it is deliberately left empty**, because a number
+she did not give me would be fabricated experience.
+
+**Not a repeat, pending one check.** Her published list includes **"22 years in the room"**
+(article) and **"Q2 reflection"**. Both could plausibly cover "still learning after 22
+years". Per the process fix in `linkedin-writer`, she needs to say what those two argued
+before this is safe to schedule. Asked, not assumed.
+
+**Two-reader test.** *As her boss:* a warm birthday reflection from someone who is currently
+studying and still learning her craft. There is nothing here about elsewhere. Passes. *As an
+EU recruiter:* a senior director doing postgraduate study, actively closing tool gaps, and
+honest about it in front of her own team. Reads as someone who will still be learning in
+five years, which is what agencies are actually buying. Passes.
+
+---
+
 ## Elsewhere
 
 - **Aug 6, Arabic first:** full draft in `dual-audience-content-engine.md`
