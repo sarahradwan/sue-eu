@@ -290,44 +290,54 @@ Hook is option B at 90 characters, comfortably inside the mobile cutoff.
 > Most of the hours cost nothing, which is the thing I would say to anyone doing this
 > arithmetic. The expensive ones were rarely the useful ones.
 >
-> [birthday close, see below]
+> Forty-six today, and still bad at something new. That is the part I am pleased about.
 
-### ⚠️ The Hijri line is backwards
+### Hijri: cut, and rightly
 
-Her original note for this post said she counts her age in Hijri **because she is a year
-younger there**. That is the wrong way round.
+She confirmed **46 Gregorian on 8 August 2026**, and that her **Hijri birthday is in
+Ramadan**. Then called it: leave Hijri out.
 
-A lunar year is about 10.9 days shorter than a solar year, so more Hijri years fit into the
-same lifetime. At a Gregorian age of 45 the Hijri age is about 46.4. **She is older in
-Hijri, by roughly a year and a third, not younger.**
+That is the correct edit, for a reason beyond the arithmetic. The two calendars drift
+against each other, so her Hijri birthday moves through the Gregorian year. Born 26 Ramadan
+1400, her Hijri birthday in 2026 fell around March. **On 8 August it is not her Hijri
+birthday at all**, so raising the subject in an August post was wrong-footed whichever way
+the numbers ran.
 
-This matters more than a normal factual slip. Her audience is Gulf and Egyptian, where
-everyone knows the Hijri calendar, so this would be corrected in the comments of a personal
-post by people being friendly about it. Same shape as the LEGO correction, on home ground.
+Recorded for the file, since it was checked: her original note said she counts in Hijri
+because she is a year *younger* there, and it runs the other way. A lunar year is about 10.9
+days shorter, so more of them fit a lifetime. On 8 August 2026 she is 46 Gregorian and 47
+Hijri. Not needed now, but it should never go into a post in the original form.
 
-**Two possible explanations, and she knows which:**
+**Worth keeping for later.** Born in Ramadan is a genuinely good detail with a natural home:
+a post timed to Ramadan, not to August. Ramadan 1448 begins around mid-February 2027. Park
+it there.
 
-1. **It is arithmetic, and it is simply inverted.** Then the correct version is a better
-   line anyway, because the surprise runs the right way:
-   > In the Hijri calendar I am already more than a year further along than the paperwork
-   > says. That feels about right.
-2. **Her documents record a different birth year.** Common with older Egyptian paperwork,
-   and a real personal reason that has nothing to do with lunar months. If so it is
-   completely safe to use, but it needs saying as a paperwork story rather than a calendar
-   one, or the calendar-literate reader still corrects her.
+### The close
 
-**Neutral close if she would rather not open the subject at all:**
-> Another year. Still counting in hours.
+> Forty-six today, and still bad at something new. That is the part I am pleased about.
+
+Ties back to the paragraph about being slow at the tool, lands the thesis without restating
+"never reached zero", and stops rather than asking anything.
+
+**On stating the age.** Heba stated hers, and the thesis needs it, since "never stopped at a
+certain age" does not land without the age. Creative-industry ageism is real and once stated
+it cannot be unstated. But **22 years of experience already tells any reader she is in her
+mid-forties**, so the number adds precision rather than new information. Recommend stating
+it. Her call, made knowingly.
 
 ### Still needed from her
 
-1. **The number.** "[X] a week" has to be hers and nothing else will do. The best version is
-   unimpressive and specific: four hours reads as true, twenty reads as a flex, and a flex
-   is the thing this post is quietly declining to do.
-2. **Which Hijri explanation is the real one.**
-3. **The photo.** Personal posts with a genuine photo of her are her measured strongest
-   format, so this needs an actual photograph, not a graphic and not a stock image. It is
-   the one post in the schedule where the picture carries as much as the words.
+1. **The hours.** "[X] a week" has to be hers. The best version is unimpressive and
+   specific: four hours reads as true, twenty reads as a flex, and a flex is precisely what
+   this post is declining to do.
+
+   **Easier alternative if a single average feels false**, which it may well be, since the
+   draft already says "never evenly": give a range instead and the sentence becomes
+   *"Some weeks four hours, some weeks none, one year closer to twenty."* That is more
+   honest than an average and it needs no arithmetic from her.
+2. **The photo.** Personal posts with a genuine photograph of her are her measured strongest
+   format, so this needs an actual picture, not a graphic and not stock. It is the one post
+   in the schedule where the image carries as much as the words.
 
 ### One deliberate omission
 
