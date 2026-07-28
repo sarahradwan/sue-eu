@@ -25,6 +25,21 @@ gets overwritten by a variant.
 | **`experiential-events-presentation`** | **Brand experience, events and presentation-design roles** — built for Adyen. Reusable for any employer running large internal or external events, conferences or investor days | **RTA leads.** Her strongest case study finally in the front position: two-day immersive experience, six bilingual activations, kiosks, participatory installation, environmental graphics, wayfinding, vendor and pre-press management. DAIS 2019 promoted to its own entry for signage and wayfinding. WeDo reframed around **presentation design and data visualisation** — the deck work behind the 12% tender win rate — rather than general creative leadership. Ministry entry leads on **directing illustrators** for icons and graphical elements. Keynote and Google Slides listed explicitly, mirroring the posting |
 | **`editorial-publishing-multiscript`** | **Roles a level below Creative Director** — editorial, layout and design-system work. Built for Douglas/NICHE-BEAUTY, and **reusable across Ireland, Spain and Belgium**, where the permit floor allows Senior Designer and Art Director titles | **Deliberately repositioned downward.** Retitles her as *Editorial and Brand Design Lead*, and the Ministry role as *Design Lead* rather than Creative Director, so she does not read as overqualified — the likely cause of the AKQA rejection. Leads with hands-on craft (typography, layout, templates, print production), not ministerial stakeholder management. **Multi-script typography is the spine**: Arabic, English and French across three scripts, with the 100+ book curriculum system as proof. Languages promoted from a footnote to a credential. German shown at A2, improving |
 
+## Standard application-form fields — how to answer them
+
+These recur on every Greenhouse, Workday and corporate portal. Decided 26 Jul 2026.
+
+| Field | Answer |
+|---|---|
+| **Right to work / "will you require sponsorship?"** | **Always answer honestly: yes, she requires sponsorship.** It is checkable, and being caught ends the application *and* the relationship with an employer she may want to approach again. If there is a free-text box: *"I would require visa sponsorship. For this role the EU Blue Card is the relevant route, which does not require the employer to hold IND recognised-sponsor status."* Most sponsored candidates cannot explain the mechanism — knowing it reads as competence, not liability |
+| **Salary expectation** | Per country floor, never below it. Netherlands: €75–85k for a senior role, hard floor €72,000. Germany: €58,000 against a €50,700 threshold. See the floors table in `pipeline-jobs.md` |
+| **Notice period / start date** | Real WeDo notice **plus one to three months for permit processing.** Say it at application stage, not at offer stage. An employer who walks over this was always going to |
+| **Accessibility / adjustments** | **Leave blank, or "No adjustments needed."** It exists for genuine access needs — disability, neurodivergence, religious observance, caring responsibilities. Do not repurpose it for scheduling preferences or to raise the visa question; both have proper places. If she does have a genuine need, use it — it is protected and separated from the hiring decision |
+| **Referees** | **Never a WeDo colleague without her explicit say-so.** Use Social Dar, the Ministry programme, DAIS or CPI — all past, all safe |
+
+⚠️ **Interviews: never take a call from the WeDo office or on WeDo wifi.** Amsterdam and
+Dublin afternoons are her evening, which works in her favour — take them from home.
+
 **Contact details are not stored here.** Both documents ship with `[EMAIL]` and
 `[+971 — INSERT YOUR UAE NUMBER]` placeholders in the body, filled in at send time.
 Deliverables live outside the repo.
