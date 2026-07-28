@@ -219,8 +219,58 @@ Target English-operating employers, which Berlin and Hamburg have in volume.
 - Public-university English-taught master's in brand/communication design **not yet
   identified** — the DAAD programme database is the tool for pass 2.
 
+### 💶 Cost of living — Hamburg, single, own apartment. Worked 26 Jul 2026.
+
+Triggered by a real €58,000 salary question. **Estimates from model knowledge, not checked
+against a source — the web search budget was exhausted.** Confirm with a
+*Brutto-Netto-Rechner* and live ImmoScout24 listings before relying on them.
+
+**€58,000 gross → roughly €2,900–2,950 net/month.** Tax class I, childless, no church tax:
+income tax ~€10,200, social contributions ~€12,500 (pension 9.3%, health ~8.6%, care 2.4%
+with the childless surcharge, unemployment 1.3%). **Health insurance sits inside that
+figure**, not as a separate bill.
+
+| Monthly outgoings | |
+|---|---|
+| 1-bed apartment, *warm*, outside the centre | €1,100–1,300 |
+| Groceries | €350 |
+| Deutschlandticket | €58 *(Mutabor offers this as a benefit)* |
+| Internet and phone | €60 |
+| Rundfunkbeitrag — mandatory | €18 |
+| Everything else | €300 |
+| **Total** | **≈ €1,900–2,100** |
+
+**Leaves roughly €850–1,050/month.** Comfortable living alone, with room to save.
+
+### ⛔ The upfront cost collides with her no-capital constraint
+
+Moving into a German apartment typically costs **€4,000–6,000 before she sleeps there**:
+deposit of up to three months' cold rent (~€2,500–3,000), first month's rent, and the one
+that catches everyone — **German flats are frequently let without a kitchen**, which the
+tenant buys and installs. Add flights and shipping.
+
+That is approximately the **entire projected ~€6,000 end-of-service gratuity** recorded in
+the no-capital section above. **It is arrival money and this is what it is for.** Budget
+nothing else against it.
+
+Second risk, possibly larger: **finding the flat at all.** Hamburg's rental market is tight
+and landlords expect SCHUFA credit history she will not have. **Ask any German employer
+whether they assist with relocation** — many agencies do, and it is a fair question once
+there is genuine interest.
+
+### 🔄 The comparison that reorders the countries
+
+| | Salary needed to be sponsorable | 1-bed rent |
+|---|---|---|
+| 🇩🇪 Hamburg | **€50,700** | €1,100–1,300 |
+| 🇳🇱 Amsterdam | **€71,300** | €1,500–2,000 |
+
+**€58,000 in Hamburg likely leaves her better off month to month than €75,000 in Amsterdam.**
+The Dutch threshold looks generous until it is set against Dutch rent. **Rank countries on
+salary floor relative to living cost, not on the floor alone.**
+
 - **Creative industry:** Berlin, Hamburg, Munich
-- **Language:** German A1 — she is actively studying, so this improves over time. For now,
+- **Language:** German **A2** — she is actively studying, so this improves over time. For now,
   **only English-taught programmes count**, and only English-operating employers.
 - **Status:** A1 route open but unresearched · Route B tuition researched and cheap, but the
   **blocked account is now the binding constraint**. Programme search outstanding.
