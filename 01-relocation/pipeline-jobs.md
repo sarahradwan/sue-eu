@@ -190,7 +190,8 @@ reason that will not change. France remains open as an employer-sponsored market
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
-| **Creative Excellence Senior Director, International Beverages** | **PepsiCo** | 🇮🇪 Dublin 2 | **UNVERIFIED** | English | None stated | 🔥 **`LEAD` — strongest open lead. Verify and apply.** |
+| **Art Director — Internal Comms Branding** | **Adyen** | 🇳🇱 Amsterdam | **UNVERIFIED** | **English, stated** | None stated | 🔥🔥 **`LEAD` — best portfolio match found. Apply.** |
+| **Creative Excellence Senior Director, International Beverages** | **PepsiCo** | 🇮🇪 Dublin 2 | **UNVERIFIED** | English | None stated | 🔥 **`LEAD` — strongest Irish lead. Verify and apply.** |
 | Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | ✅ **`APPLIED`** — sent 25 Jul 2026 |
 | ~~Creative / brand roles~~ | ~~Rituals~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED`** — Sara checked; no suitable roles. Lead was weak, see below |
 | Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — most differentiated advantage |
@@ -355,6 +356,54 @@ Clearly · The Sting · Amsterdam University of Applied Sciences · WPP Media.
 - LinkedIn saved searches for Amsterdam / Dublin / Brussels + Creative Director, Art
   Director, Design Director, Brand Lead. ⚠️ **Saved searches and alerts are private; Follows
   and "I'm interested" are not.** See the confidentiality note below.
+
+### 🔥🔥 Art Director, Internal Comms Branding — Adyen, Amsterdam
+
+Sent by Sara, 26 Jul 2026 · Apply via **Greenhouse**, not LinkedIn ·
+[job-boards.greenhouse.io/adyen/jobs/7355910](https://job-boards.greenhouse.io/adyen/jobs/7355910) ·
+Full-time, office-first, reports to the Global Design Team Lead · 323 applicants
+
+**Verdict: apply. This is the closest match to her actual portfolio of anything screened
+so far** — closer than Tommy Hilfiger, and it is not close.
+
+**Filters:** English **explicitly required** ✅ · full-time, presumed permanent ✅ ·
+8+ years asked against her 22 ✅ · responses handled off LinkedIn ✅
+
+**Where her portfolio maps, line by line:**
+
+| Their requirement | Her evidence |
+|---|---|
+| *"Experiential Design — immersive experiences blending physical and digital touchpoints"* | **The RTA brand experience.** Two-day event, six bilingual activations, touchscreen kiosks, participatory installation, environmental graphics, on-site direction. This is the same job described in different words |
+| *"Presentation Design — 9 decks, 130+ slides, data visualisation, custom illustration"* | Tender and proposal development at WeDo — **12% government tender win rate** — presented to ministers. Keynote and PowerPoint are already in her toolset, and information design and data visualisation are already in her skills |
+| *"Print & Event Collaboration — banners, wayfinding, notebooks, file prep"* | DAIS 2019: billboards, press, **environmental signage, entry systems**. Plus RTA environmental graphics |
+| *"Agency Management & QA — briefing, creative steering, timelines"* | *"Direct multidisciplinary vendors, production partners and developers across concurrent programmes"* |
+| *"Illustration — icons and complex graphical elements"* | Led a team of **illustrators** across 100+ curriculum books |
+| *"Stakeholder management"* | Presents and defends creative direction to ministers |
+
+**Three honest gaps:**
+
+1. **Figma is listed as a required proficiency.** Hers is still "in active development". This is
+   now the **second** time Figma has been a stated requirement on a good lead. **It has become
+   the highest-value skill gap in the whole plan** — worth deliberate practice hours, not
+   passive improvement.
+2. **Internal communications specifically.** She has done brand experience for *external*
+   audiences, never employee-facing internal branding. Transferable — the craft is identical
+   and the audience differs — but it is a genuine gap and the letter should meet it head on.
+3. **⚠️ Salary is the live risk.** *"Art Director"* in Amsterdam reports at **€50k–€79k**, and
+   the Dutch floor is **~€71,300**. Only the top of that band clears it. **But Adyen is a
+   fintech, not an agency, and pays accordingly** — and it is widely described as hiring
+   internationally as a matter of routine. **I could not verify its IND recognised-sponsor
+   status** (search budget exhausted; `ind.nl` is blocked regardless). **She should ask
+   directly.** Target **€75,000–85,000**; do not go below €72,000, or the permit fails
+   regardless of how much they like her.
+
+**Note their own invitation:** *"Studies show that women and members of underrepresented
+communities apply only if they meet 100% of the qualifications… Adyen encourages you to
+reconsider and apply."* That is aimed precisely at the Figma hesitation. Apply.
+
+⚠️ **Confidentiality: the posting surfaces "People you can reach out to — Victorine Snijders
+— Connect". Do not connect.** A LinkedIn connection request to someone at a company she is
+applying to is a visible action on the network her employer watches. **Greenhouse only.**
 
 ### 🔥 Creative Excellence Senior Director, International Beverages — PepsiCo, Dublin
 
