@@ -615,6 +615,36 @@ genuinely scarce assets and it has been sitting unused in the CV.** Apply it to 
 Belgian, and Brussels institutional roles — and note it pairs with the Arabic advantage
 already flagged for Brussels.
 
+### 🔑 Market signal, 26 Jul 2026 — German-speaking agencies are hiring for *her* AI, explicitly
+
+Screened **REICHLUNDPARTNER** (Vienna/Linz/Graz), *NextGen Creative Director*. **Rejected on
+German** — the ad states *"Sehr gute Deutsch- und Englischkenntnisse"*, and unlike the Douglas
+layout role this one requires her to **author** in German: concepting campaigns for Austrian
+national brands, leading a German-speaking creative team, pitching to clients. That is the
+authoring case the refined language filter disqualifies. Clean no.
+
+**But the posting is the strongest evidence yet that her AI positioning has a real market.**
+It carries an entire section headed *"Creative Intelligence & GenAI"*, naming Weavy.ai,
+ChatGPT, Claude, Gemini, Firefly, Midjourney, Stable Diffusion, Flux, Ideogram, Runway, Veo,
+Sora, Kling, ElevenLabs and Suno — and asks for someone who *"knows when classic creativity
+is called for, when AI gives the decisive edge, and how to combine both into a new creative
+standard."*
+
+**That is her positioning, written by someone else, as a job requirement.** Applied and
+governance AI, not CGI pipeline. It confirms the split recorded after the AKQA rejection and
+proves the demand side exists.
+
+**Strategic consequences:**
+
+1. **German-speaking markets are worth more than their language barrier suggests.** Germany
+   already has the low salary floor (€50,700 / €45,934). Now there is evidence that agencies
+   there are actively recruiting for the exact capability she has. **The binding constraint
+   is German, and German is the one constraint she can actually move.**
+2. **Her German study is no longer "compounding but off the critical path"** — as
+   `timeline-to-2027.md` has it. At B1–B2 this entire market opens. That reframes German
+   from a nice-to-have into a **route**.
+3. **REICHLUNDPARTNER goes on the watch list for later**, not now.
+
 ### ⚠️ Do not trust LinkedIn's "Job match is high"
 
 LinkedIn told her this role was a high match. **It was not** — it failed on language and on
