@@ -615,6 +615,66 @@ genuinely scarce assets and it has been sitting unused in the CV.** Apply it to 
 Belgian, and Brussels institutional roles — and note it pairs with the Arabic advantage
 already flagged for Brussels.
 
+### ⛔⛔ FIGMA IS NOW THE BINDING SKILL GAP — priority action, 26 Jul 2026
+
+**Third role in a row where Figma is a *stated* requirement**, not a preference:
+
+| Role | Wording |
+|---|---|
+| AKQA, ACD | *"proficiency in… Figma"* |
+| Adyen, Art Director | *"proficiency in Adobe CC, Keynote, Google slides, and **Figma**"* |
+| **Mutabor, Senior Brand Designer** | ***"Sehr gute Kenntnisse in Figma** und in der Adobe Creative Suite"* — Figma listed **first** |
+
+Her CV still says *"Figma (in active development)"*. **This is no longer a gap to note in
+passing. It is the single highest-return thing she can fix**, and unlike her passport, her
+capital, or her fashion years, it is entirely within her control.
+
+**Estimate: two to three weeks of focused work** would let her write *"sehr gute Kenntnisse"*
+honestly. Set against a relocation timeline measured in months, that is an extraordinary
+rate of return. **It should outrank almost everything else on the preparation list.**
+
+Note it compounds with German: at Mutabor she misses **both** stated requirements. Fix Figma
+and she misses one.
+
+### 🟡 Senior Brand Designer, Sport & Lifestyle — Mutabor, Hamburg. **ASK, do not assume.**
+
+[Posting](https://www.linkedin.com/jobs/view/4445476936/) · Hybrid, Greater Hamburg ·
+Responses handled off LinkedIn · 170+ people across **Hamburg, Berlin and Los Angeles** ·
+clients include Porsche, Volkswagen, BMW Motorrad, DFL, Henkel, OTTO, Migros, Pfizer
+
+**Substance fit is the strongest of any role screened so far:**
+
+- *"Entwicklung und Pflege von **Designsystemen und Brand Guidelines** für nationale und
+  internationale Kund:innen"* — this is her core discipline, not an adjacent one. National
+  curriculum design system, brand architecture across four countries, identity systems and
+  guidelines for UAE government institutions.
+- Corporate design and brand identity projects — Act Air end to end.
+- Mentoring juniors, design presentations to clients, quality and consistency against
+  guidelines — all directly evidenced.
+- Degree in graphic design ✓ · 5 years asked against her 22 ✓
+- **Sport and lifestyle, both listed as advantageous, and she has both:** DAIS 2019 for
+  **Dubai Sports Council**, and five years of fashion and beauty editorial at CPI.
+
+**Two stated requirements she misses:**
+
+1. **Figma, "sehr gute Kenntnisse"** — see above. Currently a real miss.
+2. **German, "sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"** — she is A2.
+
+**But the benefits section contains a genuine tell:**
+
+> *"Du willst deine Sprachkenntnisse verbessern? Kein Problem, nimm Teil an unseren
+> **kostenlosen Deutsch- und Englischkursen**."*
+
+**An agency does not offer free German lessons to a workforce of native German speakers.**
+Free *English* courses alongside them means the reverse is also true. Combined with an
+**LA office** and *"internationale Markenagentur"* framing, this is an employer that
+demonstrably hires across languages and supports people learning on the job.
+
+**Verdict: worth one email before writing it off.** Ask whether the role can work for a
+strong candidate at A2 German who is actively studying. Their own benefits page suggests the
+answer may be yes. **But fix Figma first** — going in missing both stated requirements is a
+materially weaker position than missing one.
+
 ### 🔑 Market signal, 26 Jul 2026 — German-speaking agencies are hiring for *her* AI, explicitly
 
 Screened **REICHLUNDPARTNER** (Vienna/Linz/Graz), *NextGen Creative Director*. **Rejected on
