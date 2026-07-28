@@ -265,32 +265,72 @@ it, it reads as two people thinking about the same thing from different sides.
 It is also a reach lever her own data supports: the Busuu reply pushed a post to 2,475
 impressions, and a tagged friend replies far more reliably than a tagged brand.
 
+### The first hook was rejected, and why
+
+Rejected: *"Heba counted what she spent on learning. I cannot do that. I can only count mine
+in hours."*
+
+Her verdict was right. The diagnosis matters more than the fix, because the same mistake is
+easy to repeat:
+
+- **It opened on someone else's name.** The first thing in her feed was another person's
+  post, and a reader who never saw Heba's has no reason to care.
+- **Two of its three sentences said what she cannot do.** It opened on limitation.
+- **It contained no claim.** "I count in hours" is a framing device, not a statement. Her
+  working hooks always assert something: *most bilingual work in this region is made in
+  English and then moved into Arabic.*
+- **It was not physical.** Her strongest openings put her somewhere. This one was
+  bookkeeping.
+
+**The root cause:** the Heba credit was placed in the hook to stop the post reading as a
+subtweet of a friend. That is a real structural problem solved in the wrong place. It
+belongs in paragraph two, where it does the same job and costs nothing.
+
 ### Draft
 
-Hook is option B at 90 characters, comfortably inside the mobile cutoff.
+Hook is 73 characters, and the paragraph break after it means those two sentences are the
+whole visible snippet. The juxtaposition is the claim.
 
-> Heba counted what she spent on learning. I cannot do that. I can only count mine in hours.
+> There is a postgraduate assignment open on my desk. I am forty-six today.
+>
+> Heba wrote a few weeks ago about what she has spent on learning herself, in money. I have
+> never been able to count mine that way. Mine only exists in hours.
 >
 > Roughly [X] a week, most weeks, for as long as I have been working. Never evenly. Some
 > years that was reading on a Friday and nothing else. Some years a full course with
-> deadlines attached. Right now it is a postgraduate diploma I am partway through, which is
-> not the age most people choose to start one.
+> deadlines attached. Right now it is the diploma, which is not the age most people choose
+> to start one.
 >
-> That is the part I keep turning over on a birthday. Not the total. The fact that it never
-> reached zero.
+> That is the part I keep turning over. Not the total. The fact that it never reached zero.
 >
 > There was a version of this career available to me where I stopped at some point and lived
 > off what I already knew. It is genuinely available. It is comfortable, and you can get
 > surprisingly far on it, because work you did ten years ago still looks like work.
 >
-> I am learning a tool right now that I should have picked up years ago, and I am slow at
-> it. There is something clarifying about being visibly bad at something in a room where
+> I am also learning a tool right now that I should have picked up years ago, and I am slow
+> at it. There is something clarifying about being visibly bad at something in a room where
 > people report to you.
 >
 > Most of the hours cost nothing, which is the thing I would say to anyone doing this
 > arithmetic. The expensive ones were rarely the useful ones.
 >
-> Forty-six today, and still bad at something new. That is the part I am pleased about.
+> The assignment is still open. I am going back to it.
+
+**The close returns to the opening image**, which is a shape she already uses. It is 52
+characters, it lands without restating the thesis, and it asks for nothing.
+
+**Alternative hooks, measured, if the desk one does not fit the day:**
+
+| | Hook | Chars |
+|---|---|---|
+| B | In twenty-two years I have never had a year where I stopped learning. That is the only number on my CV I am proud of. | 117 |
+| C | I am forty-six today and I am currently bad at something I should have learned years ago. | 89 |
+| D | I cannot tell you what learning has cost me. I can tell you it has never once been a year off. | 94 |
+| E | The most useful thing I have done for this career is keep being a beginner at something. | 88 |
+
+B carries an absolute ("never had a year"), which is the shape that gets corrected, so she
+would need to stand behind it. E is the most quotable and the most guru-adjacent, which cuts
+both ways.
 
 ### Hijri: cut, and rightly
 
