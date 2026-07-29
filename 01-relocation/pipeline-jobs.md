@@ -328,6 +328,32 @@ and the brand-side ones are in there.
 *Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
 and almost nothing else in her CV is being used to open that door.*
 
+### 🔓 Xing and StepStone are **lower confidentiality risk** than LinkedIn — 26 Jul 2026
+
+Her boss monitors her **LinkedIn**. He is almost certainly not on **Xing**, a German-language
+professional network with negligible Gulf presence. Same for **StepStone.de**.
+
+**This is the first low-risk platform she has had.** On Xing she could plausibly keep a fuller
+profile, and arguably even set "open to offers" — actions that would be reckless on LinkedIn.
+Not zero risk, and it is her call, but the asymmetry is real and worth using.
+
+**Search English job titles in German cities.** Counterintuitive but it is the highest-value
+filter available: English titles on a German platform surface the employers who *operate* in
+English, which is precisely the set she needs at A2.
+
+`Creative Director` · `Design Director` · `Head of Creative` · `Senior Art Director` ·
+`Brand Designer` · `Design Lead` — filtered to **Berlin, Hamburg, Munich, Düsseldorf,
+Cologne, Frankfurt**. Berlin and Hamburg carry the most English-operating employers.
+
+German-language terms (`Kreativdirektor`, `Leitung Kreation`, `Corporate Design`,
+`Markenführung`) mostly return roles needing fluent German. Scan for exceptions; expect few.
+
+Xing often displays salary data, which makes screening against Germany's **€50,700** floor
+fast.
+
+⚠️ **Neither platform is reachable from this environment** (egress policy blocks all job
+boards). She runs the search; findings come back here for screening.
+
 ### 🎯 Change the channel — recruiters, not job boards
 
 Job boards are the most competitive channel and the worst for sponsorship. Specialist
