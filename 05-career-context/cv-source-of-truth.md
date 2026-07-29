@@ -127,6 +127,10 @@ collateral, props and email · Internal event design and setup
 environmental design · Multi-script typography and design systems · Editorial, publication
 and campaign craft · Information design and data visualisation
 
+**Direction of specialists** — Directs motion designers and animators: briefing, review and
+creative judgement on motion work, without executing it herself · Directs illustrators, 3D
+and CGI specialists, developers, production houses and print vendors
+
 **Tools** — Adobe Creative Suite (InDesign, Illustrator, Photoshop) · Keynote and
 PowerPoint · AI generation and research platforms · Figma (in active development)
 
@@ -195,7 +199,13 @@ worth more than waiting for forms to surface things one at a time.
   already done in French at the same level. Distinguish the two: a German-language *creative
   director* role is out; a German-language *editorial and layout* role is arguable, and the
   argument is her Arabic/English/French publishing record.
-- Figma still "in active development" while much of EU digital/product design assumes
-  fluency. Worth closing.
+- **Figma and motion are the two recurring gaps**, each a stated requirement in four separate
+  postings screened 26 Jul 2026. **State both accurately, neither hidden nor inflated:**
+  - **Figma** — actively learning. Depth is Adobe. Roles asking for *"expertise… Auto Layout,
+    components"* are a genuine stretch; roles listing it among several tools are not.
+  - **Motion** — **she directs it, she does not execute it.** She briefs and gives creative
+    judgement on motion work. Against *"solid foundation and willingness to develop"* that is
+    defensible; against *"create motion-driven assets in After Effects"* it is not. **The line
+    is: "I direct motion, I don't build it, and the hands-on side is what I'm developing."**
 - Portfolio is MENA-institutional heavy; EU recruiters may not recognise the client names.
   Case studies need to translate scale and complexity, not rely on brand recognition.
