@@ -328,6 +328,28 @@ and the brand-side ones are in there.
 *Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
 and almost nothing else in her CV is being used to open that door.*
 
+### 🇧🇪 Belgium is not one market — refined 26 Jul 2026
+
+Screened **prado** (creative designer, Ghent/Veurne). Rejected on *"Fluent in Dutch and
+English"* — she has **zero Dutch**, so this is absolute, not arguable. Also mid-level and
+below her band.
+
+The finding is that Belgium splits, and the split is **not purely geographic**:
+
+| Where / who | Language reality |
+|---|---|
+| **Brussels** | ✅ **English works.** Institutional and EU-adjacent sector. egg asked for English with French only a bonus |
+| **Flanders — internationally operating employers** | ✅ English plausible. *Conveo*, Antwerp: YC-backed, London and New York offices, enterprise clients, no Dutch asked |
+| **Flanders — Belgian-market employers** | ❌ **Dutch required.** *prado*, Ghent/Veurne: Belgian company, Dutch-speaking region |
+
+**Rule: in Flanders, check the employer's market before the job title.** International
+backing or multinational clients means English is plausible. A company serving the Belgian
+market means Dutch, and that ends it.
+
+**Brussels stays the Belgian target** — English-workable, €44,441 highly-skilled threshold,
+and the one EU market where her native Arabic plus government and ministry experience is
+genuinely scarce rather than merely interesting.
+
 ### ⛔ AUSTRIA IS CLOSED FOR ROUTE A — concluded 26 Jul 2026 on three data points
 
 Three Austrian roles screened, all failed the same two ways. This is structural, not luck.
