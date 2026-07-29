@@ -695,6 +695,29 @@ German agencies arrive at B2+. **Worth applying, do not count on it.**
 Figma remains worth fixing regardless — it is on their list too, and it is not a language
 problem.
 
+### 📉 Austria confirmed weak for Route A — first real salary data, 26 Jul 2026
+
+Screened **BIGBANG**, *Senior Art Director*, Klagenfurt. Rejected three ways, but it produced
+the first **published** salary for an Austrian creative role: **€45,000/year**.
+
+That sits **below Austria's EU Blue Card threshold of roughly €50,000**, so the role is
+unsponsorable as advertised, with no negotiating room since the figure is public.
+
+The other two fails are worth recording as pattern:
+- **"ART DIRECTOR MIT WIENER SCHMÄH"**, in the headline. *Wiener Schmäh* is Viennese wit —
+  untranslatable, culturally native. **No level of German study reaches this.** It is a
+  harder bar than "sehr gute Deutschkenntnisse" and should be treated as an absolute stop.
+- Klagenfurt, Carinthia: a regional agency of about 100,000 population, local clients,
+  German-only workflow.
+
+**The comparison that matters:** the same seniority in Hamburg pays €52–62k against a
+€50,700 floor. **Same language barrier, completely different economics.** Austrian agency pay
+sits below its own permit floor; German agency pay sits above.
+
+**Consequence: German study should be aimed at Germany, not Austria.** Austria stays strong
+on Route B — €1,453/year public tuition is exceptional — and stays weakest of the preferred
+three on Route A.
+
 ### 🔑 Market signal, 26 Jul 2026 — German-speaking agencies are hiring for *her* AI, explicitly
 
 Screened **REICHLUNDPARTNER** (Vienna/Linz/Graz), *NextGen Creative Director*. **Rejected on
