@@ -37,6 +37,12 @@ installation, environmental graphics, on-site direction.
 company; identity for Dubai's first AI in Sports conference. Makes unfamiliar technology
 legible and desirable.
 
+**Internal Brand & Employee Experience** — "Benet7awel" for Dubai Municipality: a phased
+teaser-and-reveal internal campaign taking a whole headquarters through a change of working
+culture, across collateral, props, email and physical event setups. Employee-facing brand
+work, which is a distinct discipline from consumer campaigns and a live hiring category in
+EU in-house teams.
+
 **AI Ways of Working** — AI image and video generation embedded in live production,
 AI-assisted research and proposal development, AI usage guidelines formalised inside
 client brand systems.
@@ -50,6 +56,10 @@ client brand systems.
   brand identity, experience, publications and campaigns, concept to delivery.
 - Own senior client relationships; present and defend creative direction to ministers
   and executive stakeholders; contribute to new-business and tender pitches.
+- **Led "Benet7awel", an internal change and employee-experience campaign for Dubai
+  Municipality**, carrying the organisation's move to a Work From Anywhere policy to the
+  entire headquarters: phased teaser and reveal campaigns, employee-facing collateral and
+  props, email communications, and physical event setups across the building.
 - Lead AI adoption in creative production: image and video generation, AI-assisted
   research and proposal development, AI usage guidelines written into client brand systems.
 - Direct multidisciplinary vendors, production partners and developers across concurrent
@@ -109,6 +119,10 @@ Senior stakeholder and executive relationships · Mentoring and creative standar
 governance in brand systems · AI-assisted research and proposal workflows · Making emerging
 technology legible and desirable · Continuous adoption of new creative tools
 
+**Internal Comms & Change** — Internal brand and employee experience · Change
+communication campaigns · Phased teaser and reveal campaign structures · Employee-facing
+collateral, props and email · Internal event design and setup
+
 **Craft & Systems** — Brand identity systems and guidelines · Experience, event and
 environmental design · Multi-script typography and design systems · Editorial, publication
 and campaign craft · Information design and data visualisation
@@ -147,29 +161,30 @@ producing across multiple markets, this is a differentiator, not a gap.
 | 20+ brands | Art directed at CPI Media Group |
 | 250+ vacancies | RTA registration platform capacity |
 
-## ⚠️ Captured 26 Jul 2026 — needs detail before it goes in a CV
+## ✅ Resolved 26 Jul 2026 — Benet7awel, and the lesson from nearly losing it
 
-**Dubai Municipality — "Work From Anywhere" change programme.** Campaign, **employee
-experience** and event, delivered when the organisation moved from office-based working to a
-work-from-anywhere policy.
+**"Benet7awel" (بنتحول), Dubai Municipality — internal change campaign, WeDo.** Now written
+into the WeDo entry, the pillars and the skills above. Recent work, 2025 onward.
 
-Surfaced by Sara while answering an application question. **It was not in this file**, and
-that cost something real: Adyen's role is *Art Director, Internal Comms Branding*, and her
-cover letter for it said internal communications was new to her. It is not.
+Scope as Sara described it: teaser campaign, reveal campaign, employee props, marketing
+collateral, emailers and event setups, reaching **all employees at the Dubai Municipality
+headquarters** through the shift to a Work From Anywhere policy. Portfolio: sarahradwan.me
 
-**Open questions — answer these and this becomes a usable entry:**
-- Which employer, and roughly when? (Social Dar? WeDo? Independent?)
-- What was delivered — campaign assets, the event itself, internal comms materials, guidelines?
-- Any number attached: headcount reached, offices, duration?
+**Still worth adding if she can:** headcount reached, and how long the campaign ran.
+*"Reached the whole headquarters"* is good. *"Reached 4,000 staff over six weeks"* is
+evidence.
 
-**Why it matters beyond one application.** Internal brand and employee experience is a
-distinct, well-paid specialism in-house — it is what Adyen were hiring for. On the strength
-of this she has a genuine claim to it, and the vault has been screening her out of that
-category for lack of evidence.
+⚠️ **Correction owed to Adyen.** Their role is *Art Director, Internal Comms Branding*, and
+the cover letter sent for it said internal communications was new to her. **That was wrong**,
+written from a CV that did not mention this. If Adyen come back, she should correct it early
+and lead with Benet7awel — a phased teaser-and-reveal campaign taking a whole headquarters
+through a culture change is precisely what that role is.
 
-**Lesson for the vault:** twenty-two years does not fit on two pages, and what falls off is
-whatever nobody asked about recently. Worth a deliberate pass through her back catalogue
-for anything else missing, rather than waiting for an application form to surface it.
+**The lesson, and it is the more valuable output.** This project was invisible to the vault
+until an application form asked a question narrow enough to surface it. It had already cost
+one badly-framed letter. **Twenty-two years does not fit on two pages, and what falls off is
+whatever nobody asked about recently.** A deliberate pass through her back catalogue is
+worth more than waiting for forms to surface things one at a time.
 
 ## Gaps to be honest about (EU context)
 
