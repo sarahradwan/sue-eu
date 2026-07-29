@@ -328,6 +328,34 @@ and the brand-side ones are in there.
 *Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
 and almost nothing else in her CV is being used to open that door.*
 
+### 🔍 A search string that finds sponsors — found 26 Jul 2026
+
+**Karsten International** (Amsterdam) wrote this into a posting:
+
+> *"Support with **HSM visa** and **30% ruling** (if applicable)"*
+
+That is **explicit sponsorship language under the eligibility filter's own test** — a named
+permit route. It is the **first confirmed-sponsorship employer in the pipeline**; everything
+else is logged unverified.
+
+It also reveals something unstated: **only IND recognised sponsors can file HSM
+applications**, so Karsten is on the register. A register entry, found without being able to
+open the register.
+
+**The generalisable tool.** Search job boards for the phrases sponsoring employers use:
+
+`"30% ruling"` · `"HSM visa"` · `"kennismigrant"` · `"highly skilled migrant"` · `"visa sponsorship"`
+
+Combine with the title set — `"Creative Director" "30% ruling"` — on Indeed.nl, LinkedIn or
+Glassdoor. **Employers who write those phrases are self-identifying as sponsors**, which
+works around `ind.nl` being unreachable from here and beats searching titles alone.
+
+**The Karsten role itself fails:** *"4–7 years of experience"* against her 22, and a designer
+role at that band will not reach the **~€71,304** HSM threshold. Confirmed sponsorship does
+not help if the salary cannot clear the floor. **Employer on the watch list** for anything at
+Head of Brand or Creative Director level; recruiter named as Febraneila Kusuma,
+f.kusuma@karsten.nl.
+
 ### 🇧🇪 Belgium is not one market — refined 26 Jul 2026
 
 Screened **prado** (creative designer, Ghent/Veurne). Rejected on *"Fluent in Dutch and
