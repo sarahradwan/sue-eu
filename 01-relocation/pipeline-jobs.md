@@ -328,6 +328,32 @@ and the brand-side ones are in there.
 *Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
 and almost nothing else in her CV is being used to open that door.*
 
+### ⛔ AUSTRIA IS CLOSED FOR ROUTE A — concluded 26 Jul 2026 on three data points
+
+Three Austrian roles screened, all failed the same two ways. This is structural, not luck.
+
+| Role | German required | Pay |
+|---|---|---|
+| REICHLUNDPARTNER, Vienna — NextGen Creative Director | *Sehr gute*, plus authoring campaigns for Austrian brands | Kollektivvertrag +10% |
+| BIGBANG, Klagenfurt — Senior Art Director | ***"Wiener Schmäh"*** — culturally native | **€45,000 published** |
+| Merlicek & Partner, Vienna — Art Director | ***"Perfekte Deutschkenntnisse"*** | Kollektivvertrag, junior band |
+
+**The two facts that close the market:**
+
+1. **Austrian agencies want native or near-native German.** Not one of the three would work
+   at B2, let alone A2. Even a strong German push does not open this.
+2. **Austrian agency pay sits below the permit floor.** The EU Blue Card there needs roughly
+   **€50,000**; the *Kollektivvertrag für Werbung* pays materially less, and the one published
+   salary was €45,000. **The economics do not reach the threshold.**
+
+**Action: stop spending search time on Austrian job listings.** Austria remains valuable for
+**Route B** — €1,453/year public tuition is the best in the EU and the scholarships session
+rates it the strongest study country — but Route A there is closed.
+
+**Redirect that effort to Germany.** Same language barrier, opposite economics: floor
+**€50,700** and agencies paying **€52–62k** for the equivalent role. If she is screening
+German-language postings at all, they should be German ones.
+
 ### 🔓 Xing and StepStone are **lower confidentiality risk** than LinkedIn — 26 Jul 2026
 
 Her boss monitors her **LinkedIn**. He is almost certainly not on **Xing**, a German-language
