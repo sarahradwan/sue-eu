@@ -797,7 +797,58 @@ genuinely scarce assets and it has been sitting unused in the CV.** Apply it to 
 Belgian, and Brussels institutional roles — and note it pairs with the Arabic advantage
 already flagged for Brussels.
 
-### ⛔⛔ FIGMA IS NOW THE BINDING SKILL GAP — priority action, 26 Jul 2026
+### ⛔⛔ TWO SKILL GAPS ARE COSTING HER ROLES — Figma and motion. 26 Jul 2026.
+
+**Figma — stated requirement in four postings:**
+
+| Role | Wording |
+|---|---|
+| AKQA, ACD | *"proficiency in… Figma"* |
+| Adyen, Art Director | *"proficiency in Adobe CC, Keynote, Google slides, and **Figma**"* |
+| Mutabor, Senior Brand Designer | ***"Sehr gute Kenntnisse in Figma**"* — listed before Adobe |
+| **Moss, Senior/Lead Brand Designer** | ***"Expertise in Figma, deep understanding of Auto Layout, components"*** — named technical features, testable in a portfolio review |
+
+**Motion design — stated requirement in four postings:**
+
+| Role | Wording |
+|---|---|
+| AKQA, ACD | Motion design across the CGI pipeline |
+| egg, Head of Creative | *"2D and 3D design… **motion design**"* |
+| Merlicek, Vienna | *"Schnittprogramme… **Motion Design**"* |
+| **Moss** | ***"Create motion-driven assets… After Effects, Jitter, or Rive"*** — a listed responsibility, not a bonus |
+
+**These are not coincidences. They are what the EU market now expects of senior brand roles**,
+and they are the two things standing between her and roles where everything else fits.
+
+**Estimated cost to close: Figma two to three weeks, working motion (After Effects for simple
+brand animation) about a month. Five to six weeks total** to remove an objection that has
+already killed or weakened five roles. Against a relocation timeline measured in months,
+nothing else on the preparation list returns more.
+
+They also compound with German. At Mutabor she missed Figma *and* German. Fix these two and
+most of her near-misses become single-issue applications.
+
+### 🔴 Moss — Senior/Lead Brand Designer, Berlin / Amsterdam / London. **No, for now.**
+
+Rejected 26 Jul 2026 **on Figma and motion**, not on brand fit.
+
+**What was right:** the strongest AI alignment of any posting screened — *"AI-Native Creative…
+you treat AI as a multiplier, not a shortcut"*, naming ChatGPT, Claude and Midjourney, with a
+bonus for **scalable AI workflows**, which is adjacent to her AI usage guidelines in brand
+systems. Plus *"from rebrands to full-scale campaigns"* (MBC, +38%), typography and
+composition, 360° campaigns, stakeholder communication. **Berlin** also puts it on Germany's
+**€50,700** floor, and a €180M-funded scale-up paying "top-of-market" clears that easily.
+
+**What killed it:** *"Expertise in Figma, deep understanding of Auto Layout, components"* and
+*"create motion-driven assets and micro-interactions"* are **two of seven listed
+responsibilities**, both technical, both demonstrable, and she has neither at the stated
+level. Add performance-focused social and B2B SaaS, neither of which is her domain.
+
+**Revisit once Figma and motion are closed.** Moss is exactly the kind of employer she should
+be reaching — English-working, 50+ nationalities, five European offices, Berlin economics.
+**Employer on the watch list.**
+
+
 
 **Third role in a row where Figma is a *stated* requirement**, not a preference:
 
