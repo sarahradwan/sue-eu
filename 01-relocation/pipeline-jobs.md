@@ -828,9 +828,31 @@ nothing else on the preparation list returns more.
 They also compound with German. At Mutabor she missed Figma *and* German. Fix these two and
 most of her near-misses become single-issue applications.
 
-### 🔴 Moss — Senior/Lead Brand Designer, Berlin / Amsterdam / London. **No, for now.**
+### ✅ REVERSED — Moss, Senior/Lead Brand Designer. **Apply, to Berlin.**
 
-Rejected 26 Jul 2026 **on Figma and motion**, not on brand fit.
+I rejected this on Figma and motion. Sara pushed back on the AI alignment and **she was
+right**. Reversed 26 Jul 2026.
+
+**What changed my mind, and it is not that she pushed.** I weighted two *learnable* software
+gaps above one *unteachable* scarce credential. **Figma expertise is abundant** — Moss can
+hire ten people who know Auto Layout. **AI-native senior brand judgment is not.** Twenty-two
+years of brand leadership plus AI embedded in live client production plus governance written
+into brand documentation is a very short list of people. They can teach her components in a
+fortnight; they cannot teach *"you know when to leverage it and when human judgment needs to
+lead."*
+
+**Apply to Berlin specifically** — Germany's **€50,700** floor rather than Amsterdam's
+€71,304, which removes the salary question entirely.
+
+**The risk is real and she should go in knowing it:** portfolio review. Her book shows brand
+identity, editorial, experience design and multi-script systems, not Figma component
+libraries or motion. A SaaS brand-design role will look for both.
+
+**So name the gap and reframe the trade**, as the Adyen letter does:
+*"You can teach me Auto Layout faster than you can teach anyone what twenty-two years has
+taught me about when to let AI run and when to stop it."*
+
+**Lead with AI, not with the rebrand.** It is their differentiator and hers.
 
 **What was right:** the strongest AI alignment of any posting screened — *"AI-Native Creative…
 you treat AI as a multiplier, not a shortcut"*, naming ChatGPT, Claude and Midjourney, with a
@@ -844,8 +866,8 @@ composition, 360° campaigns, stakeholder communication. **Berlin** also puts it
 responsibilities**, both technical, both demonstrable, and she has neither at the stated
 level. Add performance-focused social and B2B SaaS, neither of which is her domain.
 
-**Revisit once Figma and motion are closed.** Moss is exactly the kind of employer she should
-be reaching — English-working, 50+ nationalities, five European offices, Berlin economics.
+**The two skill gaps still stand as priorities** — they weakened this application even though
+it is worth making. Moss is exactly the kind of employer she should be reaching — English-working, 50+ nationalities, five European offices, Berlin economics.
 **Employer on the watch list.**
 
 
