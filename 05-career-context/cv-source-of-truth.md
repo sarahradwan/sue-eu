@@ -147,6 +147,30 @@ producing across multiple markets, this is a differentiator, not a gap.
 | 20+ brands | Art directed at CPI Media Group |
 | 250+ vacancies | RTA registration platform capacity |
 
+## ⚠️ Captured 26 Jul 2026 — needs detail before it goes in a CV
+
+**Dubai Municipality — "Work From Anywhere" change programme.** Campaign, **employee
+experience** and event, delivered when the organisation moved from office-based working to a
+work-from-anywhere policy.
+
+Surfaced by Sara while answering an application question. **It was not in this file**, and
+that cost something real: Adyen's role is *Art Director, Internal Comms Branding*, and her
+cover letter for it said internal communications was new to her. It is not.
+
+**Open questions — answer these and this becomes a usable entry:**
+- Which employer, and roughly when? (Social Dar? WeDo? Independent?)
+- What was delivered — campaign assets, the event itself, internal comms materials, guidelines?
+- Any number attached: headcount reached, offices, duration?
+
+**Why it matters beyond one application.** Internal brand and employee experience is a
+distinct, well-paid specialism in-house — it is what Adyen were hiring for. On the strength
+of this she has a genuine claim to it, and the vault has been screening her out of that
+category for lack of evidence.
+
+**Lesson for the vault:** twenty-two years does not fit on two pages, and what falls off is
+whatever nobody asked about recently. Worth a deliberate pass through her back catalogue
+for anything else missing, rather than waiting for an application form to surface it.
+
 ## Gaps to be honest about (EU context)
 
 - No EU work experience or EU right to work — the sponsorship/scholarship question is
