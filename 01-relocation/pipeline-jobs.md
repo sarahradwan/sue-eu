@@ -328,6 +328,42 @@ and the brand-side ones are in there.
 *Brand Strategy Director is worth adding specifically because her **CIM Level 7** supports it
 and almost nothing else in her CV is being used to open that door.*
 
+### 🎓 HER CIM LEVEL 7 HAS BEEN UNUSED — found 26 Jul 2026
+
+Karsten's **Brand Manager** posting surfaced something that had been sitting in plain sight.
+
+She is midway through a **Postgraduate Diploma in Professional Marketing (CIM Level 7)** and
+has applied **exclusively to design and creative roles**, where it appears as a footnote in
+the education section. Read what that posting asks for: *"lead market research… define target
+audiences… develop integrated brand and marketing strategies across channels… evaluate
+initiatives with a commercial, shopper-focused mindset."* **That is the CIM syllabus.**
+
+**A creative director who has also done the marketing qualification is an unusual
+combination**, and it is exactly what she is. She has been selling only half of it.
+
+**Widen the title set again — the marketing side:**
+
+`Brand Manager` · `Senior Brand Manager` · `Brand Director` · `Head of Brand` ·
+`Brand Strategist` · `Brand Strategy Director` · `Marketing Manager (brand-led)`
+
+These roles are typically **in-house rather than agency**, which also matches the finding
+that her applied-AI and brand-governance positioning sells brand-side rather than
+production-side. Two independent findings pointing the same way.
+
+**Live lead: Karsten International — Brand Manager, Amsterdam.** ✅ **Sponsorship confirmed**
+(HSM and 30% ruling stated). **No years-of-experience band**, unlike their designer role, so
+the overqualification objection disappears. Strong mapping onto brand identity evolution,
+rebranding (MBC, +38%), creative direction from strategy, stakeholder management and
+commercial acumen.
+
+⚠️ **Two open questions before applying:** retail and shopper marketing is a genuine gap
+(consumer brand work yes, FMCG shopper no), and **the salary band is marginal** — Brand
+Manager in Amsterdam runs roughly €55–75k against the **€71,304** HSM floor. Their 13th month
+may help, since guaranteed structural pay typically counts where holiday allowance does not.
+**Ask the named recruiter** (Febraneila Kusuma, f.kusuma@karsten.nl) to confirm the band
+clears the threshold — one reply decides it, and also reveals the ceiling for that whole
+employer.
+
 ### 🔍 A search string that finds sponsors — found 26 Jul 2026
 
 **Karsten International** (Amsterdam) wrote this into a posting:
