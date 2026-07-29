@@ -190,6 +190,7 @@ reason that will not change. France remains open as an employer-sponsored market
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
+| **HEAD OF CREATIVE — Event Agency** | **egg** | 🇧🇪 Brussels | **UNVERIFIED** | **English required, French only a bonus** | 1 month old | 🔥🔥🔥 **`LEAD` — best overall alignment found. €70–85k stated.** |
 | **Art Director — Internal Comms Branding** | **Adyen** | 🇳🇱 Amsterdam | **UNVERIFIED** | **English, stated** | None stated | 🔥🔥 **`LEAD` — best portfolio match found. Apply.** |
 | **Creative Excellence Senior Director, International Beverages** | **PepsiCo** | 🇮🇪 Dublin 2 | **UNVERIFIED** | English | None stated | 🔥 **`LEAD` — strongest Irish lead. Verify and apply.** |
 | Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | ✅ **`APPLIED`** — sent 25 Jul 2026 |
@@ -356,6 +357,49 @@ Clearly · The Sting · Amsterdam University of Applied Sciences · WPP Media.
 - LinkedIn saved searches for Amsterdam / Dublin / Brussels + Creative Director, Art
   Director, Design Director, Brand Lead. ⚠️ **Saved searches and alerts are private; Follows
   and "I'm interested" are not.** See the confidentiality note below.
+
+### 🔥🔥🔥 HEAD OF CREATIVE, Event Agency — egg, Brussels
+
+Sent by Sara, 26 Jul 2026 · [careers.egg-events.com](https://careers.egg-events.com/jobs/7995890-head-of-creative-event-agency) ·
+Hybrid · **€70,000–85,000 stated** · posted 1 month ago, 93 applicants
+
+**The first role where every gating factor clears at once.** Not the best portfolio match —
+Adyen is — but the best *overall alignment*, and salary and language are the two things that
+have killed most leads.
+
+| Gate | Status |
+|---|---|
+| **Salary** | **€70–85k published.** Brussels thresholds: €44,441 highly skilled · €56,976 Blue Card · €79,766 management. **The bottom of their range clears two, the top clears all three.** No guesswork, no risk of an offer landing under the floor |
+| **Language** | **"Fluency in English"** is the requirement. **French sits under "Bonus points if…"** — in Brussels. Rare, and it removes the filter that kills most of her leads |
+| **Level** | **Head of Creative**, reporting to the Chief Event Experience Officer. At or above her level |
+| **Country** | Belgium, preferred. Brussels is where her Arabic and institutional background is scarcest |
+
+**Two unusually direct hits:**
+- *"Help consistently increase our RFP winning rate"* — she has a **12% government tender win
+  rate contribution**. Not an analogous skill; the same metric, already quantified.
+- *"Proven success crafting and executing brand strategies internationally"* — brand
+  architecture across UAE, Pakistan, Ukraine and Kenya. Four markets, four years, one system.
+
+And the domain is RTA: a two-day live brand experience with activations, kiosks, a
+participatory installation and environmental graphics. Experience design is what egg sells.
+
+**Two gaps, against criteria they explicitly flagged as non-negotiable**
+(*"Candidates who do not meet the following criteria will not be considered"*):
+
+1. **"10+ years in B2B corporate events on agency side."** She has 22 years agency-side and
+   real event work — RTA, DAIS for Dubai Sports Council — but as major projects inside a
+   brand career, not a decade of events as her primary discipline. **Do not claim otherwise.**
+   Honest framing: fewer events, at greater scale, owned end to end.
+2. **"Extensive knowledge in 2D and 3D design, motion design."** 2D and AI, comprehensively.
+   **3D and motion, not at all.** The legitimate argument — and it should be made openly, not
+   implied — is that a Head of Creative **directs** 3D and motion specialists rather than
+   executing, and she has directed illustrators, developers, production houses and print
+   vendors for years.
+
+**Verdict: apply.** With 93 applicants on a month-old posting, the "will not be considered"
+line is likely there to deter volume. She is a stretch on events depth and a strong fit on
+leadership, international brand strategy, client seniority and pitch conversion.
+**Target €80,000** — it clears even the management-personnel threshold.
 
 ### 🔥🔥 Art Director, Internal Comms Branding — Adyen, Amsterdam
 
