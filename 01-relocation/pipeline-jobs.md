@@ -695,6 +695,51 @@ German agencies arrive at B2+. **Worth applying, do not count on it.**
 Figma remains worth fixing regardless — it is on their list too, and it is not a language
 problem.
 
+### ⚠️ Filter 4 — employer *size* predicts sponsorship willingness. Added 26 Jul 2026.
+
+Surfaced by **Conveo** (Antwerp), a YC-backed AI startup. Counter-intuitive but it matters:
+
+**Small startups are often *less* able to sponsor than large corporates, despite feeling far
+more international.** Sponsorship costs money, takes admin, and needs someone in-house who
+has done it before. A 30-person Series A company usually has none of the three. PVH, Adyen
+and PepsiCo all have immigration functions; a YC startup may have a founder and a Notion page.
+
+**So the screening order for any startup is: ask about sponsorship *before* tailoring.** One
+email. The English-language posting, the international offices and the global client list are
+all real signals — but none of them is a signal about visas.
+
+This does **not** rule startups out. It changes the sequence: confirm first, invest second.
+
+### 🟡 Design Lead — Conveo, Antwerp. **Apply, with clear eyes.**
+
+[Posting](https://www.linkedin.com/jobs/view/4442253886/) · Hybrid · applications via
+Y Combinator · offices London, Antwerp, New York · clients Unilever, Google, P&G, Orange
+
+**Passes:** English-working (YC-backed, three countries, no Dutch stated) ✅ · Design Lead
+clears the title floor ✅ · **Flanders threshold €48,912**, which a funded startup's Design
+Lead should clear — **unverified** ⚠️
+
+**Maps unusually well:**
+- *"Build the design system foundations… components, templates, tokens, guidelines"* — the
+  curriculum system is precisely this, and it was adopted by dozens of people across 100+ books
+- *"Excellent presentation design across sales decks and **investor decks**"* — she built the
+  **investor narrative for Act Air**. Not adjacent to this. The actual thing
+- *"Comfortable using AI tools to ship faster without dropping the quality bar"* and *"create
+  templates, **AI skills**, and processes so the team can self-serve"* — this is AI governance
+  written as a startup job. They name Claude in the success criteria
+- Data visualisation, infographics, routing work across agencies and freelancers — all evidenced
+
+**Three real gaps:** no **B2B/SaaS** exposure · no **Series A/B startup** experience (she
+co-founded a studio, which is entrepreneurial but not VC-backed tech) · **Figma is the medium
+here, not a tool** — *tokens* is design-system engineering, and this is the fourth role where
+Figma is central.
+
+⚠️ **The thing she should weigh before applying: a large part of this is design ops.** First
+stop for every request, triage within 24 hours, scoping, routing, feedback loops, deadlines.
+That is a service and systems function — real and senior, but **a sideways move into a
+different discipline** after 22 years of creative direction, not simply a step down in title.
+Worth wanting on its own terms.
+
 ### 📉 Austria confirmed weak for Route A — first real salary data, 26 Jul 2026
 
 Screened **BIGBANG**, *Senior Art Director*, Klagenfurt. Rejected three ways, but it produced
