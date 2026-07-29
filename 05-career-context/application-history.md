@@ -11,7 +11,7 @@ rejections become visible.
 | 26 Jul 2026 | **Mutabor** | Senior Brand Designer, Sport & Lifestyle | 🇩🇪 Hamburg | A1 | `brand-systems-guidelines` | **Prepared, not yet sent** | Salary stated **€58.000 brutto p.a.** (floor €50,700). German declared **Grundkenntnisse** honestly; **umzugsbereit**. Misses two stated requirements — Figma and German — but they run free German courses |
 | 26 Jul 2026 | **Adyen** | Art Director — Internal Comms Branding | 🇳🇱 Amsterdam | A1 | `experiential-events-presentation` | **Prepared, not yet sent** | **Apply via Greenhouse, never LinkedIn.** If salary is asked: **€75,000–85,000**, never below €72,000. **Do not connect with the Adyen employee LinkedIn surfaced** |
 | 26 Jul 2026 | DOUGLAS Group / NICHE-BEAUTY.COM | Senior Graphic Designer & Team Lead Layout | 🇩🇪 Hamburg | A1 | `editorial-publishing-multiscript` | **Prepared, not yet sent** | Salary stated **€58,000** (Germany's floor is €50,700). Start date flagged as **Dec 26 / Jan 27** — the ad says 1 Oct 26. **Email the recruiter first** and ask whether the team works in English |
-| 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | ✅ **SENT** | **First application at her actual level.** Salary answer given: €95,000. No deadline stated — chase if nothing by ~mid-Aug |
+| 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | ❌ **Rejected ~26 Jul** — no interview, form letter, ~24h turnaround | **Screened on domain, not on level.** The 15-years-in-fashion bar against her ~5 fashion years, in a field of 353. Flagged as a stretch when logged; that held |
 | 14 Apr 2026 | AKQA (WPP) | **Senior Designer** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ❌ **Rejected** — form letter, no role-specific feedback | Below the permit floor. Should not have been applied for |
 | 30 Mar 2026 | AKQA (WPP) | **Art Director** | 🇩🇰 Copenhagen | A1 | *(applied independently)* | ❌ **Rejected** — form letter | Denmark route unresearched — see `country-notes.md` |
 | 21 Mar 2026 | AKQA (WPP) | **Art Director** | Location unstated | A1 | *(applied independently)* | ⚪ **Auto-acknowledgement only** — not a rejection | "If your application meets the requirements… we will reach out." No decision was ever communicated |
@@ -52,6 +52,31 @@ Deliverables live outside the repo.
 
 Reviewed at each `skill-retro`. Rejections carry information — which routes stall, which
 framings land, whether the sponsorship question kills applications early or late.
+
+- **📌 Pattern 3 — domain depth screens her out even when level and permit are right.
+  PVH, rejected in roughly 24 hours, 26 Jul 2026.** This is a *better* rejection than the
+  AKQA ones and the distinction matters:
+
+  | | AKQA ×3 | PVH |
+  |---|---|---|
+  | Level | Below her — Art Director, Senior Designer | **At her level** — Creative Director |
+  | Permit | **Structurally un-winnable**, band below the floor | Fine — a CD salary clears €71,300 |
+  | Why it failed | The role could never have carried her visa | **Domain depth.** ~5 fashion years against a stated 15, in a field of 353 |
+
+  The AKQA roles were unwinnable before anyone read them. **PVH was winnable in principle
+  and she was simply outgunned on domain.** That is the ordinary kind of rejection and it
+  means the targeting is now correct even though the outcome was not.
+
+  **The refinement: rank leads by domain match, not by how much she wants the brand.**
+  A ~24 hour turnaround is a screen, not a deliberation — almost certainly on the first
+  checkable criterion, which was fashion years. Her live applications are all better matched
+  on this axis than PVH was: egg is events and experience against RTA and DAIS, Adyen is
+  experiential and presentation design, Mutabor is design systems. **PVH was the weakest fit
+  of the five and the first to resolve.**
+
+  ⚠️ **Do not over-read a form letter.** It gives no reason. Fashion depth is the visible
+  gap and the reasonable inference, but sponsorship or sheer volume are also possible and
+  unknowable. Record the inference as an inference.
 
 - **⛔ Pattern 2 — three applications to one agency, all below her level, across four months
   (21 Mar, 30 Mar, 14 Apr 2026). None reached a human.** Art Director, Art Director, Senior
