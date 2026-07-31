@@ -158,9 +158,11 @@ AI image and video generation, AI governance in brand systems.
 Arabic — Native
 English — C2, fluent
 French — A2
-German — A1
+German — A2
 
-*(Omit German below A2 unless the role is in a German-speaking country and any level helps.)*
+*(Corrected 31 Jul 2026 — the master records German at A2 and actively improving; this template
+still said A1. Omit German below A2 unless the role is in a German-speaking country and any
+level helps.)*
 
 ---
 

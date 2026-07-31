@@ -3,6 +3,30 @@
 Every application, so nothing is duplicated, no follow-up is missed, and patterns in
 rejections become visible.
 
+## 💰 UAE income track — opened 31 July 2026
+
+A second track, distinct from the relocation applications below. **Purpose is savings, not
+migration** — see `08-uae-income/README.md`. Applications here are logged in the same table so
+nothing is duplicated and the search stays visible in one place.
+
+**Nothing sent yet, and that is the intended outcome of the assessment, not a delay.**
+`08-uae-income/move-or-stay.md` concludes that changing UAE jobs is **net negative on the
+mid-2027 timeline** — a realistic move nets ~€2,800–3,500 by May 2027 while consuming the
+October–February EU application window. The plan is therefore **raise at WeDo (Sept 2026) +
+non-UAE freelance income**, with job applications sent only to tier-1 employers meeting all
+five conditions in that file.
+
+| Date | Item | Status |
+|---|---|---|
+| Aug 2026 | Salary-guide requests to MCG Talent, Sapio, Cooper Fitch, Michael Page UAE, Robert Walters ME | **Drafted, not sent** — `08-uae-income/outreach-and-applications.md` |
+| Sept 2026 | **Raise conversation, WeDo** — target +AED 4,000/mo, floor +AED 2,500 | **Prepared, not held.** Frame is title-versus-remit. No mention of other offers or external interest |
+| Sept–Oct 2026 | Direct approaches: **PepsiCo · Serviceplan Middle East · Accenture Song · Radisson Hotel Group** | **Drafted, not sent** — conditional on a start date on or before 1 Nov 2026 |
+
+⚠️ **No live UAE vacancy has been verified.** Every UAE job board and salary site refuses at
+this environment's proxy — `cooperfitch.ae`, `campaignme.com`, `salaryexpert.com` and
+`sapioconsulting.com` all returned HTTP 403. **Sara supplies the postings; the screening
+criteria are ready.**
+
 ## Sent
 
 | Date | Organisation | Role / Programme | Country | Route | CV variant | Status | Follow-up |
@@ -31,6 +55,7 @@ gets overwritten by a variant.
 | **`head-of-creative-events`** | **Head of Creative / creative leadership roles at event and experience agencies** — built for egg Brussels. The only variant written at **full seniority**, not repositioned downward | **Leadership and commercial responsibility lead, not craft.** Summary opens on creative leadership and pitch conversion. The **12% tender win rate is promoted into the summary** because "increase our RFP winning rate" is a stated responsibility and she has the number. Social Dar reframed to foreground **carrying profitability, resourcing and new business** — matching their "responsibility for the profitability of the department". RTA told at full scale; DAIS given its own entry as *Creative Director, Full Event Identity*. Freelancer and specialist-partner networks called out, mirroring their "global creative ecosystem". Languages positioned as an asset for an agency working across countries |
 | **`brand-systems-guidelines`** | **Design-system and brand-identity roles at branding agencies** — built for Mutabor. The variant to reach for whenever a posting asks for design systems, brand guidelines or corporate design | **Design systems lead everything.** The Ministry entry is rewritten around *building the system and writing the standards that let a large team apply it*, not around leading people. Brand architecture across four countries promoted into its own bolded line. Social Dar retitled *Brand Designer*, DAIS retitled *Brand Designer, Event Identity* and given its own entry so **Dubai Sports Council** is visible — they asked for sport affinity. CPI carries the lifestyle half. **Figma listed honestly as "working knowledge, actively developing"** rather than hidden or inflated |
 | **`experiential-events-presentation`** | **Brand experience, events and presentation-design roles** — built for Adyen. Reusable for any employer running large internal or external events, conferences or investor days | **RTA leads.** Her strongest case study finally in the front position: two-day immersive experience, six bilingual activations, kiosks, participatory installation, environmental graphics, wayfinding, vendor and pre-press management. DAIS 2019 promoted to its own entry for signage and wayfinding. WeDo reframed around **presentation design and data visualisation** — the deck work behind the 12% tender win rate — rather than general creative leadership. Ministry entry leads on **directing illustrators** for icons and graphical elements. Keynote and Google Slides listed explicitly, mirroring the posting |
+| **`uae-in-house-brand`** | **UAE in-house brand and marketing leadership** — Head of Brand, Brand Director, Marketing Director, Creative Director at multinationals and large in-house teams. Built 31 Jul 2026 by the UAE income session; full text at `08-uae-income/cv-uae-in-house-brand.md`. **The only variant for the funding-engine track rather than the relocation track** | **Inverts the EU rule on client names.** Every EU variant anonymises MENA clients because *"RTA means nothing in Rotterdam"* — here the UAE Ministry of Education, Dubai Municipality, RTA and Dubai Sports Council are **named in full**, because in this market being trusted with them *is* the credential. **CIM Level 7 promoted into the summary** and its syllabus spelled out — `08-uae-income/market-rate.md` found an ~18% premium on the marketing title over the creative title in the same UAE dataset, the same finding `pipeline-jobs.md` reached for Europe. **Bilingual Arabic and English brand systems listed as a professional capability**, not a languages footnote — it is a working requirement across the UAE institutional market. **No sponsorship framing at all**, which frees a paragraph every EU variant has to spend. Figma still "working knowledge, actively developing"; motion still direction only; shopper marketing still not claimed |
 | **`editorial-publishing-multiscript`** | **Roles a level below Creative Director** — editorial, layout and design-system work. Built for Douglas/NICHE-BEAUTY, and **reusable across Ireland, Spain and Belgium**, where the permit floor allows Senior Designer and Art Director titles | **Deliberately repositioned downward.** Retitles her as *Editorial and Brand Design Lead*, and the Ministry role as *Design Lead* rather than Creative Director, so she does not read as overqualified — the likely cause of the AKQA rejection. Leads with hands-on craft (typography, layout, templates, print production), not ministerial stakeholder management. **Multi-script typography is the spine**: Arabic, English and French across three scripts, with the 100+ book curriculum system as proof. Languages promoted from a footnote to a credential. German shown at A2, improving |
 
 ## Standard application-form fields — how to answer them
