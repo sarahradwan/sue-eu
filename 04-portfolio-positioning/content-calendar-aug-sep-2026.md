@@ -69,18 +69,30 @@ own feed entirely. See `eu-engagement-list.md`.
 Nine slots plus the birthday. Her existing six stay. Three are new, and two of them are
 deliberately low-stakes because the slots are compromised.
 
+**Restructured 28 July, on her instruction. Mondays are the pricing series. Thursdays carry
+everything else.** That gives the series momentum and keeps the rest of the mix intact,
+which is a better shape than the fortnightly interleave originally proposed.
+
 | Date | Post | Type | Status |
 |---|---|---|---|
-| **Mon 3 Aug** | Technical proposal recipe. Tag WeDo | Craft | **Drafted**, `post-drafts.md`. One premise needs her confirmation |
+| **Mon 3 Aug** | **Pricing 1.** Why a service is harder to price than a product | Series | **Drafted**, `series-pricing.md` |
 | **Thu 6 Aug** | Arabic first. Tag Dubai Municipality | Craft, **EU-high** | **Drafted**, `dual-audience-content-engine.md` |
-| **Sat 8 Aug** | Birthday, Hijri age | Personal | To write. Leave it personal. Do not attach a career lesson to it |
-| **Mon 10 Aug** | Tour & Taxis. Tag 87seconds | **EU-high**, European subject | **Ready**, after the two factual corrections |
-| **Thu 13 Aug** | The AI shame | Opinion | To write. Hook drafted in `hooks.md` |
-| **Mon 17 Aug** | Ugly design era | Opinion | To write. Hook drafted in `hooks.md`. See the note below |
+| **Sat 8 Aug** | Birthday, counted in hours | Personal | **Drafted**, needs her hours figure and a photo |
+| **Mon 10 Aug** | **Pricing 2.** Where the number goes | Series | **Drafted**, `post-drafts.md`. Needs the proposal photograph |
+| **Thu 13 Aug** | Tour & Taxis. Tag 87seconds | **EU-high**, European subject | **Ready**, after the two factual corrections. Moved off Monday |
+| **Mon 17 Aug** | **Pricing 3.** What you are selling when the thing does not exist yet | Series | To write |
 | **Thu 20 Aug** | **The numerals problem. First carousel** | Craft, **EU-high** | New |
-| **Mon 24 Aug** | Personal. UAE holiday, so lowest stakes of the window | Personal | New. Or skip |
-| **Thu 27 Aug** | Summer slowdown as a creative reset | Observed | New, from her own backlog |
-| **Mon 31 Aug** | LTSWH anniversary reflection | Personal | New, from her own backlog. Never finished |
+| **Mon 24 Aug** | **Typography, AI and the Prophet's birthday.** Her own artwork | Craft, **EU-high**, seasonal | **Drafted**, `post-drafts.md`. Verified |
+| **Thu 27 Aug** | The AI shame | Opinion | To write. Hook drafted in `hooks.md` |
+| **Mon 31 Aug** | **Pricing 4.** Why the cheapest proposal wins, and when it does not | Series | To write |
+
+**24 August is no longer a dead slot.** The calendar wrote it off because the UAE public
+holiday takes her MENA base offline, and that reasoning holds for a work post. It does not
+hold for a cultural post on the day itself. Her call, and it is right.
+
+**Displaced, and where they go.** "Ugly design era" and the LTSWH reflection move to
+September or October. Summer slowdown is now out of season and should be dropped rather than
+forced. None of these is a loss.
 
 **Why the first carousel lands on 20 August.** The carousel is the biggest untried format in
 her mix and the natural home for design work, per `linkedin-distribution-mechanics.md`. Run
