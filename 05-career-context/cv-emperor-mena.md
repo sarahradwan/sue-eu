@@ -7,26 +7,41 @@ job description.
 Built from `cv-source-of-truth.md`. Nothing here is invented. ATS-safe single column, since
 a forwarded CV usually enters a system.
 
-## The fit, in one line
+## ✅ Rewritten 31 July 2026 against Emperor MENA's real service lines
 
-Emperor specialises in **reporting, brand, employee experience and sustainability**
-([emperor.works](https://emperor.works/about/)). Sara has real, recent evidence in three
-of the four, plus native Arabic in a market where bilingual reporting is the norm.
+Sara supplied the `emperor-me.works` services page after the first draft. It is a different
+brief from the UK parent, and the difference matters.
 
-| Emperor specialism | Her evidence | Strength |
+**Emperor Middle East's seven service lines:** Brand and Marketing · Integrated Reporting ·
+**Copywriting and Arabisation** · Sustainability · Digital · Presentations · Moving Image.
+Offices in **Dubai, Abu Dhabi and Riyadh**. Clients include e&, Aldar, Emirates NBD, TECOM,
+ADNOC L&S, Parkin and Talabat.
+
+**The finding that reshaped the CV: "Copywriting and Arabisation" is a named service line**,
+and it is tagged on the Aldar, Emirates NBD, TECOM, ADNOC L&S and Talabat annual reports.
+Arabisation of listed-company reporting demands exactly what Sara has and most senior
+creatives in Dubai do not: native Arabic, bilingual typographic craft, and editorial
+discipline at volume. **That is now the lead, ahead of brand.**
+
+Second practical finding: **Emperor has an Abu Dhabi office.** She lives in Abu Dhabi. The
+commute objection that would apply to a Dubai-only employer does not arise.
+
+| Emperor MENA service | Her evidence | Strength |
 |---|---|---|
-| **Reporting** | 100+ book national curriculum system, 20+ titles at CPI, editorial and publication craft, information design and data visualisation, **investor narrative for Act Air** | Strong, adjacent |
-| **Brand** | 22 years, brand systems, architecture across 4 countries, government identity systems | Strong, direct |
-| **Employee experience** | **Benet7awel, Dubai Municipality** — phased internal change campaign across a whole headquarters | Strong, direct and recent |
-| **Sustainability** | No direct ESG reporting work | **Honest gap** |
+| **Copywriting and Arabisation** | Native Arabic; national curriculum typographic system across **three scripts**; publications art directed and set in Arabic, English **and French** | ★ **Strongest. Lead here.** |
+| **Integrated Reporting** | 100+ book publication system, 20+ titles at CPI, national newspaper redesign, information design and data visualisation, **Act Air investor narrative** | Strong, adjacent |
+| **Brand and Marketing** | 22 years, brand systems, architecture across 4 countries, government identity | Strong, direct |
+| **Presentations** | Investor narrative work; presenting and defending to ministers and executives | Moderate |
+| **Digital** | Interactive ePub editions, touchscreen kiosks, registration platform, digital touchpoints | Moderate |
+| **Sustainability** | No ESG reporting work. Emperor works to ISSB, GRI and SASB | ⛔ **Honest gap** |
+| **Moving Image** | **Directs motion, does not execute it** | ⛔ State accurately |
 
-**The differentiator to lead on:** Emperor MENA produces bilingual Arabic and English
-reporting for Gulf clients. Sara is a native Arabic speaker who has art directed and set
-publications across **three scripts including French**, and built a national typographic
-system spanning three scripts. That combination is genuinely scarce.
+**Do not claim ESG, ISSB/GRI/SASB familiarity, or listed-company annual report experience.**
+She has none of them. The Arabisation and editorial-systems case is strong enough on its
+own, and a reporting consultancy will check.
 
-**Do not claim ESG or listed-company annual report experience.** She has neither. The
-adjacency is real and strong enough without stretching it, and reporting firms check.
+**Do not imply hands-on motion.** Emperor sells Moving Image as a service. Her vault records
+the honest line: she directs motion, she does not build it.
 
 ---
 
