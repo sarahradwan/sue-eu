@@ -79,21 +79,20 @@ const doc = new Document({
       contact('sarahradwan.me  |  linkedin.com/in/sarahradwan1'),
 
       h('Profile'),
-      body('Creative director with 22 years across Egypt, Qatar and the United Arab Emirates, working where brand, editorial systems and corporate communications meet. Builds and runs publication and typographic systems at national scale, leads multidisciplinary teams across long institutional programmes, and presents and defends creative direction to ministers and executive stakeholders.'),
-      body('Art directs annual reporting for UAE government, most recently the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency, produced as an interactive digital publication in separate Arabic and English editions. Native Arabic speaker with hands-on bilingual and multi-script typographic practice across Arabic, English and French. Currently completing CIM Level 7, Postgraduate Diploma in Professional Marketing.', 40),
+      body('Creative director, 22 years across Egypt, Qatar and the UAE. Art directs government annual reporting in Arabic and English, most recently the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency. Native Arabic, with publication craft across Arabic, English and French. Leads multidisciplinary teams on national programmes and presents to ministers and executive boards. Completing CIM Level 7.', 40),
 
       h('Selected Work'),
       body('2025 Annual Report, UAE Ministry of Foreign Affairs aid agency. Art direction and design of an interactive digital annual report, produced in separate Arabic and English editions, developed within UAE government brand guidelines and structured to carry the organisation’s messaging.', 30),
       body('English edition: [PASTE LINK]', 30),
       body('Arabic edition: [PASTE LINK]', 40),
 
-      h('Selected Capability'),
-      body('Annual and integrated reporting. Art direction and design of government annual reporting, delivered interactively and in dual language editions, working inside published government brand guidelines and translating approved messaging into structure, hierarchy and visual argument.'),
-      body('Arabic and bilingual publishing. Native Arabic, with typographic and layout craft across Arabic, English and French. Built the visual and typographic system for the UAE national curriculum: more than 100 books, five subjects, three scripts.'),
-      body('Client leadership and technical proposals. Owns senior client relationships end to end, from briefing and consultation through to presenting and defending recommendations to ministers, boards and executive stakeholders. Writes and art directs technical and creative proposals for government tenders, contributing to a 12 percent tender win rate.'),
-      body('Team leadership and programme delivery. Led a large multidisciplinary team of illustrators, designers and layout specialists across a two-year national programme valued at 500,000 euros, and built and managed the design function of a national daily newspaper. Runs concurrent programmes to fixed external deadlines, directing vendors, production partners, developers and freelance specialists.'),
-      body('Editorial and publication systems. Twenty-plus consumer and business titles art directed at CPI Media Group. Full redesign and weekly supplements for a national daily newspaper. Interactive ePub editions with embedded multimedia across a full series.'),
-      body('Corporate, investor and internal communications. Brand and investor story for Act Air, uniting identity, digital communications and the technology proposition into one investor-facing narrative. Benet7awel for Dubai Municipality: a phased campaign carrying an entire headquarters through a change of working policy.', 40),
+      h('What I Bring'),
+      body('Annual reports, in both languages. Art directed and designed the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency. Interactive, published in separate Arabic and English editions, built inside UAE government brand guidelines.'),
+      body('Arabic handled in house, not outsourced. Native Arabic. Built the typographic system for the UAE national curriculum: 100 plus books, five subjects, three scripts. Sets Arabic, English and French to publication standard.'),
+      body('Turns pitches into won work. Writes and art directs technical submissions for government tenders against published evaluation criteria. Contributed to a 12 percent tender win rate. Presents and defends the work to ministers and executive boards.'),
+      body('Delivers at scale, on the date. Led a 500,000 euro national programme over two years with a large multidisciplinary team. Ran daily newspaper production and monthly magazine cycles to fixed press deadlines. Directs vendors, developers and freelance specialists across concurrent projects.'),
+      body('Editorial craft with commercial proof. 20 plus titles art directed at CPI Media Group. Full redesign of a national daily newspaper. Led the MBC rebrand, followed by 38 percent subscriber growth.'),
+      body('Makes complex organisations legible. Built the brand and investor story for a hologram technology company. Took an entire government headquarters through a change of working policy with the Benet7awel campaign for Dubai Municipality.', 40),
 
       h('Experience'),
 
