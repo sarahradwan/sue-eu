@@ -428,34 +428,40 @@ cultural post on the day itself. People are on their phones on a holiday, just n
 Calligraphy on Mawlid is also well precedented, since calligraphy is the art form the
 tradition placed at the centre.
 
-### ⚠️ One claim must be sharpened or it will be corrected
+### Her argument, corrected in my direction and then corrected back
 
-**Her draft claim, "AI still cannot replace it", is not quite true and is the exact sentence
-someone will reply to with a counterexample.**
+I first flagged "AI still cannot replace it" as falsifiable, on the grounds that generators
+already list Diwani as a style and someone would reply with a link. **She pushed back, and
+she is right on the substance.**
 
-Verified: **AI tools already list Diwani as a supported style.** Several generators name it
-alongside Kufi, Naskh, Thuluth, Ruqaa and Nasta'liq. So "AI cannot do Diwani" is falsifiable
-in about four seconds by anyone with a browser.
+Her point: a letter in Diwani is not a glyph to be looked up. The calligrapher stretches it,
+compresses it, stacks it, extends the kashida, and chooses among several legitimate forms of
+the same letter depending on what has to sit beside it *in this composition*. That is a
+decision made per artwork. A model assembles from examples it has seen. Nobody can knock
+that down by linking a tool.
 
-What is verified, and is a far stronger claim: those models **interpolate from pictures
-rather than working from a proportional system.** Letters connect in ways they cannot
-connect, and proportions are wrong. The output looks approximately right **to someone who
-cannot read Arabic.**
+**The narrow thing my caution was actually about survives, though.** The four-word sentence
+"AI cannot do Diwani" invites a cheap reply even when the argument behind it is sound. So
+the fix is not to soften the claim. It is to make sure the post carries **her** version and
+not the short one. The draft below does that: it never says AI cannot, it shows what each
+process does.
 
-So the accurate sentence is: **AI can already make something that looks like Diwani. It
-cannot make Diwani.** That distinction is the whole post, it cannot be knocked down, and it
-is more interesting than the claim it replaces.
+### Two facts that support her, both verified
 
-### The word for the thing she already knows
+**The measuring system.** She wrote "perfectly to the measurements", and the measurements
+have a name: the **rhombic dot system**, letters proportioned in nib-marks at a fixed angle.
+Research on generative Arabic calligraphy names the absence of exactly this, plus the lack
+of stroke-level annotated data, as the core gap.
 
-She wrote "made perfectly to the measurements". **The measurements have a name: the rhombic
-dot system.** Classical Arabic calligraphy proportions letters in dots, the mark the nib
-makes at a set angle, so a letter is a specified number of dots tall. Research on generative
-Arabic calligraphy names the absence of exactly this as the core limitation, along with the
-lack of large stroke-level annotated datasets.
+**But the dots are the part a model could eventually be taught**, because they are a rule.
+Her argument identifies the part that is not a rule: which of the legitimate shapes *this
+line* wants. Conceding the measurable half makes the unmeasurable half unanswerable, so the
+draft does exactly that.
 
-That is the technical answer to her own question, and naming it puts the post beyond
-argument.
+**The line she chose.** Al-Mutanabbi, 915 to 965, the opening of one of the most famous
+poems in Arabic. Verified. And it is about the pen: *the sword, the spear, the paper and the
+pen*. A post asking whether a machine can hold the pen, set in the verse that says the pen
+knows me. That is not available to anyone else writing about AI this month.
 
 ### Verified for use
 
@@ -483,30 +489,35 @@ Hook is 81 characters and it points straight at the image, which is the artwork 
 > Today is the Prophet's birthday, and calligraphy is the art form the tradition put at the
 > centre, so it feels like the right day to look at letters.
 >
-> Diwani is Ottoman. Developed in the sixteenth century for the sultan's chancery, used for
-> decrees and legal documents, and treated as one of the secrets of the palace. The letters
-> crowd into each other. The line inside a single letter is doing more than one thing.
+> The line is al-Mutanabbi. The horses, the night and the desert know me, and the sword, the
+> spear, the paper and the pen. Written a thousand years ago by a man who put the pen in the
+> same breath as the sword.
 >
-> People keep asking whether AI can do this now. The honest answer is more interesting than
-> yes or no.
+> Diwani is Ottoman. Developed in the sixteenth century for the sultan's chancery and
+> treated as one of the secrets of the palace. Letters crowd into each other. The line
+> inside a single letter is doing more than one thing at once.
 >
-> AI can already produce something that looks like Diwani to a person who cannot read
-> Arabic. Several tools list it as a style. What it produces is not Diwani. The letters join
-> in ways they cannot join and the proportions are wrong, because the models are
-> interpolating from pictures rather than working from a system of measurement.
+> Give a calligrapher this verse and a brief. They do not look the letters up. They stretch
+> one, compress the next, stack a word to open the space above it, run a kashida out to
+> carry the eye across, and choose between several legitimate forms of the same letter
+> depending on what has to sit beside it. Every one of those is a decision about this line,
+> at this size, in this space.
 >
-> And there is a system of measurement. Classical Arabic calligraphy sizes letters in
-> rhombic dots, the mark the nib makes at a fixed angle. A letter is so many dots tall. That
-> is a rule, not an impression, and image models do not do rules.
+> Give the same brief to a model and you get geometry. Something assembled from what it has
+> already seen, laid out approximately, with the letters treated as parts rather than as
+> material.
 >
-> Then there is the shaping. Twenty-eight letters, most of them taking a different form
-> depending on whether they open a word, sit inside it, close it, or stand alone. Add the
-> ligatures a calligraphic hand uses and you are no longer describing a font. Every letter
-> could carry its own research paper.
+> There is a measuring system under all of this, letters proportioned in rhombic dots off
+> the nib, and a model can eventually be taught to hit it. Dots are a rule. What it cannot
+> yet be taught is which of the legitimate shapes this particular line wants.
 >
-> None of which means it will not happen. I have been surprised too many times in the last
-> three years to say never. Give a model enough properly annotated data, stroke by stroke,
-> and I expect to see Diwani that measures correctly.
+> Because that is barely written down. Twenty-eight letters, each behaving differently at
+> the start, the middle and the end of a word, and then the ligatures a calligraphic hand
+> invents on the spot for one composition and never uses again. Every letter could carry its
+> own research paper. Most of them have not had one.
+>
+> None of which means it will not happen. I have been surprised too many times in three
+> years to say never.
 >
 > I would rather be the one who can tell the difference.
 
