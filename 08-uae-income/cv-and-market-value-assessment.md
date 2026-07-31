@@ -103,6 +103,40 @@ of the market and worth keeping.
 **Honest bands for the UAE market, estimated from market structure. Total monthly package
 including allowances, not basic salary.**
 
+> ## ⚠️ Corrected 31 July 2026 — the original bands below were too high for agency-side roles
+>
+> `market-rate.md` in this folder subsequently gathered **sourced** benchmarks, and they do
+> not support the agency figures I estimated. The correction matters, because asking an
+> agency for a corporate number loses the role.
+>
+> | Sourced anchor | Figure |
+> |---|---|
+> | ERI, Creative Director, **advertising agency**, Dubai, senior 8+ years | ~AED 17,000/mo |
+> | Payscale, Creative Director with branding, UAE | ~AED 17,900/mo |
+> | Cooper Fitch 2026, all roles, Dubai median | AED 20,000/mo |
+> | Michael Page 2026, PR and comms manager | AED 30,000–65,000/mo |
+>
+> **The error was conflating "international firm" with "corporate in-house".** In the UAE
+> those are different pay markets, and the gap is large. A consultancy sits between a local
+> agency and a corporate, not alongside the corporate.
+>
+> **Revised, and use these:**
+>
+> | Role and setting | Revised band (AED/month) |
+> |---|---|
+> | Senior Art Director, local agency | 14,000 – 20,000 |
+> | **Creative Director, local or regional agency** | **18,000 – 28,000** |
+> | **Creative Director, international consultancy (Emperor's category)** | **25,000 – 40,000** |
+> | **In-house senior brand lead, large UAE corporate or semi-government** | **35,000 – 65,000** |
+>
+> **What survives unchanged, and is the more important half:** she is underpaid, the title
+> is the lever, and **corporate in-house is the best-paying route.** `market-rate.md` reaches
+> the same conclusion from data — its damning line is that ERI's model puts an *eight-year*
+> agency Creative Director at AED 17,000/month, and her inferred package sits under that at
+> twenty-two years.
+
+*Original estimate, retained so the correction is legible:*
+
 | Role and setting | Estimated band (AED/month) |
 |---|---|
 | Senior Art Director, local agency | 18,000 – 28,000 |
