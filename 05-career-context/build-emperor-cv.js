@@ -79,10 +79,10 @@ const doc = new Document({
       contact('sarahradwan.me  |  linkedin.com/in/sarahradwan1'),
 
       h('Profile'),
-      body('Creative director, 22 years across Egypt, Qatar and the UAE. Art directs government annual reporting in Arabic and English, most recently the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency. Native Arabic, with publication craft across Arabic, English and French. Leads multidisciplinary teams on national programmes and presents to ministers and executive boards. Completing CIM Level 7.', 40),
+      body('Creative director, 22 years across Egypt, Qatar and the UAE. Native Arabic. Government and institutional reporting, brand and publication systems.', 40),
 
       h('Selected Work'),
-      body('2025 Annual Report, UAE Ministry of Foreign Affairs aid agency. Art direction and design of an interactive digital annual report, produced in separate Arabic and English editions, developed within UAE government brand guidelines and structured to carry the organisation’s messaging.', 30),
+      body('2025 Annual Report, UAE Ministry of Foreign Affairs aid agency. Art direction and design. Interactive, published in separate Arabic and English editions, built inside UAE government brand guidelines.', 30),
       body('English edition: [PASTE LINK]', 30),
       body('Arabic edition: [PASTE LINK]', 40),
 
