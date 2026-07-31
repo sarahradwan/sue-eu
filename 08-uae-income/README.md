@@ -39,9 +39,9 @@ clawbacks and any training-cost repayment clause all matter more than usual.
 | # | Question | Answer | File |
 |---|---|---|---|
 | 1 | **What is the savings target?** | **€15,000 — AED 63,750 — liquid by 31 May 2027.** That is €1,500/month saved plus ~€135/month of preparation spend, from August 2026. At a mid Abu Dhabi lifestyle it implies a package of **AED 18,000–20,000/month** | [`savings-target.md`](savings-target.md) |
-| 2 | **What is her real market rate?** | **Unanswerable from public data, and that is the finding** — sources disagree by 3× for the same title. **Employer type sets her pay more than her title or her 22 years do.** Agency→agency is a 10–20% step; agency→multinational in-house can be 2×. I cannot say whether she is underpaid without her current package | [`market-rate.md`](market-rate.md) |
+| 2 | **What is her real market rate?** | **Underpaid, clearly** — confirmed 31 Jul once she named her target. Implied current package **AED 13,000–15,000/mo**, which is below the Cooper Fitch all-roles Dubai median *and* below ERI's model for an **eight-year** agency Creative Director, at 22 years. Her AED 23–25k ask is a **stretch against agency data and unremarkable against corporate data** | [`market-rate.md`](market-rate.md) |
 | 3 | **Which employers have both money and EU offices?** | **Serviceplan Middle East · Accenture Song · PepsiCo · Radisson Hotel Group**, in that order of shape. **PepsiCo is the standout: its AMESA HQ is in Dubai and the Dublin role already in `pipeline-jobs.md` sits inside the same company** | [`target-employers.md`](target-employers.md) |
-| 4 | **Is changing jobs net positive?** | **No — not on the mid-2027 timeline.** A move nets ~€2,800–3,500 by May 2027 and lands its probation on the EU application window. **Stay, negotiate, add non-UAE freelance.** Strongly yes on a mid-2028 timeline, which is a different decision | [`move-or-stay.md`](move-or-stay.md) |
+| 4 | **Is changing jobs net positive?** | **Revised 31 Jul.** At the AED 5,000 uplift I assumed, no. **At her stated AED 10,000, a move nets €10,000–12,000 — 67–80% of the target — and becomes the largest single lever.** But no raise conversation delivers +70%, so **the raise and the move are sequential, not alternatives, and the search is now primary.** Six conditions still bind | [`move-or-stay.md`](move-or-stay.md) |
 | 5 | **How does she search without being caught?** | **This search needs zero public activity.** Private channels only; five defensive LinkedIn settings; and the UAE-specific trap nobody flags — **Gulf job boards run employer-searchable CV databases** | [`stealth-search-uae.md`](stealth-search-uae.md) |
 
 ## The two findings that were not expected
@@ -58,6 +58,27 @@ freelancers**, needs clients outside Spain, and requires three months of the rel
 Freelance started in September 2026 is nine months of provable recurring non-Spanish income by
 May 2027. **Nothing else both funds the move and builds a route.** Subject to the exclusivity
 and freelance-permit checks in `move-or-stay.md`.
+
+## 🔓 What the AED 10,000 raise actually buys — added 31 July 2026
+
+At **AED 24,000/month** against a mid burn she saves **AED 13,000/month** — nearly double the
+requirement — and banks **~€30,600 by 31 May 2027** instead of ~€7,000.
+
+**That is not a comfortable move. It is a different set of routes.**
+
+| Route ruled out by "no capital" | Threshold | Cleared |
+|---|---|---|
+| 🇩🇪 Germany — Opportunity Card blocked account | ~€13,100 | **~Dec 2026** |
+| 🇦🇹 Austria — student proof of funds | €15,701 | **~Jan 2027** |
+| 🇪🇸 Spain DNV — the savings limb | €34,188 | **~May 2027 at a lean burn** |
+
+`pipeline-jobs.md` calls those closures *"structural, and it will not change."* The structure
+does not change — **her balance does.** And clearing the Spanish savings limb would retire the
+€19,000 unknown below entirely, because she would then satisfy either limb.
+
+⚠️ **Flag for the relocation session; this session must not edit `01-relocation/`.** And not
+until the money is real — `pipeline-scholarships.md` already caught this error once with the
+projected €6,000 gratuity. **A projection is not a bank balance.**
 
 ## ⛔ The one email that is worth €19,000
 
@@ -77,6 +98,7 @@ plan, and it costs nothing. Full detail in `savings-target.md`.
 - [`target-employers.md`](target-employers.md) — ranked on money **and** European route
 - [`move-or-stay.md`](move-or-stay.md) — contract mechanics, the verdict, the five conditions for moving
 - [`stealth-search-uae.md`](stealth-search-uae.md) — safe channels, LinkedIn settings, the recruiter briefing
+- [`leads-screened.md`](leads-screened.md) — live UAE postings, screened. Sara supplies them, this holds the verdicts
 - [`outreach-and-applications.md`](outreach-and-applications.md) — the raise script, recruiter and employer emails, dated order of operations
 - [`cv-uae-in-house-brand.md`](cv-uae-in-house-brand.md) — the CV variant for this track
 

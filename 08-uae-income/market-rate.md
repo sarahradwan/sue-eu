@@ -103,12 +103,66 @@ that is the cheapest reuse available anywhere in this vault.
 
 ---
 
-## So: is she underpaid?
+## ✅ ANSWERED 31 Jul 2026 — yes, and clearly
 
-**I cannot answer this, and I am not going to guess at it.** Her current package is not
-recorded anywhere in the vault — I checked every file. Inventing a number here would produce
-a confident-sounding answer to a question I have no data for, and she would negotiate against
-it.
+Sara states she wants a **AED 10,000/month raise to a minimum of AED 23,000–25,000**, which
+implies a current package of roughly **AED 13,000–15,000/month**.
+
+**Against every anchor on this page, that is underpaid — and not marginally:**
+
+| Benchmark | Figure | Her position |
+|---|---|---|
+| Cooper Fitch 2026, **all roles**, Dubai median | AED 20,000/mo | **Below the median for the entire market**, at 22 years with a director-level remit |
+| ERI, Creative Director agency Dubai, **senior 8+ yrs** | AED 204,453/yr ≈ **AED 17,000/mo** | **Below** the conservative modelled figure for someone with a third of her experience |
+| ERI, same role, **average across all levels** | AED 163,651/yr ≈ AED 13,600/mo | **At the all-levels average** — the band that includes people with three years |
+| Payscale, Creative Director w/ branding, UAE | AED 215,000/yr ≈ AED 17,900/mo | Below |
+
+**She is being paid roughly what the data says a mid-career creative director earns, for a
+job she is doing at director level with 22 years behind it.** The ERI line is the damning one:
+their model puts an 8-plus-year agency CD at AED 17,000/month, and she is under it.
+
+### Her ask is a market correction, not a stretch — but not from an agency
+
+**AED 23,000–25,000/month ≈ AED 276,000–300,000/year.** Placed against the same anchors:
+
+| Against | Her ask |
+|---|---|
+| ERI senior agency CD (AED 204,453) | **~41% above** — a stretch on agency-side data |
+| Payscale CD with branding (AED 215,000) | ~34% above |
+| Payscale **Marketing Director** with branding (AED 255,000) | ~13% above — much closer |
+| Michael Page 2026: PR & comms manager **AED 30,000–65,000/mo** | **Below the bottom of the band** |
+| Michael Page 2026: sales & marketing director **AED 70,000/mo** | Far below |
+
+> **Her number is a stretch against agency data and comfortably inside corporate data.** It is
+> the same conclusion as the 3× spread at the top of this page, now with a number attached:
+> **the ask is unreachable at an agency and unremarkable in-house.**
+
+**Targeting consequence, and it is decisive.** A network agency screening her against an
+"8 to 12 years" band will not pay AED 25,000. A multinational in-house brand or marketing team
+will not blink at it. `target-employers.md` already ranks in-house and consultancy above
+agencies for other reasons; **her own number now makes agencies close to pointless as a
+salary play.**
+
+### ⚠️ A 70% raise does not come from a raise
+
+AED 14,000 → AED 24,000 is roughly **+70%**. UAE salaries are forecast to move **4.1% in 2026**.
+Even a strong promotion-plus-correction runs 15–30%.
+
+**No conversation with WeDo produces +70%.** A realistic best case there is a Creative Director
+title plus a market correction — call it **+AED 2,000–4,000**, which is 20–40% of what she
+wants and worth taking, but not the answer.
+
+**A 70% step is what changing employer type produces**, per the finding at the top of this
+page: agency→agency is 10–20%, agency→multinational in-house can be 2×. **AED 14,000 doubled is
+AED 28,000. Her ask sits precisely inside the range that only an employer-type change
+delivers.** This reverses part of the verdict in `move-or-stay.md` — see the revision there.
+
+### Still worth confirming
+
+The AED 13,000–15,000 above is **inferred from her raise target, not stated.** Before the
+September conversation, pin down the actual total: basic, housing, transport, other fixed
+allowances, contractual bonus, and whether WeDo funds CIM, insurance or flights. **Basic
+specifically** — it is what the gratuity is calculated on.
 
 **One number from her closes it.** Not the offer letter figure — the real total:
 

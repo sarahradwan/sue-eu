@@ -242,6 +242,66 @@ rather than a feeling, and it triggers a specific action rather than worry — s
 
 ---
 
+## 🔓 UPDATED 31 Jul 2026 — her stated number, and what it reopens
+
+Sara: *"the raise I'm looking for is around 10k per month, so minimum 23–25k per month."*
+
+**That implies a current package of roughly AED 13,000–15,000/month.** Everything below
+follows from that; correct the figure and the arithmetic moves with it.
+
+### It does not just hit the target. It hits it early, and then keeps going.
+
+At **AED 24,000/month** against a mid Abu Dhabi burn of AED 11,000, she saves **AED 13,000 a
+month** — nearly double the AED 6,950 required.
+
+| | At AED 14,000/mo (now) | At AED 24,000/mo |
+|---|---|---|
+| Spare each month, mid burn | AED 3,000 | **AED 13,000** |
+| Against the AED 6,950 requirement | **Short by AED 3,950** | **Over by AED 6,050** |
+| €15,000 target reached | **Never — banks ~€7,000 by May, under half** | **~5 months — around December 2026** |
+| Banked by 31 May 2027 | ~AED 30,000 · €7,000 | **AED 130,000 · €30,600** |
+
+**On her current package the target is not reachable from salary. That is the finding, and it
+is the whole argument for the raise.**
+
+### ⛔ And this is the part that matters more than the target
+
+`README.md` frames savings as reopening routes, not merely funding a move. **At AED 24,000 a
+month, that stops being a principle and becomes a schedule.**
+
+| Route closed by "no capital" | Threshold | Cleared at AED 13,000/mo saved |
+|---|---|---|
+| 🇩🇪 **Germany — Opportunity Card** blocked account | ~€13,100 | **~December 2026** |
+| 🇦🇹 **Austria — student proof of funds** | €15,701 | **~January 2027** |
+| 🇪🇸 **Spain DNV — the savings limb** | €34,188 | **~May 2027 at a leaner burn** (AED 9,000 burn → AED 15,000/mo → €35,300) |
+
+`pipeline-jobs.md` rules all three out as *"structural, and it will not change."* **The
+structure does not change. Her balance does.** Germany's Opportunity Card and Austria's student
+route were closed by roughly €13–16k of capital, and this raise produces that by the turn of
+the year.
+
+**The Spanish savings limb is the sharpest one.** If she clears €34,188, the €19,000 unknown
+above stops mattering — it no longer matters which limb the Abu Dhabi consulate asks for,
+because she satisfies both. **A single raise can retire the largest open risk in the plan.**
+
+⚠️ **Flag for the relocation session, do not act on it here.** `01-relocation/` is owned
+elsewhere and this session must not edit it. But the ruled-out table in `pipeline-jobs.md` is
+written on a premise that a AED 10,000 raise falsifies, and someone should revisit it once the
+raise or the move actually lands. **Not before** — a projection is not a bank balance, which is
+the mistake `pipeline-scholarships.md` already caught once with the €6,000 gratuity.
+
+### What the number does to the burn question
+
+At AED 24,000 the lifestyle choice stops being marginal and starts deciding a route:
+
+| Burn | Saved per month | By 31 May 2027 | Clears the Spanish €34,188 limb? |
+|---|---|---|---|
+| AED 14,000 comfortable | AED 10,000 | €23,500 | ❌ |
+| AED 11,000 mid | AED 13,000 | €30,600 | ⚠️ Only with the gratuity on top |
+| **AED 9,000 lean** | **AED 15,000** | **€35,300** | ✅ **Yes, from salary alone** |
+
+**AED 2,000/month of lifestyle is the difference between one EU route and three.**
+
 ## What is still unknown, and who can answer it
 
 | Unknown | Why it matters | Who answers |

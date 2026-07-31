@@ -21,6 +21,57 @@ She asked to be told plainly if the answer was stay and negotiate. It is. The wo
 
 ---
 
+## 🔄 REVISED, same day — she named the number and it moves the verdict
+
+Sara: *"the raise I'm looking for is around 10k per month, so minimum 23–25k per month."*
+Implied current package: **AED 13,000–15,000/month.**
+
+**The verdict above was computed on a AED 5,000 uplift, which I assumed. At AED 10,000 the
+arithmetic roughly triples and the conclusion partially reverses.**
+
+| | Assumed (+AED 5,000) | **Stated (+AED 10,000)** |
+|---|---|---|
+| Months of uplift, Feb → departure | 4 | **6** *(Route B departs Aug–Sept 2027)* |
+| Gross gain | AED 20,000 | **AED 60,000** |
+| Less disrupted saving, gratuity, visa churn | −AED 9,200 to −AED 17,400 | −AED 9,200 to −AED 17,400 |
+| **Net** | **AED 12,000–15,000 · €2,800–3,500** | **AED 42,600–50,800 · €10,000–12,000** |
+| **Share of the €15,000 target** | ~20% | **67–80%** |
+
+**A move is no longer a rounding error against the friction. It is the single largest lever
+available**, and at the top of that range it very nearly funds the whole target on its own.
+
+### But the raise cannot deliver her number, and that is the real change
+
+`market-rate.md`: AED 14,000 → AED 24,000 is **+70%**. UAE salaries are forecast to move 4.1%
+in 2026; a strong promotion-plus-correction runs 15–30%. **No conversation with WeDo produces
++70%.** A realistic best case there is a Creative Director title plus a market correction —
+**+AED 2,000–4,000**, which is 20–40% of what she is asking for.
+
+**A 70% step is what changing employer type produces**, not what negotiation produces.
+
+> ### The revised verdict
+>
+> **The raise and the move are no longer alternatives. They are sequential, and the search is
+> now primary rather than conditional.**
+>
+> 1. **Still ask for the raise in September.** It is free money, it raises the basic her
+>    gratuity is calculated on, and it is the fallback if the search produces nothing. But
+>    expect +AED 2,000–4,000, and do not build the plan on it.
+> 2. **Run the search as the main effort, not as a contingency.** Only an employer-type change
+>    reaches AED 23–25k — and per `market-rate.md`, **that means multinational in-house and
+>    consultancy, not agencies.** Her number is a stretch against agency data and unremarkable
+>    against corporate data.
+> 3. **Freelance still runs alongside both.** It remains the only option that funds the target
+>    *and* builds Route A2's evidence base.
+
+**What has not changed:** the attention collision with the October–February EU application
+window is still real, probation is still a trap, and the gratuity still resets. Those were
+never arguments that the money was small — they were arguments about cost. **The money got
+bigger; the costs did not.** So the conditions below still bind. They have simply become
+conditions worth trying hard to satisfy rather than a polite way of saying no.
+
+---
+
 ## Why a move earns so little: the arithmetic
 
 A job change is not a pay rise from today. It is a pay rise from whenever it actually starts,
@@ -288,19 +339,40 @@ sits inside the same company as a Dubai office.
 
 ---
 
-## The five conditions — move only if ALL are true
+## The six conditions — move only if ALL are true
 
-1. **Uplift ≥ AED 6,000/month.** Below that the net does not survive the friction above.
-2. **Tier-1 employer** on `target-employers.md` — a genuine European end, not just money.
-3. **Start date on or before 1 November 2026**, so probation and ramp-up finish before the EU
+*Revised 31 July 2026 after her stated number, and after the Momentum ME screen exposed a gap
+in condition 1.*
+
+1. **Uplift ≥ AED 8,000/month** — raised from AED 6,000. Her own requirement is AED 10,000, and
+   an offer materially below that does not solve the problem it is being taken to solve.
+2. **🆕 If the role is in Dubai, uplift ≥ AED 15,000/month.** UAE rent runs on annual cheques:
+   a new Dubai tenancy means **1–2 cheques up front, roughly AED 25,000–60,000**, plus agency
+   fee, plus a deposit, plus a likely two-month penalty to break the Abu Dhabi lease.
+   **That is the entire savings target, spent in month one.** The alternative — commuting
+   Abu Dhabi to Dubai on-site — costs about three hours a day, which is exactly the time the EU
+   applications, CIM, German and the freelance track need. **Condition 1 silently assumed the
+   job was in the same city. Most of the money in this market is in Dubai, so this will bind
+   often.**
+3. **Tier-1 employer** on `target-employers.md` — a genuine European end, not just money. And
+   per `market-rate.md`, **in-house or consultancy rather than agency**, because her number is
+   not an agency number.
+4. **Start date on or before 1 November 2026**, so probation and ramp-up finish before the EU
    application window peaks.
-4. **Contract clean:** probation ≤ 3 months · no training clawback · no relocation bond · notice
+5. **Contract clean:** probation ≤ 3 months · no training clawback · no relocation bond · notice
    ≤ 60 days · non-compete limited in scope.
-5. **No break in UAE residency** — a transfer, not a cancel-and-reissue.
+6. **No break in UAE residency** — a transfer, not a cancel-and-reissue. Her Spanish DNV
+   application depends on being a UAE resident at the Abu Dhabi mission.
 
-Any one failing and the answer is stay. **On today's date, condition 3 alone means an offer
-would have to be agreed within roughly eight weeks**, which in practice means it happens only if
-a tier-1 employer already has something open.
+Any one failing and the answer is stay. **Condition 4 is the tight one: on today's date an
+offer would need to be agreed within roughly eight weeks**, which happens only if a tier-1
+employer already has something open at her level.
+
+**Honest note on conditions 2 and 4 together:** they exclude most of what will actually appear.
+The highest-paying UAE roles are in Dubai, and few processes close in eight weeks. **She should
+expect to satisfy all six rarely — and should therefore treat the September raise conversation
+and the freelance track as the load-bearing plan, with the search as the high-upside bet
+running behind them.**
 
 ---
 

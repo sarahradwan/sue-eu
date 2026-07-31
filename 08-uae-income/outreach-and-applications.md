@@ -68,9 +68,28 @@ needs it to read as.
   those is a leaving signal to a boss who already monitors her LinkedIn.
 - **No ultimatum.** She is not willing to leave over this and should not pretend otherwise.
 
-### Numbers
+### Numbers — revised 31 Jul 2026
 
-**Target +AED 4,000/month. Floor +AED 2,500.** If the answer is no on salary, the fallback asks
+Sara's stated requirement is **+AED 10,000/month, to a floor of AED 23,000–25,000**. Be clear
+about what this conversation can and cannot deliver: **AED 14,000 → AED 24,000 is roughly +70%,
+and no raise conversation produces that.** UAE salaries move 4.1% in 2026; a strong
+promotion-plus-correction runs 15–30%.
+
+**So ask high and expect a correction, not a transformation.**
+
+- **Open at the title first**, then the number. *"The role I'm doing is a Creative Director
+  role — I'd like the title to reflect it, and the salary to reflect the market for it."*
+- **Anchor: AED 23,000**, citing the market rather than her needs. She is currently **below the
+  Cooper Fitch all-roles Dubai median of AED 20,000** and below ERI's model for an
+  *eight-year* agency Creative Director — at 22 years. That is the argument, and it is factual.
+- **Realistic outcome: +AED 2,000–4,000 plus the title.** Take it. It is free money, it raises
+  the basic her gratuity is calculated on, and the title is worth real money at the next
+  employer and on every CV she sends.
+- **The gap is not closed here, and that is expected.** `market-rate.md` finds AED 23–25k is a
+  stretch against agency data and unremarkable against corporate data — so the rest of the gap
+  comes from an employer-type change, not from this conversation.
+
+If the answer is no on salary, the fallback asks
 in order of value: the **title change** (worth real money at the next employer and on every CV
 she sends), a **fixed bonus tied to tender wins**, or **CIM fees covered** — though see the
 clawback warning below before accepting that one.
