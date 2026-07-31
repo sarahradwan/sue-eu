@@ -458,10 +458,38 @@ Her argument identifies the part that is not a rule: which of the legitimate sha
 line* wants. Conceding the measurable half makes the unmeasurable half unanswerable, so the
 draft does exactly that.
 
-**The line she chose.** Al-Mutanabbi, 915 to 965, the opening of one of the most famous
-poems in Arabic. Verified. And it is about the pen: *the sword, the spear, the paper and the
-pen*. A post asking whether a machine can hold the pen, set in the verse that says the pen
-knows me. That is not available to anyone else writing about AI this month.
+**The artwork content changed, and it improved the post.** She is sketching **المولد النبوي
+الشريف**, not the al-Mutanabbi verse. Correct on two counts: it is the Mawlid post, so the
+piece should say Mawlid, and **a three-word phrase is short enough that a reader can examine
+the letters the post is describing.** A long verse they cannot. The post now demonstrates
+itself rather than asserting.
+
+Al-Mutanabbi is cut, because it anchored an artwork she is no longer making and a reader
+would be looking at a piece that says something else. **Parked, not discarded:** the verse
+names the pen alongside the sword, which is a strong hook for a future post about craft
+against machine. Verified as his, 915 to 965, opening one of the most famous poems in
+Arabic.
+
+### The best sentence available for this post, if it is true
+
+The definite article **ال appears three times** in المولد النبوي الشريف. In Diwani a
+calligrapher would not draw it identically three times, because the space around it differs
+each time, and three identical ligatures in one composition read as flat.
+
+**If that is true of her finished piece**, this is the line:
+
+> The word "al" appears three times in this piece. I did not draw it the same way three
+> times, because the space around it was different each time. Nothing told me to do that.
+
+That is her entire argument, made about her own work, and **visible in the image the post is
+already carrying.** It converts the post from a claim into a demonstration.
+
+Only she can confirm it, so it sits in the draft as a marked optional rather than being
+assumed.
+
+**One smaller option.** Her example letter is seen, س. The phrase contains sheen, ش, which
+is the same skeleton with three dots. "Take seen, the letter sitting under the sheen in
+الشريف" ties the example to the artwork. Elegant, slightly fiddly, her call.
 
 ### The count, verified, because she added the second axis
 
@@ -511,19 +539,20 @@ Hook is 81 characters and it points straight at the image, which is the artwork 
 > Today is the Prophet's birthday, and calligraphy is the art form the tradition put at the
 > centre, so it feels like the right day to look at letters.
 >
-> The line is al-Mutanabbi. The horses, the night and the desert know me, and the sword, the
-> spear, the paper and the pen. Written a thousand years ago by a man who put the pen in the
-> same breath as the sword.
+> It reads المولد النبوي الشريف. Today is the Prophet's birthday, and calligraphy is the art
+> form the tradition placed at the centre, so this is the day for it.
 >
 > Diwani is Ottoman. Developed in the sixteenth century for the sultan's chancery and
 > treated as one of the secrets of the palace. Letters crowd into each other. The line
 > inside a single letter is doing more than one thing at once.
 >
-> Give a calligrapher this verse and a brief. They do not look the letters up. They stretch
+> Give a calligrapher a phrase and a brief. They do not look the letters up. They stretch
 > one, compress the next, stack a word to open the space above it, run a kashida out to
 > carry the eye across, and choose between several legitimate forms of the same letter
-> depending on what has to sit beside it. Every one of those is a decision about this line,
-> at this size, in this space.
+> depending on what has to sit beside it. Every one of those is a decision about this
+> phrase, at this size, in this space.
+>
+> [OPTIONAL, only if true of her finished piece. See note below.]
 >
 > Give the same brief to a model and you get geometry. Something assembled from what it has
 > already seen, laid out approximately, with the letters treated as parts rather than as
