@@ -413,6 +413,129 @@ five years, which is what agencies are actually buying. Passes.
 
 ---
 
+## Mon 24 Aug: typography, AI, and the Prophet's birthday
+
+**Her brief:** post a real typography artwork she made, not AI generated. Typography as
+rooted in Arabic culture. AI still cannot replace it, but it keeps surprising us, so she
+would not be shocked to see a Diwani piece made perfectly to the measurements soon. It needs
+a lot of data, and AI needs to understand Arabic letters better, since every letter's shapes
+and states could carry a research paper of its own.
+
+**The slot was written off and she has reversed that correctly.** 24 August is a UAE public
+holiday, and the calendar marked it dead because her MENA base would be offline and could
+not supply early engagement. That reasoning holds for a work post. It does not hold for a
+cultural post on the day itself. People are on their phones on a holiday, just not working.
+Calligraphy on Mawlid is also well precedented, since calligraphy is the art form the
+tradition placed at the centre.
+
+### ⚠️ One claim must be sharpened or it will be corrected
+
+**Her draft claim, "AI still cannot replace it", is not quite true and is the exact sentence
+someone will reply to with a counterexample.**
+
+Verified: **AI tools already list Diwani as a supported style.** Several generators name it
+alongside Kufi, Naskh, Thuluth, Ruqaa and Nasta'liq. So "AI cannot do Diwani" is falsifiable
+in about four seconds by anyone with a browser.
+
+What is verified, and is a far stronger claim: those models **interpolate from pictures
+rather than working from a proportional system.** Letters connect in ways they cannot
+connect, and proportions are wrong. The output looks approximately right **to someone who
+cannot read Arabic.**
+
+So the accurate sentence is: **AI can already make something that looks like Diwani. It
+cannot make Diwani.** That distinction is the whole post, it cannot be knocked down, and it
+is more interesting than the claim it replaces.
+
+### The word for the thing she already knows
+
+She wrote "made perfectly to the measurements". **The measurements have a name: the rhombic
+dot system.** Classical Arabic calligraphy proportions letters in dots, the mark the nib
+makes at a set angle, so a letter is a specified number of dots tall. Research on generative
+Arabic calligraphy names the absence of exactly this as the core limitation, along with the
+lack of large stroke-level annotated datasets.
+
+That is the technical answer to her own question, and naming it puts the post beyond
+argument.
+
+### Verified for use
+
+| Claim | Status |
+|---|---|
+| Diwani developed under the early Ottoman Turks, 16th to early 17th century | Verified |
+| Invented by Housam Roumi, peaked under Süleyman I, 1520 to 1566 | Verified, safe to use or omit |
+| Named for the Ottoman diwan, used for decrees (ferman) and legal documents (berat) | Verified |
+| Described as one of the secrets of the sultan's palace | Verified |
+| Influenced by Riqa and Ta'liq / Nasta'liq | Verified |
+| Letters crowd closely, complex line within the letter | Verified |
+| 28 letters, most taking different forms by position | Standard, safe |
+| AI tools already offer Diwani as a style | Verified. **This is the one that changes her draft** |
+
+**Do not use** the common claim that Diwani was designed to be forgery-resistant. It is
+widely repeated and was not confirmed. "One of the secrets of the sultan's palace" is
+verified, more interesting, and does the same work.
+
+### Draft
+
+Hook is 81 characters and it points straight at the image, which is the artwork she made.
+
+> I made this by hand. That sentence carries more weight this year than it used to.
+>
+> Today is the Prophet's birthday, and calligraphy is the art form the tradition put at the
+> centre, so it feels like the right day to look at letters.
+>
+> Diwani is Ottoman. Developed in the sixteenth century for the sultan's chancery, used for
+> decrees and legal documents, and treated as one of the secrets of the palace. The letters
+> crowd into each other. The line inside a single letter is doing more than one thing.
+>
+> People keep asking whether AI can do this now. The honest answer is more interesting than
+> yes or no.
+>
+> AI can already produce something that looks like Diwani to a person who cannot read
+> Arabic. Several tools list it as a style. What it produces is not Diwani. The letters join
+> in ways they cannot join and the proportions are wrong, because the models are
+> interpolating from pictures rather than working from a system of measurement.
+>
+> And there is a system of measurement. Classical Arabic calligraphy sizes letters in
+> rhombic dots, the mark the nib makes at a fixed angle. A letter is so many dots tall. That
+> is a rule, not an impression, and image models do not do rules.
+>
+> Then there is the shaping. Twenty-eight letters, most of them taking a different form
+> depending on whether they open a word, sit inside it, close it, or stand alone. Add the
+> ligatures a calligraphic hand uses and you are no longer describing a font. Every letter
+> could carry its own research paper.
+>
+> None of which means it will not happen. I have been surprised too many times in the last
+> three years to say never. Give a model enough properly annotated data, stroke by stroke,
+> and I expect to see Diwani that measures correctly.
+>
+> I would rather be the one who can tell the difference.
+
+**Image:** her own artwork, photographed. Non-negotiable, and it is the post. The hook
+depends on it being genuinely hers.
+
+**Alternative hooks:** *"AI can already make something that looks like Diwani. It cannot yet
+make Diwani."* (80) is the thesis stated flat. Strong, but it spends the argument at the top
+and leaves the artwork unremarked.
+
+### Checklist
+
+**Voice.** No em dashes. No bullets, no tip list, no CTA. One idea. Fragments as rhythm.
+Closes on a position rather than a question.
+
+**Substance.** Every historical claim verified this session and tabled above. The one claim
+that would have been corrected is fixed. The forgery-resistance line is excluded as
+unverified. "I have been surprised too many times in the last three years" is her own
+experience.
+
+**Two-reader test.** *As her boss:* a senior creative posting her own artwork on a cultural
+holiday and thinking about AI in her craft. Ordinary professional pride, on the right day.
+Passes. *As an EU recruiter:* multi-script typography at expert depth, AI literacy that is
+technical rather than fashionable, and cultural fluency none of their existing staff has.
+**This is one of the highest-value posts in the whole schedule for the EU goal**, and it
+arrived from her, not from the strategy.
+
+---
+
 ## Elsewhere
 
 - **Aug 6, Arabic first:** full draft in `dual-audience-content-engine.md`
