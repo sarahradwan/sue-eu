@@ -463,6 +463,28 @@ poems in Arabic. Verified. And it is about the pen: *the sword, the spear, the p
 pen*. A post asking whether a machine can hold the pen, set in the verse that says the pen
 knows me. That is not available to anyone else writing about AI this month.
 
+### The count, verified, because she added the second axis
+
+She sharpened the argument again: seen, س, changes not only by position in the word but by
+script. Seen in Kufi and seen in Ruqʿah are different creatures. Position is one axis, style
+is a second, and the second multiplies the first.
+
+The arithmetic is checkable, so it was checked:
+
+| | |
+|---|---|
+| Arabic letters | 28 |
+| Connect both directions, so **four** forms each: initial, medial, final, isolated | 22 |
+| Join backwards only, so **two** forms each: ا د ذ ر ز و | 6 |
+| **Contextual shapes, one style** | **(22 × 4) + (6 × 2) = 100** |
+
+**Exactly a hundred, before a style is chosen.** Then multiply by the styles, then add
+ligatures a hand invents per composition. That is the concrete form of her research-paper
+point, and a hard number carries further than the argument does on its own.
+
+Seen is one of the 22, so it is the right letter to demonstrate with. Safe to use as her
+example.
+
 ### Verified for use
 
 | Claim | Status |
@@ -511,10 +533,15 @@ Hook is 81 characters and it points straight at the image, which is the artwork 
 > the nib, and a model can eventually be taught to hit it. Dots are a rule. What it cannot
 > yet be taught is which of the legitimate shapes this particular line wants.
 >
-> Because that is barely written down. Twenty-eight letters, each behaving differently at
-> the start, the middle and the end of a word, and then the ligatures a calligraphic hand
-> invents on the spot for one composition and never uses again. Every letter could carry its
-> own research paper. Most of them have not had one.
+> Because that is barely written down. Take seen. One letter. It has one shape opening a
+> word, another inside it, another closing it, another standing alone. Twenty-two of the
+> twenty-eight letters behave that way. The other six only join backwards, so they have two.
+> That is a hundred shapes before anybody has chosen a style.
+>
+> Then choose one. Seen in Kufi and seen in Ruqʿah are not variations on a theme, they are
+> different animals. Then the ligatures, which a calligraphic hand invents for one
+> composition and never uses again. Every letter could carry its own research paper. Most of
+> them have not had one.
 >
 > None of which means it will not happen. I have been surprised too many times in three
 > years to say never.
