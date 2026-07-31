@@ -73,13 +73,13 @@ const doc = new Document({
     children: [
 
       name('Sara Radwan'),
-      tagline('Creative Director  |  Brand, Editorial Systems and Corporate Reporting'),
+      tagline('Creative Director  |  Brand, Reporting and Corporate Communications'),
       contact('Abu Dhabi, United Arab Emirates'),
       contact('[EMAIL]  |  [PHONE]'),
       contact('sarahradwan.me  |  linkedin.com/in/sarahradwan1'),
 
       h('Profile'),
-      body('Creative director, 22 years across Egypt, Qatar and the UAE. Native Arabic. Government and institutional reporting, brand and publication systems.', 40),
+      body('Creative director, 22 years across Egypt, Qatar and the UAE. Native Arabic. Brand identity, annual reporting, campaigns and brand experience for government and institutional clients.', 40),
 
       h('Selected Work'),
       body('2025 Annual Report, UAE Ministry of Foreign Affairs aid agency. Art direction and design. Interactive, published in separate Arabic and English editions, built inside UAE government brand guidelines.', 30),
@@ -92,7 +92,8 @@ const doc = new Document({
       body('Turns pitches into won work. Writes and art directs technical submissions for government tenders against published evaluation criteria. Contributed to a 12 percent tender win rate. Presents and defends the work to ministers and executive boards.'),
       body('Delivers at scale, on the date. Led a 500,000 euro national programme over two years with a large multidisciplinary team. Ran daily newspaper production and monthly magazine cycles to fixed press deadlines. Directs vendors, developers and freelance specialists across concurrent projects.'),
       body('Editorial craft with commercial proof. 20 plus titles art directed at CPI Media Group. Full redesign of a national daily newspaper. Led the MBC rebrand, followed by 38 percent subscriber growth.'),
-      body('Makes complex organisations legible. Built the brand and investor story for a hologram technology company. Took an entire government headquarters through a change of working policy with the Benet7awel campaign for Dubai Municipality.', 40),
+      body('Brand systems that scale. Full brand creation and the investor story for a hologram technology company. Brand architecture across group subsidiaries in four countries on a four-year retainer. Identity systems and guidelines for UAE government institutions.'),
+      body('Work that leaves the page. A two-day brand experience inside a government building for Dubai’s roads and transport authority: six bilingual activations, touchscreen kiosks, a participatory installation and environmental graphics. Took an entire government headquarters through a change of working policy with the Benet7awel campaign for Dubai Municipality.', 40),
 
       h('Experience'),
 
