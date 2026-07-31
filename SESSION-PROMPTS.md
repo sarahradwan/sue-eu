@@ -428,6 +428,106 @@ answer could be "not in this form". Market sizing done before that is wasted wor
 
 ---
 
+## Session 6 — UAE income (the funding engine)
+
+Raising UAE earnings to fund the move. Not a career pivot: savings reopen the EU routes
+that "no capital to self-fund" currently closes. Context in `08-uae-income/README.md`.
+
+```
+I want to move to a higher-paying job in the UAE, and apply. The
+purpose is to save money for my EU migration, so treat salary as
+infrastructure for that plan, not as an end in itself.
+
+Read CLAUDE.md, 08-uae-income/README.md, 01-relocation/pipeline-jobs.md
+and 01-relocation/timeline-to-2027.md first.
+
+This session owns 08-uae-income/ ONLY. Do not edit 01-relocation/,
+04-portfolio-positioning/, 06-ielts/ or 07-afrilink/ — other sessions
+write there.
+
+WHY THIS MATTERS MORE THAN IT LOOKS, so you optimise for the right
+thing: my pipeline-jobs.md file records that I have no capital to
+self-fund. That one constraint rules out Germany's Opportunity Card,
+the Dutch orientation year, and every EU route needing proof of funds.
+Savings do not just make the move comfortable, they reopen routes that
+are currently closed to me. Optimise for that, not for the biggest
+number.
+
+WORK IN THIS ORDER.
+
+1. TELL ME THE TARGET NUMBER FIRST.
+   "Earn more" is not a plan. Before any job search, calculate what I
+   actually need saved and by when:
+   - For the scholarship route: what a stipend does NOT cover, plus
+     flights, first rent and deposit, and a buffer
+   - For the sponsored-job route: relocation costs, deposits (Dutch
+     landlords often want several months), shipping, the gap before
+     the first salary
+   - For the Spanish digital nomad route: what that visa requires
+     financially on top of monthly income
+   Give me one figure with a date on it. Then work backwards: what
+   monthly salary, from what month, gets me there by mid-2027? That
+   number is the brief for everything below.
+
+2. WHAT AM I ACTUALLY WORTH HERE?
+   22 years, Creative Director, brand and experience, government and
+   institutional work, currently at an Abu Dhabi agency. Native Arabic,
+   C2 English, CIM Level 7 in progress. What do Dubai and Abu Dhabi
+   multinationals, in-house brand teams and larger agencies genuinely
+   pay for that? Give me ranges with sources, and say plainly whether
+   I am currently underpaid. Note that UAE salaries are tax-free, so
+   do not compare them to European gross figures.
+
+3. RANK EMPLOYERS BY TWO THINGS, NOT ONE.
+   Money AND whether they have European offices. A multinational with
+   an Amsterdam, Dublin, London or Brussels office gives me an
+   internal-transfer route, which is often the easiest way for a
+   non-EU national to reach Europe, because the employer already knows
+   me and the paperwork is routine for them. A slightly lower offer
+   from a company with EU offices can beat the highest local bidder.
+   Build me a ranked target list that scores both. Name real
+   companies, not categories.
+
+4. IS MOVING JOBS ACTUALLY NET POSITIVE?
+   Be honest, including if the answer is no. I intend to leave the UAE
+   by mid-2027, so a role starting late 2026 gives me months, not
+   years. Cover: notice periods, probation, any relocation or training
+   clawback clauses common in UAE contracts, whether leaving quickly
+   burns the reference I will need, and whether UAE labour rules
+   create any ban or penalty on a short tenure. Then tell me whether
+   a new job, a raise where I am, or freelance income on top is the
+   better route to the number in step 1.
+
+5. HOW DO I SEARCH WITHOUT BEING CAUGHT?
+   My employer monitors my LinkedIn. UAE job hunting is as visible as
+   EU job hunting. Tell me which channels are safe (recruiters,
+   direct approaches, referrals) and which are not, and how to handle
+   the fact that UAE recruitment runs heavily through LinkedIn.
+   Follow the stealth-positioning skill for anything public.
+
+6. THEN APPLY.
+   Use the application-tailor skill. Note that my CV has a known ATS
+   problem, and 05-career-context/cv-template-ats.md exists for that.
+   Track everything in 05-career-context/application-history.md.
+
+RULES:
+- Salary figures need sources or an explicit "estimate" label. Never
+  invent precision about pay.
+- If the honest answer to step 4 is "stay and negotiate", say so.
+- Write findings to 08-uae-income/, not just to chat.
+- git pull --rebase before committing, then push to
+  claude/proactive-agent-setup-7f6r2m.
+
+START WITH STEP 1. Without the target number, everything after it is
+guesswork.
+```
+
+**Why the number comes first.** Without a figure and a date, "higher salary" has no stopping
+condition, and there is no way to judge whether a given offer is worth the disruption of
+changing employers 12–18 months before leaving the country.
+
+---
+
 ## Why the split
 
 Both sessions push to the same branch. Two things prevent collisions:
