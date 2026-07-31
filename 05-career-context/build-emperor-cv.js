@@ -80,9 +80,15 @@ const doc = new Document({
 
       h('Profile'),
       body('Creative director with 22 years across Egypt, Qatar and the United Arab Emirates, working where brand, editorial systems and corporate communications meet. Builds and runs publication and typographic systems at national scale, leads multidisciplinary teams across long institutional programmes, and presents and defends creative direction to ministers and executive stakeholders.'),
-      body('Native Arabic speaker with hands-on bilingual and multi-script typographic practice: built and applied a national curriculum design system spanning three scripts, and has art directed and set publications in Arabic, English and French. Currently completing CIM Level 7, Postgraduate Diploma in Professional Marketing.', 40),
+      body('Art directs annual reporting for UAE government, most recently the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency, produced as an interactive digital publication in separate Arabic and English editions. Native Arabic speaker with hands-on bilingual and multi-script typographic practice across Arabic, English and French. Currently completing CIM Level 7, Postgraduate Diploma in Professional Marketing.', 40),
+
+      h('Selected Work'),
+      body('2025 Annual Report, UAE Ministry of Foreign Affairs aid agency. Art direction and design of an interactive digital annual report, produced in separate Arabic and English editions, developed within UAE government brand guidelines and structured to carry the organisation’s messaging.', 30),
+      body('English edition: [PASTE LINK]', 30),
+      body('Arabic edition: [PASTE LINK]', 40),
 
       h('Selected Capability'),
+      body('Annual and integrated reporting. Art direction and design of government annual reporting, delivered interactively and in dual language editions, working inside published government brand guidelines and translating approved messaging into structure, hierarchy and visual argument.'),
       body('Arabic and bilingual publishing. Native Arabic, with typographic and layout craft across Arabic, English and French. Built the visual and typographic system for the UAE national curriculum: more than 100 books, five subjects, three scripts.'),
       body('Client leadership and technical proposals. Owns senior client relationships end to end, from briefing and consultation through to presenting and defending recommendations to ministers, boards and executive stakeholders. Writes and art directs technical and creative proposals for government tenders, contributing to a 12 percent tender win rate.'),
       body('Team leadership and programme delivery. Led a large multidisciplinary team of illustrators, designers and layout specialists across a two-year national programme valued at 500,000 euros, and built and managed the design function of a national daily newspaper. Runs concurrent programmes to fixed external deadlines, directing vendors, production partners, developers and freelance specialists.'),
@@ -95,6 +101,7 @@ const doc = new Document({
       roleMeta('WeDo Advertising and Publicity, Abu Dhabi, United Arab Emirates'),
       roleDates('February 2025 to present'),
       bullet('Lead creative vision and delivery for UAE government and institutional clients across brand identity, publications, campaigns and experience, from concept to final delivery.'),
+      bullet('Art directed and designed the 2025 Annual Report for the UAE Ministry of Foreign Affairs aid agency: an interactive digital report produced in separate Arabic and English editions, aligned to UAE government brand guidelines and structured to carry the organisation’s messaging.'),
       bullet('Own senior client relationships end to end: run briefing and consultation meetings, advise clients on approach, and present and defend creative direction to ministers, boards and executive stakeholders.'),
       bullet('Write and art direct technical and creative submissions for government tenders, structuring the response against published evaluation criteria. Contributed to a 12 percent government tender win rate.'),
       bullet('Manage delivery across concurrent programmes to fixed client deadlines, directing multidisciplinary vendors, production partners, developers and freelance specialists, and holding schedule, scope and creative quality across all of them.'),
@@ -143,7 +150,7 @@ const doc = new Document({
       body('Faculty of Applied Arts, Helwan University, Cairo, Egypt.', 40),
 
       h('Skills'),
-      body('Client relationship management. Client meetings, briefing and consultation. Technical and creative proposal writing. Tender and RFP submissions. Project and programme management. Production scheduling and delivery to fixed deadlines. Team leadership, hiring, workload allocation and mentoring. Vendor and production partner management. Editorial and publication design. Bilingual and multi-script typography. Arabic and English layout. Design systems. Information design and data visualisation. Brand identity systems. Brand architecture. Corporate and investor narrative. Internal communications and employee experience. Creative direction. Senior stakeholder and executive presentation. AI usage governance in brand systems.', 40),
+      body('Annual and integrated report design. Interactive and digital publishing. Dual-language and Arabic report production. Brand guideline compliance. Client relationship management. Client meetings, briefing and consultation. Technical and creative proposal writing. Tender and RFP submissions. Project and programme management. Production scheduling and delivery to fixed deadlines. Team leadership, hiring, workload allocation and mentoring. Vendor and production partner management. Editorial and publication design. Bilingual and multi-script typography. Arabic and English layout. Design systems. Information design and data visualisation. Brand identity systems. Brand architecture. Corporate and investor narrative. Internal communications and employee experience. Creative direction. Senior stakeholder and executive presentation. AI usage governance in brand systems.', 40),
 
       h('Languages'),
       body('Arabic, native. English, C2 fluent. French, A2, with publication and layout experience in French. German, A2 and improving.', 40),

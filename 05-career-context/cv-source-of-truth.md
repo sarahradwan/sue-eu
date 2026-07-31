@@ -56,6 +56,10 @@ client brand systems.
   brand identity, experience, publications and campaigns, concept to delivery.
 - Own senior client relationships; present and defend creative direction to ministers
   and executive stakeholders; contribute to new-business and tender pitches.
+- **Art directed and designed the 2025 Annual Report for the UAE Ministry of Foreign Affairs
+  aid agency** — interactive digital publication, produced in **separate Arabic and English
+  editions**, built within UAE government brand guidelines and structured to carry the
+  organisation's messaging. Publicly published; both editions have live links.
 - **Led "Benet7awel", an internal change and employee-experience campaign for Dubai
   Municipality**, carrying the organisation's move to a Work From Anywhere policy to the
   entire headquarters: phased teaser and reveal campaigns, employee-facing collateral and

@@ -26,10 +26,35 @@ discipline at volume. **That is now the lead, ahead of brand.**
 Second practical finding: **Emperor has an Abu Dhabi office.** She lives in Abu Dhabi. The
 commute objection that would apply to a Dubai-only employer does not arise.
 
+## 🔓 Surfaced 31 July 2026 — the gap closed itself
+
+**Sara art directed and designed the 2025 Annual Report for the UAE Ministry of Foreign
+Affairs aid agency.** Interactive digital publication, produced in **separate Arabic and
+English editions**, built inside UAE government brand guidelines, publicly published.
+Delivered at WeDo.
+
+This retires the "no annual report experience" gap recorded below. It is not adjacent
+evidence, it is **the exact service Emperor sells, for the exact client type they serve**,
+in both languages of their named Arabisation practice.
+
+It is also **verifiable**. Everything else on a CV is a claim a reader takes on trust; a
+live report is proof. For a consultancy that sells reporting, seeing the artefact beats any
+paragraph describing it. So it now sits in a **Selected Work** block near the top, not
+buried in the role bullets.
+
+**Link both editions, not just English.** Sara's instinct was to include English only. That
+is the weaker choice here: Emperor's Arabisation line is tagged on the Aldar, Emirates NBD,
+TECOM, ADNOC L&S and Talabat reports, and the **Arabic edition is the one almost no
+competing candidate can show.** English proves competence. Arabic proves scarcity.
+
+**Two things to check before sending:** that both InDesign Publish Online links resolve,
+since those can be unpublished or expire, and that a publicly released government report is
+fine to reference. It is public by nature, so this is a formality rather than a real risk.
+
 | Emperor MENA service | Her evidence | Strength |
 |---|---|---|
-| **Copywriting and Arabisation** | Native Arabic; national curriculum typographic system across **three scripts**; publications art directed and set in Arabic, English **and French** | ★ **Strongest. Lead here.** |
-| **Integrated Reporting** | 100+ book publication system, 20+ titles at CPI, national newspaper redesign, information design and data visualisation, **Act Air investor narrative** | Strong, adjacent |
+| **Copywriting and Arabisation** | Native Arabic; **dual-language MoFA annual report**; national curriculum system across **three scripts**; publications set in Arabic, English **and French** | ★ **Strongest. Lead here.** |
+| **Integrated Reporting** | ✅ **2025 MoFA aid agency Annual Report, art direction and design, interactive, dual language.** Plus 100+ book publication system, 20+ CPI titles, newspaper redesign, information design, Act Air investor narrative | ★ **Now direct, not adjacent** |
 | **Brand and Marketing** | 22 years, brand systems, architecture across 4 countries, government identity | Strong, direct |
 | **Presentations** | Investor narrative work; presenting and defending to ministers and executives | Moderate |
 | **Digital** | Interactive ePub editions, touchscreen kiosks, registration platform, digital touchpoints | Moderate |
