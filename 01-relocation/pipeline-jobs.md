@@ -965,6 +965,41 @@ all real signals — but none of them is a signal about visas.
 
 This does **not** rule startups out. It changes the sequence: confirm first, invest second.
 
+**Sharpened 26 Jul 2026 by Chuck Studios** (Creative Art Director, Amsterdam, 40 employees).
+In the Netherlands the size rule becomes arithmetic rather than a judgement call:
+
+**€71,304 is roughly a Creative Director salary, and only large organisations pay that below
+C-level.** So a Dutch role at a company under roughly **200 people** is almost certainly under
+the floor whatever the fit. Chuck's Art Director reports to a Creative Director and works
+alongside a Senior Art Director — at 40 staff that is not a €71,304 role, and they would also
+be doing first-time sponsorship with no immigration function.
+
+**Check headcount before reading a Dutch job description.** Five seconds, and it is why
+Adyen, PVH and Capgemini-scale employers keep being the Dutch answer. It is also the clearest
+argument for the other markets: **Ireland €36,605, Brussels €44,441, Germany €50,700 open an
+entire tier of small and mid-size employers the Netherlands does not.**
+
+### 📋 Screening log — 26 Jul 2026
+
+| Employer | Role | Verdict | Deciding factor |
+|---|---|---|---|
+| **Capgemini / frog** | Design Director, Utrecht 🇳🇱 | 🟡 **Apply, stretch** | **First posting where all four gates are green at once** — 346k employees so sponsorship certain, Leadership Team role so salary clears comfortably, English, Director level. **Gap is discipline**: she would lead UX/UI and service designers on digital products, which is not her practice. Bridge is RTA as service design executed in space. ⚠️ Reposted **4 months** ago, and Capgemini design headcount is **down 17%** over two years. Send it, do not invest heavily. Use `head-of-creative-events` |
+| **BrainersHub** | (Senior) Art Director, Hamburg 🇩🇪 | ❌ No | **€50,000–60,000 published — the bottom of the band is below Germany's €50,700 floor.** No German stated, but a 21–50 person German consultancy serving German Mittelstand healthcare has none of Mutabor's signals (no international offices, no language courses, no global clients). Absence of a stated requirement is not an opening here |
+| **Chuck Studios** | Creative Art Director, Amsterdam 🇳🇱 | ❌ No | 40 employees against a €71,304 floor. Also food-and-drink domain named five times with a written test, against her fashion and beauty work — the same shape of gap PVH had just rejected her on |
+| **Karsten** | Collection & Brand Designer, Amsterdam 🇳🇱 | ❌ No | 4–7 years asked against her 22; band cannot reach the floor. **But sponsorship confirmed** — see the search-string finding |
+| **Merlicek & Partner** | Art Director, Vienna 🇦🇹 | ❌ No | *"Perfekte Deutschkenntnisse"*, junior role, Kollektivvertrag pay |
+| **prado** | Creative Designer, Ghent 🇧🇪 | ❌ No | *"Fluent in Dutch"* — she has none |
+| **BIGBANG** | Senior Art Director, Klagenfurt 🇦🇹 | ❌ No | *"Wiener Schmäh"*, €45,000 published |
+
+**Check the bottom of a published salary band, not the top.** BrainersHub is the clean
+example: €60,000 clears Germany's floor, €50,000 does not, and with no leverage she lands at
+the bottom.
+
+**Three German-market postings in one day asked explicitly for her AI positioning**
+(REICHLUNDPARTNER, Mutabor, BrainersHub). **The German market wants what she has and wants it
+in German.** That is the strongest argument yet for treating German as a route rather than a
+background habit.
+
 ### 🟡 Design Lead — Conveo, Antwerp. **Apply, with clear eyes.**
 
 [Posting](https://www.linkedin.com/jobs/view/4442253886/) · Hybrid · applications via
