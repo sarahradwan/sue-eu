@@ -364,6 +364,28 @@ may help, since guaranteed structural pay typically counts where holiday allowan
 clears the threshold — one reply decides it, and also reveals the ceiling for that whole
 employer.
 
+### 🇳🇱 Dutch heuristic — check headcount before reading the job. 26 Jul 2026.
+
+Screened **Chuck Studios** (Creative Art Director, Amsterdam) and rejected it on arithmetic
+rather than fit. **40 employees**, against a Dutch permit floor of **€71,304**. An Art
+Director reporting to a Creative Director, at a 40-person production studio, is not a
+€71,304 role — Amsterdam Art Director pay runs €50–79k and the top of that band belongs to
+large employers. They would also have been doing first-time sponsorship with no HR
+immigration function.
+
+**The rule: in the Netherlands, small employers are structurally closed to her.** €71,304 is
+roughly a Creative Director salary, and only large organisations pay that below C-level. A
+Dutch role at a company under roughly 200 people is almost certainly under the floor
+**regardless of how well the work fits**. Check headcount first; it is a five-second filter.
+
+*(Chuck also wanted food and drink passion — mentioned five times, with a written test
+question — against her fashion, beauty and lifestyle consumer work. PVH had just rejected
+her on exactly that shape of domain gap.)*
+
+**This is why Ireland (€36,605), Brussels (€44,441) and Germany (€50,700) matter beyond
+language.** Those markets open a whole tier of small and mid-size employers that the Dutch
+floor closes off entirely.
+
 ### 🔍 A search string that finds sponsors — found 26 Jul 2026
 
 **Karsten International** (Amsterdam) wrote this into a posting:
