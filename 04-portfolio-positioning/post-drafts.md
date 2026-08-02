@@ -53,36 +53,39 @@ the public sector vocabulary the original draft was valued for.
 It also **builds on** the published post rather than repeating it. Continuity reads as
 someone thinking. Repetition reads as a content calendar.
 
-**Hook,** 98 characters, one paragraph then a break, so the whole line shows on mobile.
+**Revised 2 Aug after she said it needed tweaking.** The first version stated its best line
+in paragraph three and then explained itself for four more, and it had nothing physical in
+it. The fix: the closing line becomes the hook, so the post has an object in it and builds
+instead of front-loading its conclusion. The cost-versus-comparison line moves to the end.
+The mentoring sign-off is cut, since that register was confirmed for the superseded post,
+not this one. About eighty words lighter.
 
-> I used to put the number where the client asked for it. Near the front, where it was easy
-> to find.
+**Hook,** 69 characters, one paragraph then a break.
+
+> The pricing page is the one everybody writes last and nobody designs.
 >
-> It seemed like a courtesy. They asked, so I answered.
+> I used to put it near the front, where the client had asked for it. They asked, so I
+> answered. It felt like a courtesy.
+>
+> What I was not thinking about was where the reader would be standing when they got there.
+>
+> Reach the number before you have agreed there is a problem, and there is nothing to weigh
+> it against except the other numbers in the other proposals. In that comparison the
+> cheapest one wins, and nothing any of us can actually do changes that.
+>
+> Reach it after, and it is sitting beside a problem the reader has just spent four pages
+> agreeing they have. Now it gets weighed against what that problem costs to leave alone.
+>
+> Government work makes it sharper. It is not one person skimming. It is a committee,
+> scoring against criteria, often people who did not write the brief and will never meet
+> you. Nobody calls to ask what the number covers. Wherever you put it is where it gets
+> judged.
 >
 > A number read before the problem is a cost. The same number read after it is a comparison.
-> That is the whole of it, and it took me a long time to see, because putting the price up
-> front felt like confidence and holding it back felt like a trick.
->
-> It is neither. It is about what the reader is carrying in their head when they arrive at
-> the figure.
->
-> If they reach it before they have agreed what is at stake, there is nothing to weigh it
-> against, so they weigh it against the other numbers in the other proposals. That is the
-> only comparison available to them. And in that comparison the cheapest one wins, whatever
-> any of us can actually do.
->
-> If they reach it after, the figure is sitting next to a problem they have just spent four
-> pages agreeing they have. Now it gets weighed against the cost of that problem continuing.
-> A different question entirely.
->
-> Government work makes this sharper, because it is not one person skimming on a Thursday.
-> It is a committee, scoring against criteria, often people who did not write the brief and
-> will never meet you. Nobody is going to call and ask what the number covers. Wherever you
-> put it is where it gets judged.
->
-> To anyone earlier on than me: the pricing page is the one everybody writes last and nobody
-> designs.
+> Same figure, same page, different answer.
+
+**Still open:** there is no scene in it. One real memory would fix it, a proposal where the
+number landed wrong or the moment she moved the page.
 
 **Optional first line, if she wants the continuity visible.** Placed before the hook it
 costs her the clean opening, so better as a reply in her own comments once the post is up:

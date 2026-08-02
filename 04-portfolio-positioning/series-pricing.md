@@ -169,6 +169,74 @@ strongly.
 
 ---
 
+## Instalment 3: what you are selling when the thing does not exist yet
+
+**Mon 17 Aug.** Builds directly on instalment 1, which ended on the client buying a
+description of a design rather than a design. This is the answer to the question that leaves
+open: if they cannot inspect the work, what do they inspect?
+
+**Hook,** 93 characters, flat contradiction, and it names the physical artefact.
+
+> The proposal is not a description of the work. It is the only piece of the work they can
+> see.
+>
+> That took me a while to accept, because it sounds like a trick and it is not one. When you
+> sell something that does not exist yet, the buyer has nothing to inspect except you. So
+> they inspect you. The document. The questions you asked before you wrote it. Whether you
+> understood what they actually said in the meeting. Whether the thing is typeset properly.
+>
+> All of it is evidence. None of it is the thing being sold.
+>
+> I have watched better work lose to a cleaner document, and it took me a long time to
+> accept that this was fair. If a design studio sends a proposal with inconsistent heading
+> sizes, the client is not being petty when they notice. They are reading the only sample
+> available to them.
+>
+> The uncomfortable version. What you are selling is a prediction about your own future
+> behaviour. That you will make good decisions on their problem. Decisions nobody can show
+> in advance, because they do not exist yet. There is no way to prove that. There is only
+> the way you are behaving right now, in front of them, on a document that costs nothing to
+> get right.
+>
+> Which is why I stopped thinking of the proposal as the thing you do before the work
+> starts. It is the first thing you make for them. It just happens to be made out of paper.
+
+**Image.** The post argues the document is the sample, so the image must be a document that
+would pass as one: **a proposal spread with visibly considered typography.** Client detail
+out of frame. It has to be good, because a sloppy photograph here would refute the post.
+
+**Alternative hooks, measured:**
+
+| | Hook | Chars |
+|---|---|---|
+| B | Nobody can show a client a decision in advance. That is the whole problem with selling creative work. | 101 |
+| C | I have watched better work lose to a cleaner document, and it took me years to understand why that was fair. | 108 |
+
+C is currently the fourth paragraph and is doing better work there, where it has been set up.
+
+### Checklist
+
+**Voice.** No em dashes. No bullets, no tip list, no CTA. One idea. Fragments as rhythm.
+Ends on a position.
+
+**Substance.** No external claims. "I have watched better work lose to a cleaner document"
+is stated as her experience and should be true before it goes out.
+
+**Series continuity.** Instalment 1 closes on the client buying a description rather than a
+design. This opens by answering what they inspect instead. Instalment 2 sits between them on
+where the number goes. Each builds, which is what makes it a series rather than three posts
+on a theme.
+
+**Register check.** Agency side throughout. No figures. Nothing that reads as advice to a
+freelancer setting rates.
+
+**Two-reader test.** *As her boss:* a senior creative arguing that proposal craft is client
+work, which is an unusually good thing for an employer to see written down. Passes. *As an
+EU recruiter:* commercial judgement, new business, and the insight that the pitch document
+is a deliverable. Passes.
+
+---
+
 ## See also
 
 - `post-drafts.md`: instalment 2 is drafted there as "Where the number goes"
