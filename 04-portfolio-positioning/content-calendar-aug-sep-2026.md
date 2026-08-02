@@ -55,7 +55,7 @@ her job. Her boss would find it more on-brand than a birthday post, not less.
 That is what accumulates into a pattern if it repeats.
 
 In this whole nine-week plan there is **exactly one European-subject post**, Tour & Taxis on
-10 August. Everything else is her own MENA work, described in vocabulary that happens to be
+13 August. Everything else is her own MENA work, described in vocabulary that happens to be
 what EU recruiters search on. That is the dual-audience strategy working as designed, and it
 means the institutional weighting can go up faster than a raw count would suggest.
 
@@ -78,9 +78,9 @@ which is a better shape than the fortnightly interleave originally proposed.
 | **Mon 3 Aug** | **Pricing 1.** Why a service is harder to price than a product | Series | **Drafted**, `series-pricing.md` |
 | **Thu 6 Aug** | Arabic first. Tag Dubai Municipality | Craft, **EU-high** | **Drafted**, `dual-audience-content-engine.md` |
 | **Sat 8 Aug** | Birthday, counted in hours | Personal | **Drafted**, needs her hours figure and a photo |
-| **Mon 10 Aug** | **Pricing 2.** Where the number goes | Series | **Drafted**, `post-drafts.md`. Needs the proposal photograph |
+| **Mon 10 Aug** | **Pricing 2.** What you are selling when the thing does not exist yet | Series | **Drafted**, `series-pricing.md` |
 | **Thu 13 Aug** | Tour & Taxis. Tag 87seconds | **EU-high**, European subject | **Ready**, after the two factual corrections. Moved off Monday |
-| **Mon 17 Aug** | **Pricing 3.** What you are selling when the thing does not exist yet | Series | To write |
+| **Mon 17 Aug** | **Pricing 3.** Where the number goes | Series | **Drafted**, `post-drafts.md`. Needs the proposal photograph |
 | **Thu 20 Aug** | **The numerals problem. First carousel** | Craft, **EU-high** | New |
 | **Mon 24 Aug** | **Typography, AI and the Prophet's birthday.** Her own artwork | Craft, **EU-high**, seasonal | **Drafted**, `post-drafts.md`. Verified |
 | **Thu 27 Aug** | The AI shame | Opinion | To write. Hook drafted in `hooks.md` |
@@ -101,12 +101,11 @@ stakes are small. The numerals problem is the right subject: three scripts, one 
 the thing that broke it was numerals and punctuation drifting between scripts inside the same
 paragraph. It is sequential and visual, which is what the format is for.
 
-**On 17 August.** Ugly design era is her highest-engagement idea and her highest reply
-burden, and it lands in the week Europe is most absent. So she carries the engagement risk
-without the European upside. Two options, her call: leave it, because it runs on her MENA
-audience anyway and does not need Europe. Or swap it with 17 September, which has the
-audience but costs her attention during the IELTS crunch. **Recommendation: leave it.** It is
-already conceived, the drafting cost is low, and September attention is the scarcer resource.
+**Series order changed 2 Aug, on her instruction, and it is the better sequence.** "What you
+are selling when the thing does not exist yet" moves to 10 August and "where the number
+goes" to the 17th. Instalment 1 ends on the client buying a description of a design rather
+than a design, so the natural next question is what they inspect instead. Where the number
+sits is the more tactical point and lands better once that ground is laid.
 
 **On 24 August.** Posting about Mawlid on Mawlid is entirely in pattern for her, since Eid
 and Hijri New Year are both already in her published set. If nothing feels genuine, skip the
