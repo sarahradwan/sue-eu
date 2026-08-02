@@ -819,6 +819,39 @@ genuinely scarce assets and it has been sitting unused in the CV.** Apply it to 
 Belgian, and Brussels institutional roles — and note it pairs with the Arabic advantage
 already flagged for Brussels.
 
+### 🎯 The title is not the filter. The craft underneath it is. 26 Jul 2026.
+
+Screened **Monks** (Associate Creative Director, Hilversum) and rejected it. Their first
+sentence: *"both a sharp conceptual thinker and **an exceptional UI designer** in one."*
+Hands-on Figma shaping *"screens, components, and systems"*, mastery of digital fundamentals,
+proven experience designing *"configurators, products, and tools"*, functional *"user
+journeys, flows, states"*, working prototypes in Figma and code, and a portfolio showing
+*"platform-led web/product work"*. **That is a different discipline, not a Figma gap.**
+
+**The pattern across three agencies screened today:**
+
+| Agency | Title offered | Craft actually required |
+|---|---|---|
+| AKQA | Associate Creative Director | CGI pipeline, compositing, grading, EXR/ACES |
+| Monks | Associate Creative Director | **UI design, Figma, prototyping, product** |
+| frog / Capgemini | Design Director | UX/UI and service design practice |
+
+**At digital-first agencies, creative-leadership titles increasingly mean digital product
+craft.** The title says creative director; the job is product design.
+
+**Her titles live somewhere else:** brand-first agencies, in-house brand teams, experience and
+event agencies, consultancies, and publishers. egg, Mutabor, Adyen, Karsten and Douglas all
+sit in that shape. AKQA, Monks and Moss do not, or only partly.
+
+**Screening rule: when a digital agency posts a creative-director title, scan the
+responsibilities for Figma, screens, flows, prototypes and CGI before reading anything else.**
+If they are there, it is a product role and it is not hers. These agencies post constantly
+and LinkedIn will keep surfacing them, so this saves real time.
+
+⚠️ Also note **Monks headcount is down 11% company-wide and design down 21% over two years**,
+the same contraction signal as Capgemini's 17%. Agencies cutting design are poor bets for a
+candidate who needs sponsorship.
+
 ### ⛔⛔ TWO SKILL GAPS ARE COSTING HER ROLES — Figma and motion. 26 Jul 2026.
 
 **Figma — stated requirement in four postings:**
