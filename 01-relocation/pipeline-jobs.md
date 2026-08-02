@@ -386,6 +386,41 @@ her on exactly that shape of domain gap.)*
 language.** Those markets open a whole tier of small and mid-size employers that the Dutch
 floor closes off entirely.
 
+### 🔑🔑 STAFFING AGENCIES WITH *ERKEND REFERENT* STATUS — the best channel found. 26 Jul 2026.
+
+**The Chain Company** (Wierden) buried this in its company description:
+
+> *"The Chain Company is **erkend referent bij de IND** en daardoor in staat om binnen drie
+> weken mensen van buiten de EU aan een werkvergunning in Nederland te helpen."*
+
+*IND recognised sponsor, able to arrange a Dutch work permit for non-EU people in about three
+weeks.* **Second confirmed sponsor after Karsten — but structurally different and far more
+useful.**
+
+**The Chain Company is a staffing and secondment agency** (*detachering en recruitment*).
+They employ people and place them with clients. **So the agency holds the sponsorship, not
+the end client.**
+
+**That dissolves the hardest problem in this whole search.** Every "will this employer
+sponsor?" question — unverified on almost every lead in this file — simply does not arise if
+an erkend referent agency employs her and seconds her out. The end client does not need
+recognised-sponsor status, an immigration function, or any appetite for paperwork.
+
+**Action: search for Dutch staffing and secondment agencies that hold erkend referent
+status.** Search terms: `erkend referent` + `detachering` / `uitzendbureau` / `recruitment`,
+combined with creative, marketing or design. **An agency that places creatives and sponsors
+as a business model beats any job board.**
+
+⚠️ The Chain Company's own specialism is engineering, finance and supply chain, so creative
+placements may be thin there. **Ryan Sonder** (consultant, posted the role, one mutual
+connection) contacted 26 Jul to ask whether they place English-working creative talent —
+message drafted, opening by ruling out their own Dutch-language Art Director role.
+
+*(That role itself fails: entirely Dutch-language work for Dutch supermarket brands —
+FrieslandCampina, Chocomel, Verkade — concepting **beeld en boodschap** for Dutch consumers,
+which is the authoring case. Plus Wierden is a town of 24,000 two hours from Amsterdam,
+5+ years asked against her 22, and regional agency pay will not reach €71,304.)*
+
 ### 🔍 A search string that finds sponsors — found 26 Jul 2026
 
 **Karsten International** (Amsterdam) wrote this into a posting:
