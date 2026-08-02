@@ -946,6 +946,14 @@ nothing else on the preparation list returns more.
 They also compound with German. At Mutabor she missed Figma *and* German. Fix these two and
 most of her near-misses become single-issue applications.
 
+> **▶ ACTED ON, 2 Aug 2026 — Figma closure started 3 Aug. Plan:
+> `05-career-context/figma-gap-closure.md`.** Four weeks, artefact due **30 Aug**, two days
+> before the 1 Sept follow-up round so it can be used as a reason to reopen a file. Scoped to
+> **brand-and-design-systems Figma only** — Monks-style product/UI Figma is a different
+> discipline and is deliberately out of scope. **Motion is deliberately deferred to
+> September**; doing both at once does neither. Her CV wording does not change until the
+> artefact exists.
+
 ### ✅ REVERSED — Moss, Senior/Lead Brand Designer. **Apply, to Berlin.**
 
 I rejected this on Figma and motion. Sara pushed back on the AI alignment and **she was
