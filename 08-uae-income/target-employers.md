@@ -39,13 +39,33 @@ choosing rather than defaulting.**
 
 ---
 
+## ⚖️ Weighting corrected, 2 Aug 2026 — after the ADNEC screen
+
+The 1.5× weight on the European axis below **is too high for a mid-2027 departure**, and the
+reason is stated in the box above: **an intra-company transfer needs 12–24 months of tenure, so
+on this timeline it never had time to happen.** The weight was pricing an asset she cannot use.
+
+What an EU-office employer actually delivers by mid-2027 is an internal job board, a
+European-legible employer name and European referees. Real, but not worth 1.5× the money — and
+the money now buys something the earlier ranking did not account for:
+
+> **`savings-target.md` (31 Jul): at a large enough salary, savings reopen Germany's
+> Opportunity Card, Austria's proof of funds and possibly Spain's savings limb. A job with zero
+> European route can be the thing that opens three European routes, by funding them.**
+
+**So: weight the European axis at 1.5× for a mid-2028 departure, and at 1.0× for mid-2027.**
+The table below is unchanged and its ordering still holds on the longer timeline. On the
+current timeline, read the money column first — and see
+[`leads-screened.md`](leads-screened.md) for ADNEC Group, which scores 0 on Europe and is
+nonetheless the strongest lead found.
+
 ## Scoring
 
 **Money** 1–5 · **EU route** 1–5 · **Total = Money + (EU route × 1.5)**, max 12.5.
 
 EU route is weighted at 1.5 because the README says to weight it heavily, and because money
 here is only ever worth ten months of it while a European foothold is worth the rest of her
-career.
+career. **See the correction above before using this on the mid-2027 timeline.**
 
 **EU route scores what the same legal group can actually do for her**, not merely whether it
 owns a building in Europe:

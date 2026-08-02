@@ -8,6 +8,175 @@ Screened against the six conditions in `move-or-stay.md`, the target in `savings
 
 ---
 
+## 🔥🔥🔥 Head of Creative Services — ADNEC Group, Abu Dhabi
+
+Sent by Sara, 2 Aug 2026 · [LinkedIn](https://www.linkedin.com/jobs/view/4447107161/) ·
+**On-site, Abu Dhabi** · full-time · posted 2 days ago · **623 applicants, 343 in one day** ·
+*promoted by hirer, actively reviewing* · apply through LinkedIn · LinkedIn rates her a
+**top applicant**
+
+**Verdict: the strongest UAE lead screened, by a distance. Apply — after one check that could
+kill it outright.**
+
+### The employer
+
+**ADNEC Group** — Abu Dhabi National Exhibitions Company, part of **ADQ**, Abu Dhabi's
+sovereign holding company. ~1,128 employees. **Seven business clusters: Venues, Events, Event
+Services, Catering, Hotels, Leisure Tourism and Media Services.** Owns ADNEC Centre Abu Dhabi
+(largest exhibition venue in MENA), Al Ain Convention Centre, **ExCeL London**, the Business
+Design Centre in London, Capital Hospitality, Capital Events, Tourism 365, and **twofour54**.
+[Wikipedia](https://en.wikipedia.org/wiki/ADNEC_Group) ·
+[ADNEC on ExCeL](https://www.adnecgroup.ae/news-media/news/details/adnec-acquires-control-of-excel-london) ·
+[Gulf News](https://gulfnews.com/business/markets/abu-dhabis-adnec-buys-owner-of-london-exhibition-venue-business-design-centre-1.1730270779426)
+
+### Why this is the best fit found in either market
+
+| Their requirement | Her evidence |
+|---|---|
+| *"Define and execute the creative vision across ADNEC Group **and its business clusters**"* | **Brand architecture across group subsidiaries in the UAE, Pakistan, Ukraine and Kenya**, four-year retainer. *Business clusters* is the same job in their vocabulary. **Direct hit, and it is the hardest thing on their list to evidence** |
+| *"branding, integrated marketing campaigns, digital content, **event coverage**, corporate marketing"* | **ADNEC is an exhibitions and events group.** RTA two-day brand experience · DAIS 2019 full event identity for Dubai Sports Council · environmental graphics, signage, entry systems |
+| *"Manage the creative team's workflow… and **expand the use of AI-powered content creation tools**"* | **Her single scarcest asset, written in as a named deliverable.** AI generation in live production plus AI usage guidelines codified into brand systems. And per the vault's two-column test this is **applied/governance AI** — adoption, workflow, quality — **not** CGI pipeline. Her exact column |
+| *"**10+ years**"* | 22. ⚠️ **And note it is open-ended — no ceiling.** Unlike Momentum's *"8 to 12"*, which caps her out. **This is the difference between her experience reading as an asset and reading as a flight risk** |
+| *"At least **7 years** leading and developing high-performing creative teams"* | Al Arab Newspaper 2010–2015 · Ministry curriculum team · Social Dar co-founder and CD · WeDo. Comfortably clears |
+| *"Lead and develop the Corporate Creative Design team"* | Illustrators, designers and layout specialists across a national programme |
+| *"Ensure consistency and excellence across **all brand touchpoints**"* | Design systems and guidelines; the 100+ book curriculum system across three scripts |
+| *"Partner with stakeholders to transform business objectives into creative solutions"* | **12% government tender win rate**; presents and defends direction to ministers |
+| Bachelor's in Graphic Design, Visual Communication or Fine Arts | BCS Advertising & Graphic Design, Helwan 2003 — named field |
+
+**Title:** *Head of Creative Services* is a genuine step up from Senior Art Director — a
+department head role, in-house, at a sovereign-owned group.
+
+**Sector:** her whole recent career is UAE government and institutional. ADNEC is that world.
+She already speaks the register and knows the stakeholder culture.
+
+### ✅ Condition 2 fully satisfied — and this is worth more than it looks
+
+**Abu Dhabi. No relocation.** No Dubai annual rent cheques, no AED 25,000–60,000 up front, no
+lease-break penalty, no three-hour commute. The condition that sank Momentum simply does not
+apply, and the ramp-up cost is far lower than a new city and a new sector would carry.
+
+### 💰 The money — and what it reopens
+
+**[ESTIMATE — no published band.]** A *Head of* role at a 1,128-person ADQ-owned group should
+sit around **AED 30,000–45,000/month**. Against her implied AED 13,000–15,000 that is an uplift
+of **AED 15,000–30,000** — **the first role screened that plausibly exceeds her AED 23–25k
+ask rather than straining to reach it.**
+
+At AED 30,000 with a mid burn she saves ~AED 19,000/month:
+
+| | |
+|---|---|
+| €15,000 target | **~3.5 months** |
+| 🇩🇪 Germany Opportunity Card, €13,100 | **~3 months** |
+| 🇦🇹 Austria proof of funds, €15,701 | **~3.5 months** |
+| 🇪🇸 **Spain DNV savings limb, €34,188** | **~7.5 months — around March 2027, from salary alone** |
+
+Even on a slow process — offer in November, start February — six months to a July departure at
+a conservative AED 16,000 uplift is **AED 96,000 ≈ €22,600, about 150% of the target.**
+
+### ⛔ THE CHECK THAT DECIDES IT — do this before anything else
+
+**Does WeDo work for, or pitch to, ADNEC Group or any of its seven clusters?**
+
+WeDo serves UAE government and institutional clients from Abu Dhabi. ADNEC is ADQ-owned and
+runs the venues where Abu Dhabi government entities hold their events. **The overlap is not
+hypothetical.** If WeDo is a supplier or a bidder, her CV lands with a client's HR department
+and that is one phone call from her managing director.
+
+**If there is any commercial relationship, this is a hard no.** No framing survives it.
+
+Check Capital Events, Capital Hospitality, Tourism 365 and twofour54 as well as ADNEC itself —
+`stealth-search-uae.md` already rules out Abu Dhabi employers on social-overlap grounds, and
+this is the specific mechanism that rule exists for.
+
+**Mitigant, if the answer is clean:** at 1,128 employees, corporate marketing HR is not the
+events team WeDo would deal with. Large in-house HR is materially more discreet than a
+40-person studio. The risk is the client relationship, not the size.
+
+### 🔒 Confidentiality — do not apply through LinkedIn if avoidable
+
+The posting says *"Apply directly through LinkedIn"*, and LinkedIn applications **can
+auto-follow the employer** — follows are visible on her profile, and an Abu Dhabi
+government-linked group is not an ambiguous follow.
+
+- **Check [careers.adnecgroup.ae](https://careers.adnecgroup.ae) first** — they run their own
+  portal, which leaves no LinkedIn trace.
+- If LinkedIn is the only route, **untick the follow option** and turn off *share profile
+  updates* first.
+- **Do not message Rashed Aldarmaki through LinkedIn.** He is 2nd-degree, meaning a mutual
+  connection exists — **find out who before any contact.**
+
+### The real gaps
+
+1. **⚠️ Emiratisation is a genuine headwind at this level.** The job poster is *Director –
+   Talent Acquisition & **Emiratization**, Leading Emiratization Initiatives*. The **2026 target
+   for senior executive roles is 30%**, materially above the general private-sector rate, and
+   government-linked entities carry the strongest mandates
+   ([Middle East Briefing](https://www.middleeastbriefing.com/news/uae-emiratization-2026-what-companies-must-do-now/)).
+   **This does not disqualify her** — expatriates hold many such posts — but a *Head of* role at
+   an ADQ entity, posted by the Emiratisation lead, is a role where an Emirati candidate wins a
+   tie. **Lowers the probability; does not close the door.** Worth knowing before investing.
+2. **"Integrated marketing campaigns"** is a partial. Benet7awel, DAIS and RTA are real
+   integrated work, but institutional rather than corporate marketing with media. Defensible,
+   not her spine. This is the PVH lesson — **check domain depth honestly.** Here it is a
+   stretch, not a hole.
+3. **623 applicants, 34% director-level.** Volume is brutal.
+4. **Timing.** Government-entity hiring is slow. Realistic: offer October–December, start
+   December–February. **Condition 4 (start by 1 Nov) probably fails** — see the ruling below.
+
+### 🇪🇺 The European route: it fails, and it matters less than the framework said
+
+ADNEC's international footprint is **ExCeL London and the Business Design Centre (UK)**, plus
+the Reykjavik EDITION hotel (Iceland). **Neither the UK nor Iceland is in the EU.** Her
+`eligibility-filter.md` flags the UK explicitly as *not EU — do not file as qualifying without
+asking*, and Iceland is EEA/Schengen but outside the EU on the same logic. **EU route score: 0.**
+
+**But `target-employers.md` already established that an intra-company transfer needs 12–24
+months of tenure and is therefore unavailable on a mid-2027 departure.** Condition 3 has been
+protecting an asset she cannot use. What an EU-office employer actually gives her on this
+timeline is an internal job board, a European-legible name and European referees — ADNEC
+provides none of those.
+
+> **What it provides instead is the money that reopens Germany, Austria and possibly Spain.
+> A job with zero European route can be the thing that opens three European routes, by
+> funding them.**
+
+**That is a correction to the weighting in `target-employers.md`, not an exception to it.** The
+EU-office axis should be weighted heavily for a mid-2028 departure and lightly for mid-2027 —
+because on the shorter timeline the transfer never had time to happen.
+
+### Ruling on the conditions
+
+| # | Condition | |
+|---|---|---|
+| 1 | Uplift ≥ AED 8,000/month | ✅ **Likely far exceeded** — unverified band |
+| 2 | Dubai uplift ≥ AED 15,000 | ✅ **N/A — Abu Dhabi, no relocation** |
+| 3 | Tier-1 employer with a European end | ❌ **Fails — and see above on why it matters less here** |
+| 4 | Start by 1 Nov 2026 | ⚠️ **Probably fails.** Relaxed: the reason for this condition was probation and ramp-up eating the EU application window, and a same-city, same-sector move carries far less of both |
+| 5 | Contract clean | ❓ **Check.** Government entities often carry longer notice periods and occasionally bonds |
+| 6 | No break in UAE residency | ✅ Employer transfer within Abu Dhabi |
+
+### How to apply
+
+**Use the [`head-of-creative-events`](../05-career-context/application-history.md) variant.** It
+was built for egg Brussels — *"the only variant written at full seniority, not repositioned
+downward"*, leading on creative leadership and pitch conversion, with RTA at full scale and DAIS
+given its own entry. **ADNEC is an events group and the role is Head of Creative Services.**
+That variant is close to a direct fit; adapt rather than rebuild.
+
+**Two adjustments:**
+1. **Lead with multi-cluster brand architecture**, not with craft. *"Define the creative vision
+   across the Group and its business clusters"* is the hardest requirement on their list to
+   evidence and she is one of few applicants who genuinely can.
+2. **Promote the AI line into the summary.** *"Expand the use of AI-powered content creation
+   tools"* is a stated responsibility, and applied AI at senior level is scarce. Frame it as
+   governance and team adoption — workflow, quality, standards — not as tooling.
+
+Name the clients in full: UAE Ministry of Education, Dubai Municipality, RTA, Dubai Sports
+Council. **In this market that is the credential**, per `cv-uae-in-house-brand.md`.
+
+---
+
 ## 🟡 Associate Creative Director, Arabic Speaking — Momentum ME, Dubai
 
 Sent by Sara, 31 Jul 2026 · LinkedIn · **On-site, full-time** · posted 1 day ago ·
