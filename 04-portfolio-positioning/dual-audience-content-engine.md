@@ -122,12 +122,12 @@ the EU goal, because it speaks directly to the one capability that is scarce and
 valuable in European institutional markets, and it is completely ordinary content for someone
 working in Abu Dhabi.
 
-> Most bilingual work in this region is made in English and then moved into Arabic. You can
-> see it immediately. The Arabic sits in a layout that was never built for it, at a size
-> chosen for Latin letterforms, with line spacing that ignores how much of Arabic lives
-> above and below the line.
+> Most bilingual work in this region is made in English and then moved into Arabic. We
+> stopped doing that.
 >
-> I design Arabic first now. Not out of principle. Because the layouts come out better.
+> You can see the old way immediately. The Arabic sits in a layout that was never built for
+> it, at a size chosen for Latin letterforms, with line spacing that ignores how much of
+> Arabic lives above and below the line. Then somebody spends a week repairing it.
 >
 > Arabic does proximity where English does distance. A line that takes three words in
 > English arrives compressed and close, so the white space around it has to do a different
@@ -136,16 +136,60 @@ working in Abu Dhabi.
 > The rhythm is different. The vertical logic is different. The eye enters from the other
 > side.
 >
-> Build the grid for English and pour Arabic into it, and every one of those differences
-> turns into a defect you then spend a week repairing. Build it the other way round and
-> English adapts.
+> Build the grid for English and pour Arabic into it and every one of those differences
+> becomes a defect. Build it the other way round and English adapts. English almost always
+> adapts.
 >
-> English almost always adapts. That is the whole trick, and it took me years to see it.
+> That is the reasoning. The rule it produces is one line: set the grid to the script with
+> the least room to move.
 >
-> So the question I ask when someone commissions bilingual work is not "does this translate
+> It sits in the guidelines now, which is the only version of a standard that survives me
+> not being in the room. People who join next year will follow it without knowing why it is
+> there, and that is fine. A rule does not need to be understood to work. It needs to be
+> right.
+>
+> So the question I put to anyone commissioning bilingual work is not "does this translate
 > well."
 >
 > It is: was this made in Arabic, or was it made in English and then repaired.
+
+### Rewritten 2 Aug: her note was "it makes me a designer not a leader"
+
+She was right, and it is the most useful piece of feedback in the whole schedule. The first
+version was a craft post: grids, spacing, letterforms. It demonstrated excellent hands, and
+her actual profile problem is that Senior Art Director already reads mid-weight in
+Amsterdam. A post about how well she sets type confirms that reading rather than fighting
+it.
+
+**The fix is the same insight stated as governance rather than technique.** Not what she
+knows. What she made other people do. Four changes carry it:
+
+| Was | Now | What it signals |
+|---|---|---|
+| "I design Arabic first now" | "We stopped doing that" | A practice she changed, not a habit she has |
+| Craft explained as personal preference | Craft explained as **the reasoning behind a rule** | Diagnosis, then standard |
+| No mention of anyone else | "It sits in the guidelines now" and "people who join next year" | Team, succession, scale |
+| "the question I ask" | "the question I put to anyone commissioning" | She is on the commissioning side of the table |
+
+The craft detail all stays, because the craft is the evidence that earns the authority. It
+just stops being the point.
+
+**The line that does the most work:** *"the only version of a standard that survives me not
+being in the room."* That is design governance stated in one clause, it is the exact
+vocabulary EU institutional employers search on, and it is completely ordinary pride at
+home.
+
+**⚠️ One thing to confirm before posting.** The draft says the rule "sits in the guidelines
+now". Her CV supports that she writes rules into brand documentation, since AI usage
+guidelines are recorded there. **Whether this specific Arabic-first rule is written down is
+not something we know.** If it is not, the line must change to something true, for example
+*"It is the first thing I say to anyone new on the team"*, which carries the same leadership
+signal without the claim.
+
+**Hook,** 104 characters. Alternatives measured: *"I changed the order we build bilingual
+layouts in, and most of our rework disappeared with it"* (94) leads on the intervention and
+its result, which is the most leader-shaped opening available. *"The rule is one line: build
+the grid for the script with the least room to move"* (80) opens on the standard itself.
 
 **Image:** a bilingual spread, Arabic side up. Real work, not a mockup, per her measured
 data on genuine images.

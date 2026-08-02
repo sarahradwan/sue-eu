@@ -76,10 +76,10 @@ reads as a thread she returns to.
 | # | Post | Slot | Status |
 |---|---|---|---|
 | 1 | **Why pricing a service is harder than pricing a product** | Mon 3 Aug | Drafted below |
-| 2 | **Where the number goes** | Mon 17 Aug | Drafted, `post-drafts.md`. Displaces "ugly design era" |
-| 3 | **What you are selling when the thing does not exist yet** | Mon 31 Aug | To write |
-| 4 | **Why the cheapest proposal wins, and when it does not** | Mon 14 Sep | To write |
-| 5 | **The cost of the problem, not the cost of the work** | Mon 28 Sep | To write |
+| 2 | **What you are selling when the thing does not exist yet** | Mon 10 Aug | Drafted below |
+| 3 | **Where the number goes** | Mon 17 Aug | Drafted, `post-drafts.md` |
+| 4 | **Why the cheapest proposal wins, and when it does not** | Mon 31 Aug | To write |
+| 5 | **The cost of the problem, not the cost of the work** | Mon 14 Sep | To write |
 
 **Calendar consequences**, against `content-calendar-aug-sep-2026.md`:
 
@@ -169,9 +169,9 @@ strongly.
 
 ---
 
-## Instalment 3: what you are selling when the thing does not exist yet
+## Instalment 2: what you are selling when the thing does not exist yet
 
-**Mon 17 Aug.** Builds directly on instalment 1, which ended on the client buying a
+**Mon 10 Aug.** *Reordered 2 Aug on her instruction, and it is the better sequence.* Builds directly on instalment 1, which ended on the client buying a
 description of a design rather than a design. This is the answer to the question that leaves
 open: if they cannot inspect the work, what do they inspect?
 
