@@ -237,6 +237,65 @@ is a deliverable. Passes.
 
 ---
 
+## Instalment 4: why the cheapest proposal wins, and when it does not
+
+**Mon 31 Aug.** Completes the arc. One asked why service pricing is hard, two answered what
+the buyer inspects instead, three placed the number, and this explains what the number is
+competing against.
+
+**Hook,** 77 characters.
+
+> The cheapest proposal usually wins, and it is not because the buyer is cheap.
+>
+> It is because price is the only axis they can compare on.
+>
+> Four proposals arrive. All four claim to understand the problem. All four show relevant
+> work. All four promise a good team. None of that can be scored against the others without
+> a judgement call, and a judgement call has to be defended.
+>
+> A number does not. A committee member can write "we selected the lowest compliant bid" and
+> nobody will ask them to justify it further. They cannot write "theirs was more beautiful"
+> and expect the same peace. So the axis that survives the meeting is the one that survives
+> the paperwork, and that is price.
+>
+> This is not stupidity. It is what evaluation does to people. Give someone accountability
+> without a defensible way to exercise judgement and they will reach for the number every
+> time.
+>
+> Which means changing the outcome is not about being cheaper. It is about giving them a
+> second axis they can defend in writing. A risk they can point to. A cost of delay they can
+> quote. A consequence of the wrong choice, stated plainly enough that choosing on price
+> alone starts to look like the exposed position rather than the safe one.
+>
+> That is the whole job of the first three pages, and it is why I stopped thinking of them
+> as the introduction.
+
+**Image.** An evaluation or scoring sheet, marked up, figures and names out of frame. Or the
+first three pages of a proposal laid out side by side, since the close names them.
+
+**Alternative hook:** *"A committee can defend choosing the lowest price in writing. It
+cannot defend choosing the better work."* (103) states the mechanism at the top rather than
+building to it.
+
+### Checklist
+
+**Voice.** No em dashes, no bullets, no tip list, no CTA. One idea. Ends on a position.
+
+**Substance.** No external claims, no figures, no client detail. All mechanism.
+
+**Register check.** Agency side. It explains buyer behaviour rather than advising a
+freelancer on rates.
+
+**Series arc.** Closes the four. If instalment 5 runs on 14 September it should be the one
+subject none of these four touch: what happens to the price after the work has started.
+
+**Two-reader test.** *As her boss:* a senior creative explaining public sector evaluation
+and how proposals should answer it. Directly useful to the agency. Passes. *As an EU
+recruiter:* procurement literacy and commercial reasoning at director level, which is rare
+in a creative lead. Passes.
+
+---
+
 ## See also
 
 - `post-drafts.md`: instalment 2 is drafted there as "Where the number goes"
