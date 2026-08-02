@@ -421,6 +421,34 @@ FrieslandCampina, Chocomel, Verkade — concepting **beeld en boodschap** for Du
 which is the authoring case. Plus Wierden is a town of 24,000 two hours from Amsterdam,
 5+ years asked against her 22, and regional agency pay will not reach €71,304.)*
 
+### 🚪 Staffing agencies that hold erkend referent status — a channel, not an employer
+
+**The Chain Company** (Wierden, Overijssel) states in its own company description:
+
+> *"The Chain Company is **erkend referent bij de IND** en daardoor in staat om binnen drie
+> weken mensen van buiten de EU aan een werkvergunning in Nederland te helpen."*
+
+**Recognised sponsor with the IND, able to arrange a Dutch work permit for a non-EU candidate
+in about three weeks.** Second confirmed sponsor after Karsten — but different in kind, and
+more useful.
+
+**They are a detachering and recruitment agency.** They employ people and place them with
+clients. **Which means the agency holds the sponsorship, not the end client.** Every "will
+this employer sponsor?" question in this file disappears if she is placed through one.
+
+**Search for more:** `erkend referent` combined with `detachering`, `uitzendbureau` or
+`recruitment`, plus creative or marketing. Agencies that sponsor as a business model are a
+structurally better channel than employers who might sponsor as a favour.
+
+*(The Chain Company's own specialism is engineering, finance and supply chain, so creative
+placements may be thin. Their **Art Director** role failed anyway: entirely Dutch-language
+work for FrieslandCampina, Chocomel and Verkade — concepting **beeld en boodschap** for Dutch
+retail, which is the authoring case. Plus Wierden is a town of 24,000 two hours from
+Amsterdam, 5+ years asked, and regional agency pay will not reach €71,304.)*
+
+**Action: contact Ryan Sonder** (job poster, named, one mutual connection) — not about the
+role, but about whether they place English-working creative talent. Draft written 26 Jul.
+
 ### 🔍 A search string that finds sponsors — found 26 Jul 2026
 
 **Karsten International** (Amsterdam) wrote this into a posting:
