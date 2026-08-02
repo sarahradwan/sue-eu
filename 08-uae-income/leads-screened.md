@@ -1,6 +1,8 @@
 # UAE leads — screened
 
-Owned by the **UAE jobs session**. Sara supplies the postings; this file holds the verdicts.
+Owned by the **UAE jobs session**. Sara supplies postings; this file holds the verdicts —
+**and per `search-brief.md` that inverts on request: the session searches too, rather than
+waiting.** She has not yet sent that brief in, so this file is still screening-only.
 
 Screened against the six conditions in `move-or-stay.md`, the target in `savings-target.md`
 (**AED 23,000–25,000/month**, her stated floor) and the confidentiality rules in
@@ -62,6 +64,15 @@ sit around **AED 30,000–45,000/month**. Against her implied AED 13,000–15,00
 of **AED 15,000–30,000** — **the first role screened that plausibly exceeds her AED 23–25k
 ask rather than straining to reach it.**
 
+**And that estimate is probably conservative.** `cv-and-market-value-assessment.md`, written
+independently in this folder, puts *"in-house senior brand lead, large UAE corporate or
+semi-government"* at **AED 35,000–65,000/month** — the best-paying category in its whole table.
+ADNEC is exactly that category. **Two independent passes agree, and the other one is higher.**
+
+⚠️ **Which makes rule 3 of that file the operative one: never anchor on her current salary.**
+If she is at AED 13–15k and names it, that becomes the reference point for the entire
+negotiation and she loses five figures a month. **Ask for their range first.**
+
 At AED 30,000 with a mid burn she saves ~AED 19,000/month:
 
 | | |
@@ -108,20 +119,41 @@ government-linked group is not an ambiguous follow.
 
 ### The real gaps
 
-1. **⚠️ Emiratisation is a genuine headwind at this level.** The job poster is *Director –
-   Talent Acquisition & **Emiratization**, Leading Emiratization Initiatives*. The **2026 target
-   for senior executive roles is 30%**, materially above the general private-sector rate, and
-   government-linked entities carry the strongest mandates
+1. **⚠️ Emiratisation is a headwind — but a smaller one than I first wrote.** The job poster is
+   *Director – Talent Acquisition & **Emiratization**, Leading Emiratization Initiatives*, and
+   the **2026 target for senior executive roles is 30%**, materially above the general
+   private-sector rate
    ([Middle East Briefing](https://www.middleeastbriefing.com/news/uae-emiratization-2026-what-companies-must-do-now/)).
-   **This does not disqualify her** — expatriates hold many such posts — but a *Head of* role at
-   an ADQ entity, posted by the Emiratisation lead, is a role where an Emirati candidate wins a
-   tie. **Lowers the probability; does not close the door.** Worth knowing before investing.
-2. **"Integrated marketing campaigns"** is a partial. Benet7awel, DAIS and RTA are real
+
+   **Softened on the distinction `cv-and-market-value-assessment.md` draws:** *"federal
+   government entities often have Emiratisation requirements for senior positions.
+   **Semi-government, corporates and banks are considerably more open.**"* **ADNEC is
+   ADQ-owned — semi-government, not federal.** That places it in the more open category.
+   Still a factor at *Head of* level, and an Emirati candidate wins a tie. **Lowers the
+   probability; does not close the door.**
+
+2. **❓ Line management — check this before applying, it is a stated requirement.** They ask for
+   *"at least 7 years leading and developing high-performing creative teams"*, and
+   `cv-and-market-value-assessment.md` flags that **the CV does not establish whether she
+   currently manages permanent direct reports** as opposed to leading project teams and
+   directing vendors. *"Creative Director roles at larger organisations are often assessed on
+   team leadership as much as craft."* **A 1,128-person group hiring a department head will ask
+   for a headcount.** If she manages people, name the number. If she has not managed permanent
+   reports, the honest framing is the curriculum programme team and the Al Arab creative
+   function — both genuine, both years long.
+
+3. **⚠️ The title gap cuts both ways here.** She is titled **Senior Art Director** applying for
+   **Head of Creative Services**. Per `cv-and-market-value-assessment.md`, *titles set pay bands
+   in the Gulf* — so the application must lead with the **Creative Director roles she has
+   actually held** (Social Dar, the curriculum programme, DAIS 2019), not with her current
+   title. Her record supports the level; her current job title does not, and that is a framing
+   problem rather than an evidence problem.
+4. **"Integrated marketing campaigns"** is a partial. Benet7awel, DAIS and RTA are real
    integrated work, but institutional rather than corporate marketing with media. Defensible,
    not her spine. This is the PVH lesson — **check domain depth honestly.** Here it is a
    stretch, not a hole.
-3. **623 applicants, 34% director-level.** Volume is brutal.
-4. **Timing.** Government-entity hiring is slow. Realistic: offer October–December, start
+5. **623 applicants, 34% director-level.** Volume is brutal.
+6. **Timing.** Government-entity hiring is slow. Realistic: offer October–December, start
    December–February. **Condition 4 (start by 1 Nov) probably fails** — see the ruling below.
 
 ### 🇪🇺 The European route: it fails, and it matters less than the framework said

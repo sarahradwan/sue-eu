@@ -9,23 +9,26 @@ A second track, distinct from the relocation applications below. **Purpose is sa
 migration** — see `08-uae-income/README.md`. Applications here are logged in the same table so
 nothing is duplicated and the search stays visible in one place.
 
-**Nothing sent yet, and that is the intended outcome of the assessment, not a delay.**
-`08-uae-income/move-or-stay.md` concludes that changing UAE jobs is **net negative on the
-mid-2027 timeline** — a realistic move nets ~€2,800–3,500 by May 2027 while consuming the
-October–February EU application window. The plan is therefore **raise at WeDo (Sept 2026) +
-non-UAE freelance income**, with job applications sent only to tier-1 employers meeting all
-five conditions in that file.
+**Revised 2 Aug 2026 after Sara named her number — around +AED 10,000/month, floor
+AED 23,000–25,000.** `08-uae-income/move-or-stay.md` originally concluded that moving was net
+negative; that was computed on a AED 5,000 uplift I had assumed. **At AED 10,000 a move nets
+€10,000–12,000 by May 2027 — 67–80% of the savings target — and becomes the largest single
+lever.** But no raise conversation delivers +70%, so **the raise and the search are sequential
+rather than alternatives, and the search is now primary.** Six conditions in that file.
 
 | Date | Item | Status |
 |---|---|---|
+| **2 Aug 2026** | **ADNEC Group — Head of Creative Services, Abu Dhabi** | 🔥 **STRONGEST UAE LEAD FOUND. Screened, not sent** — gated on one check: does WeDo work for or pitch to ADNEC or any of its seven clusters? If yes, hard no. Use `head-of-creative-events`. See `08-uae-income/leads-screened.md` |
+| 31 Jul 2026 | Momentum ME — ACD (Arabic Speaking), Dubai | 🟡 **Screened — apply as a salary probe, off LinkedIn.** Arabic requirement is a genuine moat and their motion line asks her to *manage* motion designers. Against it: 8–12 years stated against her 22, on-site Dubai (a year's rent up front), and Omnicom absorbing IPG |
 | Aug 2026 | Salary-guide requests to MCG Talent, Sapio, Cooper Fitch, Michael Page UAE, Robert Walters ME | **Drafted, not sent** — `08-uae-income/outreach-and-applications.md` |
-| Sept 2026 | **Raise conversation, WeDo** — target +AED 4,000/mo, floor +AED 2,500 | **Prepared, not held.** Frame is title-versus-remit. No mention of other offers or external interest |
-| Sept–Oct 2026 | Direct approaches: **PepsiCo · Serviceplan Middle East · Accenture Song · Radisson Hotel Group** | **Drafted, not sent** — conditional on a start date on or before 1 Nov 2026 |
+| Sept 2026 | **Raise conversation, WeDo** — anchor AED 23,000, expect +AED 2,000–4,000 plus the title | **Prepared, not held.** Frame is title-versus-remit. No mention of other offers or external interest |
+| Sept–Oct 2026 | Direct approaches: **PepsiCo · Serviceplan Middle East · Accenture Song · Radisson Hotel Group** | **Drafted, not sent** |
 
-⚠️ **No live UAE vacancy has been verified.** Every UAE job board and salary site refuses at
-this environment's proxy — `cooperfitch.ae`, `campaignme.com`, `salaryexpert.com` and
-`sapioconsulting.com` all returned HTTP 403. **Sara supplies the postings; the screening
-criteria are ready.**
+⚠️ **No UAE vacancy has been found by this session — every UAE job board and salary site
+refuses at the proxy** (`cooperfitch.ae`, `campaignme.com`, `salaryexpert.com`,
+`sapioconsulting.com`, all HTTP 403). Both leads above came from Sara.
+**`08-uae-income/search-brief.md` asks the session to search rather than wait; she has not
+sent that brief in yet.**
 
 ## Sent
 
