@@ -40,17 +40,44 @@ exact inverse of every EU variant.
 
 ---
 
-## ⚠️ Two things only Sara can fill in
+## ✅ Resolved 2 Aug 2026 — line management, and a gap the vault had missed
 
-**1. `[NUMBER]` of direct reports — the one blank in the document.**
-ADNEC asks for seven years *leading and developing* teams, and
-`cv-and-market-value-assessment.md` flags that the vault does not establish whether she manages
-**permanent direct reports** as distinct from project teams and vendors. A 1,128-person group
-hiring a department head will ask. **Fill the number in if she has one. If she does not manage
-permanent reports, delete the bracket** — the project-team and creative-function evidence stands
-on its own and is honest as written. **Do not invent a headcount.**
+**Direct reports: confirmed.** Sara: *"just say multiple reports and corporate publications."*
 
-**2. Two questions she will be asked, which are not CV problems but need answers ready:**
+So the CV now states **"a creative team of multiple direct reports"** rather than a number.
+That is accurate, it answers ADNEC's *seven years leading and developing teams* requirement
+directly, and it invites the headcount question at interview rather than in a screening filter —
+which is the right place for it. **No number invented.** If she wants to name one later it only
+strengthens the claim.
+
+### 📌 And the second half is a genuine find — corporate publications
+
+**This was not in `cv-source-of-truth.md` at all.** The master lists *"publications"* once, in
+passing, inside a longer WeDo bullet. It is now a named responsibility with its own line:
+annual and institutional reports, corporate literature, long-form collateral, bilingual.
+
+**Why it matters beyond ADNEC:**
+
+- ADNEC's own posting asks for *"corporate marketing creative requirements"* and *"digital
+  content"* — corporate publications sit squarely inside that and almost no competing creative
+  applicant will lead with it.
+- It is **evidenced across her whole career, not just WeDo**: Al Arab (a national newspaper and
+  its weekly supplements), CPI Media Group (20+ titles), and the national curriculum
+  (100+ books, five subjects, three scripts). **Publishing is her spine, and it has been
+  underplayed as craft rather than sold as a discipline.**
+- Another session has independently logged an **MoFA aid agency annual report** and calls
+  reporting *"proven ground"* and a live track — see `search-brief.md`. **Two sessions arriving
+  at the same conclusion from different directions.**
+
+⚠️ **This belongs in the master.** `cv-source-of-truth.md` is shared and this session should not
+race another one editing it — but the lesson recorded there on 26 July applies exactly:
+*"twenty-two years does not fit on two pages, and what falls off is whatever nobody asked about
+recently."* Benet7awel was nearly lost the same way. **Corporate publications should be promoted
+into the master's WeDo entry and skills when a session owns that file.**
+
+## ⚠️ Still needs her before sending
+
+**Two questions she will be asked, which are not CV problems but need answers ready:**
 - **The eight-month gap**, June 2024 to February 2025, between Social Dar and WeDo.
 - **Overlapping dates** — CPI 2015–2020 runs across DAIS (2019) and the curriculum programme
   (2019–2021). Both are labelled as independent contracts, which handles it on paper.
@@ -84,8 +111,10 @@ Creative Director roles across a creative studio, a national education programme
 international conference. Defines creative vision across groups and their subsidiary
 businesses, having led brand architecture across group companies in four countries. Builds and
 governs the design systems and brand guidelines that hold consistency across every touchpoint,
-and delivers brand experience in physical space for large-scale events. Ten years leading and
-developing creative teams. Leads AI adoption in creative production, embedding generation into
+delivers brand experience in physical space for large-scale events, and owns corporate
+publications from annual reports to institutional literature. Ten years leading and developing
+creative teams, currently with multiple direct reports. Leads AI adoption in creative
+production, embedding generation into
 live delivery and codifying AI usage standards into client brand documentation. Native Arabic
 and fluent English. Studying for the Chartered Institute of Marketing Level 7 Postgraduate
 Diploma in Professional Marketing.
@@ -99,8 +128,13 @@ WeDo Advertising and Publicity — Abu Dhabi, United Arab Emirates
 February 2025 – Present
 
 - Lead creative vision and delivery for UAE government and institutional clients across brand
-  identity, integrated campaigns, event and experience design, publications and digital
-  content, from concept through execution.
+  identity, integrated campaigns, event and experience design, corporate publications and
+  digital content, from concept through execution.
+- Lead and develop a creative team of multiple direct reports, managing workflow, quality and
+  capability across concurrent client programmes.
+- Own corporate publications end to end — annual and institutional reports, corporate
+  literature and long-form collateral — carrying brand and typographic consistency across
+  bilingual Arabic and English documents.
 - Lead AI adoption across creative production, including image and video generation in live
   client delivery, AI-assisted research and proposal development, and AI usage guidelines
   written into client brand systems, raising team output and consistency.
@@ -187,9 +221,10 @@ Creative vision and direction at group level, brand architecture across subsidia
 brand identity systems, brand guidelines and governance, design systems and templates,
 integrated marketing campaigns, event and experience design, environmental design and
 wayfinding, event coverage and collateral, corporate marketing communications, internal brand
-and employee experience, digital content direction, editorial and publication design, bilingual
-Arabic and English brand systems, multi-script typography, information design and data
-visualisation, creative team leadership and development, workflow and quality management,
+and employee experience, digital content direction, corporate publications and annual reports,
+editorial and publication design, bilingual Arabic and English brand systems, multi-script
+typography, information design and data visualisation, creative team leadership and line
+management, workflow and quality management,
 senior stakeholder management, new business and tender development, AI-powered content
 creation, AI governance in brand systems.
 
@@ -243,10 +278,15 @@ message field or as the email body.
 > On consistency at scale, my clearest evidence is the UAE national curriculum design system:
 > more than 100 books across five subjects and three scripts, built as a system with templates
 > and standards so a large multidisciplinary team could apply it without the identity drifting.
+> Corporate publications are a constant in my work — annual and institutional reports and
+> long-form collateral, produced bilingually in Arabic and English — and holding brand and
+> typographic consistency across documents at that length is a different discipline from
+> campaign work.
 >
-> I have led and developed creative teams for a decade, currently lead creative for UAE
-> government and institutional clients, and present and defend creative direction at ministerial
-> level. I am based in Abu Dhabi and hold UAE residency.
+> I have led and developed creative teams for a decade and currently lead a team of multiple
+> direct reports delivering for UAE government and institutional clients, presenting and
+> defending creative direction at ministerial level. I am based in Abu Dhabi and hold UAE
+> residency.
 >
 > My portfolio is at sarahradwan.me/case-studies. I would welcome the conversation.
 >
@@ -258,8 +298,7 @@ message field or as the email body.
 
 ## Before sending — the checklist from `application-tailor`
 
-- [ ] **Contact details filled in.** Both placeholders.
-- [ ] **`[NUMBER]` of direct reports resolved** — filled or the bracket deleted. **Never invented.**
+- [ ] **Contact details filled in.** Both placeholders — the only brackets left in the document.
 - [ ] **⛔ The WeDo–ADNEC client check done.** Includes Capital Events, Capital Hospitality,
       Tourism 365, twofour54, ADNEC Services and the hotels. **If there is a commercial
       relationship, do not send.**
