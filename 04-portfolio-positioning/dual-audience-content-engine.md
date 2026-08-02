@@ -131,11 +131,16 @@ working in Abu Dhabi.
 >
 > Arabic does proximity where English does distance. A line that takes three words in
 > English arrives compressed and close, so the white space around it has to do a different
-> job. The rhythm is different, the vertical logic is different, and the eye enters from the
-> other side. Build the grid for English and pour Arabic into it, and every one of those
-> differences turns into a defect you then spend a week repairing. Build it the other way
-> round and English adapts. English almost always adapts. That is the whole trick, and it
-> took me years to see it.
+> job.
+>
+> The rhythm is different. The vertical logic is different. The eye enters from the other
+> side.
+>
+> Build the grid for English and pour Arabic into it, and every one of those differences
+> turns into a defect you then spend a week repairing. Build it the other way round and
+> English adapts.
+>
+> English almost always adapts. That is the whole trick, and it took me years to see it.
 >
 > So the question I ask when someone commissions bilingual work is not "does this translate
 > well."
