@@ -606,6 +606,148 @@ arrived from her, not from the strategy.
 
 ---
 
+## Thu 20 Aug: the numerals problem. First carousel.
+
+**Format note.** This is the first carousel, placed here deliberately so the format gets
+learned in the week European reach is lowest. See `linkedin-distribution-mechanics.md`.
+
+**⚠️ Two things only she can supply.** The third script is not recorded anywhere in this
+repo. `cv-source-of-truth.md` says 100+ books, five subjects, three scripts, and never names
+them. **The slides below leave it unnamed and she must fill it in**, because guessing at a
+national curriculum's script inventory is exactly the kind of invention the writer skill
+bans. Second, the specific numeral decision her project actually took is hers. The slides
+describe the shape of the problem, not her answer to it.
+
+### Caption post
+
+Hook is 68 characters, and it is the "wrong thing broke" shape from `hooks.md`.
+
+> The hardest part of a three-script system was never the letterforms.
+>
+> It was the numerals.
+>
+> One hundred books, five subjects, three scripts, a team of illustrators and layout
+> specialists applying one system. Everybody arrives expecting the difficulty to be in the
+> shapes of the letters. It is not. Letters behave. Somebody has drawn them carefully and
+> they sit where you put them.
+>
+> Numerals do not behave, because a numeral inside Arabic text still runs left to right
+> while everything around it runs right to left. So every figure in a hundred books is a
+> small piece of the opposite direction embedded in the line, and every one of them is a
+> place the layout can come apart.
+>
+> Then the punctuation, which nobody warns you about at all.
+>
+> The slides are the part I wish somebody had shown me before we started.
+
+### The slides
+
+Ten. Text-led, set in the system she is describing, which is the point: the carousel should
+be a demonstration of the craft it is discussing.
+
+| # | Slide | Content |
+|---|---|---|
+| 1 | **Title** | *The hardest part of a three-script system was never the letterforms.* |
+| 2 | **The job** | 100+ books · 5 subjects · 3 scripts · one system · a team applying it without me in the room |
+| 3 | **What everyone expects** | The difficulty will be in the letterforms. It is not. Letters sit where you put them |
+| 4 | **What actually breaks** | Numerals. Set one figure inside a line of Arabic and part of that line now runs the other way |
+| 5 | **Show it** | The same sentence twice. One with the numeral set correctly, one with it fighting the line. No caption needed |
+| 6 | **Why** | A numeral inside right-to-left text still reads left to right. That is not a bug, it is how the script works, and every layout has to absorb it |
+| 7 | **The second problem** | Two numeral systems are in live use. Choosing between them is a policy decision, not a design preference |
+| 8 | **The one nobody warns you about** | Punctuation. Arabic has its own comma and its own question mark. Mixing them with Latin marks across a hundred books is how a system dies quietly |
+| 9 | **The rule** | Decide once. Write it down. The decision matters far less than the fact that it is written somewhere other people can find |
+| 10 | **Close** | A design system is only as good as its worst supported language |
+
+**Slide 5 is the one that earns the swipe.** It has to be real and it has to be legible at
+phone size. If only one slide gets proper attention, make it that one.
+
+**Slide 10** reuses the closing line from her About section. Deliberate: repeating a
+formulation across profile and posts is how a position becomes recognisable.
+
+### Checklist
+
+**Voice.** No em dashes. The slides carry short declarative lines rather than bullets of
+advice. The caption is prose, one idea, no CTA. It does not say "swipe", because that is a
+CTA and the format already invites it.
+
+**Substance.** The bidirectional behaviour of numerals inside Arabic text is standard and
+safe to state. **Everything specific to her project is left blank for her**, including the
+third script and which numeral system the curriculum settled on.
+
+**Leader check**, per her note on the Arabic first post. Slide 2 says a team applied it
+without her in the room, slide 9 is about writing a decision down so others can find it, and
+slide 10 is a standard rather than a technique. The craft is evidence, not the subject.
+
+**Two-reader test.** *As her boss:* a senior creative teaching a hard production problem
+from a past national project. Passes. *As an EU recruiter:* multi-script design systems at
+production depth, plus governance. This is the single most searchable post in the August
+schedule. Passes.
+
+---
+
+## Thu 27 Aug: the AI shame
+
+**Her notes:** at a gathering someone asked who uses AI, especially Claude, frequently.
+Around a third would not raise their hands and looked at the ones who did as though they
+were lunatics. Her take: the shame is misplaced, and the people hiding it are often using it
+too. She uses Claude openly and professionally.
+
+**The leader turn**, added after her note on the Arabic first post. The obvious version of
+this post is an opinion about shame. The leader version notices that hidden tool use is a
+management problem: **you cannot set a standard for something people will not admit to.**
+That connects straight to the AI governance work both strategy files name as her sharpest
+differentiator, and it lifts the post from a take to a position.
+
+**Hook,** 120 characters. Under the 140 mobile cutoff.
+
+> Someone asked the room who uses AI every day. About a third of the hands stayed down, and
+> I did not believe all of them.
+>
+> That is not an accusation. It is the point. The tools are already in the building. What is
+> missing is anybody saying so out loud.
+>
+> I use them openly. I say which one, I say what for, and I say where I stopped and did it
+> myself. Not because I am brave about it. Because I run creative work, and I cannot hold a
+> standard for something nobody will admit to doing.
+>
+> That is the part I think people are getting wrong. The shame is aimed at the wrong target.
+> Using a tool badly is a real problem. Using one quietly is a worse one, because quiet use
+> cannot be reviewed, cannot be taught, and cannot be written into a way of working. It just
+> spreads.
+>
+> The teams that will be fine are not the ones that resisted longest. They are the ones that
+> made it normal to say what you used, so that somebody senior could look at it and say that
+> bit is good and that bit is you outsourcing your judgement.
+>
+> Which is a conversation you can only have out loud.
+
+**Image.** A working moment: a screen with real work in progress, or her desk mid-session.
+Genuine, per her measured data. Client detail out of frame.
+
+**Alternative hook:** *"If people hide the tools they use, you cannot set a standard for how
+they use them."* (83) leads on the leadership point rather than the scene. Sharper, but it
+gives away the argument before the room does.
+
+### Checklist
+
+**Voice.** No em dashes, no bullets, no tip list, no CTA. One idea. Fragments as rhythm.
+
+**Substance, and the one live risk.** "About a third of the hands stayed down" is an
+observation of a room she was in and is safe. **It must never harden into a statistic
+anywhere in the post or in the replies.** "A third of designers use AI secretly" is a claim
+she cannot support and is the LEGO shape. The room stays non-identifying: no venue, no
+event, no names.
+
+Naming Claude is fine. It is her own tool use, not a claim about a brand.
+
+**Two-reader test.** *As her boss:* the creative lead saying she runs AI use openly and
+wants it reviewable. That is the most reassuring thing an employer can read on this subject.
+Passes. *As an EU recruiter:* AI governance stated as management practice rather than
+enthusiasm, which is exactly what EU agencies are trying to build and mostly cannot.
+Passes strongly.
+
+---
+
 ## Elsewhere
 
 - **Aug 6, Arabic first:** full draft in `dual-audience-content-engine.md`
