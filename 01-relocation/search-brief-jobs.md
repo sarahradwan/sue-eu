@@ -3,6 +3,30 @@
 Companion to `../08-uae-income/search-brief.md`. Send into the **jobs session**, which
 already holds the constraints. Written 31 July 2026.
 
+## ⏰ Now running daily, 07:00 Gulf
+
+Trigger `trig_01CsK7Wa8aJsGYs5hjF6n4bM`. First run 3 August 2026. Push notification.
+
+**It chases her; it does not just search.** Most days there will be no new lead worth
+reporting, and that is expected. A daily search that reports only search results would
+manufacture noise to justify itself. So the run is ordered by accountability, not by volume:
+
+| # | Item |
+|---|---|
+| 1 | **Closing soon** — anything inside 60 days, first, every time |
+| 2 | **Applications owed** — leads marked QUALIFIED but not APPLIED, named, with a direct question about why not. Over 7 days unapplied gets said plainly |
+| 3 | **Follow-ups due** — anything sent 10+ days ago with no reply, with the actual email drafted, not just a reminder to send one |
+| 4 | **Documents** — the legalisation chain, raised **every single day** until she confirms it has started |
+| 5 | **Courses and skill gaps** — Figma and motion, tracked against what live postings actually demand, with named courses only when a gap is blocking real roles |
+| 6 | **New leads** — rotating coverage so it is not re-reading the same pages daily |
+
+**The stop rule matters as much as the rest:** if nothing is due and nothing is new, it says
+so in one line and stops. A quiet day reported honestly is correct behaviour.
+
+**On courses**, it is told explicitly to stay proportionate. She has a full-time job, CIM
+Level 7 and an IELTS sitting. Recommending study she has no time for is worse than
+recommending none.
+
 ## The prompt
 
 ```
