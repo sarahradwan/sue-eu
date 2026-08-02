@@ -1150,6 +1150,22 @@ watchlist.
 *(The named Aquent recruiter, Sofia Smina, is still a live human contact in Amsterdam —
 worth messaging about **permanent, senior** roles rather than this posting.)*
 
+**Freelance marketplaces: skip entirely for A1.** *(Added 26 Jul 2026 after screening
+YunoJuno — Creative Director, Automotive, Amsterdam, **Temporary**.)* Platforms like YunoJuno
+and Aquent list contract and project work almost exclusively, so **none of their inventory
+can carry an EU work permit**. A whole category of listings she can stop scanning.
+
+*(The YunoJuno role also failed twice more: **"hands-on proficiency in CGI workflows, motion
+design"** — hands-on, not directing, which is what closed the AKQA ACD role — and automotive
+technical explainer video, which is not her domain.)*
+
+**But they flip from useless to useful for A2.** YunoJuno is UK-based, and Spain's digital
+nomad visa explicitly accepts freelancers working for clients **outside Spain**. Sustained
+remote contracts through such a platform could build exactly the income evidence a DNV needs:
+**€2,849/month and three months of relationship**. Not from one project gig — but **if the A1
+search is still slow by autumn, freelance platforms become a strategic asset rather than
+noise.**
+
 **Note for the A2 channel:** freelance work is *not* useless in general — Spain's digital
 nomad visa explicitly accepts freelancers. But it must be for clients **outside** the
 destination country and worked **remotely**. An onsite Amsterdam gig for an EU client is
