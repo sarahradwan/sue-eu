@@ -249,6 +249,109 @@ any employer, so those applications are **not** exposed to this failure in the s
 
 ---
 
+## 🆕 New leads — 3 Aug 2026
+
+**Search capability changed.** `WebSearch` runs through Anthropic infrastructure and works.
+**Fetching arbitrary pages does not** — the org egress policy returns 403 for everything
+outside GitHub, confirmed against the proxy status endpoint and `/root/.ccr/README.md`. So the
+division of labour is now: **I find and shortlist, Sara opens and verifies.** Better than
+before, when she had to find them too.
+
+⚠️ **Everything below is sourced from search results, not from reading the posting.** Nothing
+here is confirmed sponsored. **Sara opens the link, confirms the role is live, and confirms the
+sponsorship language before any CV work starts.** That is the rule that egg just proved.
+
+### 🔥🔥🔥 Highsnobiety — Berlin. Several roles. Best new lead.
+
+`jobs.highsnobiety.com/jobs`
+
+**Search results report the compensation package includes "visa/relocation support"** — an
+explicit statement, which is exactly what has been missing everywhere else. **Confirm this on
+the posting itself before treating it as verified.**
+
+Why it fits better than anything screened so far:
+
+- **Fashion and culture publisher turned brand studio.** Her CPI Media Group years —
+  20+ consumer and B2B titles, fashion and beauty editor, the *Mother, Baby and Child*
+  rebrand — are directly relevant, and this is the first fashion-adjacent lead since PVH
+  where the fashion requirement is a *perspective* rather than a 15-year bar.
+- The spec names **typography and branded storytelling**, plus **social, video and event
+  activations**. Event activations is RTA and DAIS.
+- **Berlin**: €50,700 Blue Card floor, not Amsterdam's €71,304. English-language,
+  international team, stated.
+- Roles seen: **Senior Creative**, **(Senior) Art Director, Digital**, **Art Director**,
+  Junior Creative. More than one shot at the same employer.
+
+⚠️ *"Digital"* on the Art Director role and *"web and digital design"* — check whether that
+means product/UI (a different discipline, skip) or digital campaign art direction (hers).
+
+### 🔥🔥 Nike EMEA Brand Creative — Hilversum, Netherlands. A cluster, not a role.
+
+`careers.nike.com` · Colosseum 1, Hilversum
+
+**Eight or more live roles in one studio.** Nike's EMEA Brand Creative team covers
+storytelling, **spatial design**, retail design, production and experiential work — which is
+an unusually exact overlap with her RTA brand experience and DAIS event identity.
+
+| Role | Ref | Note |
+|---|---|---|
+| **Lead Professional, Brand Creative, Art Direction** | R-82264 | **Art direction, graphic design, typography and spatial design**, reporting to a Creative Director. Closest match |
+| **Brand Creative Experience Designer EMEA** | R-17750 | Physical environments and digital experiences. Experience design is her pillar. ⚠️ Band may sit below the HSM floor |
+| **Senior Manager, Brand Creative, Retail, Storytelling Seasonal** | — | Immersive campaign-driven retail experiences across EMEA. One listing showed $125–150k, which clears the floor comfortably |
+| Senior Studio Manager, Brand Creative Retail Design | R-56815 | Operations-weighted |
+| Lead Professional, Retail Fixture & Layout Planning | R-81843 | Fixture and layout planning — likely too technical |
+| Senior Professional – Producer, Brand Creative EMEA | R-81187 | Production, not design direction |
+
+**Sponsorship: UNVERIFIED but high prior.** Nike's EMEA HQ recruits internationally at scale;
+a company of that size operating a Dutch HQ is almost certainly on the IND register. **Check
+the register, do not assume.** That is the whole lesson of egg.
+
+⚠️ **The Dutch floor is the real risk, not the fit.** HSM at 30+ is **€71,304**. *Lead
+Professional* and *Senior Manager* should clear it; *Experience Designer* may not. Establish
+the band before investing an evening in a tailored CV.
+
+### 🔍 Adyen — a possible second role
+
+`job-boards.greenhouse.io/adyen/jobs/7355910` — surfaced as **"Art Director / Senior Brand
+Designer, Experiential Design"**, Amsterdam. **Experiential design is a better fit than the
+Internal Comms Branding role she already applied to** — but the search summary also mentioned
+internal communications, so this may be the same posting rather than a sibling. **Sara: open
+it and check the requisition against her Greenhouse confirmation before applying twice.**
+
+### 🇪🇸 Spain — worth opening as a country, not yet a role
+
+Spain's Blue Card floor is **€41,356** — the second-lowest on her list after Ireland, and
+roughly €30,000 below the Dutch threshold. Search surfaced **McCann Barcelona (Senior Art
+Director)** and **Condé Nast** hiring in Spain, and `jobsinbarcelona.es/jobs/Art-Creative` is
+an English-language-first board for exactly this. **Underworked relative to how achievable the
+threshold is.**
+
+### ❌ Ruled out — publishing majors
+
+**Elsevier, Wolters Kluwer and RELX are not leads.** Despite being large Dutch publishers and
+near-certain recognised sponsors, every design role they carry is **UX and product design** —
+Senior CX/UX Designer, UX/UI Designer, Help System UX Designer. That is the Monks problem
+again: a different discipline, not a Figma gap. **Recorded so nobody spends another hour on
+the publishing angle.** Her publishing credential points at editorial and brand employers, not
+at information-industry UX teams.
+
+### Channels worth working directly
+
+Boards that filter **for** sponsorship, which is the inverted search the finding above calls
+for. **Sara can open these; the proxy blocks all of them from here.**
+
+| Board | Use |
+|---|---|
+| `relocate.me/search/designer` | Designer roles with relocation package **and** visa sponsorship |
+| `arbeitnow.com/visa-sponsorship-jobs` | Germany, sponsorship-filtered. Also has a public API |
+| `jaabz.com/jobs/graphic-design/visasponsorship` | Design-specific sponsorship filter |
+| `visasponsor.jobs` (Design-and-Arts) | Sponsorship-filtered, design classification |
+| `fontaneljobs.com` | **Dutch creative industry board** — agencies and studios, not aggregator spam |
+| `jobsinbarcelona.es/jobs/Art-Creative` | English-first roles in Barcelona |
+| `jobs.highsnobiety.com/jobs` | Direct, see above |
+
+---
+
 ## Active
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
