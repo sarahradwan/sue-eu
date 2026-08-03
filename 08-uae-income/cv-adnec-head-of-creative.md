@@ -250,7 +250,47 @@ research platforms, Figma (working knowledge, actively developing).
 
 ---
 
-## Application message — for the form's "Include a message with your application" field
+## ✅ THE ONE TO SEND — ADNEC's message field caps at 400 characters
+
+Confirmed by Sara, 3 Aug 2026. **364 characters.**
+
+> Head of Creative Services. Your first requirement is why I'm applying: I led brand
+> architecture across group subsidiary businesses in the UAE, Pakistan, Ukraine and Kenya —
+> creative vision across clusters, at group level. I now lead creative for UAE government
+> clients with multiple direct reports, and AI generation in live production.
+> sarahradwan.me/case-studies
+
+**If their counter treats the em dash as two characters** — some do — replace it with a full
+stop. 363 characters:
+
+> …Pakistan, Ukraine and Kenya. Creative vision across clusters, at group level. I now lead…
+
+**Alternative leading events rather than AI** — 344 characters. Defensible, since ADNEC is an
+exhibitions group, but weaker: they can hire event creatives locally, and they cannot easily
+hire someone who has taken AI from experiment to written standard. They put that in the
+responsibilities themselves.
+
+> Head of Creative Services. Your first requirement is why I'm applying: I led brand
+> architecture across group subsidiary businesses in the UAE, Pakistan, Ukraine and Kenya —
+> creative vision across clusters, at group level. Plus a two-day brand experience for Dubai's
+> RTA, end to end, and the DAIS 2019 event identity. sarahradwan.me/case-studies
+
+### 📌 The lesson, because it will recur
+
+**A 400-character field is not a short cover letter. It is one claim.**
+
+Everything else — RTA, DAIS, the curriculum system, corporate publications, the 12% tender win
+rate — lives in the CV, which they open only if the one line works. So the line has to be the
+thing **no other applicant can say**: *"define and execute the creative vision across the Group
+and its business clusters"* is their hardest requirement, and brand architecture across
+subsidiaries in four countries is that exact problem at that exact level.
+
+**Check the character limit before drafting, not after.** The 1,650-character version below was
+written first and thrown away.
+
+---
+
+## Longer application message — for fields without a tight cap
 
 **Use this one.** Written for a form field rather than as a letter: no letterhead, no
 salutation ceremony, front-loaded, and scannable on a phone, which is how a talent-acquisition
