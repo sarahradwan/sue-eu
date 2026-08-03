@@ -186,14 +186,77 @@ reason that will not change. France remains open as an employer-sponsored market
 
 ---
 
+## ⛔ THE RANKING WAS WRONG — fit was scored above sponsorship. 3 Aug 2026.
+
+**egg rejected in about 24 hours.** It was rated `🔥🔥🔥 — best overall alignment found`, the
+top lead in this file. Salary sat inside their published band, every Brussels threshold
+cleared, English was the working language, and their own process has four stages. **It did not
+reach stage one.** Nobody assesses a Head of Creative in a day. That was a filter.
+
+**Sara's brief set the priority order and this file inverted it.** The instruction was:
+⑴ permit routes needing no employer sponsor, ⑵ employers that **verifiably** sponsor —
+national registers beating job boards, ⑶ specific roles. Instead the Active table ranked
+`🔥🔥🔥` on *fit* while carrying **UNVERIFIED** in the sponsorship column, and every headline
+lead was unverified. Fit was doing the ranking; sponsorship was a footnote.
+
+**What the record actually shows:**
+
+| Application | Sponsorship at time of applying | Outcome |
+|---|---|---|
+| **Karsten** | ✅ **VERIFIED** — posting states HSM visa **and** 30% ruling, so they are on the IND register | ⚪ **Still live after 5 weeks.** Chased 2 Aug |
+| egg | ❌ Unverified | ❌ Rejected ~24h |
+| PVH | ❌ Unverified | ❌ Rejected ~24h |
+| AKQA ×3 | ❌ Unverified | ❌ 2 rejected, 1 silence |
+
+**Small sample, and not proof.** PVH's rejection was most plausibly the fashion-years bar, not
+authorisation, and the nine sent on 2 Aug have not had time to answer. But **the only
+application still alive is the only one where sponsorship was confirmed in writing before
+sending**, and that is exactly what the brief predicted.
+
+### The correction, and it is country-specific
+
+The critical distinction, which this file has not been making:
+
+| Country | Is "does this employer sponsor?" checkable in advance? | Consequence |
+|---|---|---|
+| 🇳🇱 **Netherlands** | ✅ **YES — a hard legal gate.** HSM requires the employer to be an **IND-recognised sponsor (erkend referent)**. The register is public | **Check the register before applying. An application to a non-recognised Dutch employer cannot succeed**, however good the fit |
+| 🇮🇪 **Ireland** | ⚠️ Partly. No legal pre-registration, but the **Trusted Partner** register is public and marks employers who already run permits | Use it as a ranking signal, not a gate |
+| 🇩🇪 **Germany** | ❌ No register — **and it does not need one.** Any employer can hire on an EU Blue Card; the employee applies with a qualifying contract | **The barrier is employer willingness and paperwork literacy, not legal status.** Cannot be pre-screened |
+| 🇧🇪 **Belgium** | ❌ No register. Single permit; the employer files with the region | Willingness gate. Only surfaces on contact |
+
+**This reframes the whole pipeline.** The Netherlands is the one country where the sponsorship
+question is binary, public and answerable *before* spending an evening on a tailored CV — and
+it is the country where the most effort has been spent applying blind. Germany, where six of
+the nine applications went, has no register to check because Blue Card sponsorship is open to
+any employer, so those applications are **not** exposed to this failure in the same way.
+
+### What changes
+
+1. **🇳🇱 Netherlands: get the IND public register of recognised sponsors** (`ind.nl`, published
+   list of erkende referenten, downloadable). **Egress here is blocked, so Sara has to pull
+   it** — same division of labour that has been working. Then screen it for agencies, brand
+   consultancies, in-house creative teams and publishers. **That inverts the search**: start
+   from the employers legally able to sponsor and find the creative ones, instead of finding
+   good roles and hoping.
+2. **🇮🇪 Ireland: pull the Trusted Partner list** (`enterprise.gov.ie`) and do the same.
+3. **No Dutch application goes out unverified again.** If the employer is not on the register,
+   it is not a lead — regardless of how well it reads.
+4. **Germany stays a volume play**, correctly. No register means no pre-screen is possible, so
+   the answer there is more applications and earlier, direct questions about Blue Card
+   willingness — not more research.
+5. **Get egg's rejection wording.** If it names work authorisation, this stops being an
+   inference and becomes the finding that should have governed the pipeline from day one.
+
+---
+
 ## Active
 
 | Role | Employer | Country | Sponsorship | Language | Deadline | Status |
 |---|---|---|---|---|---|---|
-| **HEAD OF CREATIVE — Event Agency** | **egg** | 🇧🇪 Brussels | **UNVERIFIED** | **English required, French only a bonus** | 1 month old | 🔥🔥🔥 **`LEAD` — best overall alignment found. €70–85k stated.** |
-| **Art Director — Internal Comms Branding** | **Adyen** | 🇳🇱 Amsterdam | **UNVERIFIED** | **English, stated** | None stated | 🔥🔥 **`LEAD` — best portfolio match found. Apply.** |
+| ~~HEAD OF CREATIVE — Event Agency~~ | ~~**egg**~~ | 🇧🇪 Brussels | **UNVERIFIED** | English required | — | ❌ **`REJECTED` 3 Aug — ~24h, pre-screen.** Best-aligned role in the pipeline. See the finding below |
+| **Art Director — Internal Comms Branding** | **Adyen** | 🇳🇱 Amsterdam | **UNVERIFIED** | **English, stated** | None stated | ✅ **`APPLIED`** — sent 2 Aug |
 | **Creative Excellence Senior Director, International Beverages** | **PepsiCo** | 🇮🇪 Dublin 2 | **UNVERIFIED** | English | None stated | 🔥 **`LEAD` — strongest Irish lead. Verify and apply.** |
-| Creative Director, Tommy Hilfiger | PVH Corp. | 🇳🇱 Amsterdam | **UNVERIFIED** | English | None stated | ✅ **`APPLIED`** — sent 25 Jul 2026 |
+| ~~Creative Director, Tommy Hilfiger~~ | ~~PVH Corp.~~ | 🇳🇱 Amsterdam | **UNVERIFIED** | English | — | ❌ **`REJECTED` ~26 Jul** — ~24h, screened on fashion years |
 | ~~Creative / brand roles~~ | ~~Rituals~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED`** — Sara checked; no suitable roles. Lead was weak, see below |
 | Creative / art direction | Vlisco | 🇳🇱 Helmond / Amsterdam | **UNVERIFIED** | English | Rolling | `LEAD` — most differentiated advantage |
 | ~~ACD (Art/Design), Virtual Creative Production~~ | ~~AKQA~~ | 🇳🇱 Amsterdam | — | — | — | ❌ **`CLOSED` — do not apply.** CGI pipeline role. See below |

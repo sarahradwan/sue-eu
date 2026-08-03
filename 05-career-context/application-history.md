@@ -41,10 +41,16 @@ without becoming a nuisance.**
 | **~1 Sept** (30 days) | Chase anything stuck on auto-acknowledgement. **This is the Karsten and AKQA failure mode** — an auto-reply is not a decision, and silence is not a no |
 | Ongoing | **Log every reply, including rejections.** Rejection wording is the only feedback this process gives |
 
-**What the evidence so far predicts.** PVH rejected in ~24 hours, so fast screens do happen
-and silence past a week means she cleared the first filter or was never read. Karsten sat on
-an auto-acknowledgement for a month despite promising *"you will always receive a message
-from us"* — **so chasing works and is expected.**
+**What the evidence so far predicts.** PVH rejected in ~24 hours, egg in ~24 hours, so fast
+screens do happen and silence past a week means she cleared the first filter or was never
+read. Karsten sat on an auto-acknowledgement for a month despite promising *"you will always
+receive a message from us"* — **so chasing works and is expected.**
+
+⚠️ **A 24-hour rejection is a filter, not an opinion.** Nobody assesses a Head of Creative
+portfolio overnight. When a rejection arrives that fast, the application was matched against
+a hard criterion — work authorisation, location, salary, years-in-domain — and dropped. **Read
+fast rejections as data about the filter, not about her.** egg's arrival inside a day, on the
+best-aligned role in the pipeline, is the strongest signal produced so far.
 
 ⚠️ **Do not chase before 14 days.** Two of the applications went to companies whose stated
 process runs several weeks (egg lists four stages).
@@ -59,7 +65,7 @@ process runs several weeks (egg lists four stages).
 | 26 Jul 2026 | **Capgemini / frog** | Design Director | 🇳🇱 Utrecht | A1 | `design-director-consultancy` | ✅ **SENT 2 Aug** | **All four gates green** — 346k employees, Leadership Team salary, English, Director level. Stretch on discipline (UX/UI and service design). ⚠️ Reposted 4 months ago; Capgemini design headcount **down 17%**. Send, do not over-invest |
 | 26 Jul 2026 | **BrainersHub** | (Senior) Art Director | 🇩🇪 Hamburg | A1 | `concept-systems-ai` | ✅ **SENT** | Salary stated **€58,000** — their band bottom (€50k) sits below the €50,700 floor, so naming a number mattered. German declared as ***"Ich spreche ein bisschen Deutsch"***, the accurate A2 answer and consistent with the A2 statement in her own Anschreiben. Rated weak on language and company size; **Sara's call, and correctly hers to make** |
 | 26 Jul 2026 | **Moss** | Senior/Lead Brand Designer | 🇩🇪 **Berlin** (not Amsterdam) | A1 | `ai-led-brand` | ✅ **SENT 2 Aug** | Berlin, not Amsterdam — — €50,700 floor, not Amsterdam's €71,304. Figma and motion named honestly. Risk is portfolio review |
-| 26 Jul 2026 | **egg** | HEAD OF CREATIVE — Event Agency | 🇧🇪 Brussels | A1 | `head-of-creative-events` | ✅ **SENT 2 Aug** | **Best overall alignment found.** Salary expectation **€80,000** against a published €70–85k band; clears all three Brussels thresholds. Apply at careers.egg-events.com |
+| 26 Jul 2026 | **egg** | HEAD OF CREATIVE — Event Agency | 🇧🇪 Brussels | A1 | `head-of-creative-events` | ❌ **Rejected 3 Aug** — ~24h turnaround, before stage one of a four-stage process | **The best-aligned role in the pipeline, refused in a day.** Salary was inside their published €70–85k band and every threshold cleared, so **this was a pre-screen on a hard filter, not a judgement on fit.** ⚠️ **Wording not yet captured — get it.** Whether it names work authorisation is the single most valuable piece of feedback this process has produced. See the sponsorship-verification finding in `pipeline-jobs.md` |
 | 26 Jul 2026 | **Mutabor** | Senior Brand Designer, Sport & Lifestyle | 🇩🇪 Hamburg | A1 | `brand-systems-guidelines` | ✅ **SENT 2 Aug** | Salary stated **€58.000 brutto p.a.** (floor €50,700). German declared **Grundkenntnisse** honestly; **umzugsbereit**. Misses two stated requirements — Figma and German — but they run free German courses |
 | 26 Jul 2026 | **Adyen** | Art Director — Internal Comms Branding | 🇳🇱 Amsterdam | A1 | `experiential-events-presentation` | ✅ **SENT 2 Aug** | Applied via Greenhouse, not LinkedIn. If salary is asked: **€75,000–85,000**, never below €72,000. **Do not connect with the Adyen employee LinkedIn surfaced** |
 | 26 Jul 2026 | DOUGLAS Group / NICHE-BEAUTY.COM | Senior Graphic Designer & Team Lead Layout | 🇩🇪 Hamburg | A1 | `editorial-publishing-multiscript` | ✅ **SENT 2 Aug** | Salary stated **€58,000** (Germany's floor is €50,700). Start date flagged as **Dec 26 / Jan 27** — the ad says 1 Oct 26. **Email the recruiter first** and ask whether the team works in English |
