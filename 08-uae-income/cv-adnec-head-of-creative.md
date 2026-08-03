@@ -250,10 +250,78 @@ research platforms, Figma (working knowledge, actively developing).
 
 ---
 
-## Cover note
+## Application message — for the form's "Include a message with your application" field
 
-Short, because the posting asks for an application rather than a letter. Send in the portal's
-message field or as the email body.
+**Use this one.** Written for a form field rather than as a letter: no letterhead, no
+salutation ceremony, front-loaded, and scannable on a phone, which is how a talent-acquisition
+director reads it. **~1,650 characters**, inside LinkedIn's limit and inside most portals'.
+
+> Applying for Head of Creative Services.
+>
+> The line about defining creative vision across the Group and its business clusters is why. I
+> led brand architecture across group subsidiary businesses in the UAE, Pakistan, Ukraine and
+> Kenya on a four-year retainer, setting how each company expressed a shared parent identity
+> while holding its own position in its own market. That is the same problem across seven
+> clusters rather than four countries.
+>
+> Three other parts map closely.
+>
+> Event coverage and experience: I delivered a two-day brand experience for Dubai's Roads and
+> Transport Authority end to end, covering identity, six bilingual activations, touchscreen
+> kiosks, a participatory installation, environmental graphics and on-site direction, and led
+> the full event identity for DAIS 2019, Dubai Sports Council's first international AI in Sport
+> conference.
+>
+> Expanding AI-powered content creation: I have embedded AI image and video generation into
+> live client production and written AI usage standards into client brand documentation. The
+> harder half is holding quality and consistency once a whole team is generating at volume.
+>
+> Consistency at scale: the UAE national curriculum design system, more than 100 books across
+> five subjects and three scripts, built as a system with templates and standards so a large
+> team could apply it without the identity drifting.
+>
+> I currently lead creative for UAE government and institutional clients with multiple direct
+> reports, own corporate publications including annual and institutional reports produced
+> bilingually in Arabic and English, and present and defend creative direction at ministerial
+> level. Ten years leading creative teams. Based in Abu Dhabi with UAE residency.
+>
+> Portfolio: sarahradwan.me/case-studies
+
+### If the field is short — ~700 characters
+
+> Applying for Head of Creative Services.
+>
+> Your first requirement is the reason: I led brand architecture across group subsidiary
+> businesses in the UAE, Pakistan, Ukraine and Kenya on a four-year retainer. That is creative
+> vision across clusters, at group level.
+>
+> Also directly relevant: a two-day brand experience for Dubai's RTA end to end and the full
+> event identity for DAIS 2019 for Dubai Sports Council; AI generation embedded in live client
+> production with AI usage standards written into brand documentation; and the UAE national
+> curriculum design system, 100+ books across three scripts.
+>
+> Currently leading creative for UAE government clients with multiple direct reports.
+> Abu Dhabi, UAE residency.
+>
+> Portfolio: sarahradwan.me/case-studies
+
+### What is deliberately not in it
+
+- **No salary figure, and no current salary.** `cv-and-market-value-assessment.md`: never
+  anchor on her present package. If a field forces a number, **AED 35,000+**, not her current.
+- **No notice period or availability.** Offer-stage conversation.
+- **No "I am excited to"** or thanks-for-your-consideration filler. She is a department-head
+  candidate; the message should read like one.
+- **No mention of relocation, the EU, or anything about looking.** This is a UAE application
+  and `stealth-positioning`'s rules on public-facing tells apply to anything that could travel.
+
+⚠️ **If this field is on LinkedIn rather than careers.adnecgroup.ae:** applying can auto-follow
+the employer, and follows are visible on her profile. **Untick it**, and turn off *share profile
+updates* first. The company portal remains the safer route.
+
+---
+
+## Longer cover letter — only if a letter is asked for separately
 
 > **Head of Creative Services — ADNEC Group**
 >
