@@ -261,15 +261,31 @@ before, when she had to find them too.
 here is confirmed sponsored. **Sara opens the link, confirms the role is live, and confirms the
 sponsorship language before any CV work starts.** That is the rule that egg just proved.
 
-### 🔥🔥🔥 Highsnobiety — Berlin. Several roles. Best new lead.
+### ❌ Highsnobiety — CLOSED. Already applied; **rejected 19 June 2026.**
 
 `jobs.highsnobiety.com/jobs`
 
-**Search results report the compensation package includes "visa/relocation support"** — an
-explicit statement, which is exactly what has been missing everywhere else. **Confirm this on
-the posting itself before treating it as verified.**
+**I ranked this the strongest lead in the file on 3 Aug. Sara had already applied and been
+rejected six weeks earlier.** It was not in `application-history.md`. See the record-keeping
+failure below — that is the finding, not this.
 
-Why it fits better than anything screened so far:
+**Do not re-apply now.** A rejection six weeks old, at an employer that has not changed, is
+not reopened by a second application. Revisit no earlier than **January 2027**, and only for a
+role clearly different from whichever one was refused.
+
+**But keep the signal, because it is the useful part.** Highsnobiety states **visa and
+relocation support** and hires internationally into Berlin. That is a verified example of the
+category, even though this employer is spent:
+
+> **🎯 Berlin fashion-and-culture media studios are a sponsorship-friendly category.**
+> Publisher-turned-brand-studio businesses — editorial heritage, brand and campaign work,
+> international teams, English-speaking. **This is the closest structural match to her actual
+> career** — CPI Media Group was exactly this shape. Mine the category, not the company.
+> Comparable targets to search: **032c**, **Sleek**, **Zeit Online / ZEITmagazin**,
+> **Vice Media Berlin**, **Ballroom Studio**, **Blond**, and the brand studios inside
+> German publishing groups (Axel Springer, Burda, Condé Nast Germany).
+
+Why it *would* have fitted, kept as the profile of what to look for next:
 
 - **Fashion and culture publisher turned brand studio.** Her CPI Media Group years —
   20+ consumer and B2B titles, fashion and beauty editor, the *Mother, Baby and Child*
@@ -284,6 +300,37 @@ Why it fits better than anything screened so far:
 
 ⚠️ *"Digital"* on the Art Director role and *"web and digital design"* — check whether that
 means product/UI (a different discipline, skip) or digital campaign art direction (hers).
+
+### ⛔ THE REAL FINDING — the vault does not know what she has already done. 3 Aug 2026.
+
+Highsnobiety is the **third** time work or history has been invisible to this repo until Sara
+said so, and each one cost something:
+
+| What was missing | What it cost |
+|---|---|
+| **Benet7awel**, Dubai Municipality internal campaign | A cover letter to **Adyen** that said internal comms was new to her. It was not. Wrong letter, sent |
+| **Karsten**, applied ~26 Jun independently | Nearly re-applied to a live application. Caught only because she mentioned it |
+| **Highsnobiety**, rejected 19 Jun | **Ranked #1 in the pipeline on 3 Aug.** An entire lead write-up spent on a closed door |
+
+**This is not three coincidences. The application log begins in March 2026 and only contains
+what happened to come up in conversation.** Every recommendation this file makes is built on
+a record that is known to be incomplete — so the failure will keep repeating, and it will keep
+looking like bad judgement rather than missing data.
+
+**Fix, and it is worth an hour of Sara's time once:**
+
+1. **Search her email for every application confirmation and rejection** — `"your application"`,
+   `"thank you for applying"`, `"unfortunately"`, `"we have decided"`, `Greenhouse`, `Workday`,
+   `Personio`, `Lever`, `SmartRecruiters`. Sweep **January 2026 to now** at minimum.
+2. **Every hit goes in `application-history.md`**, even the ones she considers dead. **A
+   rejection is the most useful row in the table** — it is the only feedback this process
+   gives, and it is what stops a company being re-recommended.
+3. **From now on, nothing gets applied to outside this vault without a row.** Including
+   applications she sends independently — those are exactly the ones that go missing.
+
+**Until that sweep is done, treat every new lead as possibly-already-applied**, and check the
+employer name against her memory before any CV work starts. Nike, PepsiCo and Vlisco are all
+currently unchecked against her real history.
 
 ### 🔥🔥 Nike EMEA Brand Creative — Hilversum, Netherlands. A cluster, not a role.
 
