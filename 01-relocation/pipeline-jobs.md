@@ -373,14 +373,96 @@ Director)** and **Condé Nast** hiring in Spain, and `jobsinbarcelona.es/jobs/Ar
 an English-language-first board for exactly this. **Underworked relative to how achievable the
 threshold is.**
 
-### ❌ Ruled out — publishing majors
+### ❌ Ruled out — the STM majors, and a correction
 
-**Elsevier, Wolters Kluwer and RELX are not leads.** Despite being large Dutch publishers and
-near-certain recognised sponsors, every design role they carry is **UX and product design** —
-Senior CX/UX Designer, UX/UI Designer, Help System UX Designer. That is the Monks problem
-again: a different discipline, not a Figma gap. **Recorded so nobody spends another hour on
-the publishing angle.** Her publishing credential points at editorial and brand employers, not
-at information-industry UX teams.
+**Elsevier, Wolters Kluwer and RELX are not leads.** Every design role they carry is **UX and
+product design** — Senior CX/UX Designer, UX/UI Designer, Help System UX Designer. Different
+discipline, same trap as Monks.
+
+⚠️ **But I then wrote "nobody spends another hour on the publishing angle," and that was
+wrong.** Three scientific-technical-medical companies are not the publishing industry.
+**Publishing is roughly fifteen of her twenty-two years** — Al Arab, CPI Media Group, the
+national curriculum, the Ministry of Foreign Affairs annual report — and it was being tested
+against the three employers least likely to want an art director. Sara pushed back and she was
+right. Full category below.
+
+### ❌ Ruled out — `jobsinbarcelona.es`
+
+**Paywalled.** Every vacancy routes to JobLeads, which charges before a single application can
+be sent. Not a board, a lead-generation funnel. **Do not use it, and treat any aggregator that
+does not link to the employer's own ATS the same way.** Spain still stands on the €41,356
+threshold — the country is right, that board was not.
+
+---
+
+## 📚 PUBLISHING — the under-worked category. 3 Aug 2026.
+
+Her strongest and least-used credential. **Sorted by the variable that actually decides these
+roles, which is not craft — it is the working language.**
+
+### Tier 1 — English-working, international, multilingual editions. **Best fit.**
+
+These publish in English or in simultaneous multi-language editions, so the office language is
+international and **her three-script publishing record is a direct structural match rather than
+a curiosity.**
+
+| Publisher | Base | Why |
+|---|---|---|
+| **gestalten** | 🇩🇪 Berlin | ✅ **LIVE ROLE: Editorial Designer** — seen on `jobs.art`. English-language design and visual-culture publisher, international team. **Open this first** |
+| **TASCHEN** | 🇩🇪 Cologne | **Publishes trilingual editions (EN/DE/FR) as standard.** Her credential is setting type across three scripts *including a language she does not speak fluently*. That is Taschen's entire production model. The closest ideological match in the category |
+| **Hatje Cantz** | 🇩🇪 Berlin / Stuttgart | Art books, international distribution, English co-editions |
+| **Prestel** | 🇩🇪 Munich | Art and architecture; part of Penguin Random House, so English/German co-editions and a large-employer permit process |
+
+### Tier 2 — Arabic and multi-script scholarly. **Highest differentiation, narrowest funnel.**
+
+| Publisher | Base | Why |
+|---|---|---|
+| **De Gruyter Brill** | 🇳🇱 **Leiden** + 🇩🇪 Berlin | **Publishing in Arabic since 1732**, and the leading publisher in Middle Eastern and Islamic Studies — 60+ journals, 150 books a year. **Arabic-script scholarly typesetting is a genuinely rare skill and she has it.** Dutch head office, German offices. Careers: `degruyterbrill.com/publishing/about-us/careers/job-openings` |
+| **Peeters** | 🇧🇪 Leuven | Oriental studies — Arabic, Syriac, Coptic typesetting |
+| **Harrassowitz** | 🇩🇪 Wiesbaden | Oriental and Islamic studies |
+
+**This tier is where she is not one of three hundred applicants.** Few designers in Europe can
+set Arabic to scholarly standards. Volume is low and roles are infrequent — **set up alerts
+rather than waiting to search.**
+
+### Tier 3 — Educational publishing. **Exact project match, real language barrier.**
+
+| Publisher | Base | Note |
+|---|---|---|
+| **Sanoma Learning / Malmberg** | 🇳🇱 Den Bosch | **Open applications accepted: `vacatures@malmberg.nl`.** They publicly invite portfolios |
+| Noordhoff, ThiemeMeulenhoff | 🇳🇱 | Large Dutch educational publishers |
+| Klett, Cornelsen, Westermann | 🇩🇪 Stuttgart, Berlin, Braunschweig | German equivalents; **A2 German makes these arguable where Dutch is not** |
+
+**The match to her work is exact** — textbook design systems, 100+ titles, multiple subjects,
+print plus interactive digital editions, a large team applying one system. That *is* the
+national curriculum project, described by a different employer.
+
+⚠️ **Be honest about the language limit here, because the French precedent does not stretch
+this far.** The argument that won at Douglas was that she has *demonstrably* set publications
+in French at A2. For Dutch she has **no reading knowledge at all**, and a national school
+curriculum is produced *in* and *about* the national language — the office language, the
+editorial conversation and the copy are all Dutch. **German educational publishers are the
+arguable half of this tier; the Dutch ones need an explicitly English-language role.**
+
+### Tier 4 — Magazine publishers. **Closest to CPI, mostly German-language.**
+
+**Condé Nast Germany** (Munich — Vogue, GQ, AD), **RTL Deutschland / Gruner + Jahr** (Hamburg —
+Stern, Geo, Brigitte), **Burda**, **Zeit Verlag** (Hamburg — ZEITmagazin), **Axel Springer**
+(Berlin). Structurally this is CPI Media Group again: many titles, fixed cycles, art direction
+across consumer and trade. **Condé Nast is the best of them** — international group structures
+and English-language global teams alongside the German editions.
+
+### What to do with this
+
+1. **gestalten Editorial Designer first** — it is live and it is Tier 1.
+2. **De Gruyter Brill** — check the Leiden openings, and set an alert. Highest differentiation
+   she has anywhere in this file.
+3. **Malmberg open application** — costs one email to `vacatures@malmberg.nl`, and open
+   applications are the one channel where being unusual helps rather than screens out.
+4. **A publishing CV variant does not exist yet.** Every current variant leads on brand and
+   creative direction. For this category the lead is **editorial systems, multi-script
+   typography and production at volume** — 100+ titles, three scripts, 20+ mastheads, a
+   national newspaper redesign. **Say so and I will build it.**
 
 ### Channels worth working directly
 
