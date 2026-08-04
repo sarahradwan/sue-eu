@@ -395,6 +395,67 @@ threshold — the country is right, that board was not.
 
 ---
 
+## ⛔⛔ THE NETHERLANDS SHOULD NOT BE THE PRIMARY TARGET. 3 Aug 2026.
+
+**Source: Ryan Sonder, The Chain Company** — a Dutch recruitment agency that advertises
+**`erkend referent bij de IND`** status, i.e. one of the few channels where the *agency* holds
+sponsorship. Replying to Sara's direct approach:
+
+> *"For most of our SME clients, Dutch is the primary working language, which means fluency in
+> Dutch is usually a requirement. At larger international or publicly listed companies, English
+> is sometimes sufficient, but **those vacancies are predominantly within Finance and IT rather
+> than creative roles.** **At the moment, we have no English-speaking opportunities within the
+> creative sector.**"*
+
+**This is first-hand market evidence from someone paid to know it**, and it is worth more than
+any amount of job-board inference. It closes The Chain Company as a channel and, more
+importantly, it changes the country ranking.
+
+### Three barriers stack in the Netherlands, and only there
+
+| Barrier | Netherlands | Germany |
+|---|---|---|
+| **Salary floor** | **€71,304** (HSM, 30+) — the highest in her entire set | **€50,700** Blue Card, €45,934 shortage |
+| **Sponsorship** | **Hard legal gate.** Employer must be an IND-recognised sponsor or the permit is impossible | **No gate.** Any employer can hire on a Blue Card |
+| **English creative roles** | **Scarce**, per a specialist recruiter. English skews Finance and IT | Berlin and Hamburg agencies routinely work in English |
+
+**The vault has been leading with the hardest country in her set**, because "Netherlands first"
+was her stated preference and it went into the brief unchallenged. Preference is a real input,
+but it has been outranking evidence. **Germany is where the floor is €20,000 lower, the permit
+has no employer gate, and English creative work actually exists** — and six of the nine
+applications already sent went there, correctly, by instinct rather than by design.
+
+### What this does NOT say — do not over-read it
+
+Ryan speaks for **one agency's client book**: Dutch SMEs plus some larger firms. He is not
+describing the whole market, and English-working Dutch creative teams demonstrably exist —
+**Nike Hilversum, Adyen, Booking.com, Philips, Heineken, Just Eat Takeaway** all run in
+English. The accurate reading is narrower and more useful:
+
+> **The Netherlands is still open, but only through one door: large international employers
+> with in-house creative teams. Not agencies, not SMEs, and not recruiters.**
+
+That door is exactly where the Nike and Adyen leads sit, so those stay. What dies is the idea
+of working Dutch agencies and Dutch staffing firms as a channel.
+
+### What changes
+
+1. **Germany becomes the primary target.** Berlin and Hamburg first. Volume is the right play
+   there because there is no register to pre-screen against.
+2. **Netherlands stays, narrowed to large international in-house teams only.** Nike, Adyen,
+   Booking, Philips, Heineken, Just Eat, Elsevier-scale employers. **Every one must be checked
+   against the IND register before any CV work** — the egg lesson still applies.
+3. **Stop working Dutch agencies and staffing firms.** One more agency is worth testing before
+   generalising, but the prior is now strong and the expected return is low.
+4. **Belgium, Spain and Ireland move up**, on thresholds alone — €44,441 Brussels, €41,356
+   Spain, **€36,605 Ireland**, all far below the Dutch €71,304. Ireland is English-speaking by
+   default and has the lowest floor in the EU set. **It is the most under-worked country
+   relative to how achievable it is.**
+5. **Reply to Ryan and keep him.** He answered a cold approach with specifics and a real
+   market read — that is a person worth staying in front of, not a closed door.
+
+---
+
 ## 📚 PUBLISHING — the under-worked category. 3 Aug 2026.
 
 Her strongest and least-used credential. **Sorted by the variable that actually decides these
