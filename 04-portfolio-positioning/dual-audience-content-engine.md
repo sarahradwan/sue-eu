@@ -125,23 +125,23 @@ working in Abu Dhabi.
 > Most bilingual work in this region is made in English and then moved into Arabic. We
 > stopped doing that.
 >
-> You can see the old way immediately. The Arabic sits in a layout that was never built for
-> it, at a size chosen for Latin letterforms, with line spacing that ignores how much of
-> Arabic lives above and below the line. Then somebody spends a week repairing it.
+> Not because Arabic should come first. Because neither should.
 >
-> Arabic does proximity where English does distance. A line that takes three words in
-> English arrives compressed and close, so the white space around it has to do a different
-> job.
+> The old way costs you twice. Once when the second language is poured into a layout that
+> was never built for it, at a size chosen for the first one. Again when somebody spends
+> days repairing what was never going to fit.
 >
-> The rhythm is different. The vertical logic is different. The eye enters from the other
-> side.
+> The reason is not complicated. Arabic does proximity where English does distance. The
+> vertical logic is different, and the eye enters from the other side. Build the grid around
+> one of them and every one of those differences becomes a defect in the other.
 >
-> Build the grid for English and pour Arabic into it and every one of those differences
-> becomes a defect. Build it the other way round and English adapts. English almost always
-> adapts.
+> So the rule is not about order. It is about pairs. Whatever you draw first is a proposal,
+> not a layout. It does not become a layout until it has been set in both, and a grid that
+> has only ever been seen in one language has not been tested. It has been assumed.
 >
-> That is the reasoning. The rule it produces is one line: set the grid to the script with
-> the least room to move.
+> We build them together now. Two structures going up side by side, on one foundation,
+> neither a copy of the other. You do not finish a tower and then attach the second one to
+> the side of it.
 >
 > It sits in the guidelines now, which is the only version of a standard that survives me
 > not being in the room. People who join next year will follow it without knowing why it is
@@ -151,7 +151,45 @@ working in Abu Dhabi.
 > So the question I put to anyone commissioning bilingual work is not "does this translate
 > well."
 >
-> It is: was this made in Arabic, or was it made in English and then repaired.
+> It is: was this made in both, or was it made in one and repaired in the other.
+
+### Revised again 4 Aug: build as a pair, not Arabic first
+
+Her correction, and it is a better position than the one it replaces. Not "Arabic first".
+**Build both together, and whichever layout is drawn first, test it in both.** Her phrase for
+it: a twin tower.
+
+**Why this matters beyond the craft.** "Arabic first" is still a hierarchy, just inverted. An
+Amsterdam reader files it as a regional specialism. "Build as a pair and validate in both" is
+a **methodology**, and it transfers directly to Dutch and French in Belgium, Irish and
+English in Ireland, and the twenty-four languages the EU institutions publish in. Same
+expertise, and it stops being a MENA claim.
+
+It also pushes the leader ratio further without cutting any more craft, because **testing is
+process**. A rule about how work gets checked is governance. A rule about how letters look is
+technique.
+
+**Three consequences in the copy:**
+
+1. A new second line, *"Not because Arabic should come first. Because neither should."* The
+   reader expects the inversion and does not get it, which is the wrong-thing-broke shape
+   from `hooks.md`.
+2. The rule changes from *set the grid to the script with the least room to move* to
+   **whatever you draw first is a proposal, not a layout, and a grid seen in one language has
+   not been tested, it has been assumed.**
+3. **Her closing question had to change.** It was *"was this made in Arabic, or was it made
+   in English and then repaired"*, which is her own formulation from her raw notes. It
+   contradicts the pair position, so it is now *"was this made in both, or was it made in one
+   and repaired in the other."* Flagged rather than done quietly, since the original line was
+   hers.
+
+**⚠️ One thing to decide about "twin tower".** In English, and especially for American
+readers, the phrase carries the World Trade Center association. The metaphor is
+architecturally right and it is hers, so this is not a veto. But it is a foreseeable derail,
+and a comment section arguing about the phrase is a comment section not discussing the
+argument. The draft above keeps the image and drops the label: *"two structures going up
+side by side, on one foundation, neither a copy of the other."* If she wants the phrase
+itself, use it knowing the association exists.
 
 ### Rewritten 2 Aug: her note was "it makes me a designer not a leader"
 
