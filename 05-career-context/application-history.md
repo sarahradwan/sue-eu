@@ -193,3 +193,35 @@ framings land, whether the sponsorship question kills applications early or late
   direction."* That is inherent to a Fashion and Beauty Editor title, but it is **not
   written in `cv-source-of-truth.md`**. Sara to confirm or strike. If confirmed, add it to
   the master so future variants inherit it rather than re-deriving it.
+
+---
+
+## Emperor Middle East — talent pipeline, not an application
+
+**Status: WARM. No live role. Nudge due 28 September 2026.**
+
+| | |
+|---|---|
+| Contact | Kaisa Laug, Talent, Emperor |
+| Route | Inbound. She approached Sara on LinkedIn, 25 Jul 2026 |
+| Original ask | Freelance Senior Creative, Sept 2026 to Feb 2027, five days a week. **Declined** — not compatible with a full-time role |
+| Outcome | Kaisa asked for the CV to circulate internally for permanent openings |
+| Sent | CV with the 2025 MoFA aid agency Annual Report linked. Confirmed received 2 Aug 2026 |
+| Her words | "I will share your details with the team and we'll be in touch when something a bit more permanent comes up" |
+
+**Why this needs a diary date rather than the 10-day follow-up rule.** This is not an
+application awaiting a decision, so the standard follow-up cadence does not apply and
+chasing at 10 days would read as pushy. It is a talent pipeline entry resting on a passive
+promise, and those go cold silently. **If nothing has arrived by 28 September, send a short
+warm nudge** with something genuinely new attached, a recent piece of work rather than a
+"just checking in".
+
+**Why Emperor matters beyond this thread.** UK-headquartered, employee-owned, B Corp, with
+offices in Dubai, **Abu Dhabi** and Riyadh, plus London, Edinburgh, Manchester and Warwick.
+Their named service lines include **Copywriting and Arabisation**, tagged on the Aldar,
+Emirates NBD, TECOM, ADNOC L&S and Talabat annual reports. That is the closest match in the
+UAE market to Sara's scarcest capability. Abu Dhabi office also removes the commute
+objection.
+
+**Not raised, deliberately:** relocation. This is a UAE permanent-role conversation. Any
+European angle belongs much later, once she is inside and valued.
