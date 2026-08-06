@@ -84,26 +84,50 @@ not preparation.
 
 ## Weekly — now to early October
 
-### Week 1 · Mon 27 July
-**[SARA] Book computer-delivered IELTS Academic.** *(Revised 25 Jul — she has no language
-test at all. This was a conditional check; it is now the hardest task in the plan.)*
+### Week 1 · Mon 27 July – Sun 2 Aug
+**[SARA] Call VFS Global about the Egyptian legalisation chain.** ~15 minutes.
 
-Must be **Academic**, not General Training. Sweden needs **6.5 overall, no band below 5.5** —
-a low bar at C2. **The risk is the booking calendar, not the English.** Sit by
-Sept–Oct 2026 so there is room for one re-sit before the mid-January deadline.
+*(Rewritten 26 Jul. This week was "book IELTS" — Sara has decided to book in September, so
+that moves to week 6. Legalisation is now the headline because it is the longest lead time
+in the plan and nothing else can start until the requirements are known.)*
 
-- [SARA] Are the degree certificate and transcript in **English or Arabic**? Decides whether
-  certified translation is needed.
+**+2 0221600051** · Sun–Thu **08:30–16:30 Cairo** = 09:30–17:30 Abu Dhabi. Ask:
+
+1. Full requirements and cost for the Austrian chain
+2. Realistic turnaround right now
+3. **How many original sets should she prepare?**
+4. **Can one MoFA-attested set be presented to more than one embassy?**
+5. Can an agent act on power of attorney with her in the UAE?
+
+Then, **small, in priority order:**
+
+- [SARA] **Write the IELTS diagnostic (D1) the IELTS session is waiting on.** 20 min, timed.
+  That session is idle until it exists and cannot build a study plan without a baseline.
+- [SARA] **Email the three Cairo firms** (Alzayat, ASAS & Partners, BYLAW) — *after* the VFS
+  call, so the replies can be judged against what VFS said.
+- [SARA] **Check available IELTS test dates without paying.** 10 min. She is booking in
+  September; if September shows only November slots, that needs knowing now, not then.
+- [SARA] **Are the degree certificate and transcript in English or Arabic?** 5 min, same
+  folder. Decides whether certified translation is needed and, for Austria, where it must
+  be done.
+- [SARA] **1 August falls this Saturday** — start the ~€100–200/month preparation set-aside.
 - [CLAUDE] ✅ **Done 25 Jul — Erasmus Mundus catalogue sweep.** No clean match in her field;
   closest are MAGMa and Media Arts Cultures. Preliminary, catalogue was proxy-blocked.
   **Raises Sweden to primary route.**
 
 ### Week 2 · Mon 3 August
-**[SARA] Start the Egyptian legalisation chain.** The longest lead time in the plan.
+**[SARA] Choose an agency and commit to the legalisation chain.** *(Rewritten 26 Jul — the
+first contact moved to week 1, so this week is the decision, not the enquiry.)*
 
-**Budget note:** get the agency quote first and set aside ~€100–200/month from salary from
-August. This is the month the preparation budget starts, and it is the only part of the plan
-that needs her own money.
+By now VFS has stated the official requirements and three firms have quoted. Pick one and
+start. Judge them on: do they name the **Austrian** chain specifically rather than the UAE
+one, can they act on power of attorney, and is the quote a **total** across all three stages.
+
+- [SARA] **Request extra original sets from Helwan** in the same approach. Going back later,
+  from Abu Dhabi through an agent, is another multi-week loop discovered at the worst moment.
+- [SARA] Ask Helwan for a **Medium of Instruction letter** at the same time — the free long
+  shot that would remove the IELTS requirement entirely. *(Moved up from week 3: she will be
+  contacting Helwan this week anyway, so the ask costs nothing extra.)*
 
 She is in Abu Dhabi; the documents are Egyptian. That means either a trusted person in Cairo
 with a power of attorney, or a paid attestation agency. **Get a written quote and a stated
