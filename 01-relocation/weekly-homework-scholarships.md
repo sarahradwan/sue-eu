@@ -174,7 +174,13 @@ I draft; she corrects the things only she knows.
 ### Week 8 · Mon 14 September
 **[SARA] Line up referees — and ask them this week, not in December.**
 
-An academic referee from a 2003 degree is likely unreachable; assume professional referees.
+**⚠️ Upgraded 26 Jul after the Heinrich Böll sheet:** several schemes require an **academic**
+referee — Böll demands *"an expert report from a university or college lecturer"*. A 2003
+Helwan lecturer is unreachable. **The fix is CIM Level 7: her Oxford College of Marketing
+tutor is a current academic assessor.** Identify that tutor and build the relationship *now*,
+months before a reference is needed. This is the single most reusable referee she can get.
+
+Beyond that, assume professional referees.
 **Constraint worth thinking about early:** the obvious referee is her current employer, and
 that is closed off — see the confidentiality rule in `CLAUDE.md`. Former colleagues from
 Social Dar, the Ministry of Education programme, or CPI are the realistic pool.

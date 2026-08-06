@@ -534,6 +534,63 @@ capacity in the sending country.** They are generous precisely because they expe
 home. That expectation is the opposite of the goal, and it is worth screening for *before*
 checking age or funding — it is faster to check and it disqualifies just as absolutely.
 
+### Heinrich Böll Foundation — assessed 26 July 2026 from the official Info Sheet A 1–1 b
+
+**First scheme assessed from a primary document, not search results.** Sara supplied the
+June 2025 information sheet (`USie/UGD 06/25`). Everything below is quoted from it.
+
+**The profile is right and the language is wrong.** This is the first lead found with *no
+age limit*, *a real monthly stipend*, and *no return-home clause* — the three things that
+killed almost everything else. It still fails, and the reason is worth understanding.
+
+| Criterion | Requirement | Sara | |
+|---|---|---|---|
+| **Age** | **none stated** | 46 | ✅ **passes** |
+| **Return-home clause** | **none found** | — | ✅ **passes** |
+| **Stipend (non-EU)** | **€992/month** + individual allowances, possibly health insurance | — | ✅ **real money** |
+| **Tuition** | German public tuition ~€0; scheme funds fees "in certain cases" | — | ✅ |
+| **German** | **B2 or DSH 1, with certificate.** *"The proof is absolutely necessary."* | **A2** | ⛔ **KILLER** |
+| **Application language** | *"All documents have to be provided in German"* (only the two references may be English) | A2 | ⛔ |
+| **Academic record** | *"Very good school or college/university academic record"* | 72.19% ≈ German 2.5–3.0 | ⛔ not "very good" |
+| **Expert reference** | **From a university lecturer**, preferably at the intended German university | 2003 graduate, no academic referees | ⛔ |
+| **Enrolment certificate** | *Immatrikulationsbescheinigung* required by selection interview | Needs a German place first | ⚠️ sequencing |
+| **Selection criterion** | **"Social commitment and political interest"** — assessed across two interviews plus a dedicated third-party reference | — | ⚠️ co-equal with academics, not a formality |
+| **Non-EU cycle** | *"Non-EU nationals may apply only at irregular intervals"* | — | ⚠️ the March/Sept cycle may not open to her |
+
+**Deadlines** (binding, *"no exceptions permitted"*): **1 March** and **1 September**.
+Three stages: written application → interview with a liaison lecturer → digital committee
+interview. Award notified June/July or Jan/Feb.
+**One-shot rule worth noting:** *"If you have already attended stage 3 and received a letter
+of rejection you may not re-apply."*
+
+**Verdict: FAILS for 2027, on German B2 alone.** Two CEFR levels above A2 is realistically
+18–24 months of sustained study — it cannot be closed before the 2027 intake.
+
+**But do not delete this one. It is a 2028 lead.** Her German is A2 *and actively improving*.
+If it reaches B2 during 2027–28, this scheme becomes genuinely viable: no age cap, a stipend
+that covers German living costs, and no obligation to return. **This is the first concrete
+payoff identified for the German study** — it has been "compounding but not on the critical
+path" until now. Reassess when she hits B1.
+
+### 🔎 Two patterns this reveals — both save time later
+
+**1. German political-foundation scholarships are a class, and the whole class needs B2.**
+The *Studienwerke* — Böll (Greens), Konrad Adenauer (CDU), Friedrich Ebert (SPD), Rosa
+Luxemburg (Linke), Hanns Seidel (CSU), Friedrich Naumann (FDP) — all fund living costs
+generously, all require German at B2/DSH level, and all weight political and social
+engagement as a core criterion. **Screen the entire class out for 2027 and revisit as a group
+when German reaches B2.** Do not assess them one at a time.
+
+**2. ⚠️ The academic referee problem — cross-cutting, and it will recur.**
+Böll requires *"an expert report from a university or college lecturer."* **She graduated in
+2003 and has no academic referees.** This is not a Böll quirk; scholarship schemes commonly
+want one, and it is the kind of requirement that surfaces late and cannot be improvised.
+
+**The fix already exists: CIM Level 7.** Her Oxford College of Marketing tutor is a current
+academic assessor who can speak to her recent postgraduate work. **Action: identify and build
+a relationship with that tutor now**, well before a reference is needed. Add it to the
+referee work in week 8 of `weekly-homework-scholarships.md`.
+
 ### Checked and probably dead — one more look before discarding
 
 **Italy — regional DSU scholarships.** No age limit, and the package is excellent (full
