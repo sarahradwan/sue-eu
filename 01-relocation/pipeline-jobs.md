@@ -395,6 +395,94 @@ threshold — the country is right, that board was not.
 
 ---
 
+## ⭐ THE RECOMMENDATION — gestalten, Editorial Designer, Berlin. 3 Aug 2026.
+
+**Die Gestalten Verlag · Berlin-Kreuzberg · permanent from day one**
+Apply: **`work@gestalten.com`**, subject line **`STAFFx Editorial Designer`**
+Send: CV + brief cover letter + **earliest start date + desired salary**
+Listings: `creative-city-berlin.de/en/jobs/job/7764331/` · `jobs.art`
+
+**Sara asked for one good match. This is it, and it is the cleanest fit screened in this
+entire file.**
+
+### What they actually ask for
+
+> Design conception, **font selection**, **creating layout templates**, execution of final
+> artwork, **implementing texts and text corrections**, handover to production. Portfolio
+> showing excellent editorial design and storytelling, a strong eye for **photography,
+> typography, page design and publication pacing.**
+
+### Why it clears every gate that has killed the others
+
+| Gate | Status |
+|---|---|
+| **Figma** | ⭐ **Not mentioned.** This is InDesign and print production — her deepest tool, 22 years. The gap that weakened four applications is simply absent |
+| **Motion** | ⭐ **Not mentioned.** The second recurring gap, also absent |
+| **German** | **Not stated in the requirements.** gestalten publishes in English and is a globally distributed brand. ⚠️ Confirm the office language when she writes |
+| **Salary floor** | Berlin. **€50,700** Blue Card — **and see the §18b finding below, which removes this as a hard gate entirely** |
+| **Sponsorship** | Germany needs no register. Any employer can hire on a Blue Card, or on §18b |
+| **Seniority** | *Editorial Designer* is below her level, and **she has explicitly said she will settle for less senior to enter the market** |
+
+### The three things that make her unusual for it, not just adequate
+
+1. **"Creating layout templates"** is the job description of the national curriculum system —
+   100+ titles, five subjects, three scripts, and the templates that let a large team apply one
+   system consistently. **Most editorial designers have never built a system at that scale.**
+2. **"Implementing texts and text corrections"** is working from supplied, proofed copy. That
+   is the exact argument that won the Douglas reversal, and **she has demonstrably done it in
+   French at A2** — so a German-language house is not the barrier it looks like.
+3. **Publication pacing across 20+ mastheads at CPI and a full national newspaper redesign at
+   Al Arab.** Editorial rhythm at volume, under deadline, for fifteen of her twenty-two years.
+
+### How to apply — this is an email, not an ATS
+
+**A human reads this one.** No keyword parser, no knockout questions. That inverts the usual
+advice: the cover letter matters more than the CV, and **being unusual helps instead of
+screening her out.**
+
+⚠️ **They ask for desired salary in the first email.** Berlin editorial design at a small
+independent publisher will not pay €80,000. **Name a number that keeps the permit viable
+without pricing her out** — see §18b below before choosing it.
+
+⚠️ **Check against her real history before writing.** gestalten is Berlin creative-sector and
+the application log is known incomplete. **Has she applied here before?**
+
+---
+
+## 🔑 THE €50,700 FLOOR IS NOT A FLOOR — Germany's §18b. 3 Aug 2026.
+
+**This file has been screening out German roles paying under €50,700. That was wrong**, and it
+has probably cost real leads.
+
+**§18b AufenthG is Germany's default residence permit for non-EU university graduates, and it
+has *no fixed salary minimum.*** The offer must match the **local market rate** and pass a
+**Federal Employment Agency (Bundesagentur für Arbeit) review**. That is it.
+
+| Route | Salary requirement 2026 | Trade-off |
+|---|---|---|
+| **EU Blue Card** | **€50,700** standard · **€45,934** shortage occupations | Faster permanent residency, easier family reunification |
+| **§18b skilled worker** | **None.** Market rate + BA review | Slower to PR, extra agency step, but **it works** |
+
+**What this changes:** the Blue Card threshold is the bar for the *better* permit, **not the
+bar for eligibility.** A Berlin editorial design role at €42,000–48,000 is a viable relocation,
+and this file has been discarding that entire band.
+
+⚠️ **Two prerequisites to verify before relying on it:**
+
+1. **Degree recognition.** §18b needs her foreign degree recognised as comparable to a German
+   one — checked in the **`anabin`** database. Her **BCS Advertising & Graphic Design, Helwan
+   University, 2003** must appear as recognised (*H+*). **Check anabin now**, because it is a
+   precondition for the whole route and takes minutes to look up.
+2. **The over-45 Blue Card rule.** First-time Blue Card applicants **aged 45+ need €55,770**
+   in 2026, not €50,700, unless they can show retirement provision. **If Sara is 45 or over,
+   the Blue Card bar is higher than this file has been using — and §18b becomes more important,
+   not less.**
+
+**Action: re-open the roles previously rejected on the €50,700 floor.** Any German posting
+discarded purely on salary is now back in scope pending the anabin check.
+
+---
+
 ## ⛔⛔ THE NETHERLANDS SHOULD NOT BE THE PRIMARY TARGET. 3 Aug 2026.
 
 **Source: Ryan Sonder, The Chain Company** — a Dutch recruitment agency that advertises
