@@ -91,6 +91,49 @@ Netherlands both appear on both sides.
 yet" may only mean a slower process. This is the best available hypothesis, not a proven
 finding. **Revisit when the IC roles resolve.**
 
+### ⚠️ UPDATE, same day — Adyen rejected, and it weakens the above
+
+**Adyen was an *Art Director* — a senior IC craft role, sitting on the "still open" side of that
+table when I wrote it.** It was rejected within hours of the section being written. **The
+seniority hypothesis is weaker than it looked and should not be treated as established.**
+
+**But Adyen has its own documented cause, recorded before the rejection arrived.** Their role is
+*Art Director, **Internal Comms** Branding*, and **the cover letter sent for it said internal
+communications was new to her.** It was not — she had run **Benet7awel**, a phased
+teaser-and-reveal internal change campaign taking the whole Dubai Municipality headquarters
+through a culture change. That project was missing from the CV at the time of writing, so the
+letter actively undersold her **on the single requirement the role was named after.**
+See `cv-source-of-truth.md`. **That is the most likely reason, and it was an error in the
+application, not a verdict on her.**
+
+**Where that leaves the count:**
+
+| Decided | Country | Title type | Outcome |
+|---|---|---|---|
+| PVH | 🇳🇱 | Leadership | ❌ |
+| egg | 🇧🇪 | Leadership | ❌ |
+| Capgemini | 🇳🇱 | Leadership | ❌ |
+| Adyen | 🇳🇱 | **Senior IC** | ❌ — known cause, see above |
+| mobile.de | 🇩🇪 | Leadership | ❌ |
+
+**All four Dutch and Belgian applications that reached a decision were rejected. Only one of
+six German ones has been.** That points back at the country finding from Ryan Sonder rather
+than at seniority — but with n=5 and different process speeds, **both readings are still
+guesses.**
+
+### 🛑 Stop theorising. Two hypotheses in one day on five data points is too many.
+
+**What is true regardless of which one is right:**
+
+1. **Nine applications is a small number.** An 80% rejection rate at this stage is ordinary,
+   not a signal of failure. **The answer to a five-rejection week is more applications, not
+   more theory.**
+2. **gestalten scores well under both hypotheses** — German, senior IC, craft-led, no
+   leadership title, no local network required, no Figma or motion asked for, and read by a
+   human rather than an ATS. That is why it is the recommendation.
+3. **Carry the Adyen lesson forward, permanently.** Any internal-comms, employee-experience or
+   change-communication role **leads with Benet7awel.** That mistake must not repeat.
+
 ### What it changes
 
 **Sara said this herself before the data did** — *"i am ready to settle for less senior job as
@@ -109,12 +152,12 @@ local network is required to do the job on day one.
 | ~26 Jun 2026 | **Karsten International** | **Brand Manager** | 🇳🇱 Amsterdam | A1 | *(applied independently)* | ⚪ **Auto-acknowledgement only** — no decision after a month, despite their *"you will always receive a message from us"* | ✅ **SPONSORSHIP CONFIRMED** — posting states HSM visa + 30% ruling support, so they are on the IND register. ✅ **Follow-up email SENT 2 Aug** to named recruiter Febraneila Kusuma (f.kusuma@karsten.nl), adding CIM Level 7 and the +38% rebrand, and asking whether the band clears the €71,304 HSM threshold |
 | 26 Jul 2026 | **mobile.de** (Adevinta) | **Creative Lead** — in-house Creative Studio | 🇩🇪 **Berlin** | A1 | `brand-ci-governance` | ❌ **Rejected ~3 Aug** — *"decided not to move forward at this stage"*, no reason given | ⚠️ **The most surprising of the four.** All four gates were green and the role was newly created. Berlin, English, no German stated, €50,700 floor cleared at €80,000 stated. **If the leadership-title pattern below is real, this is explained by the title, not the fit.** **Newly created role bringing brand CI ownership in-house.** All four gates green: English posting with no German stated, Berlin's €50,700 floor, Creative Lead band, 668 staff **growing 19%**. Their first requirement — *owning brand CI development, governance and evolution* — is her core discipline stated as the job. Gaps: performance creative and variant testing; the *"MCPs, agents and integrations"* half of their AI ask, split honestly in the letter. **Salary stated €80.000 brutto p.a.** — level floor ~€70k, permit floor €50,700. **Do not click "I'm interested"** |
 | 26 Jul 2026 | **G2 Esports** | Head of Brand & IP | 🇩🇪 Berlin | A1 | *tbc* | ✅ **SENT 2 Aug** | **English mandatory, German not required.** Head of level reporting to COO, only 21 applicants. Brand strategy, visual identity and design systems are hers; **PR/Comms, IP and formats, and content production are not** — three of five pillars. They soften two themselves ("a plus", "not mandatory") |
-| 26 Jul 2026 | **Capgemini / frog** | Design Director | 🇳🇱 Utrecht | A1 | `design-director-consultancy` | ❌ **Rejected ~3 Aug** — form letter, invitation to join the job-alert list | **This one was called correctly when logged**: *"reposted 4 months ago; Capgemini design headcount down 17%. Send, do not over-invest."* The low-investment decision was right. **All four gates green** — 346k employees, Leadership Team salary, English, Director level. Stretch on discipline (UX/UI and service design). ⚠️ Reposted 4 months ago; Capgemini design headcount **down 17%**. Send, do not over-invest |
+| 26 Jul 2026 | **Capgemini / frog** | Design Director | 🇳🇱 Utrecht | A1 | `design-director-consultancy` | ❌ **Rejected ~3 Aug** — form letter, invitation to join the job-alert list | **This one was called correctly when logged**: *"reposted 4 months ago; Capgemini design headcount down 17%. Send, do not over-invest."* The low-investment decision was right. ⛔ **Deprioritise Capgemini entirely.** Their 7-day Utrecht job alert (2 Aug) lists ten vacancies: **nine are AI, engineering, Salesforce, Java, Teamcenter and compliance — Design Director is the only creative role.** That office is a technology consultancy with a single design seat, not a creative employer. Also worth noting: **the role is still advertised after her rejection**, so she was screened out, not beaten to a filled post | **All four gates green** — 346k employees, Leadership Team salary, English, Director level. Stretch on discipline (UX/UI and service design). ⚠️ Reposted 4 months ago; Capgemini design headcount **down 17%**. Send, do not over-invest |
 | 26 Jul 2026 | **BrainersHub** | (Senior) Art Director | 🇩🇪 Hamburg | A1 | `concept-systems-ai` | ✅ **SENT** | Salary stated **€58,000** — their band bottom (€50k) sits below the €50,700 floor, so naming a number mattered. German declared as ***"Ich spreche ein bisschen Deutsch"***, the accurate A2 answer and consistent with the A2 statement in her own Anschreiben. Rated weak on language and company size; **Sara's call, and correctly hers to make** |
 | 26 Jul 2026 | **Moss** | Senior/Lead Brand Designer | 🇩🇪 **Berlin** (not Amsterdam) | A1 | `ai-led-brand` | ✅ **SENT 2 Aug** | Berlin, not Amsterdam — — €50,700 floor, not Amsterdam's €71,304. Figma and motion named honestly. Risk is portfolio review |
 | 26 Jul 2026 | **egg** | HEAD OF CREATIVE — Event Agency | 🇧🇪 Brussels | A1 | `head-of-creative-events` | ❌ **Rejected 3 Aug** — ~24h turnaround, before stage one of a four-stage process | **The best-aligned role in the pipeline, refused in a day.** Salary was inside their published €70–85k band and every threshold cleared, so **this was a pre-screen on a hard filter, not a judgement on fit.** ⚠️ **Wording not yet captured — get it.** Whether it names work authorisation is the single most valuable piece of feedback this process has produced. See the sponsorship-verification finding in `pipeline-jobs.md` |
 | 26 Jul 2026 | **Mutabor** | Senior Brand Designer, Sport & Lifestyle | 🇩🇪 Hamburg | A1 | `brand-systems-guidelines` | ✅ **SENT 2 Aug** | Salary stated **€58.000 brutto p.a.** (floor €50,700). German declared **Grundkenntnisse** honestly; **umzugsbereit**. Misses two stated requirements — Figma and German — but they run free German courses |
-| 26 Jul 2026 | **Adyen** | Art Director — Internal Comms Branding | 🇳🇱 Amsterdam | A1 | `experiential-events-presentation` | ✅ **SENT 2 Aug** | Applied via Greenhouse, not LinkedIn. If salary is asked: **€75,000–85,000**, never below €72,000. **Do not connect with the Adyen employee LinkedIn surfaced** |
+| 26 Jul 2026 | **Adyen** | Art Director — Internal Comms Branding | 🇳🇱 Amsterdam | A1 | `experiential-events-presentation` | ❌ **Rejected ~3 Aug** | ⚠️ **Known cause, and it was ours.** The letter said internal communications was new to her, written from a CV that did not yet contain **Benet7awel** — a whole-headquarters internal change campaign, i.e. exactly the role. **Undersold on the one requirement the job is named after.** The single most avoidable rejection in this table | Applied via Greenhouse, not LinkedIn. If salary is asked: **€75,000–85,000**, never below €72,000. **Do not connect with the Adyen employee LinkedIn surfaced** |
 | 26 Jul 2026 | DOUGLAS Group / NICHE-BEAUTY.COM | Senior Graphic Designer & Team Lead Layout | 🇩🇪 Hamburg | A1 | `editorial-publishing-multiscript` | ✅ **SENT 2 Aug** | Salary stated **€58,000** (Germany's floor is €50,700). Start date flagged as **Dec 26 / Jan 27** — the ad says 1 Oct 26. **Email the recruiter first** and ask whether the team works in English |
 | 25 Jul 2026 | PVH Corp. | Creative Director, Tommy Hilfiger | 🇳🇱 Amsterdam | A1 | `fashion-consumer-editorial` | ❌ **Rejected ~26 Jul** — no interview, form letter, ~24h turnaround | **Screened on domain, not on level.** The 15-years-in-fashion bar against her ~5 fashion years, in a field of 353. Flagged as a stretch when logged; that held |
 | ~Jun 2026 | **Highsnobiety** | *(role not recorded — ask Sara)* | 🇩🇪 Berlin | A1 | *(applied independently)* | ❌ **Rejected 19 Jun 2026** | ⚠️ **Was not in this log until 3 Aug**, and I ranked Highsnobiety the strongest lead in the pipeline that day as a result. **The employer still matters** — they state visa/relocation support and hire internationally — but they are spent for now. **Record which role, and whether the rejection gave any reason** |
