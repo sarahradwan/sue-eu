@@ -601,6 +601,55 @@ Stern, Geo, Brigitte), **Burda**, **Zeit Verlag** (Hamburg — ZEITmagazin), **A
 across consumer and trade. **Condé Nast is the best of them** — international group structures
 and English-language global teams alongside the German editions.
 
+### ⚖️ Sara's objection: *"gestalten score will be useful for Germany only."* — Half right.
+
+**She is right about the permit reasoning.** §18b and the €50,700 Blue Card floor are German law
+and do not travel. That analysis widens Germany and nothing else.
+
+**She is wrong that the positioning is German.** Any single application is single-country by
+definition — that is not a reason against applying, it is what applying is. What must be
+EU-wide is **the asset, not the application**. And the editorial/publishing CV variant travels
+across the entire target list:
+
+| Country | Publishing targets for the same variant |
+|---|---|
+| 🇳🇱 **Netherlands** | **De Gruyter Brill** (Leiden) · Sanoma/Malmberg · Noordhoff · ThiemeMeulenhoff |
+| 🇧🇪 **Belgium** | **Peeters** (Leuven) · Lannoo |
+| 🇦🇹 **Austria** | **De Gruyter Brill** (Vienna office) · Brandstätter |
+| 🇪🇸 **Spain** | Gustavo Gili (Barcelona) · Blume |
+| 🇫🇷 **France** | Actes Sud · Gallimard · Flammarion · Assouline |
+| 🇩🇪 **Germany** | gestalten · TASCHEN · Hatje Cantz · Prestel · Klett · Cornelsen |
+
+**Build the variant once and it serves six countries.** gestalten is simply the first live role
+that uses it — the strongest argument for building it now rather than the reason for building
+it at all.
+
+### 🇮🇪 IRELAND — the correction to a Germany-heavy pipeline. 3 Aug 2026.
+
+**Six of nine applications went to Germany, and the recommendations since have been Berlin and
+Hamburg. Sara is right that the pipeline has drifted.** Ireland is the counterweight and it is
+the most under-worked country relative to how achievable it is:
+
+- **Lowest permit floor in her entire set** — General Employment Permit **€36,605**, Critical
+  Skills **€40,904**. Half the Dutch threshold.
+- **English by default.** No language gate at all — the objection that closes Dutch SMEs,
+  German educational publishing and French agencies simply does not exist here.
+- **No recognised-sponsor register**, so no legal pre-screen — but see below, because Ireland
+  solves that differently and better.
+
+⭐ **Irish postings frequently state sponsorship explicitly.** Search surfaced an EY Ireland
+Senior Graphic Designer carrying the field **"Available for Work Visa Sponsorship: No"**. **That
+is a structured, machine-readable answer to the exact question that killed egg** — and it means
+the verification rule can finally be applied *before* writing anything, which is impossible in
+Germany and Belgium.
+
+**Targets seen hiring in Dublin:** **RTÉ** (national broadcaster — brand and editorial design,
+structurally close to Al Arab), **Primark** (Dublin HQ, large in-house creative team, fashion
+retail — her CPI fashion years), Microsoft, Corgan, Guidewire.
+
+**Boards:** `builtindublin.ie/jobs/design-ux`, `getirishjobs.com`, `ie.indeed.com`.
+**Filter on the sponsorship field first, role second.**
+
 ### What to do with this
 
 1. **gestalten Editorial Designer first** — it is live and it is Tier 1.
