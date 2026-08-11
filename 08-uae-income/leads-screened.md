@@ -10,6 +10,114 @@ Screened against the six conditions in `move-or-stay.md`, the target in `savings
 
 ---
 
+## 🟠 Art Director, T: The New York Times Style Magazine MENA — ITP Media Group, Dubai
+
+Sent by Sara, 3 Aug 2026 · [LinkedIn](https://www.linkedin.com/jobs/view/4451698104/) ·
+apply at **itpmediagroup.teamtailor.com**, responses managed off LinkedIn · **On-site, Dubai** ·
+full-time · posted **3 hours ago, 31 clicked apply** · reports to the Editor-in-Chief
+
+**Verdict: the best craft match in the entire vault — and do not apply to it as posted.**
+**Message Natasha Pendleton instead.** Reasoning below; it is not a close call once the level
+and the money are put next to the fit.
+
+### Why the craft fit is the strongest ever screened
+
+| Their requirement | Her evidence |
+|---|---|
+| ***"consistent application across English and Arabic outputs (RTL considerations, bilingual typography)"*** — a core responsibility, not a bonus | **Native Arabic plus proven Arabic typographic systems at national scale.** `cv-and-market-value-assessment.md`: *"Most senior creatives in Dubai are expatriates who cannot art-direct Arabic… in a bilingual market this is the single most defensible thing she has, and it is almost certainly underpriced."* **This posting prices it directly** |
+| *"Mastery of typography and grid systems"* | The national curriculum system — 100+ books, five subjects, **three scripts**. Her strongest documented skill, full stop |
+| *"8–10+ years in editorial/brand art direction"* — **open-ended, no ceiling** | Al Arab Newspaper 2010–2015 (full redesign, weekly supplements) · CPI Media Group 2015–2020 (**Art Director and Fashion & Beauty Editor**, 20+ titles, MBC rebrand +38%) · curriculum publishing 2019–2021. Roughly a decade of genuinely editorial work inside 22 years |
+| *"Strong prepress knowledge — colour management, retouch supervision, proofing, press checks"* | A national daily newspaper, plus 100+ printed books and print-vendor direction |
+| *"Commission and direct photographers, stylists, illustrators, retouchers"* | **Led a team of illustrators** across the curriculum. Fashion & Beauty Editor at CPI. ⚠️ See the open question below |
+| *"emerging tools… generative/assistive AI"* | Her differentiator |
+| *"Familiarity with Arabic typography… bilingual English/Arabic advantageous"* | Native |
+
+**T MENA is a bilingual English–Arabic luxury editorial title.** A native-Arabic editorial art
+director with a proven multi-script typographic system is a genuinely scarce combination, and
+this is the first posting that asks for it explicitly rather than incidentally.
+
+### ⛔ And it still fails, on level and on money
+
+**1. The title is a step down.** She is **Senior** Art Director. This is **Art Director**.
+
+**2. The posting names the role above it.** *"Working with our **Group Art Director**"* — so ITP
+already has the job that matches her level, and this is not it.
+
+> **This is Pattern 2 verbatim.** `application-history.md`: three AKQA applications below her
+> level, none reached a human, diagnosed as *"too senior to be hired, too junior to be
+> sponsored."* A 22-year CV against an Art Director posting reads as overqualified and gets
+> screened on flight risk — **and here she would be applying to a role that reports to a
+> position she should be competing for.**
+
+**3. The money almost certainly is not there. [ESTIMATE — no published band.]** ITP is a
+regional publisher, and publishing pays below corporate and semi-government.
+`cv-and-market-value-assessment.md` puts Senior Art Director at a local employer at
+**AED 14,000–20,000**; an Art Director at a publisher plausibly sits at or under that.
+**Her floor is AED 23,000–25,000.**
+
+**4. Dubai, on-site.** Condition 2 applies: a new Dubai tenancy means **AED 25,000–60,000 in
+annual rent cheques up front**, plus a lease-break penalty. For this role to clear condition 2
+it would need an uplift of AED 15,000 — putting it near **AED 30,000** for an Art Director post
+at a publisher. That does not happen.
+
+### The genuine counter-argument, stated fairly
+
+**"Art Director, T: The New York Times Style Magazine" is a line every European recruiter
+recognises instantly.** `pipeline-jobs.md` and `cv-and-market-value-assessment.md` both record
+that her portfolio is MENA-institutional heavy and that **EU recruiters do not recognise her
+client names.** This single credential would fix that better than any case-study rewrite.
+
+**It is a real asset and it is still outweighed**, for three reasons: it costs the savings
+target that this whole folder exists to protect, it takes a title step down in a market where
+`cv-and-market-value-assessment.md` shows **titles set pay bands**, and leaving a prestigious
+international masthead after six months burns the most valuable reference she would gain.
+
+### ✅ What to do instead — and this lead is unusually well set up for it
+
+**Natasha Pendleton, Group Publishing Director at ITP Media Group, is a 1st-degree
+connection.** Not 2nd. Already connected.
+
+That makes this the **safest possible channel**: a direct message to an existing connection is
+completely private — no application, no follow, no trace, nothing observable. And a Group
+Publishing Director is senior enough to know the bands or to route her to whoever does.
+
+**ITP runs over 100 brands.** The AD post on T MENA is one door; the useful question is what
+sits at Group Art Director or Creative Director level across the group.
+
+**One message converts a below-level posting into an above-level conversation.** Draft in
+`outreach-and-applications.md`.
+
+**If Natasha comes back saying the T MENA role clears AED 25,000** — unlikely, but she is the
+person who would know — then reopen it. The craft fit is strong enough to justify revisiting
+on evidence.
+
+### 📌 One open question this makes urgent
+
+`application-history.md` has carried an unresolved item since 25 July: the CPI entry claims
+*"directed editorial photo shoots, including concept, styling direction and on-set direction"*,
+which is **not written in `cv-source-of-truth.md`** and was never confirmed.
+
+**This posting makes it decision-relevant.** *"Commission and direct photographers, stylists,
+set designers, illustrators and retouchers"* is a core responsibility here, and it will recur
+across every editorial role. **Sara should confirm or strike it, and if confirmed it belongs in
+the master** — the same lesson as Benet7awel and corporate publications.
+
+### Smaller gaps, for completeness
+
+- **Capture One and Lightroom** — *"advanced proficiency"* stated; neither is in her toolset.
+  Photographer and retoucher tools. A real gap, though she would be directing rather than
+  operating.
+- **Motion** — *"working knowledge of After Effects/Premiere"* is the softer formulation her
+  own rule calls defensible, and *"set motion guidelines"* is direction, which is hers. Mixed.
+- **Figma** — listed among several tools, not as *"expertise in Auto Layout"*. Survivable per
+  her own screening rule.
+- **Podcast identity systems, TikTok-native design** — modern editorial has moved here and she
+  has no evidence of it.
+- **ITP headcount**: Media and Communication **down 7%**, Operations **down 12%**, though Arts
+  and Design is **up 36%** over two years. Mixed signal; the design function is growing.
+
+---
+
 ## 🔥🔥🔥 Head of Creative Services — ADNEC Group, Abu Dhabi
 
 Sent by Sara, 2 Aug 2026 · [LinkedIn](https://www.linkedin.com/jobs/view/4447107161/) ·

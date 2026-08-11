@@ -147,6 +147,39 @@ clients without asking, and WeDo's clients and competitors overlap heavily with 
 
 **A recruiter who ignores this has told her something useful, early, at no cost.**
 
+## 3b. The warm message — an existing 1st-degree connection
+
+**The best channel available anywhere in this folder**, and it exists for ITP: Natasha
+Pendleton, Group Publishing Director, is already a 1st-degree connection. A DM to an existing
+connection is completely private — no application, no follow, no observable action.
+
+**The move: use a below-level posting as the reason to ask about the level above it.** ITP runs
+100+ brands; the Art Director post on T MENA is one door, and the Group Art Director and
+Creative Director roles are the ones that match her.
+
+> Hi Natasha,
+>
+> I saw ITP is building out the art direction on T MENA. It caught my eye because bilingual
+> English–Arabic editorial is unusually close to my own background — I've built typographic
+> systems across Arabic, English and French, including the UAE national curriculum, 100+ books
+> across three scripts, and spent five years art directing fashion and beauty titles at CPI.
+>
+> I'm at senior creative leadership level now — currently leading brand and creative for
+> government and institutional clients, with a team — so the Art Director post itself sits a
+> step below where I am. But it made me want to ask you directly: is ITP building at Group Art
+> Director or Creative Director level across any of the titles?
+>
+> Happy to send my portfolio either way. And I'd be grateful to keep this between us — my
+> current employer isn't aware I'm looking.
+>
+> Sara
+
+**Why it is worded that way:** it names the level honestly rather than applying downward and
+hoping, it gives a reason for the approach that is about the work rather than about wanting
+out, it asks one specific answerable question, and **the confidentiality line comes from her
+rather than being assumed** — with a 1st-degree connection in a small market, that sentence is
+the whole protection.
+
 ## 4. Direct approach to a tier-1 employer
 
 For a named Head of Brand, Creative Director or Marketing Director at a `target-employers.md`
