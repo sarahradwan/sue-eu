@@ -147,38 +147,75 @@ clients without asking, and WeDo's clients and competitors overlap heavily with 
 
 **A recruiter who ignores this has told her something useful, early, at no cost.**
 
-## 3b. The warm message — an existing 1st-degree connection
+## 3b. Natasha Pendleton — a former CPI colleague. The strongest asset in this folder.
 
-**The best channel available anywhere in this folder**, and it exists for ITP: Natasha
-Pendleton, Group Publishing Director, is already a 1st-degree connection. A DM to an existing
-connection is completely private — no application, no follow, no observable action.
+**Updated 3 Aug 2026: Sara worked with Natasha at CPI Media Group.** She is now **Group
+Publishing Director at ITP Media Group**. This is not a networking contact — it is a former
+colleague who has **personally seen the exact work ITP is hiring for**.
 
-**The move: use a below-level posting as the reason to ask about the level above it.** ITP runs
-100+ brands; the Art Director post on T MENA is one door, and the Group Art Director and
-Creative Director roles are the ones that match her.
+**Why that is worth more than any application in this file:**
+
+| | |
+|---|---|
+| **She has seen the work** | Not a portfolio claim. Natasha was there for the fashion and beauty editorial art direction at CPI — the thing T MENA needs |
+| **She is a safe referee** | `application-history.md` lists safe referees as *"Social Dar, the Ministry programme, DAIS, or CPI — all past, all safe."* **Natasha is CPI-era. She is on the approved list already** |
+| **An internal referral bypasses the pile** | 31 applicants in three hours on the T MENA post. A referral from a Group Publishing Director does not sit in that queue |
+| **She sees roles before they are posted** | ITP runs 100+ brands. The Group Art Director and Creative Director openings are the ones that clear Sara's floor, and they may never reach LinkedIn |
+| **She knows the bands** | One reply answers what a publisher actually pays at each level — the data `market-rate.md` could not get from any public source |
+
+**And a possibility worth naming: publishers shape roles for known quantities.** The T MENA post
+is advertised at Art Director, below Sara's level. An advocate who has worked with her can argue
+for a better title and band than the posting carries. **That does not happen from the applicant
+queue; it happens from a conversation.**
+
+### The message
+
+Shorter and warmer than a cold approach, because a former colleague does not need the
+credentials recited — she already knows them.
 
 > Hi Natasha,
 >
-> I saw ITP is building out the art direction on T MENA. It caught my eye because bilingual
-> English–Arabic editorial is unusually close to my own background — I've built typographic
-> systems across Arabic, English and French, including the UAE national curriculum, 100+ books
-> across three scripts, and spent five years art directing fashion and beauty titles at CPI.
+> It's been a while — I hope ITP is treating you well, and congratulations on the Group
+> Publishing Director role.
 >
-> I'm at senior creative leadership level now — currently leading brand and creative for
-> government and institutional clients, with a team — so the Art Director post itself sits a
-> step below where I am. But it made me want to ask you directly: is ITP building at Group Art
-> Director or Creative Director level across any of the titles?
+> I saw the Art Director post for T MENA. Bilingual English–Arabic editorial is very much my
+> territory now: since CPI I've built typographic systems across three scripts, including the
+> UAE national curriculum — 100+ books — and I've been leading brand and creative for
+> government and institutional clients, with a team.
 >
-> Happy to send my portfolio either way. And I'd be grateful to keep this between us — my
-> current employer isn't aware I'm looking.
+> The Art Director post sits a step below where I am, so I'm not applying to it. But it made me
+> want to ask you directly: is ITP building at Group Art Director or Creative Director level
+> across any of the titles? And what do those bands look like there?
+>
+> Genuinely happy either way — it would be good to catch up regardless.
+>
+> One ask: please keep this between us. My current employer doesn't know I'm looking.
 >
 > Sara
 
-**Why it is worded that way:** it names the level honestly rather than applying downward and
-hoping, it gives a reason for the approach that is about the work rather than about wanting
-out, it asks one specific answerable question, and **the confidentiality line comes from her
-rather than being assumed** — with a 1st-degree connection in a small market, that sentence is
-the whole protection.
+**Why it is worded this way:**
+
+- **Opens on the relationship, not the request.** She is a former colleague; leading with a job
+  ask treats her as a resource.
+- **Says plainly that she is not applying to the advertised role.** This is the whole point.
+  Applying downward and hoping is Pattern 2; naming her level and asking about the one above it
+  is how a senior person handles it — and it makes Natasha an advocate rather than a screener.
+- **Asks about the bands directly.** A former colleague can be asked that. A recruiter cannot,
+  not this early. **This single question is worth more than the three salary-guide downloads in
+  section 2.**
+- **The confidentiality line goes last and in her own words.** With a shared CPI network in a
+  small Dubai media market, that sentence is the entire protection — and a former colleague is
+  far more likely to honour it than a recruiter with a placement fee.
+
+### ⚠️ One discipline point this creates
+
+**Natasha would know if anything about the CPI years were overstated.** That is a good thing,
+and it makes the open question below non-optional: `application-history.md` has carried an
+unconfirmed claim since 25 July that the CPI entry *"directed editorial photo shoots, including
+concept, styling direction and on-set direction."*
+
+**Confirm it or strike it before this message goes out.** It is in the CV variants already, and
+the one person best placed to notice is the person being written to.
 
 ## 4. Direct approach to a tier-1 employer
 

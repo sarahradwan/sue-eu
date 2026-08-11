@@ -72,24 +72,39 @@ target that this whole folder exists to protect, it takes a title step down in a
 `cv-and-market-value-assessment.md` shows **titles set pay bands**, and leaving a prestigious
 international masthead after six months burns the most valuable reference she would gain.
 
-### ✅ What to do instead — and this lead is unusually well set up for it
+### ✅ What to do instead — and this is now the strongest asset in the folder
 
-**Natasha Pendleton, Group Publishing Director at ITP Media Group, is a 1st-degree
-connection.** Not 2nd. Already connected.
+**Updated 3 Aug 2026: Sara worked with Natasha Pendleton at CPI Media Group.** Natasha is now
+**Group Publishing Director at ITP.** That is not a 1st-degree connection — it is a former
+colleague who **personally saw the fashion and beauty editorial art direction this role is
+hiring for.**
 
-That makes this the **safest possible channel**: a direct message to an existing connection is
-completely private — no application, no follow, no trace, nothing observable. And a Group
-Publishing Director is senior enough to know the bands or to route her to whoever does.
+That changes what this lead is worth. Five things follow:
 
-**ITP runs over 100 brands.** The AD post on T MENA is one door; the useful question is what
-sits at Group Art Director or Creative Director level across the group.
+1. **She is already an approved referee.** `application-history.md` lists safe referees as
+   *"Social Dar, the Ministry programme, DAIS, or CPI — all past, all safe."* **Natasha is
+   CPI-era.** She is on the list without anything needing to change.
+2. **A referral bypasses the queue.** 31 applicants in three hours. A Group Publishing
+   Director's referral does not sit in that pile.
+3. **She sees roles before they are posted**, across 100+ brands — including the Group Art
+   Director and Creative Director openings that would actually clear Sara's floor.
+4. **She can answer the salary question directly.** One reply gives what a publisher pays at
+   each level — data `market-rate.md` could not obtain from any public source, and which the
+   whole folder has been working around.
+5. **Publishers shape roles for known quantities.** T MENA is advertised at Art Director. An
+   advocate who has worked with her can argue for a better title and band. **That never happens
+   from the applicant queue.**
 
-**One message converts a below-level posting into an above-level conversation.** Draft in
-`outreach-and-applications.md`.
+**Message drafted in `outreach-and-applications.md` §3b.** It says plainly that she is not
+applying to the advertised role and asks about the level above — which is what turns Natasha
+into an advocate rather than a screener.
 
-**If Natasha comes back saying the T MENA role clears AED 25,000** — unlikely, but she is the
-person who would know — then reopen it. The craft fit is strong enough to justify revisiting
-on evidence.
+**If Natasha comes back saying the T MENA role clears AED 25,000 at a better title** — she is
+the person who would know, and with an internal advocate it is no longer implausible — then
+reopen it. The craft fit is strong enough to justify revisiting on evidence.
+
+⚠️ **And the CPI photo-shoot claim below is now blocking, not merely open.** Natasha is the one
+person best placed to notice if it were overstated.
 
 ### 📌 One open question this makes urgent
 
