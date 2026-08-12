@@ -39,6 +39,43 @@ Lead · International Content / Creative Operations Lead · Senior Art Director.
 
 ---
 
+## 🇩🇪 Germany should be a fourth A1 lane — added 12 August 2026
+
+**The roadmap closes Germany. That is half right and it costs a lane.**
+
+Germany's **Opportunity Card is correctly closed**: it is a job-seeker visa needing roughly
+€13,092 of Sara's own money, which does not exist.
+
+But an **employer-sponsored** German role needs none of her capital. The employer carries
+it. That is Route A1, and it is live.
+
+| German route | 2026 threshold | Status |
+|---|---|---|
+| Opportunity Card (job-seeker) | ~€13,092 of her own funds | ⛔ **Closed.** Correctly |
+| Skilled Worker permit, first application at **45+** | **€55,770/year**, or proof of pension provision | Conditional |
+| **EU Blue Card, standard** | **€50,700/year** | ✅ **The realistic target** |
+| EU Blue Card, shortage occupation | €45,934 | Not applicable, creative is not a shortage field |
+
+**The comparison that matters:** the Netherlands lane requires **€71,304/year**
+(€5,942/month excluding holiday allowance). Germany's Blue Card requires **€50,700**.
+
+**That is roughly 30% lower than the lane the roadmap keeps open.** If the Netherlands is
+worth a lane at €71,304, Germany is worth one at €50,700.
+
+**Two things to verify before acting:**
+1. Whether the **45+ rule applies to the Blue Card** or only to the standard skilled-worker
+   permit. Sources suggest the Blue Card sits on its own legal basis with its own threshold,
+   which would make €50,700 the operative figure rather than €55,770. Material, and worth a
+   direct check.
+2. The language gate still binds hard. German postings carrying **"(m/w/d)"** are
+   German-working-language roles. **Berlin's English-first employers are the tech companies,
+   not the agencies** — and the German Federal Employment Agency put academic unemployment
+   in media, advertising and marketing at **8.5% in 2025** against 3.3% for academics
+   generally, so the agency market is soft.
+
+**Why the roadmap missed this:** earlier drafts treated "Germany" and "Opportunity Card" as
+the same thing. They are not. One needs her money; the other needs an employer.
+
 ## ⚠️ Three gaps to correct before this is fully operational
 
 v3 is sound in structure. These are allocation and emphasis problems, not errors.
