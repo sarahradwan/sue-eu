@@ -21,6 +21,38 @@ Country preference: Netherlands, Belgium, Austria preferred. France, Spain, Irel
 Portugal and any other EU country are all acceptable. The route matters more than the
 country — do not narrow the search to the preferred three.
 
+## ⛔ MONEY — the constraint that decides which routes are real
+
+**Stated directly by Sara, 12 August 2026: she lives month to month and cannot guarantee
+savings she does not have.**
+
+This is a standing fact, not a temporary state, and **it overrides every savings projection
+in this repo.** The ~€30,600 by May 2027 in `08-uae-income/` and the €15,000 target in
+`savings-target.md` are **forecasts conditional on a raise that has not happened**. Treat
+them as ambitions, never as budget.
+
+**The rule: never plan a route that requires her to produce capital.**
+
+| Route type | Status | Why |
+|---|---|---|
+| **Employer-sponsored work permit** | ✅ **Live** | The employer carries the permit cost and the salary evidence. Nothing depends on her balance |
+| **Fully funded scholarship** | ✅ **Live, and structurally the best fit** | Sweden's SI covers tuition, living costs, insurance **and travel**. For someone with no capital this is not a hedge, it is arguably the cleanest route available |
+| **Job-seeker and proof-of-funds routes** | ⛔ **Closed** | Germany's Opportunity Card (~€13,092), Austria's student funds (€15,701). These need money in an account before departure |
+| **Spain DNV via the savings limb (€34,188)** | ⛔ **Closed** | Only the **income limb (€2,849/month)** is reachable, and even then see the Social Security problem in `roadmap-v2-review.md` |
+
+**One honest gap that still needs solving:** even a sponsored move costs something up front
+— flights, a deposit, the weeks before a first salary. So **filter employers for those who
+pay relocation, and treat relocation support as a negotiable term, not a bonus.** Ask about
+it early rather than discovering the gap after an offer.
+
+**What this does NOT mean.** It does not make the UAE income work pointless. A raise still
+matters — but its purpose changes from *funding the move* to *creating any margin at all*,
+and to reducing the chance she has to accept a bad offer out of pressure.
+
+**No session may reopen a capital-dependent route** unless Sara confirms money is actually
+in an account. A projection is not a bank balance, and this repo has already made that
+mistake twice.
+
 ## CONFIDENTIALITY — non-negotiable
 
 **Her employer monitors her LinkedIn activity.** Her boss observes what she posts and
