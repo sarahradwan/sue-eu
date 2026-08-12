@@ -1,5 +1,66 @@
 # Review — Corrected EU Relocation Roadmap v2, 12 August 2026
 
+> ## 🔄 v2.1 reviewed — employer point fixed, both flagged errors still present
+>
+> **What v2.1 got right.** Route A2 through the current employer is correctly **closed**, a
+> separate **A2b** is opened for a *future independent* remote employer or client base and
+> correctly labelled "not an active plan", and Gate 1 and the effort categories were
+> updated. The instruction *"do not approach the employer"* is right, and for the right
+> reason.
+>
+> **What it did not fix, despite being flagged:**
+>
+> 1. **€2,442 is still in section 3**, with the same false explanation about dollar
+>    confusion. **€2,849 is verified correct** (SMI €1,221 × 14 = €17,094; ×2 ÷ 12).
+> 2. **The Egyptian house sale still occupies the whole of section 5.** Sara has since
+>    confirmed she **lives month to month and has no capital**, and there is still no house
+>    anywhere in this vault. The document continues to gate Germany and Austria on an asset
+>    that has never been evidenced.
+>
+> **And it has re-introduced v1's failure mode: internal contradiction.** Sections 2 and 3
+> close the Spain employee route. Section 5's table still lists Spain DNV as *"Potentially
+> live… depends primarily on qualifying ongoing UAE income and employer Social Security
+> cooperation."* Line 93 still describes the executable portfolio as including
+> **"employer-continuity"** paths, which the same document just closed. Section 5 was not
+> updated when sections 2 to 4 were.
+>
+> There is also a **duplicated, broken table fragment** in section 5 (a stray `|---|---|`
+> and a repeated block). Cosmetic, but it indicates the revision was not read through.
+>
+> ### The correction that matters most
+>
+> **Germany and Austria should be CLOSED, not "paused pending a house sale."**
+>
+> v2.1 keeps A3 as *"financially reopened"* on the basis that *"€30,600 would exceed this if
+> liquid and available."* It is neither. The €30,600 was always a **salary-saving forecast
+> conditional on a raise that has not happened**, and Sara has now confirmed she cannot
+> guarantee savings she does not have. There is no house to wait for. Waiting on it is
+> waiting on nothing.
+>
+> ### What actually survives both of Sara's constraints
+>
+> No capital, and no help from her employer. That leaves a **much simpler plan than this
+> document describes**, and simpler is not weaker:
+>
+> | Route | Status | Who pays |
+> |---|---|---|
+> | **A1 — a new EU employer sponsors her.** Sweden, Brussels, Netherlands | ✅ **Live** | The employer |
+> | **B — Sweden SI, fully funded** (tuition, living, insurance, travel) | ✅ **Live, and the best structural fit for someone with no capital** | The scholarship |
+> | **A2b — future independent remote income** | 🔭 Watch only. Real, but it does not exist yet | Her, later |
+> | A3 Germany, Austria, Spain-via-current-employer | ⛔ **Closed** | Would require capital or employer help she does not have |
+>
+> **Two live routes and one future option.** Every other lane in v2.1 needs something she
+> has already ruled out.
+>
+> ### Verdict
+>
+> Take the **role-title pivot**, the **four-gate filter**, the **Belgium split**, the
+> **Netherlands demotion at €5,942**, and the **gate calendar**. Those are good and they
+> survive. Overwrite section 5 entirely, restore €2,849, and close A3.
+
+---
+
+
 Reviewed 12 Aug 2026. Supersedes the concerns in `country-portfolio-review.md`, most of
 which v2 fixed properly.
 
