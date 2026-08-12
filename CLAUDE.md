@@ -53,6 +53,38 @@ and to reducing the chance she has to accept a bad offer out of pressure.
 in an account. A projection is not a bank balance, and this repo has already made that
 mistake twice.
 
+## ⛔ HER CURRENT EMPLOYER WILL NOT ASSIST WITH ANY ROUTE
+
+**Stated by Sara, 12 August 2026.** WeDo will not support relocation, remote work from
+abroad, an internal transfer, or any permit arrangement. Assume zero cooperation.
+
+**Do not propose anything that requires asking them.** Beyond the fact that they would
+refuse, **asking is itself the risk** — a question about working from Spain, or about a
+transfer, discloses her intent to the one employer that must not know. The confidentiality
+rule and this constraint reinforce each other.
+
+**What this actually closes:** only one thing. Roadmap v2 proposed testing whether her
+current employer would authorise remote work from Spain and register with Spanish Social
+Security. **That test is answered: no. Do not run it.**
+
+**What survives, and it is nearly everything:**
+
+| Route | Needs WeDo? |
+|---|---|
+| **A1 — a new EU employer sponsors her** | ❌ No. A different company entirely |
+| **A2 — remote work for a *new* non-EU employer** (UK, US, Gulf) converting to a Spanish permit | ❌ No. Emperor's UK business is exactly this shape |
+| **A2 — self-employed or freelance**, handling her own contributions | ❌ No, but see the UAE permit question below |
+| **B — fully funded scholarship** | ❌ No |
+
+**The one open question this creates.** Freelance income is the option that both funds the
+move and builds Route A2. Doing it normally needs an NOC or a MoHRE part-time work permit.
+Secondary sources suggest **degree-holding skilled workers may take second part-time work
+without the primary employer's approval** — if that holds, freelancing does not need WeDo's
+goodwill either. **Unverified. Confirm with MoHRE directly, never by asking WeDo.**
+
+**Reference handling:** never offer a WeDo referee. Use Social Dar, the Ministry of Education
+programme, DAIS or CPI, all past and all safe. See `application-tailor`.
+
 ## CONFIDENTIALITY — non-negotiable
 
 **Her employer monitors her LinkedIn activity.** Her boss observes what she posts and
