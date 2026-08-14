@@ -249,6 +249,62 @@ any employer, so those applications are **not** exposed to this failure in the s
 
 ---
 
+## 🇩🇰 DENMARK — researched at last, and it is the worst fit in the set. 3 Aug 2026.
+
+**The vault has carried *"Denmark route unresearched"* since the AKQA Copenhagen rejection in
+March. Closed now, prompted by a NoA Health posting.**
+
+**Denmark does not run the EU Blue Card.** It has its own schemes, and they are **purely
+salary-based** for a role like hers — there is no skills or shortage route that covers art
+direction.
+
+| Route | 2026 threshold | Reality |
+|---|---|---|
+| **Pay Limit Scheme (regular)** | **DKK 552,000** ≈ **€74,000** | **Higher than the Netherlands.** The highest floor in her entire set |
+| **Supplementary Pay Limit Scheme** | **DKK 446,000** ≈ **€59,800** | Lower, but the role must be publicly advertised **and Danish gross unemployment must sit below a set level** — a condition outside anyone's control that can suspend the scheme |
+| **Positive List** (higher education) | — | Shortage occupations: engineering, IT, health, skilled trades. **Art direction is not on it** |
+
+### ⚠️ The non-obvious consequence: Denmark punishes the "settle for less senior" strategy
+
+Everywhere else, dropping from Creative Director to Senior Art Director **improves** her odds —
+more roles, less local-network dependence, more willingness to sponsor. **In Denmark it breaks
+the permit**, because eligibility is a pure salary test with no craft or shortage route
+underneath it. **A Copenhagen Creative Director might clear DKK 552,000. An Associate Creative
+Director almost certainly will not.**
+
+**That inverts her whole approach, so Denmark is structurally the wrong country for her.**
+Deprioritise below Germany, Ireland, Belgium and Spain.
+
+### ❌ NoA Health — Copenhagen. **Do not apply.**
+
+Three roles posted: Senior Copywriter, **ACD – Art Direction**, **Creative Director – Art
+Direction**. Pharmaceutical and healthcare advertising. *"We dance ballet in a phone booth."*
+
+**Three long shots at once, and only one of them is arguable:**
+
+1. **Salary threshold** — see above. The ACD almost certainly fails it; the CD is a maybe.
+   **Not arguable, and not about her.**
+2. **No pharma or healthcare credentials.** Pharma advertising is a real specialism — the craft
+   *is* the regulatory constraint: fair balance, promotional claims rules, prescribing
+   information. Agencies hiring pharma creative leads hire people who already know it.
+3. **Both are leadership titles**, the category that has been fast-rejected four times out of
+   four.
+
+**The one genuine argument, recorded because it may be reusable elsewhere:** *"beautiful work
+within confines"* describes **institutional and government communications** as accurately as it
+describes pharma. She works under ministerial sign-off, multi-layer approval and constrained
+claims every day, and **led the rebrand of *Mother, Baby & Child*, consumer health publishing,
+followed by +38% subscriber growth.** That is a real answer to the regulated-creative question —
+**it is just not enough to carry a €74,000 permit threshold and a specialism gap at the same
+time.**
+
+**Verdict: no.** Not because it is impossible, but because **her application capacity is the
+actual bottleneck** — see `route-a-reality-check.md` §2. An evening spent here is an evening not
+spent on the gestalten role-specific application or on Ireland's sponsorship-filtered listings,
+both of which are strictly better bets.
+
+---
+
 ## 🆕 New leads — 3 Aug 2026
 
 **Search capability changed.** `WebSearch` runs through Anthropic infrastructure and works.
