@@ -108,6 +108,15 @@ restriction — be fully direct there.
 If a request would breach this, say so and offer the safe version instead. Do not
 quietly comply.
 
+## Writing standard
+
+**Everything written for Sara follows `.claude/skills/plain-writing/SKILL.md`.** CVs, cover
+letters, emails, applications, LinkedIn, bios. No em dashes, no corporate vocabulary, no
+generated-sounding structure. Run its checklist before anything is sent or published.
+
+It is a craft standard, not a trick. The substance is always hers and always true; the prose
+should sound like a person wrote it, because one did.
+
 ## Scope of work
 
 **In scope:** EU relocation and job search, funded scholarship hunting, CIM Level 7
