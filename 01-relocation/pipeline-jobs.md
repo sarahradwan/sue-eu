@@ -306,6 +306,59 @@ competitive.
 
 **LinkedIn messaging is private — no confidentiality exposure.**
 
+### 🔑 Sara's correction: the nomad-visa route. **She is right, and it reframes Route A2.**
+
+Sara's response to the location list: *"i can take it and relocate under nomad visa."* **Checked
+against `roadmap-v2-review.md`, and it holds — with one important distinction.**
+
+**Why the vault previously treated this as hard.** The Spanish DNV analysis assumed a **Gulf
+employer**. There is **no UAE–Spain social-security coordination agreement**, so a UAE employer
+would have to register as a foreign contributor with Spanish Social Security — *"a real
+administrative ask, and most Gulf employers would decline it."* That gate is what made A2 look
+fragile.
+
+⭐ **That gate does not exist for Berlitz, and this is the finding.** Berlitz lists Spain,
+Portugal, Germany and ten other countries as places staff are based, **so it already operates
+entities and payroll in them.** The administrative obstacle that kills the Gulf-employer version
+of A2 is already solved before she asks.
+
+**Three routes exist here, not one, and they cost the employer very different amounts:**
+
+| Route | What Berlitz must do | Assessment |
+|---|---|---|
+| **A. Employed by a Berlitz entity in 🇩🇪 Germany** | Sponsor a Blue Card (**€50,700**) or **§18b, which has no salary floor** | Cleanest if they are willing. Germany needs no sponsor register |
+| **B. Employed by a non-Spanish Berlitz entity, she lives in 🇪🇸 Spain on the DNV** | **Only a letter authorising remote work from Spain**, plus the social-security arrangement they already have infrastructure for | ⭐ **The cheapest possible ask.** She carries the visa application herself |
+| **C. Employed locally by Berlitz Spain** | Sponsor a Spanish work permit or Blue Card (€41,356) | Not a DNV. Ordinary sponsorship |
+
+**Route B is the point.** A DNV **shifts the burden from the employer to her**. They are not
+sponsoring anything, running a labour-market test, or filing a permit — they authorise remote
+work from a country where they already have a presence. **For a company that says "we cannot
+sponsor," that is the workaround**, and it converts an easy no into a much harder one.
+
+⚠️ **The one structural constraint on Route B:** Spain's DNV is for teleworkers employed by a
+company **outside Spain**. So the contract must sit with a **non-Spanish** Berlitz entity while
+she lives in Spain. If Berlitz Spain employs her directly, it is Route C and needs ordinary
+sponsorship.
+
+**Money is not the blocker.** The savings limb (€34,188 in an account) stays closed — no
+capital. But the **income limb of €2,849/month gross** is the one that applies to an employed
+applicant, and **a Brand Design Lead reporting to a VP of Design clears it comfortably.**
+
+### 🎯 The generalisable finding — this is bigger than Berlitz
+
+> **Route A2 works far better with an EU-headquartered multinational than with a Gulf employer.**
+> The social-security gate that made the DNV fragile is an artefact of the employer having **no
+> presence in the destination country**. Any employer with EU entities has already solved it.
+
+**What this changes in the search:** remote roles at **multinationals with European entities**
+become a distinct and under-worked category — not a consolation prize behind sponsored roles,
+but **a parallel route where the employer's cost of saying yes is dramatically lower.** Add it
+to `linkedin-search-kit.md` as a search in its own right: `remote` + `Europe` + brand/design
+titles, filtered for large multi-country employers.
+
+⚠️ **None of this fixes 437 applicants.** The strategy is right; **this specific role remains a
+lottery.** Play it because the message costs five minutes, not because the odds are good.
+
 ---
 
 ## 🟠 BENCHMARKED — Art Director, Köln. **Ask before applying.** 3 Aug 2026.
