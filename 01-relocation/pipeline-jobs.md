@@ -249,6 +249,65 @@ any employer, so those applications are **not** exposed to this failure in the s
 
 ---
 
+## 🔥🔥🔥 BREUNINGER — Senior Art Director Image, Stuttgart. **APPLY. Best fit of the week.** 3 Aug 2026
+
+**145-year-old premium fashion and lifestyle department store.** 6,500 staff, 13 stores, online
+in 13 countries, 1,500 brands. Hybrid, Stuttgart. **Reports to the Creative Director.** Functional
+Lead of the Image department with one direct report, inside a 7–8 person Ideation Team spanning
+**Grafik, Art Direction, AI and Management**.
+
+⭐ **22 applicants in 24 hours.** Compare Berlitz at 437 and PVH at 353. **This is the applicant
+count where craft still decides**, and per `linkedin-search-kit.md` that is the number to hunt.
+
+Apply: **`jobs.smartrecruiters.com/EBreuningerGmbHCo`** — online system only, **email applications
+are explicitly refused on data-protection grounds.** Contact: **Sabrina Rösch**. They ask for
+*"aussagekräftige Online Bewerbung inkl. Portfolio."*
+
+### She hits six of seven qualifications hard, and two of them are her rarest
+
+| Their qualification | Her |
+|---|---|
+| *"Senior Art Director, vorzugsweise in einem **Editorial-, Fashion-, Luxury-, Retail- oder Agenturumfeld**"* | **She is a Senior Art Director, in editorial and fashion and agency.** Three of five preferred environments |
+| ⭐ *"**Ausgeprägte Editorial-Erfahrung**… Bildsprache, visuelle Kommunikation und Markenführung"* | **Her deepest credential.** 20+ titles at CPI, a national newspaper redesign at Al Arab, the curriculum, the MFA annual report. 15 of her 22 years |
+| *"Entwicklung und Etablierung **visueller Identitäten** und markenprägender Kampagnenwelten"* | Act Air, four-country brand architecture, DAIS, the curriculum system |
+| ⭐ *"**Fundierte Kenntnisse in der Konzeption und Steuerung von Printproduktionen**"* | Daily newspaper deadlines, 100+ book curriculum, 20+ magazine titles. **Deep print production is increasingly rare and she has more of it than almost anyone under 50** |
+| *"Video- bzw. Bewegtbildproduktionen **ist ein Plus**"* | ✅ **A plus, not a requirement.** Her "I direct motion, I do not build it" line covers this exactly |
+| ⭐⭐ *"Praktisches Verständnis für **generative AI, Image Prompting** und effiziente AI-gestützte Kreativ-Workflows"* | **AI is a named function on the team, and image prompting is literally what she does in live production.** Her scarcest credential, stated as a job responsibility |
+| *"Steuerung externer Kreativpartner:innen: **Fotograf:innen, Stylist:innen, Set Designer:innen, Retoucher:innen**"* | ⚠️ **Steuerung, not execution** — directing production partners is hers. **But the CPI shoot question is still unconfirmed in this vault and it matters again here** |
+
+### ⚠️ The language question, and why it is NOT the BENCHMARKED situation
+
+The ad is entirely in German, and one qualification reads:
+
+> *"Sicherer, reflektierter Umgang mit **Text** – von **Headline- und Copy-Impulsen** bis zur
+> konzeptionellen Verzahnung von Bild und Sprache."*
+
+**But there is no stated German-language requirement anywhere in the qualifications.** BENCHMARKED
+said *"Sichere Kommunikation auf Deutsch und Englisch"* explicitly. **Breuninger does not.** That
+difference is the whole decision.
+
+**And the role's centre is Bildwelten, not Text.** Image worlds, campaign looks, editorials,
+visual lead ideas. *"Copy-Impulse"* is giving direction on headlines, not writing final German
+copy. Under `eligibility-filter.md` that sits closer to the permissible half of the test than the
+disqualifying one.
+
+**Do not pre-emptively exclude herself.** They did not state the requirement; the burden is
+theirs to raise it. ⚠️ **Stuttgart is not Berlin** and the internal language will be German, so
+expect it to come up. **State German honestly as A2 and improving, and let them decide.**
+
+### Permit and level
+
+**Germany, so no sponsor register.** 6,500 employees means an HR function that has run permits
+before. Senior Art Director at Breuninger should sit around **€60,000–75,000**, clearing the
+Blue Card floor of €50,700 and the €55,770 over-45 threshold, with **§18b underneath if the
+number comes in lower.**
+
+**Level is right.** Senior Art Director is her actual current title, not a stretch and not a step
+down. Reports to a Creative Director, leads one person. **A senior IC craft role, which is the
+category the pipeline should now be weighted toward.**
+
+---
+
 ## 🟠 BERLITZ — Brand Design Lead, remote. **Message the recruiter, do not just apply.** 3 Aug 2026
 
 Remote-first, **based anywhere in Germany, Switzerland, Hungary, Spain, Portugal, Bulgaria,
