@@ -152,6 +152,52 @@ adds an embassy step and she is executing it from Abu Dhabi, not Cairo — so it
 representative in Egypt or a power of attorney. **Budget 6–10 weeks and treat that as
 optimistic.**
 
+#### ⛔ DECISION, 27 July 2026 — stop the chain after step 2
+
+**Sara's objection, and it is correct:** *"It does not make sense to attest my papers when I
+do not know where I am going to end up."*
+
+Legalising **for Austria** now would be premature. But the chain is three steps and **only the
+last one is country-specific**:
+
+| Step | What | Country-specific? | Time |
+|---|---|---|---|
+| **1** | Supreme Council of Universities — verification | ❌ **No** | slow |
+| **2** | Egyptian MoFA — authentication | ❌ **No** | slow |
+| **3** | Destination embassy — over-legalisation | ✅ **Yes** | fast, days |
+
+**Steps 1 and 2 are the slow part and they are universal.** Every destination requiring
+legalisation at all requires MoFA attestation first. Step 3 is the fast part and the only
+part that could be wasted.
+
+**→ Do steps 1 and 2 now. Get multiple original sets. Stop. Do step 3 only once a
+destination is real.**
+
+**Why this is a good bet, not a gamble — of the four live destinations, three need it:**
+
+| Destination | Route | Needs MoFA-attested documents? |
+|---|---|---|
+| **Netherlands** | A — Blue Card | ✅ **Yes** — Nuffic evaluation cannot start without them |
+| **Germany** | A or B | ✅ **Yes** — ZAB Statement of Comparability, then ~3 months on top |
+| **Austria** | B | ✅ **Yes** — full chain, complete at application |
+| **Sweden** | B | ❌ **No** — scans of originals only |
+
+**The objection actually argues for doing this sooner, not later.** If Route A is the stronger
+route — and `SITUATION-BRIEF.md` makes that case — then the Netherlands is the likeliest
+destination, and the Dutch Blue Card needs **legalisation → Nuffic → permit application**,
+in that order, each taking weeks.
+
+**The cost of waiting, concretely:** a Dutch offer lands March 2027 → 6–10 weeks legalisation
+→ weeks for Nuffic → *then* the permit application starts. That is three months added before
+the permit clock even begins, and it pushes a mid-2027 departure into autumn or later.
+
+**The cost of acting:** roughly €150–400 for steps 1–2, inside the existing preparation
+budget, on documents that are useful in three of four scenarios and expire never.
+
+**What changes in the VFS call:** ask for steps 1–2 priced and timed **separately** from the
+Austrian embassy step, and confirm that a MoFA-attested set can later be taken to whichever
+embassy turns out to matter.
+
 #### ⚠️ There is no EU-wide recognition. Every country is separate.
 
 **Asked 26 July 2026, and the answer changes how the chain should be run.**
