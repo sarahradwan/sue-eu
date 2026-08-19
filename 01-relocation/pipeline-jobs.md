@@ -249,6 +249,65 @@ any employer, so those applications are **not** exposed to this failure in the s
 
 ---
 
+## 🟠 BERLITZ — Brand Design Lead, remote. **Message the recruiter, do not just apply.** 3 Aug 2026
+
+Remote-first, **based anywhere in Germany, Switzerland, Hungary, Spain, Portugal, Bulgaria,
+Cyprus, Estonia, Greece, Italy, Latvia, Lithuania or Malta.** Reports to the **VP of Design**.
+3,779 employees, **Arts and Design headcount up 12% over two years**, median tenure 9.3 years.
+Applications off LinkedIn via `berlitz.careers` (Ashby).
+
+### ⭐ One requirement is the closest match to her CV found all week
+
+> *"Experience designing guidelines that hold up across a **large, distributed, or multi-country
+> organization**, including **places where local teams have historically gone their own way**."*
+
+**That is the Social Dar retainer described by someone who has never met her.** Brand
+architecture across group subsidiaries in the **UAE, Pakistan, Ukraine and Kenya**, held
+consistent over four years. Very few applicants in a field of 437 will have done that; most
+brand designers have never held one system across four countries and a franchise-style drift
+problem.
+
+The rest also lands: *"a proven track record **building or substantially evolving** a brand
+identity system, not just working within one someone else built"* (the national curriculum
+system, Act Air, the four-country architecture), owning typography, colour, imagery and motion
+in guidelines, holding a fixed constraint while everything else moves, mentoring, and managing
+freelancers and agencies. **Fluent English is the only language requirement.**
+
+**B2B/enterprise is arguable and she should argue it.** *"Credible and premium to a buying
+committee running formal RFPs"* is **government procurement**, which is her daily work — a 12%
+tender win rate, ministerial sign-off, multi-stage evaluation. Frame ministries as the buying
+committee they are.
+
+### ⛔ Two problems, one probably fatal
+
+1. **The location list is a right-to-work list, not a relocation offer.** *"Based anywhere in
+   [13 countries]"* is how companies structure remote hiring **through entities they already
+   have**, precisely to avoid immigration. The UAE is not on the list. **There is no
+   sponsorship language anywhere in the posting.**
+2. **437 candidates clicked apply, 331 in a single day.** Per `linkedin-search-kit.md`: over
+   200 and the craft no longer decides it. **A cold application here is close to worthless.**
+
+**Partial gap on AI.** *"AI native… deep in **context engineering, MCP**, generative design
+tools"* — she has the generative half comprehensively (live production, AI usage governance
+written into client brand systems, which is the rarer thing) and **none of the MCP and
+context-engineering half.** Same split as mobile.de. **State it honestly; do not claim MCP.**
+
+### ✅ The play: message Cynthia Ganser, the named Talent Partner
+
+The posting names **Cynthia Ganser, Talent Partner at Berlitz**, with a direct message link and
+a 3rd-degree connection.
+
+**With 437 applicants, a cold application is noise and a direct message is not.** One question
+resolves the fatal unknown before any work is invested, and puts her name in front of a human
+in the process. **If the answer is that right to work in a listed country is required, this is
+closed and it cost five minutes.** If Berlitz would consider sponsorship for a senior role
+reporting to the VP of Design, the four-country brand architecture makes her genuinely
+competitive.
+
+**LinkedIn messaging is private — no confidentiality exposure.**
+
+---
+
 ## 🟠 BENCHMARKED — Art Director, Köln. **Ask before applying.** 3 Aug 2026.
 
 **Marketing and consulting agency exclusively for fashion brands.** 14 people, 420 m² in central
