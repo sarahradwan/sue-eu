@@ -6,7 +6,32 @@ work or start a company, what is that figure?
 Worth answering seriously. It reveals the size of the actual gap, and the gap is smaller than
 it feels.
 
-**One input missing: total debt. Called `D` throughout. Everything else is computed.**
+**Debt confirmed by Sara, 12 Aug 2026: AED 50,000, which is about €11,765 at AED 4.25 to the
+euro.**
+
+## ✅ The answer
+
+| Tier | Euro | Dirham |
+|---|---|---|
+| **Tier 1 — clean, debt-free, safe landing** | **€46,300** | **AED 197,000** |
+| **Tier 1 with employer relocation support** | **€34,800** | **AED 148,000** |
+| Tier 2 — secure, two years of runway | €100,300 | AED 426,000 |
+| Tier 3 — plus start the company | €161,800 | AED 688,000 |
+| Tier 4 — plus own the home outright | €541,800 | AED 2,302,000 |
+| Tier 5 — never work again | ~€1.31m | ~AED 5.6m |
+
+**The number is €46,300. Roughly AED 197,000.**
+
+That is the whole distance between where she is now and a safe, debt-free landing in Europe
+with six months of cushion.
+
+**And it drops to about €35,000 if an employer pays relocation**, which is a normal term for
+an international hire and costs her nothing to ask for.
+
+**A Sweden SI award would cover a large part of what remains**, since it pays tuition, living
+costs, insurance and travel. Debt clearance would be the main item left.
+
+---
 
 All figures 2026, euros, one person, no dependants. Netherlands used as the base because it
 is the most expensive of the live lanes. Brussels runs roughly 20 to 25 percent cheaper.
