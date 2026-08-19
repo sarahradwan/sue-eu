@@ -93,10 +93,15 @@ in the plan and nothing else can start until the requirements are known.)*
 
 **+2 0221600051** · Sun–Thu **08:30–16:30 Cairo** = 09:30–17:30 Abu Dhabi. Ask:
 
-1. Full requirements and cost for the Austrian chain
-2. Realistic turnaround right now
+*(Revised 27 Jul after Sara's objection — correct — that attesting for Austria is premature
+when the destination is unknown. **The chain stops after step 2.** Steps 1–2, Supreme Council
+of Universities then Egyptian MoFA, are country-agnostic and are the slow part. Step 3, the
+embassy stamp, is country-specific, fast, and waits for a real destination.)*
+
+1. **Price and time steps 1–2 SEPARATELY from the embassy step** — that is the whole point
+2. **Confirm a MoFA-attested set can later go to whichever embassy turns out to matter**
 3. **How many original sets should she prepare?**
-4. **Can one MoFA-attested set be presented to more than one embassy?**
+4. Realistic turnaround right now for steps 1–2
 5. Can an agent act on power of attorney with her in the UAE?
 
 Then, **small, in priority order:**
