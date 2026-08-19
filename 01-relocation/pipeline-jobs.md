@@ -249,6 +249,66 @@ any employer, so those applications are **not** exposed to this failure in the s
 
 ---
 
+## 🟠 BENCHMARKED — Art Director, Köln. **Ask before applying.** 3 Aug 2026.
+
+**Marketing and consulting agency exclusively for fashion brands.** 14 people, 420 m² in central
+Cologne with its own photo studio and retail space. Full-time, permanent, **on-site**, start
+**01.10.2026**. **11 applicants, 73% of them entry level.** Apply to
+**`svenja.steltzner@benchmarked.de`** — **no cover letter; a 2-minute video** plus portfolio
+and CV.
+
+### On content this is the best-matched German role screened so far
+
+| Requirement | Her |
+|---|---|
+| *"Fashion-, Lifestyle- oder **E-Commerce-Bezug**"*, **min. 3 years** | **CPI Media Group — Art Director *and* Fashion & Beauty Editor**, 20+ consumer brands across fashion, beauty and lifestyle, 5 years. **PVH rejected her against a 15-year fashion bar; this one asks for three** |
+| *"Typografie, Layout, Raster, Bildkomposition… **Ob Du es im Studium oder in der Praxis gelernt hast, ist uns egal. Dass Du es kannst, nicht**"* | Explicitly craft-over-credential. 22 years of exactly this |
+| *"Adobe CS, **insbesondere InDesign und Illustrator. Figma ist ein Plus**"* | ⭐ **Figma is only a plus and InDesign leads.** The gap that weakened four applications is a non-issue here |
+| *"Branding & Corporate Identity… Logo-Anwendung, Typografie, Farbwelten, konsistente Umsetzung"* | Her core discipline, stated as the job |
+| ⭐ *"**AI als Beschleuniger.** Wir setzen AI intensiv in Kreation und Produktion ein. **Dein geschultes Auge entscheidet, die Tools machen Dich schneller**"* | **Her scarcest credential, and their framing is her exact position** — AI in live production, AI usage guidelines written into client brand systems |
+| *"Führung: Projektteams, Fotograf:innen, Freelancer:innen"* | Directs multidisciplinary specialists |
+
+### ⛔ But one stated requirement fails, and it is the decisive one
+
+> *"**Sichere Kommunikation auf Deutsch** und Englisch."*
+
+**German is listed first, and this role is real-time verbal direction** — running creative
+regie on set with German photographers and producers, holding relationships with national
+fashion brands, inside a 14-person Cologne agency whose internal language will be German.
+
+**Against `eligibility-filter.md`, this is the disqualifying half of the test**: does the role
+need her to *author and run relationships* in the language, or to *lead layout of copy supplied
+by others*? **This is the first. You cannot art-direct a live shoot at A2.**
+
+### ⚠️ Two further unknowns, one of which is unverified in this vault
+
+1. **Set experience.** *"Im Zentrum stehen unsere Fashion-Shootings"* — directing shoots is the
+   centre of the role, not an extra. **The vault currently flags the CPI photo-shoot claim as
+   unconfirmed** (see the ITP entry in `application-history.md`). **Sara must confirm honestly
+   whether she has directed shoots on set**, because it cannot be finessed here.
+2. **Overqualification.** They ask for **3+ years**; she has 22. Small agencies screen that out
+   on salary expectation and retention risk. **A 14-person agency has also almost certainly
+   never run a work permit** — Germany needs no register, but willingness is the gate and small
+   shops are least likely to bother.
+
+### ✅ The recommendation: **one email, not a video**
+
+The application costs a **2-minute video, a portfolio and a CV** — cheaper than a tailored CV
+and letter, and a video is where 22 years of presence and presenting to ministers actually
+shows. **With 11 applicants, 73% of them entry level, she would stand out enormously.**
+
+**But all of that is wasted if German is non-negotiable.** So invert the order: **email Svenja
+first and ask.** One short message resolves in a day what two hours of video cannot fix.
+
+- **If English plus developing German is workable** → make the video. She is a strong candidate.
+- **If German is genuinely required** → nothing lost, and the answer is worth having anyway.
+
+**This is the profile to hunt from now on**: fashion or lifestyle art direction, InDesign-led,
+AI-forward, craft-over-credential — **but in an English-working environment.** BENCHMARKED is
+the right shape of role in the wrong language.
+
+---
+
 ## 🇩🇰 DENMARK — researched at last, and it is the worst fit in the set. 3 Aug 2026.
 
 **The vault has carried *"Denmark route unresearched"* since the AKQA Copenhagen rejection in
