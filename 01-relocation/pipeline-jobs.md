@@ -359,6 +359,38 @@ titles, filtered for large multi-country employers.
 ⚠️ **None of this fixes 437 applicants.** The strategy is right; **this specific role remains a
 lottery.** Play it because the message costs five minutes, not because the odds are good.
 
+### ✅ Built 3 Aug — CV variant `brand-system-distributed`
+
+New variant, built as ATS-safe .docx (single column, no tables, contact details in body).
+Rebuild with `build_berlitz_cv.py`. **The variant to reach for whenever a posting asks for brand
+guidelines that survive a distributed or multi-country organisation.**
+
+**What it does differently from every other variant:**
+
+- **The header claims the discipline, not a title she has held**: *Brand Design Lead. Identity
+  Systems for Distributed, Multi-Country Organisations.*
+- **The four-country architecture is the first bullet of the Social Dar entry**, above the
+  studio-founding line, and it is written as a governance story rather than a scope story:
+  *"Consistency came from guidelines specific enough to be usable and enough local buy-in that
+  following them was easier than not."* **That answers their "not policing after the fact"
+  requirement in their own terms.**
+- **Enterprise credibility is argued through government procurement** — ministerial and
+  executive committees, formal multi-stage tenders, a 12 percent win rate. Their B2B requirement
+  is *"credible to a buying committee running formal RFPs"*, which is what that is.
+- **Act Air is reframed around the fixed constraint** — *"working inside a fixed name and making
+  everything else carry the positioning"*, mirroring their *"hold a fixed constraint, like a name
+  or logo that isn't changing."*
+- **The curriculum entry adds mentoring**, since they ask for it: *"mentoring on the thinking
+  behind it rather than policing the output."*
+- **AI is claimed only where it is true.** Generation and governance are stated; **MCP and
+  context engineering are not mentioned at all in the CV** and are conceded explicitly in the
+  cover letter. Not hidden, not inflated.
+- Figma stays *"in active development"*. They ask for design-system tokens and patterns, which
+  is a genuine partial gap until the 30 Aug artefact exists.
+
+⚠️ **PDF conversion is unavailable in this environment** (LibreOffice fails to load). The .docx
+is ATS-safe and Ashby accepts it; **export to PDF from Word if the form insists.**
+
 ---
 
 ## 🟠 BENCHMARKED — Art Director, Köln. **Ask before applying.** 3 Aug 2026.
