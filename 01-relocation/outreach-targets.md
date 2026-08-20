@@ -160,6 +160,74 @@ rate collapses past about 120 words.
 
 ---
 
+## ✈️ A trip to Germany — worth it, but only as a conversion event
+
+Sara asked 3 Aug whether spending a month in Germany would help, when, and what it would cost.
+
+### It helps, and the condition is everything
+
+**In person converts at a rate no message matches.** But a trip does not create contacts, it
+converts them. **A fortnight with fifteen meetings booked is transformative. A fortnight with two
+is an expensive holiday.** So the sequence is fixed: **outreach first, trip second.** Everything
+in this file happens before a flight is booked.
+
+⛔ **What it does not do.** It does not help the permit. Egyptian nationals cannot enter on a
+Schengen visa and switch to a German work permit from inside the country — that privilege belongs
+to a short list of nationalities she is not on. **She would still apply from the UAE.** The trip
+buys relationships, market knowledge, portfolio conversations and in-person interviews. Nothing
+administrative.
+
+### 🎯 When: October, around the Frankfurter Buchmesse. **7 to 11 October 2026.**
+
+**4,300 exhibitors. Trade-only 7–9 October, public at the weekend.** Every publisher on the
+target list above is in one building for three days: gestalten, TASCHEN, Hatje Cantz, Prestel,
+De Gruyter Brill, Peeters, Condé Nast, the German houses. **There is no other week in the year
+where her strongest category is that concentrated.**
+
+⚠️ **It is a rights fair, not a recruitment fair.** People are in back-to-back meetings. Cold
+approaches at stands mostly fail. **It only works if she emails ahead and books coffee**, which
+is another reason outreach comes first.
+
+**Second-best windows if October does not work:** **September** (everyone back, Q4 budgets live)
+and **mid-January to March** (new budgets released). **Avoid** July and August entirely, the
+Christmas shutdown from roughly 20 December to 6 January, and Carnival week in February if
+targeting Cologne or Düsseldorf.
+
+### 💶 Cost, honestly
+
+**Two weeks beats a month.** The second half of a month produces sharply diminishing returns
+against roughly double the cost.
+
+| Item | 2 weeks | 1 month |
+|---|---|---|
+| Schengen visa (€90 + service) | €120 | €120 |
+| Mandatory travel insurance | €40 | €55 |
+| Flights, Abu Dhabi to Frankfurt return, October | €350–550 | €350–550 |
+| Accommodation (hostel or WG sublet) | €400–650 | €800–1,300 |
+| **Deutschlandticket** — all regional transport, nationwide | €58 | €58 |
+| Food, mostly self-catered | €180 | €350 |
+| Book Fair trade ticket | €50–100 | €50–100 |
+| Coffees, meetings, contingency | €120 | €220 |
+| **Total** | **€1,320 – €1,800** | **€2,000 – €2,800** |
+
+⚠️ **Frankfurt hotels triple during the fair.** Stay outside the city and commute in on the
+Deutschlandticket, or book months ahead.
+
+### ⛔ The money gate, stated plainly
+
+**The Schengen visa itself requires proof of funds** — Germany looks for roughly **€45 per day**
+of stay, so a fortnight needs about **€630 demonstrably in her account**, alongside bank
+statements, booked accommodation and a return ticket.
+
+**Per `CLAUDE.md`, this is a capital-dependent step and cannot be assumed.** But it is **not** in
+the same category as the routes that are closed: the Opportunity Card wanted €13,092 and the
+Spanish savings limb €34,188. **This is €1,300 to €1,800 total, saved over a few months.** That
+is a decision she can actually make, which the others never were.
+
+⏱️ **If October 2026 is the target, the consulate appointment must be booked immediately.**
+Schengen processing runs 15 to 45 days and appointment slots in Abu Dhabi and Dubai back up.
+**Seven weeks is workable but not leisurely.**
+
 ## Cadence
 
 **Five messages a week, not fifty.** Personalised beats volume in this channel, which is the
