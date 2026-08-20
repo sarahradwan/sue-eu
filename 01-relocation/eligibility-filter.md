@@ -84,6 +84,34 @@ strength of route first, country preference second.
   written in that language. *(Refined 26 Jul 2026.)* Ask: does the role need her to **author**
   copy and run relationships in it, or to **set and lead layout** of copy supplied by others?
   The first disqualifies; the second does not. Getting this wrong nearly cost a good lead.
+- ⏱️ **The role is urgent, backfilling, or needs someone to start soon.** *(Added 3 Aug 2026,
+  from the clearest rejection this search has produced.)* **Cynthia Ganser, Talent Partner at
+  Berlitz**, answering a direct approach:
+
+  > *"We can only hire where we already have entities, and **this is an urgent role, so given
+  > visa processing and appointment timelines, we're not able to proceed on that basis right
+  > now.**"*
+
+  **The reason is time, not policy, capability or fit.** She did not say Berlitz cannot sponsor
+  or that Sara was unsuitable. She said the clock does not work. **A work permit for an Egyptian
+  national applying from the UAE takes two to four months** — consulate appointment plus
+  Ausländerbehörde. **No amount of craft closes that gap on an urgent hire.**
+
+  **This is a filter Sara can apply herself, before writing anything, and it is visible in the
+  posting.** Screen out: *"urgent"*, *"ab sofort"*, *"as soon as possible"*, *"immediate start"*,
+  backfills for someone who has already left, and roles reposted repeatedly because they are
+  desperate.
+
+  ⭐ **The inverse is the category to hunt.** Roles with a **stated start date months out** are
+  structurally suited to her, because the visa timeline is already inside their plan:
+  **BENCHMARKED (start 01.10.2026)**, **Douglas (1 Oct)**, newly created positions, roles tied
+  to a project or season, and large employers with structured onboarding. **A distant start date
+  is not a drawback for her. It is a qualifying signal.**
+
+  ⚠️ **And raise § 81a early.** Germany's *beschleunigtes Fachkräfteverfahren* lets the employer
+  compress the timeline for about €411. Naming it **before** an employer starts worrying about
+  dates turns an open-ended unknown into a known administrative step. Cynthia's objection was
+  *"appointment timelines"*, which is precisely what §81a addresses.
 - Tuition above €2,000/year with no scholarship covering it.
 - Non-EU country. (Note: UK and Switzerland are **not** EU — flag separately, do not
   file as qualifying without asking.)
