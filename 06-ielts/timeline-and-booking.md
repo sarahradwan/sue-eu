@@ -32,7 +32,8 @@ result that lands on 30 January leaves zero room for an appeal or a lost score r
 | Date | What |
 |---|---|
 | **21 Aug 2026** | Today. D1 issued, unsat. |
-| **4 Sept 2026** | **IELTS course starts** — length and syllabus TBC |
+| **4 Sept 2026** | **IELTS course starts** — 6 weeks, Academic-specific |
+| **~16 Oct 2026** | Course ends (derived: 6 weeks from 4 Sept; confirm whether there are breaks) |
 | 15 Jan 2027 | Swedish application closes |
 
 ## Recommended dates
@@ -73,7 +74,23 @@ not a policy cooldown.
 
 ---
 
-## The course (starts 4 Sept 2026)
+## The course — 4 Sept to ~16 Oct 2026, 6 weeks, Academic-specific
+
+**Academic-specific is the good news.** A mixed Academic/General Training course would have
+spent real time on GT Task 1 letter writing, which is worth nothing to you. That waste is
+off the table.
+
+**Six weeks lands the sitting at week 3–4 — which is the right place for it.** Sitting in
+the last week of September means the official score report, with its four section bands,
+arrives with roughly two weeks of course still to run. That converts the back half of the
+course from a generic syllabus into targeted remediation against a real result, and it is
+a better structure than either sitting cold before the course or waiting until it ends.
+
+| Course week | Dates | What it is for |
+|---|---|---|
+| 1–2 | 4–17 Sept | Attend selectively. Baseline already known from the D-battery. |
+| 3–4 | 18 Sept – 1 Oct | **Sit the exam in this window.** |
+| 5–6 | 2–16 Oct | Score report in hand. Remediation against actual section bands. |
 
 ### Sit D1 before it starts. This is the one genuinely time-critical item.
 
@@ -110,9 +127,9 @@ What to extract instead, in priority order:
 
 ### Open — to confirm
 
-- **Course length and end date** (drives whether the sitting sits mid-course or after)
+- Exact end date and whether the 6 weeks run without breaks
 - Group or one-to-one; contact hours per week
-- Whether it is Academic-specific or mixed Academic/General Training
+- Whether attendance can be selective without losing the marked-writing entitlement
 
 ⚠️ Confidentiality note: a group course is a room of people who will ask why you are taking
 it. The CIM Level 7 is a true, dull, already-public answer.

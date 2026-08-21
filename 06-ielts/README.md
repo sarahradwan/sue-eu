@@ -69,6 +69,10 @@ Nothing marked yet. No study plan until there is a baseline to build it on.
 ⏳ **D1 must be sat before 4 Sept 2026**, when the IELTS course starts and teaches the Task 1
 convention. After that a cold baseline is gone permanently. See `diagnostic.md`.
 
+Course: 4 Sept – ~16 Oct 2026, 6 weeks, Academic-specific. Sitting targeted at the last
+week of September — course week 3–4 — so the score report lands with two weeks of tuition
+left to spend against it. Calendar in `study-plan.md`.
+
 | File | Holds |
 |---|---|
 | `diagnostic.md` | First full timed paper — the baseline everything else is measured against |
