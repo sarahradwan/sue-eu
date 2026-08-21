@@ -1,6 +1,6 @@
 # Situation brief — for a fresh session, or a second opinion
 
-Written 26 July 2026, at Sara's request, after two days of Route B research left her feeling
+Written 21 August 2026, at Sara's request, after two days of Route B research left her feeling
 it "is not going anywhere promising."
 
 **This brief is deliberately written against its own author's work.** It states what was

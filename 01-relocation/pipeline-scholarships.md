@@ -14,7 +14,7 @@ tuition **under €2,000/year** with a viable living-cost plan.
 
 ## Verification status of this pass — read first
 
-**Research pass 1 — 25 July 2026.** Priority: the mid-career eligibility filter.
+**Research pass 1 — 21 August 2026.** Priority: the mid-career eligibility filter.
 
 This session's network policy **blocked direct access to the primary sources**
 (`si.se`, `wu.ac.at`, `tuwien.at`, `bmfwf.gv.at`, `erasmus-plus.ec.europa.eu` all returned
@@ -31,7 +31,7 @@ those calls open Oct 2026 – Feb 2027 — it is recorded as *not yet published*
 
 ---
 
-## Confirmed personal facts — 25 July 2026
+## Confirmed personal facts — 21 August 2026
 
 Supplied directly by Sara. These are no longer assumptions and the file is written against
 them.
@@ -41,7 +41,7 @@ them.
 | **Nationality** | **Egyptian** | ✅ **Sweden (SI) is OPEN.** Egypt is on the eligible-country list. The gate that blocked the strongest lead is cleared. |
 | **Date of birth** | **11 August 1980** | Age **46** through the entire application window; **47** at a Sept 2027 intake. |
 | **Degree transcript** | **Held** | The classic late blocker in `timeline-to-2027.md` is *not* the blocker. Attestation is. |
-| **English language test** | ⛔ **DOES NOT EXIST** | Corrected 25 Jul 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
+| **English language test** | ⛔ **DOES NOT EXIST** | Corrected 21 Aug 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
 | **Attestation of both** | **NOT DONE** | ⛔ **This is now the critical path.** See the section below. |
 | **Degree grade (Helwan, 2003)** | **5776 / 8000 = 72.19%** | Egyptian band **"Good" (Jayyid)**. **Kills Master Mind.** Harmless everywhere else. See below. |
 
@@ -124,7 +124,7 @@ most nationalities.
 
 **Egypt is not a party to the Hague Apostille Convention.** There is no apostille shortcut.
 Egyptian documents need the **full consular legalisation chain**, country by country.
-*Search-sourced 25 Jul 2026 — verify at hcch.net before acting.*
+*Search-sourced 21 Aug 2026 — verify at hcch.net before acting.*
 
 ### Austria — the heaviest burden, and it gates the live lead
 
@@ -152,7 +152,7 @@ adds an embassy step and she is executing it from Abu Dhabi, not Cairo — so it
 representative in Egypt or a power of attorney. **Budget 6–10 weeks and treat that as
 optimistic.**
 
-#### ⛔ DECISION, 27 July 2026 — stop the chain after step 2
+#### ⛔ DECISION, 21 August 2026 — stop the chain after step 2
 
 **Sara's objection, and it is correct:** *"It does not make sense to attest my papers when I
 do not know where I am going to end up."*
@@ -200,7 +200,7 @@ embassy turns out to matter.
 
 #### ⚠️ There is no EU-wide recognition. Every country is separate.
 
-**Asked 26 July 2026, and the answer changes how the chain should be run.**
+**Asked 21 August 2026, and the answer changes how the chain should be run.**
 
 Two different things get conflated, and both are **national, not EU-level**:
 
@@ -244,10 +244,10 @@ question that actually matters:
 later — from Abu Dhabi, through an agent — is another multi-week loop, and it would be
 discovered at exactly the wrong moment.
 
-*Search-sourced 26 Jul 2026. The per-embassy handling rules vary and are the single most
+*Search-sourced 21 Aug 2026. The per-embassy handling rules vary and are the single most
 useful thing to confirm on the VFS call.*
 
-#### Who to actually contact — researched 26 July 2026
+#### Who to actually contact — researched 21 August 2026
 
 **The Austrian Embassy Cairo does not receive legalisation requests directly. VFS Global
 does.** That is the official channel and the authoritative starting point — going to a paid
@@ -282,7 +282,7 @@ Judge replies on three things: do they name the **Austrian** chain specifically 
 the UAE one, can they act on power of attorney for a UAE-resident client, and do they quote a
 **total** covering all three stages rather than a per-stage teaser.
 
-*Search-sourced 26 Jul 2026; the VFS and BMEIA PDFs were not read directly — proxy-blocked.
+*Search-sourced 21 Aug 2026; the VFS and BMEIA PDFs were not read directly — proxy-blocked.
 **Open the VFS sheet before paying anyone.***
 
 **Consequence for the live lead:** WU Vienna's **round 1 closes 8 Oct 2026, 75 days out**.
@@ -306,7 +306,7 @@ Sweden's central admissions service does **not** require consular legalisation:
 scanner and a translator; Austria needs three ministries and an embassy. That asymmetry
 should shape the order she does the work in.
 
-### ⛔ No English language test — corrected 25 July 2026
+### ⛔ No English language test — corrected 21 August 2026
 
 **My error in earlier passes.** I wrote "English certificate" loosely; she reasonably read
 that as her degree certificate. **Clarified: she has never sat IELTS, TOEFL or any
@@ -360,8 +360,8 @@ it breaks the Swedish application.
 
 | Milestone | Target date | Status |
 |---|---|---|
-| IELTS session opened | 26 Jul 2026 | ✅ **done — ahead of schedule** |
-| Diagnostic D1 (Writing Task 1) taken | early Aug 2026 | 🟢 **study started 27 Jul — ahead of plan** |
+| IELTS session opened | 21 Aug 2026 | ✅ **done — ahead of schedule** |
+| Diagnostic D1 (Writing Task 1) taken | early Aug 2026 | 🟢 **study started 21 Aug — ahead of plan** |
 | Writing Task 1 at band 7 in practice | Aug–Sept 2026 | ⬜ |
 | Two full timed papers at 7.0+ | Sept 2026 | ⬜ |
 | **Test booked** | **September 2026** | ⬜ |
@@ -394,18 +394,18 @@ cover the whole dependency.
 
 ---
 
-## ❓ "Is there anything to apply for in July or September 2026?" — answered 27 July
+## ❓ "Anything to apply for this month or September?" — answered 21 August 2026
 
-**July: no. Nothing in the pipeline has a July deadline.**
+**August (10 days left): no.** Nothing in the pipeline has an August deadline.
 
-**September: nothing found in her field — but this is "not found", not "does not exist",
-and the difference has a deadline attached.**
+**September: nothing found in her field — but this is "not found", not "does not exist", and
+after the date correction that distinction is now 31 days from biting.**
 
-Some Erasmus Mundus consortia **do** close in September. **MARIHE closes 21 September 2026**
-for the 2027 intake — proof that the October–January generalisation is not universal. MARIHE
-itself is higher-education research and management, **not her field**, so it is irrelevant to
-her. But it establishes that a relevant consortium *could* close in September and we would
-not currently know.
+Some Erasmus Mundus consortia **do** close in September. **MARIHE closes 21 September 2026** —
+**exactly one month from today** — proof that the October–January generalisation is not
+universal. MARIHE is higher-education research and management, **not her field**, so it is
+irrelevant to her. But it establishes that a relevant consortium *could* close in September,
+and we would not currently know.
 
 **The catalogue has never been read properly.** It lists 100+ programmes, it is
 **proxy-blocked from this session**, and the only sweep done was from search snippets.
@@ -435,13 +435,24 @@ What August and September decide is whether January is possible at all.
 
 ## Closing within 60 days
 
+> ### ⛔ DATE CORRECTION — 21 August 2026
+>
+> **Earlier passes in this session were dated 25–27 July and computed every "days out" figure
+> from that.** The actual date is **Friday 21 August 2026**. Every deadline below has been
+> recomputed. **The plan has roughly four weeks less runway than it was written to assume.**
+>
+> The material consequences: **WU Vienna round 1 is now inside the 60-day window**, the portal
+> opens in **11 days**, and any September Erasmus Mundus deadline is **~31 days out**, not two
+> months. Nothing was missed — but the September catalogue check moved from prudent to urgent.
+
 | What | Date | Days out | Why it matters |
 |---|---|---|---|
-| ⛔ **Start Egyptian document legalisation** | **now** | **0** | 6–10 weeks, three authorities, executed remotely from Abu Dhabi. Everything below depends on it. Not a deadline anyone set — which is exactly why it slips. |
-| ⚠️ **Check English certificate expiry** | **this week** | **0** | If it needs re-sitting, test slots have to be booked now, not in December. |
-| **WU Vienna application portal opens** for the following intake | **1 Sept 2026** | **38** | First live date in the Route B calendar. Not a deadline — an opening. |
-| WU Vienna — round 1 deadline | 8 Oct 2026 | 75 | **Realistically out of reach** — legalisation must already be on the documents. Target round 2. |
-| WU Vienna — round 2 deadline | 8 Jan 2027 | 167 | **The realistic Austrian target.** |
+| ⛔ **Start legalisation steps 1–2** (SCU → Egyptian MoFA) | **now** | **0** | 6–10 weeks from today lands **late Oct – early Nov**. Country-agnostic, so it is not a bet on any destination. Not a deadline anyone set, which is why it slips. |
+| ⚠️ **Read the Erasmus Mundus catalogue** — deadlines in her field | **now** | **0** | **MARIHE closes 21 Sept = 31 days.** If a relevant consortium closes in September, it is already close. Proxy-blocked for me; Sara must do it. |
+| **WU Vienna portal opens** | **1 Sept 2026** | **11** | First live date. An opening, not a deadline. |
+| ⚠️ **WU Vienna — round 1** | **8 Oct 2026** | **48** | **NOW INSIDE 60 DAYS.** Still hard to reach — Austria wants legalisation complete at application and step 3 will not be done. Round 2 remains the target, but this is no longer comfortably distant. |
+| **WU Vienna — round 2** | **8 Jan 2027** | **140** | **The realistic Austrian target.** |
+| **universityadmissions.se closes** | **mid-Jan 2027** | **~147** | **The hard one. Sweden's whole route runs through it.** |
 
 No scholarship scheme **closes** within 60 days. The Oct 2026 – Feb 2027 window in
 `timeline-to-2027.md` holds exactly as written — but the **preparation** window has
@@ -512,7 +523,7 @@ eligibility is built *around* work experience rather than in spite of it.
 | Source | https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters |
 | Fit | The no-age-limit rule makes this the widest door open to her. **But see the field problem below — it is real.** |
 
-**⚠️ Field search, first sweep — 25 July 2026. Preliminary and not encouraging.**
+**⚠️ Field search, first sweep — 21 August 2026. Preliminary and not encouraging.**
 
 Searched the catalogue for design, brand, communication and creative management. The
 closest four found:
@@ -542,7 +553,7 @@ design or brand programme than a consortium catalogue weighted to heritage and p
 
 #### 3. ⛔ Master Mind Scholarship — Flanders, Belgium — **LIKELY FAILS on the GPA floor**
 
-**Status changed 25 July 2026** once the Helwan grade was known. Her 72.19% is Egyptian
+**Status changed 21 August 2026** once the Helwan grade was known. Her 72.19% is Egyptian
 "Good"; the scheme requires **3.5/4.0**, measured on the last obtained bachelor's or
 master's. No reading of the conversion gets there.
 
@@ -590,7 +601,7 @@ Details retained below for that conversation.
 | Fit | English-native environment, strong international agency and tech-brand presence in Dublin. Weakest funding of the four, and Dublin housing costs erode it. |
 | **Status** | **LEAD.** Watch for the 2027/28 call. |
 
-### SBW Berlin Scholarship — checked 26 July 2026 on Sara's suggestion. **Fails four ways.**
+### SBW Berlin Scholarship — checked 21 August 2026 on Sara's suggestion. **Fails four ways.**
 
 Fully funded and genuinely generous — 100% tuition, furnished accommodation in SBW's shared
 student flats in Berlin, ~**€480/month** stipend, travel allowance both ways. Worth checking.
@@ -603,7 +614,7 @@ It does not survive the filter.
 | **Income** | Must **prove low household income** | Senior creative director | ⛔ almost certainly fails |
 | **Post-study** | **Must intend to work ≥18 months in the home country after graduating** | Goal is to *stay* in the EU | ⛔ **fails by design** |
 
-*Search-sourced 26 Jul 2026 from scholarship aggregators; sbw-berlin.de not read directly —
+*Search-sourced 21 Aug 2026 from scholarship aggregators; sbw-berlin.de not read directly —
 proxy-blocked. The age band and the return clause are consistent across every source found.*
 
 **The fourth row is the one that generalises**, so it has been added to
@@ -619,7 +630,7 @@ capacity in the sending country.** They are generous precisely because they expe
 home. That expectation is the opposite of the goal, and it is worth screening for *before*
 checking age or funding — it is faster to check and it disqualifies just as absolutely.
 
-### Heinrich Böll Foundation — assessed 26 July 2026 from the official Info Sheet A 1–1 b
+### Heinrich Böll Foundation — assessed 21 August 2026 from the official Info Sheet A 1–1 b
 
 **First scheme assessed from a primary document, not search results.** Sara supplied the
 June 2025 information sheet (`USie/UGD 06/25`). Everything below is quoted from it.
@@ -686,7 +697,7 @@ the threshold for one region before writing it off entirely.**
 
 ---
 
-## ⛔ RE-RANKED 25 July 2026 — the money constraint
+## ⛔ RE-RANKED 21 August 2026 — the money constraint
 
 **Confirmed by Sara, and the detail matters more than the number:**
 
@@ -746,7 +757,7 @@ problem, and it points at exactly two schemes.
 **But the money can come from the scholarship.** Austrian permits explicitly accept a
 **scholarship confirmation** in place of savings or a blocked account — alongside bank
 deposits and a Haftungserklärung from an EU resident.
-*Search-sourced 25 Jul 2026.* https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
+*Search-sourced 21 Aug 2026.* https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
 
 **So the correct reading of Austria's €726.72/semester is not "a cheap way in". It is a
 multiplier on a scholarship** — a stipend that would be swallowed by Dutch or Irish tuition
