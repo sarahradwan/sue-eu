@@ -361,7 +361,7 @@ it breaks the Swedish application.
 | Milestone | Target date | Status |
 |---|---|---|
 | IELTS session opened | 21 Aug 2026 | ✅ **done — ahead of schedule** |
-| Diagnostic D1 (Writing Task 1) taken | early Aug 2026 | 🟢 **study started 21 Aug — ahead of plan** |
+| Diagnostic D1 (Writing Task 1) taken | ⏳ **before 4 Sept 2026** | 🟡 **study started 21 Aug; D1 still outstanding** — an IELTS course begins **4 Sept** and teaches the Task 1 convention, after which a cold baseline is gone permanently |
 | Writing Task 1 at band 7 in practice | Aug–Sept 2026 | ⬜ |
 | Two full timed papers at 7.0+ | Sept 2026 | ⬜ |
 | **Test booked** | **September 2026** | ⬜ |
