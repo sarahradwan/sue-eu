@@ -3,7 +3,17 @@
 Purpose: establish a **real** band baseline so the study plan targets actual gaps, not
 assumed ones. Everything in `study-plan.md` is derived from this file.
 
-**Status: D1 issued 26 Jul 2026. Awaiting Sara's script. Not yet marked.**
+**Status: D1 issued 21 Aug 2026. Awaiting Sara's script. Not yet marked.**
+
+> ### ⏳ D1 must be sat before 4 September 2026
+>
+> The IELTS course starts that day and will teach the Task 1 convention in its opening
+> sessions. **After that, a cold baseline is impossible — permanently.** Any Task 1 written
+> post-course measures how well the teaching landed, not where the gap actually was.
+>
+> The baseline is also what tells you which parts of the course to skip. Sit it first and
+> the course becomes selective; sit it after and you have paid for eight weeks of material
+> pitched at a B2 candidate without knowing which two sessions you needed.
 
 ---
 

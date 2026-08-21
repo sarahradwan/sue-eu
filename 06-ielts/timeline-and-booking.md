@@ -27,20 +27,36 @@ result that lands on 30 January leaves zero room for an appeal or a lost score r
 
 ---
 
+## Fixed points
+
+| Date | What |
+|---|---|
+| **21 Aug 2026** | Today. D1 issued, unsat. |
+| **4 Sept 2026** | **IELTS course starts** — length and syllabus TBC |
+| 15 Jan 2027 | Swedish application closes |
+
 ## Recommended dates
 
-The README says book September, sit September–October. One refinement, and it is the only
-change I would make:
+> **Book this week. Sit in the last week of September — during the course, not after it.**
 
-> **Book in the first half of August, sit in the last week of September.**
+An earlier draft of this file said "book in the first half of August." That window has
+passed; the booking is now the most overdue item in the folder, not the most comfortable.
 
-Same sitting window. Booking earlier costs nothing and buys three things:
+Sitting *during* the course rather than waiting for it to finish looks impatient and is
+not. Three reasons:
 
-1. **A fixed date to train against.** Open-ended prep drifts; a booked date does not. This
-   is the main reason, and it is worth more than the other two combined.
-2. **Choice of date and slot.** Registration closes 4 days before the test, but the good
-   computer-delivered slots go earlier than that.
-3. **Two clean retake windows** instead of one.
+1. **A good result makes the course optional.** If late September returns 7.0+, the
+   remaining weeks convert from obligation to insurance and can be dropped or narrowed to
+   Listening only. Sitting after the course forecloses that — you pay the full time cost
+   before finding out whether you needed it.
+2. **A fixed date to train against.** Open-ended prep drifts; a booked date does not. A
+   course start date is not a substitute — it paces the syllabus, not the exam.
+3. **Three retake windows instead of one.** See below. This is the argument that does not
+   bend.
+
+The course is not the thing that earns the band. The English is already there; the gap is
+exam convention, which is a two-to-three-week fix, not an eight-week one. Sequence the
+course around the test, not the test around the course.
 
 ### Retake math
 
@@ -54,6 +70,52 @@ Same sitting window. Booking earlier costs nothing and buys three things:
 There is **no mandatory waiting period between IELTS attempts** — you can rebook as soon as
 you like. The constraint is slot availability and how fast you can act on the feedback,
 not a policy cooldown.
+
+---
+
+## The course (starts 4 Sept 2026)
+
+### Sit D1 before it starts. This is the one genuinely time-critical item.
+
+The course will teach the Academic Task 1 convention in its opening sessions. **Once it
+does, a cold baseline is gone permanently** — there is no second first attempt. After
+4 September, any Task 1 score measures how well the course was absorbed, not where the
+real gap was.
+
+The baseline is also what tells you *which parts of the course to ignore*. Without it you
+sit through eight weeks of material calibrated for a B2 candidate. With it you know which
+two sessions matter and can spend the rest on Listening.
+
+### What a generic IELTS course is likely to get wrong for you
+
+Most are built for candidates whose **English** is the obstacle. Yours is not. Expect a
+meaningful share of the syllabus to be grammar drills, tense review and vocabulary
+building — all of it wasted time at C2. Budget for skipping it without guilt.
+
+What to extract instead, in priority order:
+
+| Worth the time | Why |
+|---|---|
+| **Marked writing with examiner feedback** | The single highest-value thing a course provides. Ask how many scripts get individually marked, and by whom. |
+| **Listening under real conditions** | The README's flagged risk, and the one thing hardest to self-administer. |
+| **Reading timing technique** | 40 questions in 60 minutes. Technique, not comprehension. |
+| **A mock under exam conditions** | Worth attending even if you skip everything around it. |
+
+### Questions to put to the provider in week one
+
+- How many writing scripts are marked individually, and is the marker a trained IELTS examiner?
+- Is there a full mock under timed conditions, and when?
+- Is the Listening material authentic Cambridge audio or provider-made?
+- Can sessions be attended selectively?
+
+### Open — to confirm
+
+- **Course length and end date** (drives whether the sitting sits mid-course or after)
+- Group or one-to-one; contact hours per week
+- Whether it is Academic-specific or mixed Academic/General Training
+
+⚠️ Confidentiality note: a group course is a room of people who will ask why you are taking
+it. The CIM Level 7 is a true, dull, already-public answer.
 
 Sitting in late September rather than late October is the difference between three attempts
 and one. That is the whole argument for the earlier date.
