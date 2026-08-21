@@ -687,6 +687,53 @@ academic assessor who can speak to her recent postgraduate work. **Action: ident
 a relationship with that tutor now**, well before a reference is needed. Add it to the
 referee work in week 8 of `weekly-homework-scholarships.md`.
 
+### ESDES Business School, Lyon — "Strategic Marketing and Innovation" · **FAILS**, 21 Aug 2026
+
+Sent by Sara from a Mastersportal email. Field is genuinely relevant and it is English-taught
+in an acceptable country, so it is worth saying precisely why it fails.
+
+| | | |
+|---|---|---|
+| **Tuition** | **57,089 AED/year ≈ €14,000/year** (AED is USD-pegged at 3.6725) → **~€28,000 over two years** | ⛔ **7× the €2,000 ceiling** |
+| **Institution type** | **Private business school** (Université Catholique de Lyon), not a public university | ⛔ the private-fee trap |
+| **"Scholarships available"** | The **Excellence Scholarship is 10–30% of the FIRST YEAR only.** At the maximum that is ~€4,200 off year one; year two is unreduced | ⛔ **not a funded place** |
+| **CROUS** | French state student aid — generally tied to residence criteria a newly arrived non-EU student does not meet | ⚠️ not a route |
+| **Ranking** | "Not ranked" on Studyportals' meta ranking | ⚠️ |
+| Language | English | ✅ |
+| Country | Lyon, France | ✅ acceptable |
+| Field | Strategic marketing and innovation | ✅ genuinely relevant |
+
+**Best case if she won the maximum award:** ~€23,800 tuition plus ~€20,000 Lyon living costs
+over two years, against **zero capital**. Not close.
+
+**Two tells worth learning from this one, because more will arrive:**
+
+1. **"Scholarships available" is marketing until it names a scheme, an amount and a deadline.**
+   Here it means *up to 30% off year one*. The eligibility filter already says this; ESDES is
+   a clean worked example of the gap between the phrase and the reality.
+2. **"Apply Jul 2027 / start Sep 2027" is itself a signal.** A two-month window between
+   application and start is impossible for a competitive funded programme — funded rounds
+   close six to nine months ahead. A late, open window means **rolling fee-paying admission**.
+   Speed of entry correlates with cost of entry.
+
+**And note what this listing is.** Mastersportal marks it *"Featured by ESDES Business
+School"*, and the tracking URL carries `"l":"premium"` and `"l":"revenue"`. **This is a paid
+placement, and "Good Match" is Studyportals' algorithm, not an eligibility assessment.**
+
+#### 🔎 A 60-second self-screen for Mastersportal and similar emails
+
+More of these will come. Sara can kill most of them without asking:
+
+1. **Public university or private school?** Private = full fees, no exceptions worth waiting for.
+2. **What is the non-EU tuition?** Over €2,000 → it needs a *full* scholarship, not a discount.
+3. **Does "scholarships available" name a scheme, amount and deadline?** If not, it is marketing.
+4. **How long between apply date and start date?** Under ~4 months signals fee-paying rolling
+   admission, not funded selection.
+5. **Is it "Featured" or "Sponsored"?** Then it is an advertisement.
+
+Anything failing 1–3 is noise. **Sending it here is still the right call when unsure — but
+this screen will save her most of them.**
+
 ### Checked and probably dead — one more look before discarding
 
 **Italy — regional DSU scholarships.** No age limit, and the package is excellent (full
@@ -899,6 +946,8 @@ is the main body of pass 2.
 ## Closed
 
 | Scheme | Country | Reason |
+|---|---|---|
+| **ESDES Business School, Lyon** | France | Private school, **~€14,000/yr**; "scholarships available" = 10–30% of **year one only**. Sent by Sara from a Mastersportal paid listing, 21 Aug 2026 |
 |---|---|---|
 | DAAD EPOS | Germany | Degree >6 years old |
 | France Excellence Eiffel | France | Age ≤29 |
