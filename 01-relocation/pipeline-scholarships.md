@@ -394,6 +394,45 @@ cover the whole dependency.
 
 ---
 
+## ❓ "Is there anything to apply for in July or September 2026?" — answered 27 July
+
+**July: no. Nothing in the pipeline has a July deadline.**
+
+**September: nothing found in her field — but this is "not found", not "does not exist",
+and the difference has a deadline attached.**
+
+Some Erasmus Mundus consortia **do** close in September. **MARIHE closes 21 September 2026**
+for the 2027 intake — proof that the October–January generalisation is not universal. MARIHE
+itself is higher-education research and management, **not her field**, so it is irrelevant to
+her. But it establishes that a relevant consortium *could* close in September and we would
+not currently know.
+
+**The catalogue has never been read properly.** It lists 100+ programmes, it is
+**proxy-blocked from this session**, and the only sweep done was from search snippets.
+**Sara is not blocked. She can open it.**
+
+**→ Action assigned to Sara, not Claude: open the Erasmus Mundus catalogue, filter to her
+field, and record every deadline before October.**
+https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters
+
+This is now the **only** thing in Route B that could have a 2026 deadline. Until it is
+checked, "nothing until October" is an assumption, not a fact.
+
+**The real first submissions, on current knowledge:**
+
+| When | What |
+|---|---|
+| **Oct–Nov 2026** | Erasmus Mundus consortium deadlines begin |
+| **mid-Oct 2026** | universityadmissions.se opens for autumn 2027 |
+| **mid-Nov 2026** | SI eligible-programme list published |
+| **8 Jan 2027** | WU Vienna round 2 |
+| **mid-Jan 2027** | **Swedish admission closes — hard** |
+| **~Feb 2027** | **SI scholarship portal, ~2 weeks only** |
+
+**So Aug–Sept is preparation, not submission** — and that is the calendar's doing, not a
+failure of the search. Scholarship rounds for a Sept 2027 intake simply open Oct–Nov 2026.
+What August and September decide is whether January is possible at all.
+
 ## Closing within 60 days
 
 | What | Date | Days out | Why it matters |
