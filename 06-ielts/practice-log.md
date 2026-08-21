@@ -16,7 +16,7 @@ anything and logging it would corrupt the trend.
 
 | ID | Date | Section | Timed | Result | Band | Notes |
 |---|---|---|---|---|---|---|
-| D1 | 2026-07-26 issued | Writing Task 1 | 20 min | *awaiting script* | — | First Academic Task 1 ever written |
+| D1 | 2026-08-21 issued | Writing Task 1 | 20 min | *awaiting script* | — | First Academic Task 1 ever written |
 | D2 | — | Writing Task 2 | 40 min | — | — | Issued after D1 marked |
 | D3 | — | Reading | 60 min | — | — | Issued after D1 marked |
 | D4 | — | Listening | ~30 min | — | — | **Blocked:** needs Cambridge IELTS 19 audio |
@@ -32,7 +32,7 @@ anything and logging it would corrupt the trend.
 
 | # | Date | Task | Words | Time | TA/TR | CC | LR | GRA | Band |
 |---|---|---|---|---|---|---|---|---|---|
-| D1 | 2026-07-26 | T1 line graph | — | — | — | — | — | — | — |
+| D1 | 2026-08-21 | T1 line graph | — | — | — | — | — | — | — |
 
 ## Band trend
 

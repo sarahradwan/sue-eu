@@ -63,8 +63,11 @@ band score. Her employer watches that feed. This folder and the study itself are
 
 Created by the IELTS session as it goes. Suggested:
 
-**Status — 26 Jul 2026:** diagnostic D1 (Writing Task 1) issued, awaiting Sara's script.
+**Status — 21 Aug 2026:** diagnostic D1 (Writing Task 1) issued, awaiting Sara's script.
 Nothing marked yet. No study plan until there is a baseline to build it on.
+
+⏳ **D1 must be sat before 4 Sept 2026**, when the IELTS course starts and teaches the Task 1
+convention. After that a cold baseline is gone permanently. See `diagnostic.md`.
 
 | File | Holds |
 |---|---|
