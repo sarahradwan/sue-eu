@@ -147,6 +147,18 @@ leadership titles as the occasional stretch rather than the core of the pipeline
 position where twenty-two years of editorial systems answers the brief directly, and where no
 local network is required to do the job on day one.
 
+## 📨 Direct outreach — the channel that is actually working
+
+**Cold messages: 2 replies with real content out of 3 sent. Applications: 0 conversations out of
+10 decided.** See `outreach-targets.md` for targets, templates and cadence.
+
+| Sent | Person | Company | Ask | Outcome |
+|---|---|---|---|---|
+| ~2 Aug | **Ryan Sonder** | The Chain Company 🇳🇱 (IND recognised sponsor) | Does the agency have English-speaking creative roles? | ✅ **Replied with real market intelligence.** No English creative roles on their book; English works at large listed firms but those are Finance and IT. **Reshaped the whole country ranking** — see `pipeline-jobs.md` |
+| 3 Aug | **Svenja Steltzner** | BENCHMARKED 🇩🇪 Köln | Is the role workable in English while German develops? Plus the permit | ⏳ **Awaiting.** Sent before investing two hours in the video the posting asks for |
+| 3 Aug | **Cynthia Ganser** | Berlitz 🌍 | Would Berlitz consider a permit, or a non-Spanish entity with her on a Spanish DNV? | ✅ **Replied with a real reason: *"this is an urgent role, so given visa processing and appointment timelines"*.** Not policy, not fit — **time.** Then **sent a connection request.** Freelance ask sent in reply. **Produced the urgency disqualifier now in `eligibility-filter.md`** |
+| **3 Aug** | **Amel Saebi** | **ICF Next** 🇧🇪 Brussels | **1st-degree connection.** Does ICF Next sponsor, and does Brussels hire creative or art direction rather than only operations and client services? | ⏳ **Awaiting.** ⛔ **Deliberately did not apply for the advertised Director of Agency Operations role** — agency operations is not her profession, and applying would have spent capacity on a career change rather than a creative role. **The company is the target, not that job:** ICF Next does communications, engagement and events for governments, public institutions and NGOs, which is WeDo's business at European scale. **Nudge once at ~14 days if silent, then leave it** |
+
 ## Sent
 
 | Date | Organisation | Role / Programme | Country | Route | CV variant | Status | Follow-up |
