@@ -687,6 +687,75 @@ academic assessor who can speak to her recent postgraduate work. **Action: ident
 a relationship with that tutor now**, well before a reference is needed. Add it to the
 referee work in week 8 of `weekly-homework-scholarships.md`.
 
+### ⭐ Rhine-Waal (HSRW), Kleve — M.A. Design and Interaction · **STRONGEST NON-SCHOLARSHIP LEAD**, 21 Aug 2026
+
+Sent by Sara from Mastersportal. Unlike ESDES this one survives, and it is the first
+programme found that is **genuinely her field**.
+
+| | | |
+|---|---|---|
+| **Tuition** | **€0.** Public university in **North Rhine-Westphalia**, which abolished tuition statewide in 2011 — **including for non-EU students**. Semester fee **€347.10** → **~€694/year** | ✅ **way under the €2,000 ceiling** |
+| **Field** | **Design and Interaction** — HCI, advanced design, creative computing, digital culture | ✅✅ **closer to her than anything in the Erasmus Mundus catalogue** |
+| **Language** | English | ✅ |
+| **IELTS** | **5.5** (TOEFL iBT 72) | ✅ **far below Sweden's 6.5** — trivially cleared if she targets 7.0 |
+| **GPA** | *"We are not aware of any specific GRE, GMAT or GPA grading score requirements"* | ✅ **no mechanical GPA gate — the thing that killed Master Mind** |
+| **Age** | none stated | ✅ |
+| **Length** | **18 months, 90 ECTS** — shorter and cheaper than a 2-year master's | ✅ |
+| **Intakes** | **March 2027** (apply by **Jan 2027**) *or* **Sept 2027** (apply by **Jul 2027**) | ✅ **two shots, and the first beats the mid-2027 target** |
+| **Post-study** | Germany gives an **18-month** post-study job-seeking permit | ✅ **better than Austria's 12** |
+| **Location** | Kleve — **on the Dutch border**, ~30 min from Nijmegen | ✅ useful adjacency to the Dutch market |
+
+*Sources: https://www.hochschule-rhein-waal.de/en/academics/students/costs-scholarships-and-grants/tuition-and-fees · listing via Mastersportal. Tuition-free status confirmed across independent sources.*
+
+#### ⛔ The one blocker: the blocked account
+
+**€11,904 for 2026, and the €992/month rate is confirmed to continue into 2027.**
+*Source: German Federal BAföG-linked rate; https://www.study.eu/article/germany-blocked-bank-accounts-for-students*
+
+Against ~€6,000 projected and arriving late, that is a **gap of roughly €5,900**.
+
+**But note the shape of this, because it is not the same as a fee.** A blocked account is
+**not money spent — it is money held.** It is released back to her at **€992/month to live
+on**. So this is a **liquidity requirement, not a cost**: she must *have* ~€11,900 at one
+moment, then it becomes her living budget.
+
+That is a different and possibly more tractable problem than Austria's €15,701, and the gap
+is smaller. It is also partly self-financing afterwards: **German student permits allow 140
+full days (or 280 half days) of work per year**, and a creative director with 22 years is
+employable in that window in a way a 22-year-old is not.
+
+**This is the single question to solve.** Not "is Rhine-Waal viable" — it is — but "can
+~€11,900 be assembled by roughly December 2026 (March intake) or April 2027 (September
+intake)."
+
+#### Open checks before this can be called QUALIFIED
+
+1. ⚠️ **Entry requires 210 ECTS or ≥7 semesters** of prior study. Egyptian Applied Arts
+   degrees run 4–5 years, so she very likely clears it — **but confirm the Helwan programme
+   length.** This is the most likely quiet disqualifier.
+2. ⚠️ **An aptitude test for artistic/creative capability** must be passed. For a creative
+   director this should be an advantage, but it is real preparation, not a formality.
+3. ⚠️ German documents will still need **legalisation**, and possibly a **ZAB** statement.
+4. ⚠️ **"Sufficient expertise in design and/or computer science must be demonstrated"** — she
+   clears the design limb comfortably.
+
+#### ⚠️ Studyportals listed a scholarship she is NOT eligible for
+
+The page offered **DAAD EPOS (€1,400)** as one she "is eligible to apply for". **She is not** —
+EPOS requires the degree to be **no more than six years old**, and hers is 2003. Their
+matching engine checks nationality and field, **not the degree-recency rule**.
+
+The only other listed award was ServiceScape ($1,000, a writing-services promotion). So
+**"Scholarships available" is again doing no work here.** Rhine-Waal's value is the zero
+tuition, not its scholarships.
+
+#### 🔧 CORRECTION to earlier guidance in this file
+
+Earlier passes warned **"public university ≠ Fachhochschule"**. **That warning is correct for
+Austria and wrong for Germany.** German *Fachhochschulen* / Universities of Applied Sciences
+are **public and tuition-free** in most states, Rhine-Waal included. Applying the Austrian
+rule to Germany would have discarded this lead. **Check the rule per country, not globally.**
+
 ### ESDES Business School, Lyon — "Strategic Marketing and Innovation" · **FAILS**, 21 Aug 2026
 
 Sent by Sara from a Mastersportal email. Field is genuinely relevant and it is English-taught
@@ -937,6 +1006,7 @@ is the main body of pass 2.
 | Erasmus Mundus Joint Masters | Consortia | EU-wide | ~€1,400/mo + tuition + travel | Covered | English | Per consortium, **Oct 2026 – Jan 2027** | LEAD |
 | Master Mind Scholarship | Flemish institutions | Belgium | €10,225/yr + fee waiver | Covered | English | Institution-set, ~**Feb–Apr 2027**, not published | ⛔ **LIKELY FAILS** — GPA 3.5 vs her 72.19% "Good". One email to confirm before closing. |
 | GOI-IES | Approved Irish HEIs | Ireland | €10,000 + fee waiver, **year 1 only** | Covered yr 1 | English | 2027/28 **not published** | LEAD |
+| **⭐ M.A. Design and Interaction** | **Rhine-Waal (HSRW)**, Kleve (public) | **Germany** | None needed for tuition — **but €11,904 blocked account is the blocker** | **€0 tuition · ~€694/yr semester fee** | English, **IELTS 5.5** | **Apply by Jan 2027** (Mar start) or **Jul 2027** (Sept start) | **⭐ LEAD — strongest non-scholarship route.** Her exact field, no GPA gate, no age gate |
 | **MSc Marketing** | **WU Vienna** (public) | **Austria** | None — low tuition route | **€1,453/yr** | English | **Opens 1 Sept 2026**; rounds **8 Oct 2026** / 8 Jan / 8 Mar 2027 | **LEAD — live** |
 
 ## Applied
