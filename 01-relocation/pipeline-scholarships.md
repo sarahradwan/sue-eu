@@ -742,6 +742,59 @@ intake)."
 4. ⚠️ **"Sufficient expertise in design and/or computer science must be demonstrated"** — she
    clears the design limb comfortably.
 
+#### ✉️ Enquiry email — drafted 21 Aug 2026, to send before spending anything
+
+**Sara's call, and it is better sequencing than mine was.** Ask the university whether she is
+admissible *before* paying for legalisation. Written to `plain-writing`. Confidentiality does
+not apply: this is a private enquiry, so she can be completely direct.
+
+Send via the international office / programme contact:
+https://www.hochschule-rhein-waal.de/en/academics/prospective-students/guide-international-applicants
+
+> **Subject: M.A. Design and Interaction, September 2027: four questions before I apply**
+>
+> Hello,
+>
+> I am considering applying to the M.A. Design and Interaction for the September 2027 intake.
+> Four things I would rather settle before I start assembling documents.
+>
+> My background: a five year degree in Advertising and Graphic Design from the Faculty of
+> Applied Art, Helwan University, Cairo, completed in 2003. Ten semesters. Since then,
+> twenty-two years as an art director and creative director across Egypt, Qatar and the UAE.
+> I currently lead brand and experience work for government clients in Abu Dhabi. I am
+> Egyptian and live in the UAE.
+>
+> 1. Is a 2003 degree still acceptable? I meet the seven semester requirement on length, but
+>    I want to know whether the age of the qualification is itself a problem.
+>
+> 2. What does the aptitude test involve, when is it held, and can it be taken from outside
+>    Germany?
+>
+> 3. Which documents need legalisation for an Egyptian degree, and do you require a ZAB
+>    Statement of Comparability? Egypt is not an Apostille country, so the consular chain runs
+>    to several weeks and I need to start it early.
+>
+> 4. Are student assistant positions open to master's students on this programme? I intend to
+>    work alongside my studies within the 140 days a student permit allows, and I would like a
+>    realistic picture of what is available in and around Kleve.
+>
+> Thank you,
+> Sara Radwan
+
+**Why these four.** Q1 is the only thing that could still disqualify her outright. Q2 is the
+one hurdle with unknown logistics from Abu Dhabi. Q3 decides whether legalisation money is
+spent now or later. Q4 is hers, and it also signals she has read the permit rules rather than
+hoping.
+
+**Deliberately not asked: anything about the blocked account.** She has said she will handle
+it. Raising a funding worry unprompted with an admissions office invites doubt about a
+question they were not going to ask.
+
+⚠️ **One thing she should know that is not in the email.** Kleve is 15 minutes from the Dutch
+border, **but a German student permit does not carry Dutch work rights.** Permits are national.
+The realistic labour market is German: Duisburg, and **Düsseldorf about an hour away, which is
+one of Germany's largest advertising markets.** Kleve itself is a small town.
+
 #### ⚠️ Studyportals listed a scholarship she is NOT eligible for
 
 The page offered **DAAD EPOS (€1,400)** as one she "is eligible to apply for". **She is not** —
