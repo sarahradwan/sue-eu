@@ -97,6 +97,32 @@ security problem** that makes a nomad-visa route hard with a Gulf employer.
 
 ⚠️ **Netherlands employers must be checked against the IND recognised-sponsor register first.**
 
+### 🤖 European AI companies. **Added 3 Aug. Her scarcest credential, best-funded buyers.**
+
+Prompted by a **deepset** posting (Berlin HQ, Haystack, backed by GV and Balderton). The role
+itself was **Account Director, EU Institutions — enterprise software sales, a clear no.** But
+two things in it are worth keeping: they wrote *"based in Brussels **or committed to relocating**"*,
+and they are a well-funded AI company that hires internationally.
+
+**Why this category fits her better than it looks.** AI companies need brand, and **almost no
+brand designer can speak credibly about AI governance.** She writes AI usage guidelines into
+client brand systems, which is the governance half rather than the tooling half, and it is the
+half these companies actually need as they sell into regulated buyers. Moss and BENCHMARKED both
+led on AI; Breuninger names AI as a team function. **This is a growing category and she is early
+to it.**
+
+| Company | Where | Note |
+|---|---|---|
+| **DeepL** | 🇩🇪 Cologne | Large, very well funded, **language is their product** so multi-script and translation-aware design is native to them. Strongest fit in this list |
+| **deepset** | 🇩🇪 Berlin | GV and Balderton backed. Explicitly open to relocation |
+| **Aleph Alpha** | 🇩🇪 Heidelberg | Sovereign European AI, institutional buyers |
+| **Black Forest Labs** | 🇩🇪 Freiburg | **Image generation models.** Her image-prompting practice is directly relevant |
+| **Parloa · n8n · Helsing** | 🇩🇪 Berlin / Munich | Well funded, international teams, English-working |
+
+**Search for:** Head of Brand · Brand Designer · Creative Lead · Design Lead · Head of Design.
+**Message the founder or the Head of Marketing at the smaller ones** — under 200 people usually
+means no HR layer to get past.
+
 ### 🇮🇪 Ireland. Lowest permit floor in her set, English by default.
 
 **RTÉ** (Dublin, national broadcaster, brand and editorial) · **Primark** (Dublin HQ, large
