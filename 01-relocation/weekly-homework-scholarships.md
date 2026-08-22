@@ -119,6 +119,10 @@ embassy stamp, is country-specific, fast, and waits for a real destination.)*
 
 Then, **small, in priority order:**
 
+- [SARA] ⭐ **Check the Helwan degree: how many years / semesters?** **5 minutes, and it is
+  now the highest-value check on the board.** Rhine-Waal requires **210 ECTS or ≥7 semesters**.
+  Egyptian Applied Arts runs 4–5 years so she very likely clears it, but this single fact
+  decides whether the **strongest non-scholarship lead** is real. *(Added 21 Aug.)*
 - [SARA] ⚠️ **Read the Erasmus Mundus catalogue yourself and record every deadline in her
   field.** ~30 min. **Promoted 21 Aug after the date correction.** MARIHE closes **21 Sept —
   31 days out** — so September deadlines are real and close. The catalogue is proxy-blocked
