@@ -3,7 +3,7 @@
 Owned by the **scholarships session**. Route A homework, if it gets written, belongs in a
 separate file so the two sessions never collide.
 
-Built from `pipeline-scholarships.md` and `timeline-to-2027.md`, 25 July 2026.
+Built from `pipeline-scholarships.md` and `timeline-to-2027.md`, 21 August 2026.
 
 ## How this works
 
@@ -52,7 +52,7 @@ Neither is a deadline anyone set, which is exactly why they slip.
 1. **Egyptian document legalisation — 6–10 weeks, three authorities, run remotely from Abu
    Dhabi.** Austria requires it complete *at the moment of application*. Nothing else in
    this file can be submitted to Austria until it is done.
-2. ⛔ **No English language test exists.** *(Corrected 25 Jul — earlier passes wrongly
+2. ⛔ **No English language test exists.** *(Corrected 21 Aug — earlier passes wrongly
    recorded one as held. She has never sat IELTS or TOEFL; what she holds is her degree
    certificate.)* Sweden requires **English 6** — IELTS Academic 6.5, no band below 5.5.
    **Book now:** slots fill weeks ahead, and the mid-January admission deadline is fixed.
@@ -66,8 +66,9 @@ Both are addressed in weeks 1–3 because everything downstream depends on them.
 
 | Date | What | Hard? |
 |---|---|---|
-| **1 Sept 2026** | WU Vienna portal opens | opening, not deadline |
-| **8 Oct 2026** | WU Vienna round 1 | ⛔ out of reach — legalisation won't be done |
+| **1 Sept 2026** | WU Vienna portal opens — **11 days** | opening, not deadline |
+| **21 Sept 2026** | ⚠️ Earliest known Erasmus Mundus close (MARIHE) — **31 days** | proves September deadlines exist |
+| **8 Oct 2026** | WU Vienna round 1 — **48 days, inside the 60-day flag** | ⛔ still hard to reach: Austria wants legalisation complete at application |
 | **mid-Nov 2026** | SI eligible-programme list published | watch date |
 | **Oct 2026 – Jan 2027** | Erasmus Mundus deadlines, per consortium | ✅ **hard, and staggered** |
 | **8 Jan 2027** | **WU Vienna round 2** | ✅ **hard — the Austrian target** |
@@ -84,16 +85,28 @@ not preparation.
 
 ## Weekly — now to early October
 
-### Week 1 · Mon 27 July – Sun 2 Aug
+> ### ⛔ RE-ANCHORED 21 August 2026
+>
+> This plan was written dated 25–27 July and its weeks were numbered from there. **The actual
+> date is Friday 21 August 2026** — the schedule was running about four weeks ahead of the
+> calendar. Weeks below are re-anchored to real Mondays.
+>
+> **What this costs: roughly four weeks of runway.** Legalisation starting now finishes late
+> Oct – early Nov rather than mid-September. **WU Vienna round 1 (8 Oct) is now 48 days out,
+> inside the 60-day flag.** Any September Erasmus Mundus deadline is ~31 days out.
+>
+> The order of work does not change. The slack does.
+
+### Week 1 · Mon 24 – Sun 30 August
 **[SARA] Call VFS Global about the Egyptian legalisation chain.** ~15 minutes.
 
-*(Rewritten 26 Jul. This week was "book IELTS" — Sara has decided to book in September, so
+*(Rewritten 21 Aug. This week was "book IELTS" — Sara has decided to book in September, so
 that moves to week 6. Legalisation is now the headline because it is the longest lead time
 in the plan and nothing else can start until the requirements are known.)*
 
 **+2 0221600051** · Sun–Thu **08:30–16:30 Cairo** = 09:30–17:30 Abu Dhabi. Ask:
 
-*(Revised 27 Jul after Sara's objection — correct — that attesting for Austria is premature
+*(Revised 21 Aug after Sara's objection — correct — that attesting for Austria is premature
 when the destination is unknown. **The chain stops after step 2.** Steps 1–2, Supreme Council
 of Universities then Egyptian MoFA, are country-agnostic and are the slow part. Step 3, the
 embassy stamp, is country-specific, fast, and waits for a real destination.)*
@@ -106,6 +119,16 @@ embassy stamp, is country-specific, fast, and waits for a real destination.)*
 
 Then, **small, in priority order:**
 
+- [SARA] ⭐ **Check the Helwan degree: how many years / semesters?** **5 minutes, and it is
+  now the highest-value check on the board.** Rhine-Waal requires **210 ECTS or ≥7 semesters**.
+  Egyptian Applied Arts runs 4–5 years so she very likely clears it, but this single fact
+  decides whether the **strongest non-scholarship lead** is real. *(Added 21 Aug.)*
+- [SARA] ⚠️ **Read the Erasmus Mundus catalogue yourself and record every deadline in her
+  field.** ~30 min. **Promoted 21 Aug after the date correction.** MARIHE closes **21 Sept —
+  31 days out** — so September deadlines are real and close. The catalogue is proxy-blocked
+  for me and lists 100+ programmes; she is not blocked.
+  https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters
+  **This is the only thing in Route B that could carry a 2026 deadline.**
 - [SARA] **Write the IELTS diagnostic (D1) the IELTS session is waiting on.** 20 min, timed.
   That session is idle until it exists and cannot build a study plan without a baseline.
 - [SARA] **Email the three Cairo firms** (Alzayat, ASAS & Partners, BYLAW) — *after* the VFS
@@ -115,13 +138,13 @@ Then, **small, in priority order:**
 - [SARA] **Are the degree certificate and transcript in English or Arabic?** 5 min, same
   folder. Decides whether certified translation is needed and, for Austria, where it must
   be done.
-- [SARA] **1 August falls this Saturday** — start the ~€100–200/month preparation set-aside.
-- [CLAUDE] ✅ **Done 25 Jul — Erasmus Mundus catalogue sweep.** No clean match in her field;
+- [SARA] **Start the ~€100–200/month preparation set-aside now** — August is nearly gone.
+- [CLAUDE] ✅ **Done 21 Aug — Erasmus Mundus catalogue sweep.** No clean match in her field;
   closest are MAGMa and Media Arts Cultures. Preliminary, catalogue was proxy-blocked.
   **Raises Sweden to primary route.**
 
-### Week 2 · Mon 3 August
-**[SARA] Choose an agency and commit to the legalisation chain.** *(Rewritten 26 Jul — the
+### Week 2 · Mon 31 Aug – Sun 6 Sept — **WU portal opens Tue 1 Sept**
+**[SARA] Choose an agency and commit to the legalisation chain.** *(Rewritten 21 Aug — the
 first contact moved to week 1, so this week is the decision, not the enquiry.)*
 
 By now VFS has stated the official requirements and three firms have quoted. Pick one and
@@ -144,7 +167,7 @@ Austrian Embassy Cairo.
 - [CLAUDE] Verify the Austrian requirement against WU's Egypt page and the University of
   Vienna legalisation page once egress allows.
 
-### Week 3 · Mon 10 August
+### Week 3 · Mon 7 September
 **[SARA] Ask Helwan for a Medium of Instruction letter** — while you already have them on
 the line about legalisation.
 
@@ -158,7 +181,7 @@ IELTS booking on the strength of it.**
   not correction.
 - [CLAUDE] Draft the Flemish enquiry email for week 4.
 
-### Week 4 · Mon 17 August
+### Week 4 · Mon 14 September
 **[SARA] Send one email to a Flemish international office about Master Mind.**
 
 Ghent, Antwerp or KU Leuven. State it plainly: Helwan University 2003, **5776/8000 =
@@ -168,7 +191,7 @@ whether that can clear the Master Mind academic bar of 3.5/4.0.
 Ten minutes, and it either keeps Belgium alive or closes it cleanly. **Do not pay for any
 transcript conversion before the answer arrives.**
 
-### Week 5 · Mon 24 August
+### Week 5 · Mon 21 September
 **[CLAUDE] Check the stipend against the permit threshold, scheme by scheme.**
 
 Promoted above the Austrian programme sweep, because it decides whether a scheme is a route
@@ -182,7 +205,7 @@ clears Austria's €1,308.39; Sweden's own permit threshold needs checking again
   Useful as Erasmus Mundus destinations.
 - [SARA] Nothing required. Use the week for the legalisation chase if it has stalled.
 
-### Week 6 · Mon 31 August — **WU portal opens Tue 1 Sept**
+### Week 6 · Mon 28 September
 **[SARA] Email WU Vienna admissions about the prerequisite ECTS.**
 
 Does a 2003 BCS in Advertising & Graphic Design satisfy WU's business/economics/statistics
@@ -193,17 +216,17 @@ scholarship regardless, WU is no longer a route she can take on tuition alone. I
 the list as a **destination** — somewhere an Erasmus Mundus stipend goes a long way — so
 the answer is still worth having, just not worth building the autumn around.
 
-### Week 7 · Mon 7 September
+### Week 7 · Mon 5 October — **WU round 1 closes Thu 8 Oct**
 **[CLAUDE + SARA] Rebuild the CV, ATS-safe master version.**
 
 From `05-career-context/cv-template-ats.md`, using `application-tailor`. This is the asset
 every downstream application derives from — build it once, tailor per programme later.
 I draft; she corrects the things only she knows.
 
-### Week 8 · Mon 14 September
+### Week 8 · Mon 12 October
 **[SARA] Line up referees — and ask them this week, not in December.**
 
-**⚠️ Upgraded 26 Jul after the Heinrich Böll sheet:** several schemes require an **academic**
+**⚠️ Upgraded 21 Aug after the Heinrich Böll sheet:** several schemes require an **academic**
 referee — Böll demands *"an expert report from a university or college lecturer"*. A 2003
 Helwan lecturer is unreachable. **The fix is CIM Level 7: her Oxford College of Marketing
 tutor is a current academic assessor.** Identify that tutor and build the relationship *now*,
@@ -217,14 +240,14 @@ Social Dar, the Ministry of Education programme, or CPI are the realistic pool.
 - [CLAUDE] Check what each surviving scheme actually requires — number of referees,
   academic vs professional, whether they are contacted directly.
 
-### Week 9 · Mon 21 September
+### Week 9 · Mon 19 October
 **[CLAUDE + SARA] Translate three case studies for EU readers.**
 
 Using `case-study-translator`. The national curriculum programme (€500k, 100+ books, 3
 scripts), the RTA brand experience, and Act Air. EU assessors will not recognise the client
 names, so the work has to carry its own scale.
 
-### Week 10 · Mon 28 September
+### Week 10 · Mon 26 October
 **[CLAUDE + SARA] Write the motivation-letter spine.**
 
 One reusable core narrative: why this field, why now, why Europe, what 22 years brings that
@@ -303,9 +326,9 @@ read as a body of evidence, not a list of chores.
 
 | Date | What | Notes |
 |---|---|---|
-| 25 Jul 2026 | Nationality confirmed — Egyptian | Opens Swedish SI; sets the legalisation burden |
-| 25 Jul 2026 | DOB confirmed — 11 Aug 1980 | Age 46/47 across the window; all four survivors have no age cap |
-| 25 Jul 2026 | Transcript located | Held, not attested |
-| 25 Jul 2026 | English certificate located | Held, not attested; **date still unknown** |
-| 25 Jul 2026 | Degree grade established — 5776/8000, 72.19% | Egyptian "Good"; closes Master Mind, harmless elsewhere |
-| 25 Jul 2026 | Financial position established | No savings now; ~€6,000 projected from gratuity + sales, available only at departure. Rules out every self-funded route; makes a stipend scheme the only Route B. |
+| 21 Aug 2026 | Nationality confirmed — Egyptian | Opens Swedish SI; sets the legalisation burden |
+| 21 Aug 2026 | DOB confirmed — 11 Aug 1980 | Age 46/47 across the window; all four survivors have no age cap |
+| 21 Aug 2026 | Transcript located | Held, not attested |
+| 21 Aug 2026 | English certificate located | Held, not attested; **date still unknown** |
+| 21 Aug 2026 | Degree grade established — 5776/8000, 72.19% | Egyptian "Good"; closes Master Mind, harmless elsewhere |
+| 21 Aug 2026 | Financial position established | No savings now; ~€6,000 projected from gratuity + sales, available only at departure. Rules out every self-funded route; makes a stipend scheme the only Route B. |

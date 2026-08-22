@@ -14,7 +14,7 @@ tuition **under €2,000/year** with a viable living-cost plan.
 
 ## Verification status of this pass — read first
 
-**Research pass 1 — 25 July 2026.** Priority: the mid-career eligibility filter.
+**Research pass 1 — 21 August 2026.** Priority: the mid-career eligibility filter.
 
 This session's network policy **blocked direct access to the primary sources**
 (`si.se`, `wu.ac.at`, `tuwien.at`, `bmfwf.gv.at`, `erasmus-plus.ec.europa.eu` all returned
@@ -31,7 +31,7 @@ those calls open Oct 2026 – Feb 2027 — it is recorded as *not yet published*
 
 ---
 
-## Confirmed personal facts — 25 July 2026
+## Confirmed personal facts — 21 August 2026
 
 Supplied directly by Sara. These are no longer assumptions and the file is written against
 them.
@@ -41,9 +41,10 @@ them.
 | **Nationality** | **Egyptian** | ✅ **Sweden (SI) is OPEN.** Egypt is on the eligible-country list. The gate that blocked the strongest lead is cleared. |
 | **Date of birth** | **11 August 1980** | Age **46** through the entire application window; **47** at a Sept 2027 intake. |
 | **Degree transcript** | **Held** | The classic late blocker in `timeline-to-2027.md` is *not* the blocker. Attestation is. |
-| **English language test** | ⛔ **DOES NOT EXIST** | Corrected 25 Jul 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
+| **English language test** | ⛔ **DOES NOT EXIST** | Corrected 21 Aug 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
 | **Attestation of both** | **NOT DONE** | ⛔ **This is now the critical path.** See the section below. |
 | **Degree grade (Helwan, 2003)** | **5776 / 8000 = 72.19%** | Egyptian band **"Good" (Jayyid)**. **Kills Master Mind.** Harmless everywhere else. See below. |
+| **Degree length** | **5 years × 2 semesters = 10 semesters** *(confirmed 21 Aug 2026)* | ✅ **A significant asset, and it clears bars across both routes.** ~300 ECTS equivalent. Clears Rhine-Waal's 210 ECTS / 7 semesters. Clears the EU Blue Card's "at least 3 years' duration". Clears the 4-year/240-ECTS bar that many EU master's apply to non-EU applicants. **A 5-year Applied Arts degree is longer than a standard European bachelor, not shorter — this reads well, not merely adequately.** |
 
 ### The 2003 grade — what it does and does not close
 
@@ -124,7 +125,7 @@ most nationalities.
 
 **Egypt is not a party to the Hague Apostille Convention.** There is no apostille shortcut.
 Egyptian documents need the **full consular legalisation chain**, country by country.
-*Search-sourced 25 Jul 2026 — verify at hcch.net before acting.*
+*Search-sourced 21 Aug 2026 — verify at hcch.net before acting.*
 
 ### Austria — the heaviest burden, and it gates the live lead
 
@@ -152,7 +153,7 @@ adds an embassy step and she is executing it from Abu Dhabi, not Cairo — so it
 representative in Egypt or a power of attorney. **Budget 6–10 weeks and treat that as
 optimistic.**
 
-#### ⛔ DECISION, 27 July 2026 — stop the chain after step 2
+#### ⛔ DECISION, 21 August 2026 — stop the chain after step 2
 
 **Sara's objection, and it is correct:** *"It does not make sense to attest my papers when I
 do not know where I am going to end up."*
@@ -200,7 +201,7 @@ embassy turns out to matter.
 
 #### ⚠️ There is no EU-wide recognition. Every country is separate.
 
-**Asked 26 July 2026, and the answer changes how the chain should be run.**
+**Asked 21 August 2026, and the answer changes how the chain should be run.**
 
 Two different things get conflated, and both are **national, not EU-level**:
 
@@ -244,10 +245,10 @@ question that actually matters:
 later — from Abu Dhabi, through an agent — is another multi-week loop, and it would be
 discovered at exactly the wrong moment.
 
-*Search-sourced 26 Jul 2026. The per-embassy handling rules vary and are the single most
+*Search-sourced 21 Aug 2026. The per-embassy handling rules vary and are the single most
 useful thing to confirm on the VFS call.*
 
-#### Who to actually contact — researched 26 July 2026
+#### Who to actually contact — researched 21 August 2026
 
 **The Austrian Embassy Cairo does not receive legalisation requests directly. VFS Global
 does.** That is the official channel and the authoritative starting point — going to a paid
@@ -282,7 +283,7 @@ Judge replies on three things: do they name the **Austrian** chain specifically 
 the UAE one, can they act on power of attorney for a UAE-resident client, and do they quote a
 **total** covering all three stages rather than a per-stage teaser.
 
-*Search-sourced 26 Jul 2026; the VFS and BMEIA PDFs were not read directly — proxy-blocked.
+*Search-sourced 21 Aug 2026; the VFS and BMEIA PDFs were not read directly — proxy-blocked.
 **Open the VFS sheet before paying anyone.***
 
 **Consequence for the live lead:** WU Vienna's **round 1 closes 8 Oct 2026, 75 days out**.
@@ -306,7 +307,7 @@ Sweden's central admissions service does **not** require consular legalisation:
 scanner and a translator; Austria needs three ministries and an embassy. That asymmetry
 should shape the order she does the work in.
 
-### ⛔ No English language test — corrected 25 July 2026
+### ⛔ No English language test — corrected 21 August 2026
 
 **My error in earlier passes.** I wrote "English certificate" loosely; she reasonably read
 that as her degree certificate. **Clarified: she has never sat IELTS, TOEFL or any
@@ -360,8 +361,8 @@ it breaks the Swedish application.
 
 | Milestone | Target date | Status |
 |---|---|---|
-| IELTS session opened | 26 Jul 2026 | ✅ **done — ahead of schedule** |
-| Diagnostic D1 (Writing Task 1) taken | early Aug 2026 | 🟢 **study started 27 Jul — ahead of plan** |
+| IELTS session opened | 21 Aug 2026 | ✅ **done — ahead of schedule** |
+| Diagnostic D1 (Writing Task 1) taken | ⏳ **before 4 Sept 2026** | 🟡 **study started 21 Aug; D1 still outstanding** — an IELTS course begins **4 Sept** and teaches the Task 1 convention, after which a cold baseline is gone permanently |
 | Writing Task 1 at band 7 in practice | Aug–Sept 2026 | ⬜ |
 | Two full timed papers at 7.0+ | Sept 2026 | ⬜ |
 | **Test booked** | **September 2026** | ⬜ |
@@ -394,18 +395,18 @@ cover the whole dependency.
 
 ---
 
-## ❓ "Is there anything to apply for in July or September 2026?" — answered 27 July
+## ❓ "Anything to apply for this month or September?" — answered 21 August 2026
 
-**July: no. Nothing in the pipeline has a July deadline.**
+**August (10 days left): no.** Nothing in the pipeline has an August deadline.
 
-**September: nothing found in her field — but this is "not found", not "does not exist",
-and the difference has a deadline attached.**
+**September: nothing found in her field — but this is "not found", not "does not exist", and
+after the date correction that distinction is now 31 days from biting.**
 
-Some Erasmus Mundus consortia **do** close in September. **MARIHE closes 21 September 2026**
-for the 2027 intake — proof that the October–January generalisation is not universal. MARIHE
-itself is higher-education research and management, **not her field**, so it is irrelevant to
-her. But it establishes that a relevant consortium *could* close in September and we would
-not currently know.
+Some Erasmus Mundus consortia **do** close in September. **MARIHE closes 21 September 2026** —
+**exactly one month from today** — proof that the October–January generalisation is not
+universal. MARIHE is higher-education research and management, **not her field**, so it is
+irrelevant to her. But it establishes that a relevant consortium *could* close in September,
+and we would not currently know.
 
 **The catalogue has never been read properly.** It lists 100+ programmes, it is
 **proxy-blocked from this session**, and the only sweep done was from search snippets.
@@ -435,13 +436,24 @@ What August and September decide is whether January is possible at all.
 
 ## Closing within 60 days
 
+> ### ⛔ DATE CORRECTION — 21 August 2026
+>
+> **Earlier passes in this session were dated 25–27 July and computed every "days out" figure
+> from that.** The actual date is **Friday 21 August 2026**. Every deadline below has been
+> recomputed. **The plan has roughly four weeks less runway than it was written to assume.**
+>
+> The material consequences: **WU Vienna round 1 is now inside the 60-day window**, the portal
+> opens in **11 days**, and any September Erasmus Mundus deadline is **~31 days out**, not two
+> months. Nothing was missed — but the September catalogue check moved from prudent to urgent.
+
 | What | Date | Days out | Why it matters |
 |---|---|---|---|
-| ⛔ **Start Egyptian document legalisation** | **now** | **0** | 6–10 weeks, three authorities, executed remotely from Abu Dhabi. Everything below depends on it. Not a deadline anyone set — which is exactly why it slips. |
-| ⚠️ **Check English certificate expiry** | **this week** | **0** | If it needs re-sitting, test slots have to be booked now, not in December. |
-| **WU Vienna application portal opens** for the following intake | **1 Sept 2026** | **38** | First live date in the Route B calendar. Not a deadline — an opening. |
-| WU Vienna — round 1 deadline | 8 Oct 2026 | 75 | **Realistically out of reach** — legalisation must already be on the documents. Target round 2. |
-| WU Vienna — round 2 deadline | 8 Jan 2027 | 167 | **The realistic Austrian target.** |
+| ⛔ **Start legalisation steps 1–2** (SCU → Egyptian MoFA) | **now** | **0** | 6–10 weeks from today lands **late Oct – early Nov**. Country-agnostic, so it is not a bet on any destination. Not a deadline anyone set, which is why it slips. |
+| ⚠️ **Read the Erasmus Mundus catalogue** — deadlines in her field | **now** | **0** | **MARIHE closes 21 Sept = 31 days.** If a relevant consortium closes in September, it is already close. Proxy-blocked for me; Sara must do it. |
+| **WU Vienna portal opens** | **1 Sept 2026** | **11** | First live date. An opening, not a deadline. |
+| ⚠️ **WU Vienna — round 1** | **8 Oct 2026** | **48** | **NOW INSIDE 60 DAYS.** Still hard to reach — Austria wants legalisation complete at application and step 3 will not be done. Round 2 remains the target, but this is no longer comfortably distant. |
+| **WU Vienna — round 2** | **8 Jan 2027** | **140** | **The realistic Austrian target.** |
+| **universityadmissions.se closes** | **mid-Jan 2027** | **~147** | **The hard one. Sweden's whole route runs through it.** |
 
 No scholarship scheme **closes** within 60 days. The Oct 2026 – Feb 2027 window in
 `timeline-to-2027.md` holds exactly as written — but the **preparation** window has
@@ -512,7 +524,7 @@ eligibility is built *around* work experience rather than in spite of it.
 | Source | https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters |
 | Fit | The no-age-limit rule makes this the widest door open to her. **But see the field problem below — it is real.** |
 
-**⚠️ Field search, first sweep — 25 July 2026. Preliminary and not encouraging.**
+**⚠️ Field search, first sweep — 21 August 2026. Preliminary and not encouraging.**
 
 Searched the catalogue for design, brand, communication and creative management. The
 closest four found:
@@ -542,7 +554,7 @@ design or brand programme than a consortium catalogue weighted to heritage and p
 
 #### 3. ⛔ Master Mind Scholarship — Flanders, Belgium — **LIKELY FAILS on the GPA floor**
 
-**Status changed 25 July 2026** once the Helwan grade was known. Her 72.19% is Egyptian
+**Status changed 21 August 2026** once the Helwan grade was known. Her 72.19% is Egyptian
 "Good"; the scheme requires **3.5/4.0**, measured on the last obtained bachelor's or
 master's. No reading of the conversion gets there.
 
@@ -590,7 +602,7 @@ Details retained below for that conversation.
 | Fit | English-native environment, strong international agency and tech-brand presence in Dublin. Weakest funding of the four, and Dublin housing costs erode it. |
 | **Status** | **LEAD.** Watch for the 2027/28 call. |
 
-### SBW Berlin Scholarship — checked 26 July 2026 on Sara's suggestion. **Fails four ways.**
+### SBW Berlin Scholarship — checked 21 August 2026 on Sara's suggestion. **Fails four ways.**
 
 Fully funded and genuinely generous — 100% tuition, furnished accommodation in SBW's shared
 student flats in Berlin, ~**€480/month** stipend, travel allowance both ways. Worth checking.
@@ -603,7 +615,7 @@ It does not survive the filter.
 | **Income** | Must **prove low household income** | Senior creative director | ⛔ almost certainly fails |
 | **Post-study** | **Must intend to work ≥18 months in the home country after graduating** | Goal is to *stay* in the EU | ⛔ **fails by design** |
 
-*Search-sourced 26 Jul 2026 from scholarship aggregators; sbw-berlin.de not read directly —
+*Search-sourced 21 Aug 2026 from scholarship aggregators; sbw-berlin.de not read directly —
 proxy-blocked. The age band and the return clause are consistent across every source found.*
 
 **The fourth row is the one that generalises**, so it has been added to
@@ -619,7 +631,7 @@ capacity in the sending country.** They are generous precisely because they expe
 home. That expectation is the opposite of the goal, and it is worth screening for *before*
 checking age or funding — it is faster to check and it disqualifies just as absolutely.
 
-### Heinrich Böll Foundation — assessed 26 July 2026 from the official Info Sheet A 1–1 b
+### Heinrich Böll Foundation — assessed 21 August 2026 from the official Info Sheet A 1–1 b
 
 **First scheme assessed from a primary document, not search results.** Sara supplied the
 June 2025 information sheet (`USie/UGD 06/25`). Everything below is quoted from it.
@@ -676,6 +688,264 @@ academic assessor who can speak to her recent postgraduate work. **Action: ident
 a relationship with that tutor now**, well before a reference is needed. Add it to the
 referee work in week 8 of `weekly-homework-scholarships.md`.
 
+### ⭐ Rhine-Waal (HSRW), Kleve — M.A. Design and Interaction · **STRONGEST NON-SCHOLARSHIP LEAD**, 21 Aug 2026
+
+Sent by Sara from Mastersportal. Unlike ESDES this one survives, and it is the first
+programme found that is **genuinely her field**.
+
+| | | |
+|---|---|---|
+| **Tuition** | **€0.** Public university in **North Rhine-Westphalia**, which abolished tuition statewide in 2011 — **including for non-EU students**. Semester fee **€347.10** → **~€694/year** | ✅ **way under the €2,000 ceiling** |
+| **Field** | **Design and Interaction** — HCI, advanced design, creative computing, digital culture | ✅✅ **closer to her than anything in the Erasmus Mundus catalogue** |
+| **Language** | English | ✅ |
+| **IELTS** | **5.5** (TOEFL iBT 72) | ✅ **far below Sweden's 6.5** — trivially cleared if she targets 7.0 |
+| **GPA** | *"We are not aware of any specific GRE, GMAT or GPA grading score requirements"* | ✅ **no mechanical GPA gate — the thing that killed Master Mind** |
+| **Age** | none stated | ✅ |
+| **Length** | **18 months, 90 ECTS** — shorter and cheaper than a 2-year master's | ✅ |
+| **Intakes** | **March 2027** (apply by **Jan 2027**) *or* **Sept 2027** (apply by **Jul 2027**) | ✅ **two shots, and the first beats the mid-2027 target** |
+| **Post-study** | Germany gives an **18-month** post-study job-seeking permit | ✅ **better than Austria's 12** |
+| **Location** | Kleve — **on the Dutch border**, ~30 min from Nijmegen | ✅ useful adjacency to the Dutch market |
+
+*Sources: https://www.hochschule-rhein-waal.de/en/academics/students/costs-scholarships-and-grants/tuition-and-fees · listing via Mastersportal. Tuition-free status confirmed across independent sources.*
+
+#### ⛔ The one blocker: the blocked account
+
+**€11,904 for 2026, and the €992/month rate is confirmed to continue into 2027.**
+*Source: German Federal BAföG-linked rate; https://www.study.eu/article/germany-blocked-bank-accounts-for-students*
+
+Against ~€6,000 projected and arriving late, that is a **gap of roughly €5,900**.
+
+**But note the shape of this, because it is not the same as a fee.** A blocked account is
+**not money spent — it is money held.** It is released back to her at **€992/month to live
+on**. So this is a **liquidity requirement, not a cost**: she must *have* ~€11,900 at one
+moment, then it becomes her living budget.
+
+That is a different and possibly more tractable problem than Austria's €15,701, and the gap
+is smaller. It is also partly self-financing afterwards: **German student permits allow 140
+full days (or 280 half days) of work per year**, and a creative director with 22 years is
+employable in that window in a way a 22-year-old is not.
+
+**This is the single question to solve.** Not "is Rhine-Waal viable" — it is — but "can
+~€11,900 be assembled by roughly December 2026 (March intake) or April 2027 (September
+intake)."
+
+#### Open checks before this can be called QUALIFIED
+
+1. ✅ **RESOLVED 21 Aug 2026 — entry requirement CLEARED.** Sara confirmed the Helwan degree
+   is **5 years × 2 semesters = 10 semesters**. Rhine-Waal asks for **210 ECTS or ≥7
+   semesters**; she has **10**, with three to spare. At a normal 30 ECTS/semester that is on
+   the order of **~300 ECTS**, well above the 210 threshold. **The most likely quiet
+   disqualifier is gone.**
+2. ⚠️ **An aptitude test for artistic/creative capability** must be passed. For a creative
+   director this should be an advantage, but it is real preparation, not a formality.
+3. ⚠️ German documents will still need **legalisation**, and possibly a **ZAB** statement.
+4. ⚠️ **"Sufficient expertise in design and/or computer science must be demonstrated"** — she
+   clears the design limb comfortably.
+
+#### ✉️ Enquiry email — drafted 21 Aug 2026, to send before spending anything
+
+**Sara's call, and it is better sequencing than mine was.** Ask the university whether she is
+admissible *before* paying for legalisation. Written to `plain-writing`. Confidentiality does
+not apply: this is a private enquiry, so she can be completely direct.
+
+Send via the international office / programme contact:
+https://www.hochschule-rhein-waal.de/en/academics/prospective-students/guide-international-applicants
+
+> **Subject: M.A. Design and Interaction, September 2027: four questions before I apply**
+>
+> Hello,
+>
+> I am considering applying to the M.A. Design and Interaction for the September 2027 intake.
+> Four things I would rather settle before I start assembling documents.
+>
+> My background: a five year degree in Advertising and Graphic Design from the Faculty of
+> Applied Art, Helwan University, Cairo, completed in 2003. Ten semesters. Since then,
+> twenty-two years as an art director and creative director across Egypt, Qatar and the UAE.
+> I currently lead brand and experience work for government clients in Abu Dhabi. I am
+> Egyptian and live in the UAE.
+>
+> 1. Is a 2003 degree still acceptable? I meet the seven semester requirement on length, but
+>    I want to know whether the age of the qualification is itself a problem.
+>
+> 2. What does the aptitude test involve, when is it held, and can it be taken from outside
+>    Germany?
+>
+> 3. Which documents need legalisation for an Egyptian degree, and do you require a ZAB
+>    Statement of Comparability? Egypt is not an Apostille country, so the consular chain runs
+>    to several weeks and I need to start it early.
+>
+> 4. Are student assistant positions open to master's students on this programme? I intend to
+>    work alongside my studies within the 140 days a student permit allows, and I would like a
+>    realistic picture of what is available in and around Kleve.
+>
+> Thank you,
+> Sara Radwan
+
+**⭐ UPDATE 21 Aug: the form offers a Study Advisory Service appointment. Take the online one.**
+
+Options are: no appointment · in person · **online video counselling**. In-person is
+impossible from Abu Dhabi, and declining wastes a free advantage.
+
+**Better than the email alone: book the call, then send the four questions in advance** so the
+advisor arrives prepared. A live conversation gets real answers on the two judgement questions
+an inbox tends to fudge — whether a 2003 degree is acceptable, and what the aptitude test
+actually involves.
+
+**The real prize is a named human.** Ask for the advisor's name and direct email at the end.
+A person at the university who already knows her case is worth more than any generic inbox,
+and it is the same lesson the jobs session recorded: direct contact with a named person beat
+ten cold applications.
+
+**Two practical points:**
+- **Time zone:** Germany runs 2 hours behind Abu Dhabi in summer, 3 in winter. A German
+  afternoon slot lands in her evening, which works around a full-time job.
+- ⚠️ **Confidentiality: take the call from home, not the office.** A video call about studying
+  in Germany is exactly the sort of thing that must not be overheard. The rule in `CLAUDE.md`
+  is about LinkedIn, but the underlying risk is the same.
+
+**Why these four.** Q1 is the only thing that could still disqualify her outright. Q2 is the
+one hurdle with unknown logistics from Abu Dhabi. Q3 decides whether legalisation money is
+spent now or later. Q4 is hers, and it also signals she has read the permit rules rather than
+hoping.
+
+**⭐ Four more to raise on the call (added 21 Aug). These suit a conversation better than an email.**
+
+5. **March 2027 or September 2027 — which is realistic for an applicant in the UAE with
+   Egyptian documents?** The March intake applies by **January 2027** and would put her in
+   Germany **six months earlier than the mid-2027 target**. The advisor can say plainly whether
+   the document timeline makes that possible. **This question was missing from the email and
+   it is the one with the largest upside.**
+
+6. ⚠️ **Is the aptitude test ever held in person in Kleve, and is there more than one sitting
+   a year?** **The sharpest logistical risk in the whole plan.** If it is in-person-only, once
+   yearly, she is looking at a flight she cannot easily fund and a day off she would have to
+   explain at WeDo. Worth knowing before anything else is committed.
+
+7. **What makes a strong application to this programme specifically?** Free intelligence, and
+   almost nobody asks. The advisor knows what the selection panel actually responds to.
+
+8. **How many places, and how many applicants last cycle?** Tells her whether this is a
+   stretch or a formality. A niche English-taught master's at a small school in a small town
+   may be far more accessible than its quality suggests, and that would change how much of her
+   effort Rhine-Waal deserves.
+
+**Also worth mentioning once, not pressing:** the **CIM Level 7 Postgraduate Diploma in
+progress**. It is postgraduate-level study completed recently, which partly answers the
+"2003 degree" concern in Q1 without her having to argue the point.
+
+**Deliberately not asked: anything about the blocked account.** She has said she will handle
+it. Raising a funding worry unprompted with an admissions office invites doubt about a
+question they were not going to ask.
+
+⚠️ **One thing she should know that is not in the email.** Kleve is 15 minutes from the Dutch
+border, **but a German student permit does not carry Dutch work rights.** Permits are national.
+The realistic labour market is German: Duisburg, and **Düsseldorf about an hour away, which is
+one of Germany's largest advertising markets.** Kleve itself is a small town.
+
+#### ⚠️ Full-time vs part-time vs dual study — checked 21 Aug 2026
+
+Sara asked about the three study modes German universities list. **They are not
+interchangeable for a non-EU applicant, and one of them is a trap.**
+
+| Mode | Verdict |
+|---|---|
+| **Full-time** | ✅ **Her route.** The student residence permit requires **admission to a full-time course** at a state or state-recognised university. Rhine-Waal's M.A. Design and Interaction is full-time, 18 months. Blocked account €11,904; **140 full days (or 280 half days) of work per year** permitted. |
+| **Part-time** | ⛔ **Trap. Do not pursue.** The rule permits part-time only *"under certain conditions"* and **explicitly excludes evening, weekend and distance learning.** The permit is tied to the programme she was admitted to. **And the financial logic runs backwards:** part-time does **not** reduce the proof-of-funds requirement, it stretches the period she must fund and weakens the permit basis at the same time. It looks like it solves the money problem. It does not. |
+| **Dual study** | ⚠️ **The one that genuinely attacks her blocker — and almost certainly closed at A2.** |
+
+**Dual study deserves a straight assessment, because it aims at exactly her problem.**
+
+> A dual-study salary of roughly **€1,500 gross/month can serve as proof of income, and
+> non-EU students on dual programmes often do not need a blocked account at all.**
+
+That is a direct answer to the €11,904 question. But three things stand in the way:
+
+1. **Most dual programmes require German at B2 or C1.** She is **A2**. Same wall as Böll.
+2. **An employment contract with a partner company must be secured *before* enrolment**, via a
+   normal competitive application with CV, letter and interview.
+3. **Dual *master's* programmes are much rarer than bachelor's.** English-taught ones cluster
+   at **private** universities, which reintroduces fees.
+
+**Verdict: not viable for 2027. Worth one search for an English-taught dual master's at a
+public institution, but expect nothing.**
+
+#### 🔑 The convergence worth noticing: German B2 unlocks two separate routes
+
+This is the second time B2 has appeared as the gate on something genuinely good:
+
+- **Heinrich Böll** and the whole political-foundation class — €992/month, no age cap
+- **Dual study** — a salary that replaces the blocked account entirely
+
+Her German study has been filed as *"compounding, not on the critical path."* **Two
+independent routes now open at B2, and both of them solve the money problem that blocks
+everything else.** That is a stronger argument for the German than anything found so far, and
+it is worth putting to the CIM/German sessions as a priority question: **what would it take to
+reach B2 by mid-2027?**
+
+#### ⚠️ Studyportals listed a scholarship she is NOT eligible for
+
+The page offered **DAAD EPOS (€1,400)** as one she "is eligible to apply for". **She is not** —
+EPOS requires the degree to be **no more than six years old**, and hers is 2003. Their
+matching engine checks nationality and field, **not the degree-recency rule**.
+
+The only other listed award was ServiceScape ($1,000, a writing-services promotion). So
+**"Scholarships available" is again doing no work here.** Rhine-Waal's value is the zero
+tuition, not its scholarships.
+
+#### 🔧 CORRECTION to earlier guidance in this file
+
+Earlier passes warned **"public university ≠ Fachhochschule"**. **That warning is correct for
+Austria and wrong for Germany.** German *Fachhochschulen* / Universities of Applied Sciences
+are **public and tuition-free** in most states, Rhine-Waal included. Applying the Austrian
+rule to Germany would have discarded this lead. **Check the rule per country, not globally.**
+
+### ESDES Business School, Lyon — "Strategic Marketing and Innovation" · **FAILS**, 21 Aug 2026
+
+Sent by Sara from a Mastersportal email. Field is genuinely relevant and it is English-taught
+in an acceptable country, so it is worth saying precisely why it fails.
+
+| | | |
+|---|---|---|
+| **Tuition** | **57,089 AED/year ≈ €14,000/year** (AED is USD-pegged at 3.6725) → **~€28,000 over two years** | ⛔ **7× the €2,000 ceiling** |
+| **Institution type** | **Private business school** (Université Catholique de Lyon), not a public university | ⛔ the private-fee trap |
+| **"Scholarships available"** | The **Excellence Scholarship is 10–30% of the FIRST YEAR only.** At the maximum that is ~€4,200 off year one; year two is unreduced | ⛔ **not a funded place** |
+| **CROUS** | French state student aid — generally tied to residence criteria a newly arrived non-EU student does not meet | ⚠️ not a route |
+| **Ranking** | "Not ranked" on Studyportals' meta ranking | ⚠️ |
+| Language | English | ✅ |
+| Country | Lyon, France | ✅ acceptable |
+| Field | Strategic marketing and innovation | ✅ genuinely relevant |
+
+**Best case if she won the maximum award:** ~€23,800 tuition plus ~€20,000 Lyon living costs
+over two years, against **zero capital**. Not close.
+
+**Two tells worth learning from this one, because more will arrive:**
+
+1. **"Scholarships available" is marketing until it names a scheme, an amount and a deadline.**
+   Here it means *up to 30% off year one*. The eligibility filter already says this; ESDES is
+   a clean worked example of the gap between the phrase and the reality.
+2. **"Apply Jul 2027 / start Sep 2027" is itself a signal.** A two-month window between
+   application and start is impossible for a competitive funded programme — funded rounds
+   close six to nine months ahead. A late, open window means **rolling fee-paying admission**.
+   Speed of entry correlates with cost of entry.
+
+**And note what this listing is.** Mastersportal marks it *"Featured by ESDES Business
+School"*, and the tracking URL carries `"l":"premium"` and `"l":"revenue"`. **This is a paid
+placement, and "Good Match" is Studyportals' algorithm, not an eligibility assessment.**
+
+#### 🔎 A 60-second self-screen for Mastersportal and similar emails
+
+More of these will come. Sara can kill most of them without asking:
+
+1. **Public university or private school?** Private = full fees, no exceptions worth waiting for.
+2. **What is the non-EU tuition?** Over €2,000 → it needs a *full* scholarship, not a discount.
+3. **Does "scholarships available" name a scheme, amount and deadline?** If not, it is marketing.
+4. **How long between apply date and start date?** Under ~4 months signals fee-paying rolling
+   admission, not funded selection.
+5. **Is it "Featured" or "Sponsored"?** Then it is an advertisement.
+
+Anything failing 1–3 is noise. **Sending it here is still the right call when unsure — but
+this screen will save her most of them.**
+
 ### Checked and probably dead — one more look before discarding
 
 **Italy — regional DSU scholarships.** No age limit, and the package is excellent (full
@@ -686,7 +956,7 @@ the threshold for one region before writing it off entirely.**
 
 ---
 
-## ⛔ RE-RANKED 25 July 2026 — the money constraint
+## ⛔ RE-RANKED 21 August 2026 — the money constraint
 
 **Confirmed by Sara, and the detail matters more than the number:**
 
@@ -746,7 +1016,7 @@ problem, and it points at exactly two schemes.
 **But the money can come from the scholarship.** Austrian permits explicitly accept a
 **scholarship confirmation** in place of savings or a blocked account — alongside bank
 deposits and a Haftungserklärung from an EU resident.
-*Search-sourced 25 Jul 2026.* https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
+*Search-sourced 21 Aug 2026.* https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
 
 **So the correct reading of Austria's €726.72/semester is not "a cheap way in". It is a
 multiplier on a scholarship** — a stipend that would be swallowed by Dutch or Irish tuition
@@ -879,6 +1149,7 @@ is the main body of pass 2.
 | Erasmus Mundus Joint Masters | Consortia | EU-wide | ~€1,400/mo + tuition + travel | Covered | English | Per consortium, **Oct 2026 – Jan 2027** | LEAD |
 | Master Mind Scholarship | Flemish institutions | Belgium | €10,225/yr + fee waiver | Covered | English | Institution-set, ~**Feb–Apr 2027**, not published | ⛔ **LIKELY FAILS** — GPA 3.5 vs her 72.19% "Good". One email to confirm before closing. |
 | GOI-IES | Approved Irish HEIs | Ireland | €10,000 + fee waiver, **year 1 only** | Covered yr 1 | English | 2027/28 **not published** | LEAD |
+| **⭐ M.A. Design and Interaction** | **Rhine-Waal (HSRW)**, Kleve (public) | **Germany** | None needed for tuition — **but €11,904 blocked account is the blocker** | **€0 tuition · ~€694/yr semester fee** | English, **IELTS 5.5** | **Apply by Jan 2027** (Mar start) or **Jul 2027** (Sept start) | **⭐ LEAD — strongest non-scholarship route.** Her exact field, no GPA gate, no age gate |
 | **MSc Marketing** | **WU Vienna** (public) | **Austria** | None — low tuition route | **€1,453/yr** | English | **Opens 1 Sept 2026**; rounds **8 Oct 2026** / 8 Jan / 8 Mar 2027 | **LEAD — live** |
 
 ## Applied
@@ -888,6 +1159,8 @@ is the main body of pass 2.
 ## Closed
 
 | Scheme | Country | Reason |
+|---|---|---|
+| **ESDES Business School, Lyon** | France | Private school, **~€14,000/yr**; "scholarships available" = 10–30% of **year one only**. Sent by Sara from a Mastersportal paid listing, 21 Aug 2026 |
 |---|---|---|
 | DAAD EPOS | Germany | Degree >6 years old |
 | France Excellence Eiffel | France | Age ≤29 |

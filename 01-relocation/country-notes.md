@@ -25,6 +25,14 @@ Both sessions should work from these rather than re-deriving them.
   her **degree certificate**. **She has never sat IELTS, TOEFL or any equivalent.** Her C2
   is real but self-assessed, and universities require a test number. **Now a hard task with
   an external booking dependency** — see `pipeline-scholarships.md` and `06-ielts/`.
+- ✅ **Degree LENGTH: 5 years × 2 semesters = 10 semesters** *(confirmed 21 Aug 2026 —
+  relevant to Route A, so recorded here too).* Roughly **300 ECTS equivalent**, which is
+  **longer than a standard European bachelor**, not shorter. Two consequences for the jobs
+  session: it clears the **EU Blue Card's "higher education programme of at least 3 years'
+  duration"** comfortably, and it strengthens the **ZAB** case — a 5-year degree is more
+  likely to be assessed as *fully* equivalent rather than *partially*, which would make her a
+  **"skilled worker" outright and bypass the Opportunity Card points route entirely.**
+  **Worth testing with ZAB rather than assuming the 4-point partial-equivalence path.**
 - **Degree result: Helwan 2003, 5776/8000 = 72.19%** — the Egyptian **"Good" (Jayyid)** band
   (65–74.99%), 2.8 points below "Very Good". Converts to roughly **2.0–3.3 on a 4.0 scale**
   depending on the source; sources genuinely disagree and only an official evaluation
