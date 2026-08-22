@@ -44,6 +44,7 @@ them.
 | **English language test** | ⛔ **DOES NOT EXIST** | Corrected 21 Aug 2026. The earlier "English certificate" was a terminology mix-up on my side — what she holds is her **degree certificate**, not a language test. **She has never sat IELTS or TOEFL.** Now a hard, unconditional task. See below. |
 | **Attestation of both** | **NOT DONE** | ⛔ **This is now the critical path.** See the section below. |
 | **Degree grade (Helwan, 2003)** | **5776 / 8000 = 72.19%** | Egyptian band **"Good" (Jayyid)**. **Kills Master Mind.** Harmless everywhere else. See below. |
+| **Degree length** | **5 years × 2 semesters = 10 semesters** *(confirmed 21 Aug 2026)* | ✅ **A significant asset, and it clears bars across both routes.** ~300 ECTS equivalent. Clears Rhine-Waal's 210 ECTS / 7 semesters. Clears the EU Blue Card's "at least 3 years' duration". Clears the 4-year/240-ECTS bar that many EU master's apply to non-EU applicants. **A 5-year Applied Arts degree is longer than a standard European bachelor, not shorter — this reads well, not merely adequately.** |
 
 ### The 2003 grade — what it does and does not close
 
@@ -730,9 +731,11 @@ intake)."
 
 #### Open checks before this can be called QUALIFIED
 
-1. ⚠️ **Entry requires 210 ECTS or ≥7 semesters** of prior study. Egyptian Applied Arts
-   degrees run 4–5 years, so she very likely clears it — **but confirm the Helwan programme
-   length.** This is the most likely quiet disqualifier.
+1. ✅ **RESOLVED 21 Aug 2026 — entry requirement CLEARED.** Sara confirmed the Helwan degree
+   is **5 years × 2 semesters = 10 semesters**. Rhine-Waal asks for **210 ECTS or ≥7
+   semesters**; she has **10**, with three to spare. At a normal 30 ECTS/semester that is on
+   the order of **~300 ECTS**, well above the 210 threshold. **The most likely quiet
+   disqualifier is gone.**
 2. ⚠️ **An aptitude test for artistic/creative capability** must be passed. For a creative
    director this should be an advantage, but it is real preparation, not a formality.
 3. ⚠️ German documents will still need **legalisation**, and possibly a **ZAB** statement.
