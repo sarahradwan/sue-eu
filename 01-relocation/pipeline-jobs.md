@@ -737,7 +737,7 @@ entire file.**
 |---|---|
 | **Figma** | ⭐ **Not mentioned.** This is InDesign and print production — her deepest tool, 22 years. The gap that weakened four applications is simply absent |
 | **Motion** | ⭐ **Not mentioned.** The second recurring gap, also absent |
-| **German** | **Not stated in the requirements.** gestalten publishes in English and is a globally distributed brand. ⚠️ Confirm the office language when she writes |
+| **German** | ✅ **CONFIRMED 3 Aug, and it settles the question.** The full spec asks for *"communication skills in **English (German is a plus)**"*. **English is the working language.** The one uncertainty in this recommendation is gone |
 | **Salary floor** | Berlin. **€50,700** Blue Card — **and see the §18b finding below, which removes this as a hard gate entirely** |
 | **Sponsorship** | Germany needs no register. Any employer can hire on a Blue Card, or on §18b |
 | **Seniority** | *Editorial Designer* is below her level, and **she has explicitly said she will settle for less senior to enter the market** |

@@ -5,6 +5,34 @@ strings, set up once as alerts, then maintained rather than rebuilt.
 
 ---
 
+## ⭐ Better than LinkedIn: go straight to company ATS boards
+
+**Added 3 Aug.** The same role gets wildly different competition depending on where it is seen.
+
+| Where | Typical applicant count seen this week |
+|---|---|
+| LinkedIn, **promoted by hirer** | Berlitz **437** · PwC **102** · ICF Next **49** |
+| LinkedIn, not promoted | Breuninger **22** · BENCHMARKED **11** |
+| **Company's own ATS board** | **Usually a fraction of either.** Nobody is scrolling these |
+
+**Bookmark the boards, not the search.** Greenhouse, Ashby, Personio, SmartRecruiters and Workday
+pages are public, updated the moment a role opens, and carry no promotion budget pushing them
+into a hundred thousand feeds.
+
+| Company | Board |
+|---|---|
+| Black Forest Labs | `job-boards.greenhouse.io/blackforestlabs` |
+| Parloa | `job-boards.eu.greenhouse.io/parloagermany` |
+| Aleph Alpha | `jobs.ashbyhq.com/AlephAlpha` |
+| Breuninger | `jobs.smartrecruiters.com/EBreuningerGmbHCo` |
+| Berlitz | `berlitz.careers` |
+| gestalten | `work@gestalten.com` — email, no board |
+| De Gruyter Brill | `degruyterbrill.com/publishing/about-us/careers/job-openings` |
+| Malmberg | `vacatures@malmberg.nl` — open applications invited |
+
+**Check ten boards once a week.** It takes twenty minutes and it puts her in front of roles
+before the promotion budget starts.
+
 ## The single most important thing: speed, not coverage
 
 **BENCHMARKED had 11 applicants at 10 hours old. PVH had 353.**
