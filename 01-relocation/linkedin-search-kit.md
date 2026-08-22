@@ -151,6 +151,32 @@ is growing fast and she is genuinely early to it.
 
 ---
 
+## ⛔ Ignore LinkedIn's "Job match" indicator. Corrected 3 Aug.
+
+**I recommended it that morning as a free first-pass filter. That was wrong and it misled twice
+the same day.**
+
+| Role | LinkedIn said | Truth |
+|---|---|---|
+| deepset, Account Director | match **low** | Correct. Enterprise software sales |
+| Breuninger, Senior AD Image | match **high** | Correct. Best fit of the search |
+| **ICF Next, Director of Agency Operations** | match **high** | **Wrong.** Agency operations, a different profession |
+| **ITDZ Berlin, Grafik- und Corporate Design** | match **high** | **Wrong.** *"Deutschkenntnisse C1"*, listed as **unabdingbar** |
+
+**The indicator scores keyword overlap on discipline** — corporate design, Illustrator, InDesign,
+agency steering — and **cannot read the two criteria that actually decide her applications:
+required language level, and right to work.** Those are precisely the fields that have killed or
+would have killed most of her leads.
+
+**Screen manually, in this order, before reading anything else:**
+
+1. **Language.** Search the posting for `Deutsch`, `C1`, `B2`, `Sprachniveau`, `fluent`,
+   `muttersprachlich`. If a level above A2 is stated as required **for the work**, stop.
+2. **Right to work.** Any list of countries, any *"must be based in"*, any *"current right to
+   work"* question. Stop unless sponsorship is stated or the country needs no register.
+3. **Urgency.** `urgent`, `ab sofort`, `immediate start`. Stop — visa timelines cannot meet it.
+4. **Then** read the role.
+
 ## Exclusions — the noise that has wasted the most time
 
 LinkedIn's `NOT` operator is unreliable in job search, so **screen these out by eye rather than
