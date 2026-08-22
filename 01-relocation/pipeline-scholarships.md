@@ -795,6 +795,46 @@ border, **but a German student permit does not carry Dutch work rights.** Permit
 The realistic labour market is German: Duisburg, and **Düsseldorf about an hour away, which is
 one of Germany's largest advertising markets.** Kleve itself is a small town.
 
+#### ⚠️ Full-time vs part-time vs dual study — checked 21 Aug 2026
+
+Sara asked about the three study modes German universities list. **They are not
+interchangeable for a non-EU applicant, and one of them is a trap.**
+
+| Mode | Verdict |
+|---|---|
+| **Full-time** | ✅ **Her route.** The student residence permit requires **admission to a full-time course** at a state or state-recognised university. Rhine-Waal's M.A. Design and Interaction is full-time, 18 months. Blocked account €11,904; **140 full days (or 280 half days) of work per year** permitted. |
+| **Part-time** | ⛔ **Trap. Do not pursue.** The rule permits part-time only *"under certain conditions"* and **explicitly excludes evening, weekend and distance learning.** The permit is tied to the programme she was admitted to. **And the financial logic runs backwards:** part-time does **not** reduce the proof-of-funds requirement, it stretches the period she must fund and weakens the permit basis at the same time. It looks like it solves the money problem. It does not. |
+| **Dual study** | ⚠️ **The one that genuinely attacks her blocker — and almost certainly closed at A2.** |
+
+**Dual study deserves a straight assessment, because it aims at exactly her problem.**
+
+> A dual-study salary of roughly **€1,500 gross/month can serve as proof of income, and
+> non-EU students on dual programmes often do not need a blocked account at all.**
+
+That is a direct answer to the €11,904 question. But three things stand in the way:
+
+1. **Most dual programmes require German at B2 or C1.** She is **A2**. Same wall as Böll.
+2. **An employment contract with a partner company must be secured *before* enrolment**, via a
+   normal competitive application with CV, letter and interview.
+3. **Dual *master's* programmes are much rarer than bachelor's.** English-taught ones cluster
+   at **private** universities, which reintroduces fees.
+
+**Verdict: not viable for 2027. Worth one search for an English-taught dual master's at a
+public institution, but expect nothing.**
+
+#### 🔑 The convergence worth noticing: German B2 unlocks two separate routes
+
+This is the second time B2 has appeared as the gate on something genuinely good:
+
+- **Heinrich Böll** and the whole political-foundation class — €992/month, no age cap
+- **Dual study** — a salary that replaces the blocked account entirely
+
+Her German study has been filed as *"compounding, not on the critical path."* **Two
+independent routes now open at B2, and both of them solve the money problem that blocks
+everything else.** That is a stronger argument for the German than anything found so far, and
+it is worth putting to the CIM/German sessions as a priority question: **what would it take to
+reach B2 by mid-2027?**
+
 #### ⚠️ Studyportals listed a scholarship she is NOT eligible for
 
 The page offered **DAAD EPOS (€1,400)** as one she "is eligible to apply for". **She is not** —
