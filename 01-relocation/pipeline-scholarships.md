@@ -808,6 +808,31 @@ one hurdle with unknown logistics from Abu Dhabi. Q3 decides whether legalisatio
 spent now or later. Q4 is hers, and it also signals she has read the permit rules rather than
 hoping.
 
+**⭐ Four more to raise on the call (added 21 Aug). These suit a conversation better than an email.**
+
+5. **March 2027 or September 2027 — which is realistic for an applicant in the UAE with
+   Egyptian documents?** The March intake applies by **January 2027** and would put her in
+   Germany **six months earlier than the mid-2027 target**. The advisor can say plainly whether
+   the document timeline makes that possible. **This question was missing from the email and
+   it is the one with the largest upside.**
+
+6. ⚠️ **Is the aptitude test ever held in person in Kleve, and is there more than one sitting
+   a year?** **The sharpest logistical risk in the whole plan.** If it is in-person-only, once
+   yearly, she is looking at a flight she cannot easily fund and a day off she would have to
+   explain at WeDo. Worth knowing before anything else is committed.
+
+7. **What makes a strong application to this programme specifically?** Free intelligence, and
+   almost nobody asks. The advisor knows what the selection panel actually responds to.
+
+8. **How many places, and how many applicants last cycle?** Tells her whether this is a
+   stretch or a formality. A niche English-taught master's at a small school in a small town
+   may be far more accessible than its quality suggests, and that would change how much of her
+   effort Rhine-Waal deserves.
+
+**Also worth mentioning once, not pressing:** the **CIM Level 7 Postgraduate Diploma in
+progress**. It is postgraduate-level study completed recently, which partly answers the
+"2003 degree" concern in Q1 without her having to argue the point.
+
 **Deliberately not asked: anything about the blocked account.** She has said she will handle
 it. Raising a funding worry unprompted with an admissions office invites doubt about a
 question they were not going to ask.
