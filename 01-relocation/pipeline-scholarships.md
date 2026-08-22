@@ -781,6 +781,28 @@ https://www.hochschule-rhein-waal.de/en/academics/prospective-students/guide-int
 > Thank you,
 > Sara Radwan
 
+**⭐ UPDATE 21 Aug: the form offers a Study Advisory Service appointment. Take the online one.**
+
+Options are: no appointment · in person · **online video counselling**. In-person is
+impossible from Abu Dhabi, and declining wastes a free advantage.
+
+**Better than the email alone: book the call, then send the four questions in advance** so the
+advisor arrives prepared. A live conversation gets real answers on the two judgement questions
+an inbox tends to fudge — whether a 2003 degree is acceptable, and what the aptitude test
+actually involves.
+
+**The real prize is a named human.** Ask for the advisor's name and direct email at the end.
+A person at the university who already knows her case is worth more than any generic inbox,
+and it is the same lesson the jobs session recorded: direct contact with a named person beat
+ten cold applications.
+
+**Two practical points:**
+- **Time zone:** Germany runs 2 hours behind Abu Dhabi in summer, 3 in winter. A German
+  afternoon slot lands in her evening, which works around a full-time job.
+- ⚠️ **Confidentiality: take the call from home, not the office.** A video call about studying
+  in Germany is exactly the sort of thing that must not be overheard. The rule in `CLAUDE.md`
+  is about LinkedIn, but the underlying risk is the same.
+
 **Why these four.** Q1 is the only thing that could still disqualify her outright. Q2 is the
 one hurdle with unknown logistics from Abu Dhabi. Q3 decides whether legalisation money is
 spent now or later. Q4 is hers, and it also signals she has read the permit rules rather than
