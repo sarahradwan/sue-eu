@@ -31,7 +31,8 @@ Below is a map of which real work fits each question. She writes the words.
   writers and editors.** Her record shows managing designers, illustrators and layout
   specialists. Editorial is real (five years as Fashion & Beauty Editor at CPI, head of
   creative at a national newspaper), but leading writers is not on the record. Don't claim
-  it.
+  it. **Confirmed by Sara, 25 Oct:** she worked closely with writers and editors, she did
+  not manage them. Frame it as exactly that.
 - **They want deep comfort with research and data.** Information design and data
   visualisation are in her skills, so that's the honest angle.
 - **The fit is design-led, their brief is words-led.** A long shot. Worth two hours because
