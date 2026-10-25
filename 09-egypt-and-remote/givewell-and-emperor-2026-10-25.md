@@ -66,8 +66,10 @@ Move the Annual Report bullet to the top of the WeDo entry. Keep the rest as it 
 
 ## Emperor: nudge to Kaisa Laug
 
-**Channel:** LinkedIn message. She approached Sara there, so reply in the same thread.
-Messages are private and don't appear on her profile or feed.
+**Channel: email, not LinkedIn.** The real thread is "Sara x Kaisa - Emperor MENA creative"
+with kaisa.laug@emperor.works. Sara's last email was 6 August. A Gmail draft reply now
+sits in that thread, created 25 October. The earlier August emails went out from
+hello@sarahradwan.me, so check the From line before sending.
 
 **Four weeks past the 28 September date.** Don't apologise for the gap. A warm,
 specific note with something new attached reads fine.
