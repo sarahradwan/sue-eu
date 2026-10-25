@@ -528,6 +528,95 @@ changing employers 12–18 months before leaving the country.
 
 ---
 
+## Session 7 — Egypt and remote USD income
+
+Opened 25 October 2026. Two searches in one session, and the order matters: the remote USD
+search comes first because it pays more and opens a route. Context and the arithmetic are in
+`09-egypt-and-remote/README.md`.
+
+```
+Two searches, and I want the remote one treated as primary.
+
+Read CLAUDE.md and 09-egypt-and-remote/README.md first. The README has
+the exchange-rate basis, the Egyptian market benchmarks, and why the
+order below is what it is. Do not re-derive it.
+
+This session owns 09-egypt-and-remote/ ONLY. Do not edit
+01-relocation/, 08-uae-income/, 04-portfolio-positioning/ or
+06-ielts/. Other sessions write there.
+
+PRIORITY 1 — REMOTE ROLES PAYING USD
+Fully remote, employer anywhere outside the EU, paid in US dollars.
+I can work from Egypt, the UAE, or anywhere.
+
+- USD 3,100 per month is the number that matters. It clears Spain's
+  digital nomad income test (EUR 2,849), so a role at or above it is
+  strategically different from one below. Flag which side of that
+  line every lead falls on.
+- Target: US, UK, Canadian and Gulf employers with distributed teams.
+  Brand and design consultancies. Corporate reporting and investor
+  communications firms. Agencies with remote senior creative roles.
+  Also fractional and retained freelance, consolidated into provable
+  recurring income.
+- Role families, per the pivot in ROADMAP.md: Editorial Designer,
+  Publication Design Lead, Design Systems Lead, Institutional
+  Communications Lead, International Content Lead, Senior Art
+  Director. Not generic Creative Director.
+- My strongest differentiator: native Arabic plus bilingual
+  Arabic/English publishing, and I art directed the 2025 Annual
+  Report for the UAE Ministry of Foreign Affairs aid agency in both
+  languages. Lead with that for anything reporting-adjacent.
+
+PRIORITY 2 — EGYPT-BASED ROLES
+EGP 80,000 a month minimum, EGP 100,000 net or above preferred.
+
+- Screen for USD denomination FIRST, seniority second. An
+  EGP-denominated salary loses real value as the pound moves, so a
+  USD-linked contract at a lower headline number can be worth more.
+- My number sits well above the published Egyptian market for my
+  role, so do not waste time on Cairo agency postings. Search only:
+  multinational Egypt offices (P&G, Unilever, PepsiCo, Mondelez,
+  Vodafone, Orange and similar), offshore and delivery centres
+  serving Gulf or European clients, Gulf-owned businesses with Cairo
+  operations, and anything paying in dollars.
+- Tell me honestly if nothing at my number exists in a given month.
+
+HARD RULES
+- DO NOT INVENT LISTINGS. Every lead needs a URL you actually
+  fetched. If a site blocks you or returns 403, say so and name what
+  you could not reach. A short verified list beats a long plausible
+  one, and a null result reported honestly is a finding.
+- Never state a salary a posting does not state. Label estimates as
+  estimates and show the reasoning.
+- Reconfirm the EGP rate before any figure reaches an offer
+  conversation. The README uses EGP 50 per dollar as a planning
+  assumption, not a quote.
+- CONFIDENTIALITY: my employer monitors my LinkedIn. Create no
+  profiles, upload my CV to no database, take no publicly visible
+  action. Follow stealth-positioning.
+- Writing follows the plain-writing skill. No em dashes.
+
+OUTPUT
+Write verdicts to 09-egypt-and-remote/. Per lead: employer, role,
+location or remote, currency, salary if stated, whether it clears
+USD 3,100, and apply or skip. git pull --rebase before committing,
+then push to claude/proactive-agent-setup-7f6r2m.
+
+Report back short: the three best, anything closing soon, and one
+action for this week. Tell me what to do, do not ask.
+```
+
+**Why remote comes first.** A remote role at USD 3,100 pays roughly 1.5 times her stated
+Egypt preference, carries no pound devaluation risk, works from anywhere, and satisfies the
+Spanish income limb by itself. The Egypt-based search is the fallback, not the headline.
+
+**And the real argument for Egypt is not salary.** She is an Egyptian citizen, so no
+employer owns her residency there. The confidentiality rule, the NOC question, and the risk
+that discovery costs her both job and residence all exist because her UAE visa is tied to
+WeDo. In Egypt that dependency ends.
+
+---
+
 ## Why the split
 
 Both sessions push to the same branch. Two things prevent collisions:
