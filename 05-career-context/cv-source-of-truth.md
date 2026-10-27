@@ -211,13 +211,15 @@ Recorded exactly as Sara stated them. Do not add detail she has not supplied.
 - **Volunteer workshops with children in low-income neighbourhoods, Egypt.** Collage and crafts,
   three workshops. Old. *Unconfirmed: year, organisation.*
 
-### ⚠️ Conflict to resolve: Benet7awel role
+### ✅ Resolved 27 Oct 2026: Benet7awel role
 
-The WeDo entry above says she **"Led"** Benet7awel. On 27 Oct 2026 Sara described it as: internal,
-**one week**, announced at an event, audience all Dubai Municipality staff, and **"did not do
-that but helped in materials."** If she helped rather than led, **"Led" is an overstatement**,
-and it has already gone into tailored CVs and at least one cover letter. **Do not use "led"
-for Benet7awel anywhere until Sara confirms which is true.**
+Sara confirmed: **she led the team for the main campaign and the ideation is hers.** "Led" is
+accurate. **The launch event day itself was not hers**, so never claim the event. The campaign
+ran **one week** and reached **all Dubai Municipality staff**.
+
+⚠️ The WeDo bullet lists "physical event setups across the building". **Confirm with Sara
+whether those setups were part of her campaign or part of the launch event** before reusing
+that phrase.
 
 ## Gaps to be honest about (EU context)
 
