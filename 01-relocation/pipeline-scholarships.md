@@ -540,6 +540,11 @@ design or brand programme than a consortium catalogue weighted to heritage and p
 **Sweden is the primary route; Erasmus Mundus is the hedge, not the co-favourite.**
 | **Status** | **LEAD — highest priority.** Blocked on one thing: finding programmes in her field. |
 
+**🆕 27 Oct 2026: first in-field Erasmus Mundus match found: Response_Able Futures**, M(F)A
+in Design and Health_Care (LUCA BE · Aveiro PT · Sheffield Hallam UK). 12 scholarships,
+€1,400/month × 24. **Portal closes 20 January 2027.** Portfolio max 6 pages / 3 projects, plus
+poster and 500-word care reflection. Full plan: `response-able-futures-portfolio.md`.
+
 #### 3. ⛔ Master Mind Scholarship — Flanders, Belgium — **LIKELY FAILS on the GPA floor**
 
 **Status changed 25 July 2026** once the Helwan grade was known. Her 72.19% is Egyptian
