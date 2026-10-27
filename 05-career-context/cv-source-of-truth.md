@@ -194,18 +194,30 @@ one badly-framed letter. **Twenty-two years does not fit on two pages, and what 
 whatever nobody asked about recently.** A deliberate pass through her back catalogue is
 worth more than waiting for forms to surface things one at a time.
 
-## 🆕 Back catalogue surfaced 27 Oct 2026 (details pending from Sara)
+## 🆕 Back catalogue surfaced 27 Oct 2026 (Sara's own answers)
 
-Recorded exactly as Sara stated them. Nothing below is confirmed beyond her words. Do not add
-detail until she supplies it.
+Recorded exactly as Sara stated them. Do not add detail she has not supplied.
 
-- **Dubai International Food Safety Conference, 2025 and 2026.** Worked on it with her team at
-  WeDo, both years. Organiser: Dubai Municipality Food Safety Department (public source).
-  **Pending:** her personal role, what was made, what changed between the two years, outcomes,
-  images. Her only health-sector project; see `01-relocation/response-able-futures-portfolio.md`.
-- **Volunteer workshops with children in low-income neighbourhoods, Egypt.** Taught collage
-  and crafts, three workshops. **Pending:** when, where, organisation, ages, whether she
-  designed the workshops, photos.
+- **National curriculum, scope in her words.** French, three levels. Social studies, every
+  grade KG1 to Grade 12, three semesters, **student books and teacher books**. Philosophy, two
+  courses. Covers for music books. She can show pages. *Still unconfirmed: the three scripts,
+  team size.*
+- **Dubai International Food Safety Conference, 2025 and 2026 (WeDo).** "Helped in design with
+  the team." **A contributor role, not a lead.** The two years had different themes. Photos
+  exist for 2025; 2026 not yet delivered. Organiser: Dubai Municipality Food Safety Department.
+- **UNICEF-related book covers, Egypt, 2007.** Covers for some books. **No UNICEF logo on them**,
+  so the link needs other proof (contract, credit page, email) before it is claimed anywhere.
+  *Unconfirmed: what the books were, her exact role.*
+- **Volunteer workshops with children in low-income neighbourhoods, Egypt.** Collage and crafts,
+  three workshops. Old. *Unconfirmed: year, organisation.*
+
+### ⚠️ Conflict to resolve: Benet7awel role
+
+The WeDo entry above says she **"Led"** Benet7awel. On 27 Oct 2026 Sara described it as: internal,
+**one week**, announced at an event, audience all Dubai Municipality staff, and **"did not do
+that but helped in materials."** If she helped rather than led, **"Led" is an overstatement**,
+and it has already gone into tailored CVs and at least one cover letter. **Do not use "led"
+for Benet7awel anywhere until Sara confirms which is true.**
 
 ## Gaps to be honest about (EU context)
 

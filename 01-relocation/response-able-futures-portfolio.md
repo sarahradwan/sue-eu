@@ -54,6 +54,30 @@ being asked.
 
 ---
 
+## 🔄 Revised ranking, 27 Oct 2026 (after Sara's answers). Supersedes section A where they differ
+
+**The rule that decided it: the programme asks for your own contribution. Lead with work you
+led.** Sara's role on both WeDo projects is "helped", not "led". That moves them down.
+
+| # | Project | Role | Health link | Status |
+|---|---|---|---|---|
+| 1 | **National curriculum** | Led | Indirect (comprehension, two readers: child and teacher) | ✅ Confirmed. Pages can be shown. Social studies KG1 to Grade 12, student and teacher books, French three levels, philosophy two courses, music covers |
+| 2 | **Dubai roads authority public experience** (Social Dar) | Led, end to end | Weak | ✅ Back in. Its purpose and the participatory installation still need describing |
+| 3 | ***Mother, Baby & Child* rebrand** **or** **Food Safety Conference** | Led / helped | Direct / direct | ❓ Decided by one question: does MBC visual evidence survive? If yes, MBC (led, health, +38%). If no, the conference, with her contribution named piece by piece |
+| Out | Benet7awel | Helped (CV says "Led", conflict open) | Indirect | Out of the portfolio. One line in the letter at most |
+| Letter | Food safety conference (if not #3), UNICEF covers 2007, Egypt workshops, eight years caring for her mother | | | Motivation letter material, not portfolio |
+
+**Page 1 copy update:** the curriculum's student *and* teacher books is the strongest care detail
+in the project: the same content designed for the person learning and the person teaching.
+Social studies across every grade from KG1 to Grade 12 means a child could grow up inside this
+system. Use both facts; they replace the `[CONFIRM: grade range]` placeholder.
+
+**Reflection statement:** the programme says not to use AI. Sara writes it; Claude gives
+questions and critique only. Time-frame question sent to info@response-able-futures.eu
+(draft in Gmail, 27 Oct).
+
+**IELTS:** planned for Nov/Dec. Book a date no later than mid-December.
+
 ## A. Ranked shortlist
 
 ### The honest starting position
