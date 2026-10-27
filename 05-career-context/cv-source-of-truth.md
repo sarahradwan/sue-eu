@@ -194,6 +194,19 @@ one badly-framed letter. **Twenty-two years does not fit on two pages, and what 
 whatever nobody asked about recently.** A deliberate pass through her back catalogue is
 worth more than waiting for forms to surface things one at a time.
 
+## 🆕 Back catalogue surfaced 27 Oct 2026 (details pending from Sara)
+
+Recorded exactly as Sara stated them. Nothing below is confirmed beyond her words. Do not add
+detail until she supplies it.
+
+- **Dubai International Food Safety Conference, 2025 and 2026.** Worked on it with her team at
+  WeDo, both years. Organiser: Dubai Municipality Food Safety Department (public source).
+  **Pending:** her personal role, what was made, what changed between the two years, outcomes,
+  images. Her only health-sector project; see `01-relocation/response-able-futures-portfolio.md`.
+- **Volunteer workshops with children in low-income neighbourhoods, Egypt.** Taught collage
+  and crafts, three workshops. **Pending:** when, where, organisation, ages, whether she
+  designed the workshops, photos.
+
 ## Gaps to be honest about (EU context)
 
 - No EU work experience or EU right to work — the sponsorship/scholarship question is
