@@ -113,7 +113,7 @@ const BODY = { fontSize: 14, color: INK };
     "The authority wanted [the purpose of the event]. It ran for two days inside their own building, with a registration platform for more than 250 vacancies.",
     "Government buildings tell visitors where they stand before anyone speaks. [Who the visitors were.] I read the brief as a question about how people feel in that building, and what would make them take part.",
   ], { fontSize: 14, color: INK }, 8), { x: 6.85, y: 4.95, w: 5.88, h: 2.0 });
-  role(s, "My role: co-founder and creative lead of the studio that delivered it. Concept, identity, on-site direction on both days. [What you designed yourself.]", { x: M, y: 6.3, w: 6.0, h: 0.7 });
+  role(s, "My role: creative lead, at the studio I co-founded. I conceived all six interactive activations and led the creative direction of the whole experience, from concept and visual identity to on-site execution.", { x: M, y: 6.3, w: 6.0, h: 0.7 });
 }
 
 // ---------- PAGE 4: public experience, the route ----------

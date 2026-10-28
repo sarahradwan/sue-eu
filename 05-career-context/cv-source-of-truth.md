@@ -211,6 +211,12 @@ Recorded exactly as Sara stated them. Do not add detail she has not supplied.
 - **Volunteer workshops with children in low-income neighbourhoods, Egypt.** Collage and crafts,
   three workshops. Old. *Unconfirmed: year, organisation.*
 
+### ✅ Confirmed 28 Oct 2026: RTA role, in Sara's words
+
+**Creative lead and experience concept creator.** She conceived **all six interactive activation
+ideas** and led the creative direction of the whole experience: concept development, visual
+identity, on-site execution.
+
 ### ✅ Resolved 27 Oct 2026: Benet7awel role
 
 Sara confirmed: **she led the team for the main campaign and the ideation is hers.** "Led" is
