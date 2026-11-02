@@ -3,11 +3,21 @@
 What Sara has not answered yet. Updated every session. Nothing gets drafted around a gap
 on this list; it gets asked.
 
-## Blocking: asked 2 November 2026, waiting on answers
+## Answered
 
-1. What is the book about, in one sentence?
-2. Who is it for?
-3. What exists already, and where? Word count, chapters, format, device or drive.
+1. **What it is.** *Notes from a Life I Didn't Plan. Some of it happened to me. The rest, I
+   happened to.* Personal essays. Intro covers childhood, leaving Egypt, Qatar, Dubai.
+   Ch1 "I'm Not Lazy, I'm Spiritually Horizontal" drafted. Ch2 "I'm the Success and the
+   Sabotage" has a title and interview questions. (Session 1)
+
+## Blocking: still waiting
+
+2. **Who is it for?** One person she pictures reading it.
+3. **Where the material lives.** Upload or paste:
+   - the Chapter One draft, and its rough word count
+   - the Chapter Two interview questions
+   - the saved notes, including the Women for Women work-permit story
+   - any intro draft, if one exists
 
 ## Asked after the first three
 

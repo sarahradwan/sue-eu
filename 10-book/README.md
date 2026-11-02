@@ -1,5 +1,11 @@
 # The book
 
+> **Corrected 2 November 2026, session 1.** The book is *Notes from a Life I Didn't Plan*
+> (subtitle: *Some of it happened to me. The rest, I happened to.*). It is personal essays,
+> not the Arabic practitioner book this README guessed at below. Her answer is in
+> `interviews/2026-11-02-session-1.md`. Where the guesses below conflict with it, her
+> answer wins.
+
 Opened 2 November 2026. Sara started a book and wants it finished. This folder holds the
 manuscript, the structure, and the interview material.
 
