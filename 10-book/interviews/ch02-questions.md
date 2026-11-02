@@ -335,4 +335,16 @@ Verbatim:
 - Dress code complaint: **later chapter, with the slap advice.** Same man, and the dress-code
   woman who shut him down is a Women for Women moment.
 
+### Q7. What did you say back to your former student? (2 Nov 2026)
+
+Verbatim:
+
+> i said : seriously! , he felt embaressed and knew that the show ehe is putting as a design
+> expert i will not buy that,, and said i mean there is atiny thing you nigh thave overlooked ,
+> an elemtn i added to balance the design
+
+**Facts:** She said "Seriously!" He was embarrassed, knew she would not buy his design-expert
+act, and retreated: "I mean, there is a tiny thing you might have overlooked, an element I
+added to balance the design."
+
 *(more answers below as they come)*
