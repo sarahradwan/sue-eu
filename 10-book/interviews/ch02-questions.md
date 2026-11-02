@@ -272,4 +272,12 @@ normal for memoir and should happen before this goes out.
 **Figure check:** 14,000 QAR in 2013 was about 3,850 USD, not over 4,000. Use the riyal figure,
 or "nearly four thousand dollars".
 
+### Correction: who knew about the game (2 Nov 2026)
+
+> nobody above them stopped it indecates that tjhe managment did know, when they did not
+
+My suggested line "nobody above them stopped it" was wrong: it implies management knew.
+**Facts:** their department head approved the game. Management above him did not know. She
+did not tell them. Any wording must keep that split. Do not use "nobody above them stopped it".
+
 *(more answers below as they come)*
