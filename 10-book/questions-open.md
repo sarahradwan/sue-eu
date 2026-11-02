@@ -41,3 +41,8 @@ See `interviews/ch02-material.md`. First section asked: the editor-in-chief call
 - Facts to confirm in the existing draft: see `drafts/v0-review.md`.
 - The co-founder: how they appear in the business story, if at all.
 - How much of the business can be named: clients, partners, figures?
+
+## From the full Monday conversation
+- Did she write the first version of the intro herself, before Monday's "latest intro"? Does it exist?
+- Her own telling of the work-permit story, the alcohol interview, and the earlier attempts to leave. Only Monday's summaries exist.
+- Confirm she is quoted in the NYT piece of 23 Oct 2013.
