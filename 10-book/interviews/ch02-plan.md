@@ -1,9 +1,12 @@
 # Chapter Two: section plan
 
 Her direction, 2 Nov 2026: **the big successes and big failures of her career.** Section 1 is
-the opening only. One line per section. Order roughly follows time, but alternates win and
-loss, which is how she described the chapter to Monday ("moments where i felt i succeded and
-another times i failed").
+the opening only. One line per section.
+
+**Not chronological** (Sara, 2 Nov 2026: "not nessercilry in a timeline storyline, i lik the
+jump from 23 yo to 33 yo"). Sections are ordered by contrast, not by date: jumps in time are
+allowed and wanted, the way section 1 jumps ten years. The table below is a list of material,
+not a running order. Running order is set once four or five sections exist.
 
 | # | Section | Win or loss | Material |
 |---|---|---|---|
