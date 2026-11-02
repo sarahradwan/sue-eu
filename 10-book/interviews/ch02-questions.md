@@ -200,4 +200,26 @@ Verbatim:
 
 **Unanswered:** did she get the job? Did her dad say anything in the room?
 
+### Q4 follow-up: did your dad speak, did you get the job? (2 Nov 2026)
+
+Verbatim:
+
+> my dad just handshock the manager and sta down in silnce, i intoruced my did and mentioned in
+> it smy first interview , he did not comment coz - nothing to be said! , yes i got the job
+> worked there for 6 months till i found my next job and left , why left because most of th
+> time i was doing nothing!
+>
+> one comment this chapter should be about teh big sucresses and big faliures in career so it
+> should have more
+
+**Facts established**
+- Her dad shook the manager's hand and sat down in silence.
+- She introduced him [read as "introduced my dad"; CHECK if wrong] and said it was her first interview.
+- The manager did not comment. "nothing to be said!"
+- She got the job. Stayed six months, until she found the next one. Left because most of the
+  time she was doing nothing.
+
+**Her direction for the chapter:** big successes and big failures in her career. Section 1
+stays as the opening only. The weight goes to the sections below. See `ch02-plan.md`.
+
 *(more answers below as they come)*
