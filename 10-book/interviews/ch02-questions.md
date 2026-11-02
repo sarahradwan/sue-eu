@@ -124,4 +124,53 @@ Verbatim:
 readers. The deal is context; the scene is the woman in the hotel room. Questions from here
 lean toward what she felt and saw, not what she produced.
 
+### Dates (2 Nov 2026)
+
+> the visit was just beforeEid al-Adha fell , i landed in nov 2013 to stay in doha , this is
+> when i moved, they placed me in same hotel for 3 weeks til i found a nice place to call home 5
+> minutes walking from work
+
+- Visit: just before Eid al-Adha 2013 (mid-October). Move: November 2013.
+- On the move, Al Arab put her in the same hotel for three weeks, until she found a flat five
+  minutes' walk from work. "a nice place to call home"
+
+### Q3. First night alone in the hotel room (2 Nov 2026)
+
+Verbatim:
+
+> it was my first time ever to board a plan at the age of 33 , with an acrophobia i was really
+> scared, but excited, and feeling safe as i trust the place i worked in, a colleague got me at
+> the airport and helpped me to check in , took me straight ot the newspaper , meeting everyone
+> wasa bit awkward at first , as a shy introvert egyptian woman for the first time in many
+> things, me the person who did not dare to book her private lessons because she will talk to
+> stratgers at the age of 18 , the person who took her dad on her first time interview ever and
+> my dad actually walked in with me to the manager in the interviw, the one who refused to work
+> far from home and rejected any work offer from placed more than 30 minutes commute from home ,
+> that girl is out of her comfrot zone , out of her city , her country, out of her old self ,
+> that night in teh room on this comfy bed in a country that sleeps at 9 pm i found peace, and
+> found a new me
+
+**Facts established**
+- The October visit was her first flight ever, at 33. She has acrophobia. Scared, excited, and
+  safe because she trusted the company.
+- A colleague met her at the airport, helped her check in to the hotel, and took her straight
+  to the newspaper. Meeting everyone was awkward.
+- At 18 she did not dare book private lessons because she would have to talk to strangers.
+- At her first job interview ever, her father came with her and walked into the manager's
+  office with her.
+- She turned down any job more than a 30-minute commute from home.
+- That night: a comfortable bed, "a country that sleeps at 9 pm", peace.
+
+**Her lines to keep, close to as said**
+- "that girl is out of her comfort zone, out of her city, her country, out of her old self"
+- "a country that sleeps at 9 pm"
+- "I found peace, and found a new me"
+- "the person who took her dad on her first time interview ever"
+
+**Placement question.** This scene and the intro's Doha arrival ("I landed in Doha at dawn")
+describe two different trips, October visit and November move. Both cannot open the same way.
+And the father-at-the-interview story is work, which makes it a candidate opening for Chapter
+Two: the girl whose dad walked her into her first interview, flown out a decade later because
+a newspaper wanted her. Sara decides.
+
 *(more answers below as they come)*

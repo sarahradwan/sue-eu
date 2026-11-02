@@ -46,3 +46,4 @@ See `interviews/ch02-material.md`. First section asked: the editor-in-chief call
 - Did she write the first version of the intro herself, before Monday's "latest intro"? Does it exist?
 - Her own telling of the work-permit story, the alcohol interview, and the earlier attempts to leave. Only Monday's summaries exist.
 - Confirm she is quoted in the NYT piece of 23 Oct 2013.
+- Visit year: answered. October 2013 visit, November 2013 move.
