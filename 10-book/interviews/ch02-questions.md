@@ -222,4 +222,54 @@ Verbatim:
 **Her direction for the chapter:** big successes and big failures in her career. Section 1
 stays as the opening only. The weight goes to the sections below. See `ch02-plan.md`.
 
+### Q5. The "male circus" in Doha (2 Nov 2026)
+
+Verbatim:
+
+> i have many incidents i will tell you in brief and you choose the best and where it might fit,
+>
+> generally i was being rejected by most of the Doha team and the art director also, because i
+> am a women, not only woman a succeful one, who they flew from cairo to be the artistic side of
+> the depratment , spcial desk, latest apple desktop that was worth over 4k usd ( 14K qarati
+> riayls in 2013 ) , i even heard one of them saying i will go bck to my home country beggin
+> inthe streets if she become my manager, he never knew me! but after few months i knew why, the
+> dude and his bestie installed a game on the work computer and was playing hide and seek with
+> shoot guns almost all day , they took breaks from the game to work, and the male department
+> head approved it, i was never a snitch so i did not rtell the manager and honestly i had no
+> offcial authorty to ban the game, i wish i could, not because anyuthing but it could be a
+> break time thing , not evryday routine and someimes they delayed work because of it!
+>
+> aah i think i should not say that , or may be remoce the country name altogtjer! or may
+> benot mention it is a newspaper! we can say a publshing house or company!
+>
+> one more think was one of the colleages i dealt with as a nice respectful coulleague, when i
+> felt things getting tomuch , i pulled back, he hit me with a second wife offer!
+>
+> one more thng a man in another sdepartment his offic3 door was all opned, he was giving advice
+> to a co-worker who just laned in the country few month and was single he said you should
+> marry from your own nationalty , if you marry western woman she will take your fights sirous,
+> but a womrn from your own country will handle it , if you slap her once you will just say
+> couple of words and she will not make a big deal of it , but if you did that with a wester
+> wife she will reposrt you to the police ! that was a hell peace of advice
+> they had a dress code in the worklace ,
+
+**Three incidents. Where each goes:**
+
+| Incident | Where | Why |
+|---|---|---|
+| A. "I'll go back to my country begging in the streets if she becomes my manager." Then the reveal: he and his friend played a shooting game most of the day, approved by the department head | **Chapter Two, section 4** | Her success caused it: flown from Cairo, a special desk, a new Apple desktop. A stranger's verdict before he knew her, then the joke lands on him. It is the success-and-sabotage idea in one scene |
+| B. The respectful colleague; she pulled back; he answered with a "second wife" offer | **Later chapter** (boundaries, being single, saying no) | About her as a woman, not her career success |
+| C. The overheard advice through an open office door: marry your own nationality, because a western wife reports a slap to the police | **Later chapter** (Women for Women, or marriage and being single) | The strongest of the three, and about women in general. Too big to be a side scene in a career chapter |
+
+Logged in `story-archive.md`. Unfinished: "they had a dress code in the workplace" [ASK].
+
+**Her concern: naming.** See note in chat reply of 2 Nov. Short version: the intro already
+places her at a newspaper in Doha, and her CV and LinkedIn name Al Arab, so renaming the place
+does not anonymise it. What protects her is not identifying individuals. "The male department
+head" is one identifiable person, so that line needs care. A pre-publication legal read is
+normal for memoir and should happen before this goes out.
+
+**Figure check:** 14,000 QAR in 2013 was about 3,850 USD, not over 4,000. Use the riyal figure,
+or "nearly four thousand dollars".
+
 *(more answers below as they come)*
