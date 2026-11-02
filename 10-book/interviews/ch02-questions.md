@@ -280,4 +280,59 @@ My suggested line "nobody above them stopped it" was wrong: it implies managemen
 **Facts:** their department head approved the game. Management above him did not know. She
 did not tell them. Any wording must keep that split. Do not use "nobody above them stopped it".
 
+### Q6, the dress code, and the former student (2 Nov 2026)
+
+Verbatim:
+
+> they had a dress code in the workplace, no tight or reavling clother for women no shorts or
+> slippers for men, jeans pants only primitted fridays,
+> one of my colleague was cought in jeans many times so he complained about my pants looked
+> tight from his poin of view! why do you even look at my pants! the lady in charge of watching
+> the dress code stopped him and said she will raise a complain if he ever mentioned anyone else
+> dress code inapporpriatly - btw that was the same guy foir the slap advice
+>
+> i was in the corridor by chnge he was inside the design room, and did nothing tbh , i laughed
+> 😃 they were scared of me being powerful and that was my power over them
+>
+> one more incdent, wehn i was in cairo offce, my manager asked me to teach a man that was
+> recently layed of from another publshn ghouse, i said but he knpows nothing about designa fn
+> nothing about indesign! he said yes but he has kids and no income now, so i taught him as
+> much as i could in few days , they flew him to Doha as a designer, when i moved i found him in
+> a much higher piostion supervising designers that are more qualified than him, not my problem
+> , good for him, once day i was working on a design adn he was reviewing it before sending it
+> to the printshop - we can call him finallizer althoughe was not putting in much effert in work
+> he was mainly [Arabic phrase: a foreman who watches others work] as we say in arabic - but di
+> not include the arabic word , he came to me and said the most ironic phrase : the man who was
+> once my student told me : Sara there are some stuff you neee to nkow about design! sirously!!!
+
+(Her Arabic phrase is kept in her original message only. She asked for it not to go in the book.)
+
+**Facts established**
+- Dress code: no tight or revealing clothes for women; no shorts or slippers for men; jeans
+  only on Fridays.
+- A colleague caught in jeans many times complained that her trousers looked tight. The woman
+  in charge of the dress code stopped him and said she would file a complaint if he commented
+  on anyone else's clothes inappropriately. **Same man as the slap advice.**
+- The begging line: she was in the corridor by chance; he was inside the design room. She did
+  nothing. She laughed.
+- Cairo: her manager asked her to teach a man just laid off from another publisher. He knew
+  nothing about design or InDesign. "He has kids and no income now." She taught him what she
+  could in a few days. Al Arab flew him to Doha as a designer. When she moved, he was in a much
+  higher position, supervising better-qualified designers. "not my problem, good for him." He
+  reviewed work before it went to the printer ("finaliser"), mostly watching others work. One
+  day, reviewing her design: "Sara, there are some stuff you need to know about design."
+
+**Her lines to keep**
+- "why do you even look at my pants!"
+- "they were scared of me being powerful and that was my power over them"
+- "not my problem, good for him"
+- "Sara, there are some stuff you need to know about design" (his words, keep his grammar)
+
+**Placement**
+- Begging man and the game: **Ch2 section 4, drafted v1.**
+- The former student: **Ch2, new section.** Kindness repaid with condescension. Pure
+  success-and-sabotage, and funny.
+- Dress code complaint: **later chapter, with the slap advice.** Same man, and the dress-code
+  woman who shut him down is a Women for Women moment.
+
 *(more answers below as they come)*

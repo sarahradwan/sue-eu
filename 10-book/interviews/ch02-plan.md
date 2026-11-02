@@ -13,7 +13,8 @@ not a running order. Running order is set once four or five sections exist.
 | 1 | The dad interview, then the first flight at 33 | Opening | **Drafted, v2** |
 | 2 | Hired on a découpe page. Cairo design team from two people to half the department | Win | Answered Q1. Needs one scene |
 | 3 | Kahramaa: the pilot that won 4 million QR, the call, the offer | Big win | Answered Q2. Needs the feeling |
-| 4 | Doha: one incident from the "male circus" | Loss / sabotage | Not told yet |
+| 4 | Doha: the man who would rather beg, and the game | Sabotage | **Drafted, v1** |
+| 4b | The former student: "Sara, there are some stuff you need to know about design" | Sabotage, funny | Told. Needs her reply |
 | 5 | Leaving Qatar for Dubai: why | ? | Not told yet |
 | 6 | Building the business | Big win | Not told yet. Co-founder question open |
 | 7 | The money: the day it felt real | Big win | Not told yet |
