@@ -311,7 +311,19 @@ framings land, whether the sponsorship question kills applications early or late
 
 ## Emperor Middle East — talent pipeline, not an application
 
-**Status: WARM. No live role. Nudge due 28 September 2026.**
+**Status: ⚠️ COOLING. Nudge was due 28 September 2026 and was not sent. 35 days overdue as of
+2 November 2026.**
+
+**What the delay changes.** Not much, and that is worth saying plainly rather than treating
+this as lost. A talent-pipeline entry goes quiet, it does not expire, and three months from
+a warm inbound approach is not a long silence in a market that hires slowly. **But the
+nudge is now harder, because "following up" at five weeks past a date only Sara knew about
+reads as nothing.** It needs a reason to exist.
+
+**So the nudge changes shape.** Not a check-in. A piece of work, sent because it is relevant
+to Emperor specifically, with the availability question as the second line rather than the
+first. Their Copywriting and Arabisation line is the hook, and anything bilingual she has
+finished since August is the pretext.
 
 | | |
 |---|---|
