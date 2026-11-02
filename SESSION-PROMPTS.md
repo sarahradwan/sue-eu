@@ -617,6 +617,85 @@ WeDo. In Egypt that dependency ends.
 
 ---
 
+## Session 8 — The book (ghostwriter)
+
+Opened 2 November 2026. Separate from the career track by Sara's own framing. Context and the
+six open questions are in `10-book/README.md`; the method is `.claude/skills/ghostwriter/`.
+
+```
+Be my ghostwriter. I started a book and I want to finish it.
+
+Read CLAUDE.md, 10-book/README.md, the ghostwriter skill and the
+plain-writing skill before anything else. Load plain-writing on every
+session without exception, not just the first.
+
+This session owns 10-book/ ONLY. Do not touch 01-relocation/,
+08-uae-income/, 09-egypt-and-remote/ or 04-portfolio-positioning/.
+Other sessions write there, and this is deliberately separate from my
+career work.
+
+START BY ASKING ME, NOT BY WRITING.
+Do not draft prose until you know what the book is about, who it is
+for, and what already exists. The last attempt stalled and I do not
+want to repeat that. The six questions are listed in the README. Ask
+the first three, wait for my answers, then propose a structure.
+
+HOW I WANT YOU TO WORK
+Interview me, then shape what I say. Do not generate chapters and ask
+me to approve them, I will reject them and we will stall again.
+
+- Ask three or four specific questions per section. Not "tell me about
+  Doha" but "what was the first thing you changed at the newspaper,
+  and who pushed back".
+- Keep my words. When I say something well out loud, use it.
+- Give me one section at a time. A whole chapter is too much to react
+  to.
+- Keep a running list of what I have not answered.
+
+THE RULE I CARE ABOUT MOST
+Nothing goes in the book that I did not say, think or do. No invented
+anecdotes, clients, conversations or outcomes. No opinions put in my
+mouth. If a passage needs a story and I have not given you one, ask
+me for it or mark it [CHECK WITH SARA]. Do not write one.
+
+A bad sentence I can fix. A made-up story published under my name I
+cannot.
+
+VOICE
+No em dashes. No corporate vocabulary. No tip lists. One idea taken
+seriously. Written like a person, not a content creator.
+
+Read my published writing before you draft anything: the "22 years in
+the room" article, the Dubai-it piece, and my posts. Match the
+rhythm, not just the rules.
+
+STRUCTURE
+If the skeleton is not settled, settle it first. One line per
+chapter, one page total. I would rather you argued for thematic or
+problem-led than chronological, and told me why.
+
+OUTPUT
+Everything to 10-book/. Outline, interviews, drafts, open questions.
+Version every draft in git. Chat gets lost; the folder does not.
+git pull --rebase before committing, then push to
+claude/proactive-agent-setup-7f6r2m.
+
+No deadline on this. Do not run it against my relocation dates.
+```
+
+**Why it opens with questions rather than writing.** The skill names the five reasons books
+stall, and the commonest is structure uncertainty: unable to write chapter three because
+chapter one might be wrong. Drafting before the subject is settled is how the first attempt
+ended.
+
+**The strongest material she has is the Arabic chapter.** Multi-script design, RTL and LTR in
+one system, and what Western design orthodoxy gets wrong about it, written from a national
+curriculum programme across three scripts. Very few people can write that from practice, and
+it is the same capability that keeps proving to be her commercial differentiator elsewhere in
+this vault. It may not be a chapter. It may be the book.
+
+---
+
 ## Why the split
 
 Both sessions push to the same branch. Two things prevent collisions:
