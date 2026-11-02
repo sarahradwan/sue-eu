@@ -10,9 +10,10 @@ on this list; it gets asked.
    Ch1 "I'm Not Lazy, I'm Spiritually Horizontal" drafted. Ch2 "I'm the Success and the
    Sabotage" has a title and interview questions. (Session 1)
 
+2. **Who it is for.** "All millennials but mainly women." (Session 1)
+
 ## Blocking: still waiting
 
-2. **Who is it for?** One person she pictures reading it.
 3. **Where the material lives.** Upload or paste:
    - the Chapter One draft, and its rough word count
    - the Chapter Two interview questions
@@ -32,3 +33,10 @@ on this list; it gets asked.
   verbatim sample of her prose on file is the Tour & Taxis post, quoted in
   `.claude/skills/linkedin-writer/SKILL.md`. Need both articles pasted in before any drafting.
 - **The Cairo/Doha/Dubai post.** Logged as living in a separate chat, not in this repo.
+
+## Chapter Two
+
+See `interviews/ch02-material.md`. First section asked: the editor-in-chief call in Qatar.
+- Is the frogs / "You're too slow" scene in Chapter One? If yes, it stays out of Ch2.
+- Is Chapter One "I wasn't weak" in any sense, as Monday claimed? Or is that the intro?
+- How much of the business can be named: clients, partners, figures?
