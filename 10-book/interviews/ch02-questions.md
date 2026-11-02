@@ -10,6 +10,9 @@ Order can change if an answer opens something better.
 3. What did they say, roughly, and in Arabic or English?
 4. What did you do in the hour after?
 
+## A2. Added after Q2
+4b. The hotel room in Al Dafna: what did you think, alone in that room the first night?
+
 ## B. One incident from the "male circus"
 5. Pick one: the "second wife" offer, a rumour, or something else. Who, where, what was said?
 6. What did you do in the moment, and what did you do that evening?
@@ -71,5 +74,54 @@ Verbatim:
 - The editor-in-chief calls and the sales director call are separate. When and how the
   editor-in-chief called is still unanswered.
 - "Découpe" needs one plain sentence of explanation for a general reader.
+
+### Correction to Q1 (2 Nov 2026)
+
+Verbatim:
+
+> the visit was for 6 days and they extended for 4 more days , they wanted me to extend more
+> but it was Eid Aladha and had to go back to celebrate with my mum, that's why they couldnt
+> make stay long then i recieved the offer 1 month after my return
+>
+> note the hotel was one of the best hotels in doha and in Al Dafna nighbouhood the best one in
+> Doha, a gilf facing massive hotel room with iphone charger connected to speaker and a
+> nesspresso machine 😃
+
+**Facts corrected**
+- The visit was 6 days, extended by 4 (10 days, not a month). They wanted longer. She went home
+  for Eid al-Adha with her mother. The offer came one month after she got back.
+- Hotel: one of the best in Doha, in Al Dafna. Huge room facing the Gulf, an iPhone charger
+  built into a speaker, a Nespresso machine.
+- [CHECK WITH SARA] Year of the visit. Eid al-Adha fell mid-October in 2013 and late October in
+  2012. The intro has her landing in Doha in November 2013, and the NYT piece is 23 Oct 2013.
+
+**Her details to keep:** the Nespresso machine and the speaker-charger. Exactly the kind of
+small, real object that makes a scene belong to one person.
+
+### Q2. What was the Kahramaa design, and what did the sales director say? (2 Nov 2026)
+
+Verbatim:
+
+> this is digging deep in work but i will tell you anyway , it was a supplement for Karamaa,
+> the water/electructy company for Qatar, and i designed the pilot edition to be included in
+> the proposal and they won the deal that wzas worth 4 million QR for a one year and i continued
+> designing it on weekly bases, creating a unique look forit communicating the stiff information
+> into an easy comminicatable design, or short brief informative infographics, he thanks me for
+> the desined and liked it a lot and then called me to tell me they won the deal and want me to
+> design it weekly with a seprate rate
+
+**Facts established**
+- A supplement for Kahramaa, Qatar's water and electricity company. She designed the pilot
+  edition for Al Arab's proposal.
+- Al Arab won the deal: 4 million QR for one year.
+- She designed it weekly after that. "Stiff information" turned into easy, short infographics.
+- The sales director thanked her first, then called again to say they had won and wanted her
+  to design it weekly, at a separate rate.
+
+**Her phrase to keep:** "communicating the stiff information"
+
+**Her flag:** "this is digging deep in work". Noted. She said early on that career detail loses
+readers. The deal is context; the scene is the woman in the hotel room. Questions from here
+lean toward what she felt and saw, not what she produced.
 
 *(more answers below as they come)*
