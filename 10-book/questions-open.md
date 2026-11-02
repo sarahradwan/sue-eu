@@ -14,11 +14,11 @@ on this list; it gets asked.
 
 ## Blocking: still waiting
 
-3. **Where the material lives.** Upload or paste:
-   - the Chapter One draft, and its rough word count
-   - the Chapter Two interview questions
+3. **Where the material lives.** Manuscript received 2 Nov (intro + Ch1, about 1,950 words),
+   stored in `drafts/`. Still missing:
+   - her own Chapter One draft from before the AI polish, if it exists
    - the saved notes, including the Women for Women work-permit story
-   - any intro draft, if one exists
+   - is "I Moved to Another Country to Escape Myself" an earlier title, or a chapter?
 
 ## Asked after the first three
 
@@ -37,6 +37,7 @@ on this list; it gets asked.
 ## Chapter Two
 
 See `interviews/ch02-material.md`. First section asked: the editor-in-chief call in Qatar.
-- Is the frogs / "You're too slow" scene in Chapter One? If yes, it stays out of Ch2.
-- Is Chapter One "I wasn't weak" in any sense, as Monday claimed? Or is that the intro?
+- Frogs scene: confirmed in Ch1, stays out of Ch2. "Weak" line is in the intro. (Answered by the draft)
+- Facts to confirm in the existing draft: see `drafts/v0-review.md`.
+- The co-founder: how they appear in the business story, if at all.
 - How much of the business can be named: clients, partners, figures?
