@@ -9,6 +9,26 @@ The job is to finish a book that already exists in Sara's head and partly on pap
 not to generate a book about her subject.** Those are different tasks and only one of them
 produces something she can put her name on.
 
+## What the book is. Read this before anything else
+
+**Notes from a Life I Didn't Plan**
+*Some of it happened to me. The rest, I happened to.*
+
+**A memoir in personal essays. Funny, self-deprecating, confessional.** Not a design book,
+not a career book, not a practitioner title. The chapter names settle it: *I'm Not Lazy, I'm
+Spiritually Horizontal*, *I'm the Success and the Sabotage*.
+
+English. Chapter One is drafted. Chapter Two has questions but no prose, and **Chapter Two
+is the live front.**
+
+Current state, open questions and the structural proposal live in `10-book/README.md`.
+Her own words are in `10-book/interviews/`. **Read both at the start of every session.**
+
+An earlier version of this skill advised a thematic or problem-led practitioner book drawing
+on her design career, and suggested the Arabic typography chapter might be the book. **That
+was written before she described it. It is wrong for this book. Ignore it.** The error is
+recorded here rather than erased, because this vault keeps its corrections.
+
 ## The rule that governs everything
 
 **Nothing goes in the book that Sara did not say, think, do, or approve.**
@@ -79,36 +99,42 @@ Diagnose which one before offering a writing plan.
 
 If the skeleton is not settled, settle it first. **One line per chapter, on one page.**
 
-For a career and practice book, the shapes that work:
+**The subtitle may already be the structure.** *"Some of it happened to me. The rest, I
+happened to."* Every chapter is one of those two things: something done to her, or something
+she did. Childhood, leaving Egypt, a work permit, an employer's decision belong to the first.
+A studio founded, work defended in front of ministers, this book belong to the second.
 
-- **Chronological.** Cairo, Doha, Dubai, Abu Dhabi. Easy to write, risks reading as a CV.
-- **Thematic.** One idea per chapter, drawing evidence from across the years. Harder to write,
-  far better to read.
-- **Problem-led.** Each chapter opens with a real problem and works through it. Strongest for
-  a practitioner book, because it is how she actually thinks.
+So the shape worth testing is **Part One, what happened to me. Part Two, what I happened
+to**, with the turn between them as the moment she stopped being acted upon. That gives the
+book an argument instead of a sequence.
 
-**Recommend thematic or problem-led over chronological.** A memoir needs fame to carry it. A
-practitioner book needs ideas, and she has those.
+**Offer it. Do not impose it.** She wrote the subtitle, so she may already intend this, or
+may have meant it as a line rather than a plan.
+
+Chronology is the fallback, not the aim. A life told in order reads as a list; essays earn
+their place by being about something.
 
 ## Her material
 
-She has an unusually strong body of evidence, and it is already catalogued in
-`05-career-context/cv-source-of-truth.md`. The parts that carry a book:
+**The material is her life, not her portfolio.** Four countries, a childhood in Egypt, Qatar,
+then Dubai, visas and permits that decided where she could live, a studio founded and left,
+and 22 years of being the most senior person in rooms that did not expect her. The known
+threads so far:
 
-- A **national curriculum design system**: 100+ books, five subjects, three scripts, a large
-  team, two years, €500,000
-- **Three scripts and two directions.** Arabic and Latin typography in one system. Almost
-  nobody writing about design systems has done this
-- **Ministers and boards.** Presenting and defending work at that level, in a region where
-  that access is slow to earn
-- **Founding and running a studio**, then returning to employment. Both sides of the table
-- **AI governance written into client brand documentation** before that was standard practice
-- **Four countries of brand architecture**: UAE, Pakistan, Ukraine, Kenya
-- **A national newspaper redesign**, and 20+ magazine titles
+- The **introduction**: childhood, leaving Egypt, Qatar, moving to Dubai
+- **Chapter One**, drafted: exhaustion, and refusing the word lazy for it
+- **Chapter Two**, next: being both the success and the thing undoing it
+- The **Women for Women work-permit story**, saved for later
+- Other saved notes she has not catalogued here yet
 
-**The scarcest thing she has to say is about Arabic.** Multi-script design, RTL and LTR in one
-system, and what Western design orthodoxy gets wrong about it. Very few people can write that
-chapter. It may be the book.
+**The career record is a fact-checking source, not a chapter list.**
+`05-career-context/cv-source-of-truth.md` has the dates, titles, clients and numbers. Use it
+to get a detail right when a story needs one. Do not mine it for subject matter.
+
+**The test for any anecdote: does it change how the reader sees her, or does it just show
+she is good at her job?** The second belongs on LinkedIn. Some of the work stories pass the
+first test, and the ones about being doubted, or about defending work in front of people who
+could kill it, probably do. Judge them one at a time, and let her decide.
 
 ## Practical rules
 
@@ -121,13 +147,19 @@ chapter. It may be the book.
 
 ## What to check before drafting anything
 
-1. What the book is about, in one sentence she agrees with.
-2. Who it is for.
-3. What exists already, and where.
-4. Target length.
-5. What happens to it when finished: self-published, agent, proposal, or private.
-6. Which language. She is a native Arabic speaker writing in C2 English, and this choice
-   changes everything downstream.
+| | Question | State |
+|---|---|---|
+| 1 | What the book is about | ✅ Answered. Memoir in essays, see the top of this file |
+| 2 | Which language | ✅ English |
+| 3 | Who it is for | ❓ Asked, not answered. Decides register and how much gets explained |
+| 4 | What exists already, and **where the files are** | ❓ The Chapter One draft is not in this repo. **This is the blocker** |
+| 5 | Target length | ❓ 40,000 words of essays and an 80,000-word memoir are different books |
+| 6 | What happens when it is finished | ❓ Self-publish, agent, proposal, or private. Changes polish, not voice |
 
-**Do not draft prose until 1, 2 and 3 are answered.** Writing before the subject is settled is
-how the first attempt stalled.
+**Do not draft new prose until 3 and 4 are answered.** Writing before the subject was settled
+is how the first attempt stalled, and drafting without Chapter One in hand means guessing at
+a voice that is already on paper.
+
+**Chapter Two is the exception worth pushing on**, because its interview questions already
+exist. Run the interview, capture the answers, and shape one section. That is the unblocking
+move and it does not wait on anything else.

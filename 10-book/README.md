@@ -62,7 +62,7 @@ Offer this to her. Do not impose it.
 | **Title and subtitle** | ✅ Settled, and good. Do not workshop them |
 | **Introduction** | Childhood, leaving Egypt, Qatar, moving to Dubai. Scope known, prose state unconfirmed |
 | **Chapter One — I'm Not Lazy, I'm Spiritually Horizontal** | ✅ **Drafted** |
-| **Chapter Two — I'm the Success and the Sabotage** | Title and interview questions exist. **No prose yet.** This is the live front** |
+| **Chapter Two — I'm the Success and the Sabotage** | Title and interview questions exist. **No prose yet.** This is the live front |
 | **Later material** | The Women for Women work-permit story, plus other saved ideas |
 
 **The immediate job is Chapter Two.** The interview questions already exist, which means the

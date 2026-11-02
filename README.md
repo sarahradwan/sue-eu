@@ -14,14 +14,23 @@ through Claude. Both read and write the same files.
 
 ## Structure
 
-| Folder | Contents |
-|---|---|
-| `01-relocation/` | Eligibility filter, opportunity pipeline, country notes |
-| `02-cim-level-7/` | Module tracker, assignments, marketing theory |
-| `03-german/` | Learning log, vocabulary |
-| `04-portfolio-positioning/` | Website plan, LinkedIn strategy |
-| `05-career-context/` | CV master, application history |
-| `.claude/skills/` | The agent's skills |
+| Folder | Contents | Track |
+|---|---|---|
+| `01-relocation/` | Eligibility filter, roadmap, job and scholarship pipelines, country notes | **Primary** |
+| `02-cim-level-7/` | Module tracker, assignments, marketing theory | Secondary |
+| `03-german/` | Learning log, vocabulary | Secondary |
+| `04-portfolio-positioning/` | Website plan, LinkedIn strategy and content system | Supporting |
+| `05-career-context/` | CV source of truth, tailored CVs, application history | Supporting |
+| `06-ielts/` | English test prep, where a programme or permit requires it | Supporting |
+| `07-afrilink/` | Venture evaluation. Feasibility and profit potential | Side |
+| `08-uae-income/` | The UAE salary track. Raise, or a better-paying UAE role | Income |
+| `09-egypt-and-remote/` | Egypt roles, and remote work paid in USD | Income |
+| `10-book/` | *Notes from a Life I Didn't Plan*. Memoir in essays | **Separate from career by her own framing** |
+| `SESSION-PROMPTS.md` | Starting prompts for each parallel session | — |
+| `.claude/skills/` | The agent's skills | — |
+
+**One session owns one folder.** Parallel sessions collide in git otherwise. Pull with
+`git pull --rebase` before every commit.
 
 ## Skills
 
@@ -34,7 +43,10 @@ through Claude. Both read and write the same files.
 | `stealth-positioning` | Public content that attracts EU recruiters without tipping off her employer |
 | `cim-study-partner` | CIM Level 7 assignments, theory, planning |
 | `german-practice` | German from A1, spaced repetition |
-| `skill-retro` | Audits and improves the skills above — git-based, reviewable |
+| `plain-writing` | **Strips AI tells from anything carrying her name. Runs on everything** |
+| `linkedin-writer` | Drafts posts and articles in her actual voice |
+| `ghostwriter` | Finishes the book. Interview, then shape. Never generate |
+| `skill-retro` | Audits and improves the skills above. Git-based, reviewable |
 
 External skills considered and why they were adopted or rejected:
 `.claude/skills/skill-retro/audit-log.md`.

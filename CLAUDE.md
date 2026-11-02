@@ -121,13 +121,17 @@ should sound like a person wrote it, because one did.
 
 **In scope:** EU relocation and job search, funded scholarship hunting, CIM Level 7
 (Postgraduate Diploma in Professional Marketing, Oxford College of Marketing —
-in progress), German study (A1 → up), portfolio website, LinkedIn positioning.
+in progress), German study (A1 → up), portfolio website, LinkedIn positioning, the UAE and
+Egypt income tracks, IELTS where a route requires it, the Afrilink evaluation, and her book.
 
 **Out of scope:** her actual WeDo client work. She has a separate work account for that.
 Treat WeDo as the full-time job that generates portfolio material and experience —
 useful as *evidence* for applications, not as work to be done here.
 
 Priority order: EU relocation & funded scholarships first, then CIM, then the rest.
+
+**The book sits outside that order.** Her framing: *"aside my career."* It carries no deadline
+and is never run against a relocation date. See `10-book/README.md`.
 
 ## How to behave
 
@@ -148,11 +152,19 @@ Plain markdown, Obsidian-compatible. Open the repo folder directly as an Obsidia
 
 | Folder | Holds |
 |---|---|
-| `01-relocation/` | Eligibility filter, opportunity pipeline, country notes, visa research |
+| `01-relocation/` | Eligibility filter, roadmap, job and scholarship pipelines, visa research |
 | `02-cim-level-7/` | Module tracker, assignment work, marketing theory notes |
 | `03-german/` | Learning log, vocabulary, level progress |
 | `04-portfolio-positioning/` | Website plan, LinkedIn strategy, case studies |
 | `05-career-context/` | CV source of truth, achievements bank, application history |
+| `06-ielts/` | English test prep, where a programme or permit requires it |
+| `07-afrilink/` | Venture evaluation. Feasibility and profit potential |
+| `08-uae-income/` | The UAE salary track. **Forecasts, not budget. See the money rule above** |
+| `09-egypt-and-remote/` | Egypt roles, and remote work paid in USD |
+| `10-book/` | *Notes from a Life I Didn't Plan*. A memoir in essays, separate from the career track |
+
+**One session owns one folder**, or parallel sessions collide in git. Starting prompts are in
+`SESSION-PROMPTS.md`. Always `git pull --rebase` before committing.
 
 ## Skills
 
