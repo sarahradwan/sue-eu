@@ -1,83 +1,115 @@
 # The book
 
-> **Corrected 2 November 2026, session 1.** The book is *Notes from a Life I Didn't Plan*
-> (subtitle: *Some of it happened to me. The rest, I happened to.*). It is personal essays,
-> not the Arabic practitioner book this README guessed at below. Her answer is in
-> `interviews/2026-11-02-session-1.md`. Where the guesses below conflict with it, her
-> answer wins.
+**Notes from a Life I Didn't Plan**
+*Some of it happened to me. The rest, I happened to.*
 
-Opened 2 November 2026. Sara started a book and wants it finished. This folder holds the
-manuscript, the structure, and the interview material.
+Opened 2 November 2026. Brief updated the same day once Sara supplied the real detail.
 
-Separate from the career track by her own framing: *"aside my career."* It does not compete
-with the relocation work for priority, and nothing here should be run against a relocation
-deadline.
+**Her answer is captured verbatim in [`interviews/2026-11-02-session-1.md`](interviews/2026-11-02-session-1.md).**
+That file is the source. Where this README and her answer disagree, her answer wins.
 
-## ⚠️ Six things I do not know yet
+Separate from the career track by her own framing: *"aside my career."* No deadline, and
+nothing here is run against a relocation date.
 
-Nothing should be drafted until the first three are answered. The last attempt stalled, and
-writing before the subject is settled is the most common reason that happens.
+---
 
-| # | Question | Why it blocks |
+## ⚠️ Correction to the first version of this file
+
+The original brief, written before Sara described the book, recommended a **thematic or
+problem-led practitioner book** and argued that *"the Arabic chapter may be the book."*
+
+**That advice was for a different book and it should be ignored.** It assumed a design-practice
+title aimed at an industry audience. This is a memoir in personal essays, and the chapter
+titles make that unmistakable. Multi-script typography may still earn a chapter, but only if
+it carries a story rather than a craft argument.
+
+The error is kept visible rather than deleted, because this vault records corrections.
+
+---
+
+## What it is
+
+A memoir told in essays. Funny, self-deprecating, confessional. The titles do the work:
+
+> **I'm Not Lazy, I'm Spiritually Horizontal**
+> **I'm the Success and the Sabotage**
+
+That is the register. Dry, honest, aimed at the reader rather than at an industry.
+
+## The subtitle is the structural spine
+
+*"Some of it happened to me. The rest, I happened to."*
+
+That is not decoration. **It is a two-part organising principle, and the book may already
+have its shape inside it.**
+
+Every chapter is one of two things: something done *to* her, or something she did. Childhood,
+leaving Egypt, a work permit, a visa, an employer's decision, all belong to the first. A
+studio founded, work defended in front of ministers, a book written, all belong to the
+second.
+
+**Worth testing as the actual structure: Part One, what happened to me. Part Two, what I
+happened to.** It would give the book an argument rather than a sequence, and the turn
+between the parts would be the moment she stopped being acted upon. If that is the true
+story, the structure should say so.
+
+Offer this to her. Do not impose it.
+
+## Status
+
+| Section | State |
+|---|---|
+| **Title and subtitle** | ✅ Settled, and good. Do not workshop them |
+| **Introduction** | Childhood, leaving Egypt, Qatar, moving to Dubai. Scope known, prose state unconfirmed |
+| **Chapter One — I'm Not Lazy, I'm Spiritually Horizontal** | ✅ **Drafted** |
+| **Chapter Two — I'm the Success and the Sabotage** | Title and interview questions exist. **No prose yet.** This is the live front** |
+| **Later material** | The Women for Women work-permit story, plus other saved ideas |
+
+**The immediate job is Chapter Two.** The interview questions already exist, which means the
+hard part is half done. The session runs the interview, captures her answers close to
+verbatim, and shapes them. That is the unblocking move, and it is one conversation away.
+
+## Still unknown
+
+| # | Question | Why it matters |
 |---|---|---|
-| 1 | **What is the book about**, in one sentence? | Everything downstream. Structure, audience, length |
-| 2 | **Who is it for?** Designers, clients, students, general readers? | Decides register, how much is explained, how much is assumed |
-| 3 | **What exists already, and where?** Word count, chapters, format, which device or drive | Cannot continue a manuscript nobody can open |
-| 4 | **Target length?** | 30,000 words and 90,000 words are different projects |
-| 5 | **What happens when it is done?** Self-publish, agent, proposal, or private | Changes structure and how much polish the draft needs |
-| 6 | **English or Arabic?** | She is native Arabic writing at C2 English. This decides the market, the editor, and the voice reference |
+| 1 | **Where does the Chapter One draft physically live?** | Practical blocker. Nothing continues until it is in `10-book/`. Also where the Chapter Two questions and the saved notes are |
+| 2 | **Who is it for?** | Asked in session 1 and not yet answered. Decides register and how much is explained |
+| 3 | **Target length?** | A 40,000-word essay collection and an 80,000-word memoir are different books |
+| 4 | **What happens when it is finished?** Self-publish, agent, proposal, or private | Changes polish level and structure, not voice |
+| 5 | **How many chapters, roughly?** | Needed for the outline and for pacing |
 
-**Question 3 is the practical blocker.** If the draft is on her laptop rather than in this
-repo, it needs to get here before anything can continue.
+Tracked live in [`questions-open.md`](questions-open.md).
 
-## The method
+Language is settled by the titles. **English.** "Spiritually horizontal" is English wordplay
+that does not survive translation.
 
-In `.claude/skills/ghostwriter/SKILL.md`. Three things define it:
+## Method
 
-**Interview, then shape.** Not generate, then approve. Specific questions produce specific
-answers; broad questions produce the generalities that make a book sound like nobody wrote
-it. Her spoken phrasing is the voice.
+In `.claude/skills/ghostwriter/SKILL.md`. Unchanged by this update, and the three rules hold:
 
-**Nothing fabricated, at a stricter standard than anywhere else in this vault.** No invented
-anecdotes, clients, conversations, outcomes, or opinions. A CV overstatement costs an
-application. A fabricated story in a published book costs her professional credibility, and
-that is the asset the book is meant to build.
+**Interview, then shape.** Chapter Two already has questions. Use them.
 
-**Her voice is the deliverable.** A ghostwritten book that reads as machine-written is worth
-nothing to a creative director. `plain-writing` loads on every session without exception.
+**Nothing fabricated, at a stricter standard than anywhere else in this vault.** In a memoir
+this matters more, not less. The book's whole value is that it is true.
 
-## Material she already has
-
-Catalogued in `05-career-context/cv-source-of-truth.md`. The parts strong enough to carry a
-book: the national curriculum system at 100+ books across three scripts, multi-script and
-bidirectional typography, ministerial and board-level work, founding and then leaving her own
-studio, AI governance written into client brand documentation before it was standard, brand
-architecture across four countries, a national newspaper redesign.
-
-**The scarcest chapter, and possibly the book itself, is about Arabic.** Multi-script design,
-RTL and LTR in one system, and what Western design orthodoxy gets wrong about it. Very few
-people alive can write that from practice. It is also the capability that keeps proving to be
-her commercial differentiator elsewhere in this vault.
-
-## Structure
-
-Not yet decided. The recommendation in the skill is **thematic or problem-led rather than
-chronological.** A chronological career book needs fame to carry it. A practitioner book needs
-ideas, and the ideas are there.
+**Her voice is the deliverable.** `plain-writing` loads every session. For this book the
+reference corpus is Chapter One itself, once it is in the repo, plus her published articles
+and posts.
 
 ## Files
 
 | File | Holds |
 |---|---|
-| `README.md` | This. The brief and the open questions |
-| *(to come)* `outline.md` | One line per chapter, on one page |
-| *(to come)* `interviews/` | Her answers, captured close to verbatim |
-| *(to come)* `drafts/` | Sections and chapters, versioned in git |
-| *(to come)* `questions-open.md` | What she has not answered yet |
+| `README.md` | This |
+| *(to come)* `outline.md` | The chapter list, and whether the two-part structure holds |
+| *(to come)* `drafts/` | Chapter One as the voice reference, then everything after it |
+| `interviews/` | Her answers, close to verbatim. Session 1 done; Chapter Two next |
+| `questions-open.md` | What she has not answered yet |
 
 ## Related
 
 - `.claude/skills/ghostwriter/SKILL.md` — the method
-- `.claude/skills/plain-writing/SKILL.md` — mandatory on every session
+- `.claude/skills/plain-writing/SKILL.md` — mandatory every session
 - `04-portfolio-positioning/linkedin-content-system.md` — her measured voice rules
-- `05-career-context/cv-source-of-truth.md` — the material
+- `05-career-context/cv-source-of-truth.md` — the factual record, for dates and details

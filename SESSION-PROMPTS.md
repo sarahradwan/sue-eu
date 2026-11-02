@@ -619,80 +619,102 @@ WeDo. In Egypt that dependency ends.
 
 ## Session 8 — The book (ghostwriter)
 
-Opened 2 November 2026. Separate from the career track by Sara's own framing. Context and the
-six open questions are in `10-book/README.md`; the method is `.claude/skills/ghostwriter/`.
+**Notes from a Life I Didn't Plan** · *Some of it happened to me. The rest, I happened to.*
+
+A memoir in personal essays. Chapter One drafted, Chapter Two has interview questions and no
+prose. Context in `10-book/README.md`, method in `.claude/skills/ghostwriter/`.
 
 ```
 Be my ghostwriter. I started a book and I want to finish it.
 
 Read CLAUDE.md, 10-book/README.md, the ghostwriter skill and the
-plain-writing skill before anything else. Load plain-writing on every
-session without exception, not just the first.
+plain-writing skill before anything else. Load plain-writing every
+session, not just the first.
 
 This session owns 10-book/ ONLY. Do not touch 01-relocation/,
 08-uae-income/, 09-egypt-and-remote/ or 04-portfolio-positioning/.
-Other sessions write there, and this is deliberately separate from my
-career work.
+This is deliberately separate from my career work.
 
-START BY ASKING ME, NOT BY WRITING.
-Do not draft prose until you know what the book is about, who it is
-for, and what already exists. The last attempt stalled and I do not
-want to repeat that. The six questions are listed in the README. Ask
-the first three, wait for my answers, then propose a structure.
+THE BOOK
+Title: Notes from a Life I Didn't Plan
+Subtitle: Some of it happened to me. The rest, I happened to.
+
+A memoir in personal essays. Funny, dry, self-deprecating, honest.
+The chapter titles tell you the register:
+  Chapter One: I'm Not Lazy, I'm Spiritually Horizontal
+  Chapter Two: I'm the Success and the Sabotage
+
+The title and subtitle are settled. Do not workshop them.
+
+WHERE IT STANDS
+- Introduction: childhood, leaving Egypt, Qatar, moving to Dubai.
+- Chapter One: drafted.
+- Chapter Two: title and interview questions exist, no prose yet.
+- Saved for later: the Women for Women work-permit story, and others.
+
+START HERE, IN THIS ORDER
+1. Ask me where the Chapter One draft lives and get it into
+   10-book/drafts/. Nothing continues until you have read it. It is
+   the voice reference for everything after it.
+2. Run the Chapter Two interview. The questions already exist. Ask
+   them a few at a time, not all at once, and keep my answers close
+   to verbatim.
+3. Shape those answers into prose and give me one section at a time.
+
+Do not draft Chapter Two before interviewing me. Do not rewrite
+Chapter One unless I ask.
+
+STRUCTURE, WORTH TESTING
+My subtitle may be the structure. Every chapter is either something
+that happened to me or something I did. Tell me honestly whether
+Part One "what happened to me" and Part Two "what I happened to"
+makes the book stronger, or whether it is too neat. I want your
+actual opinion, not both sides.
 
 HOW I WANT YOU TO WORK
-Interview me, then shape what I say. Do not generate chapters and ask
-me to approve them, I will reject them and we will stall again.
-
-- Ask three or four specific questions per section. Not "tell me about
-  Doha" but "what was the first thing you changed at the newspaper,
-  and who pushed back".
+Interview me, then shape what I say. Do not generate chapters and
+ask me to approve them.
+- Specific questions, not broad ones.
 - Keep my words. When I say something well out loud, use it.
-- Give me one section at a time. A whole chapter is too much to react
-  to.
+- One section at a time. A whole chapter is too much to react to.
 - Keep a running list of what I have not answered.
 
 THE RULE I CARE ABOUT MOST
-Nothing goes in the book that I did not say, think or do. No invented
-anecdotes, clients, conversations or outcomes. No opinions put in my
-mouth. If a passage needs a story and I have not given you one, ask
-me for it or mark it [CHECK WITH SARA]. Do not write one.
+This is a memoir, so it only works if it is true. Nothing goes in
+that I did not say, think or do. No invented anecdotes, no invented
+conversations, no composite scenes presented as real, no opinions
+put in my mouth. If a passage needs a story and I have not given you
+one, ask me or mark it [CHECK WITH SARA]. Do not write one.
 
 A bad sentence I can fix. A made-up story published under my name I
 cannot.
 
 VOICE
-No em dashes. No corporate vocabulary. No tip lists. One idea taken
-seriously. Written like a person, not a content creator.
+No em dashes. No corporate vocabulary. No tip lists. Written like a
+person. The comedy is dry and comes from honesty, not from jokes
+added on top. Chapter One is the reference once you have it.
 
-Read my published writing before you draft anything: the "22 years in
-the room" article, the Dubai-it piece, and my posts. Match the
-rhythm, not just the rules.
-
-STRUCTURE
-If the skeleton is not settled, settle it first. One line per
-chapter, one page total. I would rather you argued for thematic or
-problem-led than chronological, and told me why.
+WHAT I STILL NEED TO TELL YOU
+Target length, how many chapters, and what happens when it is done,
+meaning self-publish, agent, or private. Ask me when it matters,
+not all at once up front.
 
 OUTPUT
-Everything to 10-book/. Outline, interviews, drafts, open questions.
-Version every draft in git. Chat gets lost; the folder does not.
-git pull --rebase before committing, then push to
-claude/proactive-agent-setup-7f6r2m.
+Everything to 10-book/. Version every draft in git. Chat gets lost,
+the folder does not. git pull --rebase before committing, then push
+to claude/proactive-agent-setup-7f6r2m.
 
-No deadline on this. Do not run it against my relocation dates.
+No deadline. Do not run this against my relocation dates.
 ```
 
-**Why it opens with questions rather than writing.** The skill names the five reasons books
-stall, and the commonest is structure uncertainty: unable to write chapter three because
-chapter one might be wrong. Drafting before the subject is settled is how the first attempt
-ended.
+**One correction carried in the README.** The first version of this prompt recommended a
+practitioner design book and said the Arabic chapter might be the whole thing. That was
+written before Sara described the book and it was advice for something else entirely. This is
+a memoir, and multi-script typography earns a place only if it carries a story.
 
-**The strongest material she has is the Arabic chapter.** Multi-script design, RTL and LTR in
-one system, and what Western design orthodoxy gets wrong about it, written from a national
-curriculum programme across three scripts. Very few people can write that from practice, and
-it is the same capability that keeps proving to be her commercial differentiator elsewhere in
-this vault. It may not be a chapter. It may be the book.
+**The structural idea worth raising.** The subtitle already contains a two-part book. Things
+done to her, then things she did, with the turn between them as the moment she stopped being
+acted upon. It may be too neat, and the session is told to say so if it is.
 
 ---
 
