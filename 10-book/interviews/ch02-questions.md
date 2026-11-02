@@ -173,4 +173,31 @@ And the father-at-the-interview story is work, which makes it a candidate openin
 Two: the girl whose dad walked her into her first interview, flown out a decade later because
 a newspaper wanted her. Sara decides.
 
+### Q4. The interview your dad came to (2 Nov 2026)
+
+Verbatim:
+
+> i was 23 freshgrade girl, wanted to work but with no luck , bcakthen where there was no
+> linkedin , jobs advertised in newspapers and through word of mouth, i got this interview in a
+> pharmacutical company , pure admin work, marketin gmanager assitant, got it through one of my
+> relatives , it was in a new niaghbouhood but iwas a fresh grad excited to have my own money -
+> i had worked before with a person though Elance - later called upwork- and got a 100usd and
+> bought my first cellphone , i was still styding backthen - but i wanted so bad to put my
+> talent in action, and since my dad was my gardian angle and he knows how shy i am to go even
+> buy somehtin gfrom the Baqala ,he came with me and even went in, the managered greeted him
+> with eyebrows high in the sky f- he couldn't belve a full grown woman in her 20s coming with
+> her dad to ingerview
+
+**Facts established**
+- Age 23, fresh graduate, wanted work, no luck. No LinkedIn; jobs in newspapers and by word of mouth.
+- Pharmaceutical company, new neighbourhood. Pure admin: marketing manager's assistant. Found
+  through a relative.
+- While still studying: one job via Elance (later Upwork), paid 100 USD, bought her first mobile phone.
+- Her dad, "my guardian angel", knew she was too shy even to buy something from the baqala.
+  He came with her and went into the interview.
+- The manager greeted him "with eyebrows high in the sky". Could not believe a grown woman in
+  her twenties had brought her dad.
+
+**Unanswered:** did she get the job? Did her dad say anything in the room?
+
 *(more answers below as they come)*
